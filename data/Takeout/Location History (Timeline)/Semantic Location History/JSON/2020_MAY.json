@@ -1,0 +1,4285 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 86.06866,
+        "calibratedProbability": 57.275898
+      },
+      "duration": {
+        "startTimestamp": "2020-05-01T09:38:00.972Z",
+        "endTimestamp": "2020-05-01T14:13:54.884Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227705067,
+      "centerLngE7": 862604880,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 4.313712,
+        "calibratedProbability": 2.8706353
+      }, {
+        "latitudeE7": 227715893,
+        "longitudeE7": 862581711,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 2.0504131,
+        "calibratedProbability": 1.3644834
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.5817268,
+        "calibratedProbability": 1.0525879
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 1.4370817,
+        "calibratedProbability": 0.9563312
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 1.3711076,
+        "calibratedProbability": 0.9124276
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.0828587,
+        "calibratedProbability": 0.7206073
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 0.77693385,
+        "calibratedProbability": 0.5170243
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 0.5721413,
+        "calibratedProbability": 0.38074145
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227708004,
+        "longitudeE7": 862629263,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227705477,
+        "longitudeE7": 862602441,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-01T14:13:54.884Z",
+        "endTimestamp": "2020-05-01T15:28:17.807Z"
+      },
+      "distance": 2417,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 45.6356018781662
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.351337790489197
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.830322444438934
+      }, {
+        "activityType": "STILL",
+        "probability": 9.161405265331268
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.630026288330555
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.4969355184584856
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4836405161768198
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.1972513971850276
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15566335059702396
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.023932613839861006
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.015791297482792288
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.009994339779950678
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.007734656537650153
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.0487447020277614E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.286973643909732E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227707920,
+          "lngE7": 862629165
+        }, {
+          "latE7": 227739124,
+          "lngE7": 862584228
+        }, {
+          "latE7": 227735157,
+          "lngE7": 862543869
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1583.236859560079,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227705640,
+          "longitudeE7": 862602356,
+          "accuracyMetres": 88
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-01T15:29:23.365Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 81.66631,
+        "calibratedProbability": 53.563488
+      },
+      "duration": {
+        "startTimestamp": "2020-05-01T15:28:17.807Z",
+        "endTimestamp": "2020-05-04T04:56:00.364Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706125,
+      "centerLngE7": 862602050,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 3.5737824,
+        "calibratedProbability": 2.3439808
+      }, {
+        "latitudeE7": 227715893,
+        "longitudeE7": 862581711,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 3.3468182,
+        "calibratedProbability": 2.195119
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.4052405,
+        "calibratedProbability": 1.5775547
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 2.3375137,
+        "calibratedProbability": 1.5331339
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.7322878,
+        "calibratedProbability": 1.136177
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.5534496,
+        "calibratedProbability": 1.0188801
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.3191564,
+        "calibratedProbability": 0.86521137
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 1.107471,
+        "calibratedProbability": 0.72637063
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 66,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227716764,
+        "longitudeE7": 862581969,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 30.619427,
+        "calibratedProbability": 10.17048
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T04:56:00.364Z",
+        "endTimestamp": "2020-05-04T08:48:22.856Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227723900,
+      "centerLngE7": 862577000,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 13.076441,
+        "calibratedProbability": 4.343441
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 12.024693,
+        "calibratedProbability": 3.9940948
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 9.561561,
+        "calibratedProbability": 3.1759465
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 7.5297313,
+        "calibratedProbability": 2.5010586
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 7.1167655,
+        "calibratedProbability": 2.3638887
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 6.0939717,
+        "calibratedProbability": 2.02416
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 4.2626157,
+        "calibratedProbability": 1.4158608
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 4.0464444,
+        "calibratedProbability": 1.3440578
+      }, {
+        "latitudeE7": 227722670,
+        "longitudeE7": 862591680,
+        "placeId": "ChIJNYFReAEI9jkR-FHFkRNuF0A",
+        "address": "Kharangajhar Market, Q7C5+WM7, Talco, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bajrang Store",
+        "locationConfidence": 2.008591,
+        "calibratedProbability": 0.66716903
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 23,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 65.23766,
+        "calibratedProbability": 32.334675
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T08:48:22.856Z",
+        "endTimestamp": "2020-05-04T13:34:02.342Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706000,
+      "centerLngE7": 862602125,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227715893,
+        "longitudeE7": 862581711,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 7.7563324,
+        "calibratedProbability": 3.844382
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 7.3862624,
+        "calibratedProbability": 3.660959
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 3.9064877,
+        "calibratedProbability": 1.9362284
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 3.7465668,
+        "calibratedProbability": 1.8569645
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 3.0389533,
+        "calibratedProbability": 1.5062399
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 2.3354824,
+        "calibratedProbability": 1.1575686
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 1.57908,
+        "calibratedProbability": 0.78266203
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.555593,
+        "calibratedProbability": 0.7710208
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.4573398,
+        "calibratedProbability": 0.72232217
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706265,
+        "longitudeE7": 862602038,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227778722,
+        "longitudeE7": 862374215,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T13:34:02.342Z",
+        "endTimestamp": "2020-05-04T13:55:42.824Z"
+      },
+      "distance": 2470,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 71.56992554664612
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.416083812713623
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.469902396202087
+      }, {
+        "activityType": "STILL",
+        "probability": 3.0810555443167686
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.6540813948959112
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.3283892525359988
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.16404511407017708
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15052115777507424
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0833037483971566
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03907854261342436
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.031118080369196832
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011506195733090863
+      }, {
+        "activityType": "SKIING",
+        "probability": 9.435715583094861E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 3.760648041861714E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 7.731823359335976E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706298,
+          "lngE7": 862601852
+        }, {
+          "latE7": 227709655,
+          "lngE7": 862441177
+        }, {
+          "latE7": 227780380,
+          "lngE7": 862375259
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3857.3587125721006,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227775037,
+          "longitudeE7": 862385225,
+          "accuracyMetres": 110
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-04T13:57:53.653Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227744089,
+        "longitudeE7": 862379207,
+        "placeId": "ChIJPdFNRrbi9TkRB23mDS89tBo",
+        "address": "Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004",
+        "name": "Telco Lake",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 55.745,
+        "calibratedProbability": 27.916437
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T13:55:42.824Z",
+        "endTimestamp": "2020-05-04T14:24:28.295Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227775300,
+      "centerLngE7": 862364850,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227763278,
+        "longitudeE7": 862371725,
+        "placeId": "ChIJqeAeubfi9TkRnxEcLIhIZ_w",
+        "address": "Q6GP+GVM, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Ramakrishna Mission Lady Indra Singh School",
+        "locationConfidence": 23.698387,
+        "calibratedProbability": 11.867872
+      }, {
+        "latitudeE7": 227741536,
+        "longitudeE7": 862346828,
+        "placeId": "ChIJO9H_mMni9TkRQTGh0vJjwS0",
+        "address": "Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831008, India",
+        "name": "The Indian Steel \u0026 Wire Products Limited | ISWP .",
+        "locationConfidence": 13.314709,
+        "calibratedProbability": 6.6678486
+      }, {
+        "latitudeE7": 227762499,
+        "longitudeE7": 862346039,
+        "placeId": "ChIJI8-WRsji9TkR8ulSKX8_Fh0",
+        "address": "Q6GM+GRM, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Punjab National Bank ATM",
+        "locationConfidence": 5.1331453,
+        "calibratedProbability": 2.5706186
+      }, {
+        "latitudeE7": 227793563,
+        "longitudeE7": 862349827,
+        "placeId": "ChIJtUI46Mfi9TkRbpL_-AZYYZY",
+        "address": "c6, Dalma Rd, Indra Nagar, Nildih, Jamshedpur, Jharkhand 831003, India",
+        "locationConfidence": 1.4089191,
+        "calibratedProbability": 0.70557004
+      }, {
+        "latitudeE7": 227762495,
+        "longitudeE7": 862344563,
+        "placeId": "ChIJaSVTfLbi9TkRmth7dBetT7I",
+        "address": "G-4/1, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831008, India",
+        "name": "Gyanoday Noble Academy",
+        "locationConfidence": 0.6998402,
+        "calibratedProbability": 0.3504717
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227773388,
+        "longitudeE7": 862360156,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227711808,
+        "longitudeE7": 862588713,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T14:24:28.295Z",
+        "endTimestamp": "2020-05-04T14:41:29.662Z"
+      },
+      "distance": 2741,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 48.05648922920227
+      }, {
+        "activityType": "STILL",
+        "probability": 39.348044991493225
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.810660988092422
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.7483059093356133
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.40218611247837543
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.20371736027300358
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15581330517306924
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.12007621116936207
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.07536119665019214
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03895258123520762
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.030745737603865564
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.008660790626890957
+      }, {
+        "activityType": "SKIING",
+        "probability": 8.617005732958205E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 1.1644312962744152E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.058063479168595E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227773456,
+          "lngE7": 862362594
+        }, {
+          "latE7": 227710533,
+          "lngE7": 862437896
+        }, {
+          "latE7": 227706336,
+          "lngE7": 862601852
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3635.7514656807416,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706285,
+          "longitudeE7": 862602087,
+          "accuracyMetres": 35
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-04T14:36:35.883Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227716764,
+        "longitudeE7": 862581969,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 24.24666,
+        "calibratedProbability": 7.776055
+      },
+      "duration": {
+        "startTimestamp": "2020-05-04T14:41:29.662Z",
+        "endTimestamp": "2020-05-05T13:13:59.169Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227724500,
+      "centerLngE7": 862575950,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 17.135069,
+        "calibratedProbability": 5.495323
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 10.246703,
+        "calibratedProbability": 3.2861814
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 9.683202,
+        "calibratedProbability": 3.105463
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 7.646493,
+        "calibratedProbability": 2.452278
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 6.7681036,
+        "calibratedProbability": 2.170573
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 6.2839217,
+        "calibratedProbability": 2.015293
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 5.626171,
+        "calibratedProbability": 1.8043481
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 5.261566,
+        "calibratedProbability": 1.687417
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 3.6200447,
+        "calibratedProbability": 1.1609708
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 16,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 80.89588,
+        "calibratedProbability": 46.468334
+      },
+      "duration": {
+        "startTimestamp": "2020-05-05T13:13:59.169Z",
+        "endTimestamp": "2020-05-06T03:05:31.853Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227705490,
+      "centerLngE7": 862602061,
+      "visitConfidence": 71,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 4.2883286,
+        "calibratedProbability": 2.4633083
+      }, {
+        "latitudeE7": 227715893,
+        "longitudeE7": 862581711,
+        "placeId": "ChIJT2oW6wEI9jkR7nPi1IgEbAo",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 3.3056312,
+        "calibratedProbability": 1.8988256
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.4986866,
+        "calibratedProbability": 1.4352993
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 2.2313304,
+        "calibratedProbability": 1.2817242
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.5146284,
+        "calibratedProbability": 0.8700351
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.4223258,
+        "calibratedProbability": 0.8170146
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.3958336,
+        "calibratedProbability": 0.80179685
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 0.97699475,
+        "calibratedProbability": 0.5612068
+      }, {
+        "latitudeE7": 227713720,
+        "longitudeE7": 862586110,
+        "placeId": "ChIJodKdmAEI9jkRPqFKOnL8QNw",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "BMV Store",
+        "locationConfidence": 0.72571343,
+        "calibratedProbability": 0.4168654
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227739722,
+        "longitudeE7": 862609739,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 23.922752,
+        "calibratedProbability": 8.919346
+      },
+      "duration": {
+        "startTimestamp": "2020-05-06T03:05:31.853Z",
+        "endTimestamp": "2020-05-06T11:13:07.396Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227723900,
+      "centerLngE7": 862577000,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708206,
+        "longitudeE7": 862599182,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 22.41098,
+        "calibratedProbability": 8.355698
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 10.398132,
+        "calibratedProbability": 3.876834
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 10.359308,
+        "calibratedProbability": 3.8623588
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 8.96549,
+        "calibratedProbability": 3.3426886
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 6.7064104,
+        "calibratedProbability": 2.5004144
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 5.5964518,
+        "calibratedProbability": 2.086578
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 4.7064843,
+        "calibratedProbability": 1.754763
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 3.395428,
+        "calibratedProbability": 1.2659495
+      }, {
+        "latitudeE7": 227726233,
+        "longitudeE7": 862582343,
+        "placeId": "ChIJhZTpdgEI9jkR_8Cg9quv7VE",
+        "address": "Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kajal Medical \u0026 Diagnostic Centre",
+        "locationConfidence": 1.4019564,
+        "calibratedProbability": 0.52270466
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 16,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 70.352066,
+        "calibratedProbability": 39.532707
+      },
+      "duration": {
+        "startTimestamp": "2020-05-06T11:13:07.396Z",
+        "endTimestamp": "2020-05-06T12:01:08.066Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227706590,
+      "centerLngE7": 862599934,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708206,
+        "longitudeE7": 862599182,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 15.1360035,
+        "calibratedProbability": 8.505324
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 3.2605903,
+        "calibratedProbability": 1.8322128
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.6191754,
+        "calibratedProbability": 1.4717846
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 2.0093782,
+        "calibratedProbability": 1.1291232
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.6280707,
+        "calibratedProbability": 0.91485643
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.6240078,
+        "calibratedProbability": 0.91257334
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 1.1159534,
+        "calibratedProbability": 0.627084
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 0.9851707,
+        "calibratedProbability": 0.55359375
+      }, {
+        "latitudeE7": 227722670,
+        "longitudeE7": 862591680,
+        "placeId": "ChIJNYFReAEI9jkR-FHFkRNuF0A",
+        "address": "Kharangajhar Market, Q7C5+WM7, Talco, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bajrang Store",
+        "locationConfidence": 0.82151717,
+        "calibratedProbability": 0.46163243
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 56,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227719097,
+        "longitudeE7": 862582365,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227705798,
+        "longitudeE7": 862601206,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-06T12:01:08.066Z",
+        "endTimestamp": "2020-05-06T12:26:00.752Z"
+      },
+      "distance": 4778,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 66.78767204284668
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 19.84771639108658
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.11436665058136
+      }, {
+        "activityType": "STILL",
+        "probability": 5.7039570063352585
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.9103788994252682
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.41407342068850994
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.06988702225498855
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.06538143497891724
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.0596974219661206
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.010550141450949013
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006848098564660177
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.005831450107507408
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0035468747228151187
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.234422352870752E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 9.13185473905287E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227719326,
+          "lngE7": 862582321
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227732868,
+          "lngE7": 862446594
+        }, {
+          "latE7": 227760257,
+          "lngE7": 862361602
+        }, {
+          "latE7": 227780857,
+          "lngE7": 862373733
+        }, {
+          "latE7": 227711143,
+          "lngE7": 862439880
+        }, {
+          "latE7": 227705688,
+          "lngE7": 862601623
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 6961.759925613957,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.8850799025878349
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227736816,
+          "lngE7": 862444077,
+          "accuracyMeters": 51,
+          "timestamp": "2020-05-06T12:12:35.211Z"
+        }, {
+          "latE7": 227779045,
+          "lngE7": 862373581,
+          "accuracyMeters": 29,
+          "timestamp": "2020-05-06T12:15:27.408Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227710791,
+          "longitudeE7": 862584615,
+          "accuracyMetres": 35
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-06T12:25:08.570Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 59.493935,
+        "calibratedProbability": 24.759453
+      },
+      "duration": {
+        "startTimestamp": "2020-05-06T12:26:00.752Z",
+        "endTimestamp": "2020-05-08T02:05:01Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227705700,
+      "centerLngE7": 862601133,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708206,
+        "longitudeE7": 862599182,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 14.616793,
+        "calibratedProbability": 6.083037
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 5.2126603,
+        "calibratedProbability": 2.1693408
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 4.683683,
+        "calibratedProbability": 1.9491975
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 3.3561313,
+        "calibratedProbability": 1.3967134
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 2.2999423,
+        "calibratedProbability": 0.95716166
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 2.2709575,
+        "calibratedProbability": 0.9450991
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 2.0154953,
+        "calibratedProbability": 0.83878404
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.8631167,
+        "calibratedProbability": 0.775369
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 1.6121048,
+        "calibratedProbability": 0.67090595
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2020-05-08T02:05:01Z",
+        "endTimestamp": "2020-05-09T08:32:25Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 16.394247,
+        "calibratedProbability": 6.8893995
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 12.802844,
+        "calibratedProbability": 5.3801746
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 9.474004,
+        "calibratedProbability": 3.9812868
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 7.660138,
+        "calibratedProbability": 3.219041
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 5.817131,
+        "calibratedProbability": 2.444549
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 5.3179884,
+        "calibratedProbability": 2.234793
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 4.2577085,
+        "calibratedProbability": 1.7892287
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 3.2561734,
+        "calibratedProbability": 1.3683507
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 3.0538535,
+        "calibratedProbability": 1.2833292
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 59.493935,
+        "calibratedProbability": 24.759453
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2020-05-10T05:28:05.844Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+            "locationConfidence": 28.457148
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+                "locationConfidence": 28.457148
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+                "locationConfidence": 16.394247
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T08:32:25Z",
+        "endTimestamp": "2020-05-09T11:20:17Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708206,
+        "longitudeE7": 862599182,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 13.772085,
+        "calibratedProbability": 6.6578712
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 3.133779,
+        "calibratedProbability": 1.5149702
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 3.0137467,
+        "calibratedProbability": 1.4569427
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 1.89156,
+        "calibratedProbability": 0.9144413
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.6847107,
+        "calibratedProbability": 0.81444365
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.6286094,
+        "calibratedProbability": 0.78732246
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.4190224,
+        "calibratedProbability": 0.68600136
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 1.2416966,
+        "calibratedProbability": 0.6002763
+      }, {
+        "latitudeE7": 227695393,
+        "longitudeE7": 862596139,
+        "placeId": "ChIJA_qm_AAI9jkRNqX11bQsDKs",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Education Centre",
+        "locationConfidence": 0.9135418,
+        "calibratedProbability": 0.44163564
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2020-05-10T05:28:10.855Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+            "locationConfidence": 70.55897
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+                "locationConfidence": 70.55897
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+                "locationConfidence": 13.772085
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227705794,
+        "longitudeE7": 862601155,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227804239,
+        "longitudeE7": 862249015,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T11:20:17.913Z",
+        "endTimestamp": "2020-05-09T12:33:03.389Z"
+      },
+      "distance": 3786,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 67.45710372924805
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.74974900484085
+      }, {
+        "activityType": "STILL",
+        "probability": 12.526805698871613
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.094157740473747
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.5668703466653824
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2184862969443202
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1754503813572228
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.09382900316268206
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.0572487770114094
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.02325090317754075
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.017870456213131547
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.017221584857907146
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0018805800209520385
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.907127954036696E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 5.7933878139238E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227705669,
+          "lngE7": 862601623
+        }, {
+          "latE7": 227708015,
+          "lngE7": 862438888
+        }, {
+          "latE7": 227804317,
+          "lngE7": 862248535
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5793.908770422833,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.8143026167109877
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227784825,
+          "longitudeE7": 862340175,
+          "accuracyMetres": 108
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-09T12:36:18.450Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227811955,
+        "longitudeE7": 862257470,
+        "placeId": "ChIJAeXMK9vi9TkROkTz7lDV7Ls",
+        "address": "Q6JG+F7H, near Kali Mandir, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "INDRAPRASTHA TOWER",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 44.51386,
+        "calibratedProbability": 28.770517
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T12:33:03.389Z",
+        "endTimestamp": "2020-05-09T12:55:01.861Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227812033,
+      "centerLngE7": 862251233,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227829567,
+        "longitudeE7": 862274976,
+        "placeId": "ChIJIy7shOPi9TkRI4ji5m-PrlM",
+        "address": "Q6MG+5X6, Tube Colony, Golmuri, Jamshedpur, Jharkhand 831009, India",
+        "name": "Golmuri Police Station",
+        "locationConfidence": 14.929985,
+        "calibratedProbability": 9.649655
+      }, {
+        "latitudeE7": 227822413,
+        "longitudeE7": 862253159,
+        "placeId": "ChIJgQ3GOdvi9TkR4wgwrMnfrE4",
+        "address": "Unnamed Road, Q6JG+V4W, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "Employee\u0027s State Insurance Corporation Golmuri",
+        "locationConfidence": 10.357945,
+        "calibratedProbability": 6.694622
+      }, {
+        "latitudeE7": 227812800,
+        "longitudeE7": 862255660,
+        "placeId": "ChIJT2IiKdvi9TkRZyLX6G1WAJM",
+        "address": "C, No-18, Type - II, Blocks - 2,3, Outer Cir Rd, New Rani Kudar, Namda Basti, Jamshedpur, Jharkhand 831005, India",
+        "name": "Sree Sai Variety Patanjali Store",
+        "locationConfidence": 8.359028,
+        "calibratedProbability": 5.402667
+      }, {
+        "latitudeE7": 227812221,
+        "longitudeE7": 862250902,
+        "placeId": "ChIJxfnSS0Hj9TkRSUMb6YKMgcg",
+        "address": "Q6JG+F2P, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "Toilet",
+        "locationConfidence": 7.1325297,
+        "calibratedProbability": 4.609948
+      }, {
+        "latitudeE7": 227817937,
+        "longitudeE7": 862249376,
+        "placeId": "ChIJg1vbPNvi9TkR38lOR5iYPMU",
+        "locationConfidence": 4.0577674,
+        "calibratedProbability": 2.6226454
+      }, {
+        "latitudeE7": 227809480,
+        "longitudeE7": 862234723,
+        "placeId": "ChIJD_d5CVTj9TkRZDWe6YkwbEI",
+        "address": "Namda Community Centre, Sunrise Cricket Academy, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "Sunrise Cricket Academy",
+        "locationConfidence": 3.7682805,
+        "calibratedProbability": 2.435542
+      }, {
+        "latitudeE7": 227821631,
+        "longitudeE7": 862254862,
+        "placeId": "ChIJG9t-iyrj9TkRZxB-HD0ldHY",
+        "address": "Q6JG+V55, Unnamed Road, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "ESIC Office",
+        "locationConfidence": 3.6005309,
+        "calibratedProbability": 2.327121
+      }, {
+        "latitudeE7": 227799403,
+        "longitudeE7": 862246930,
+        "placeId": "ChIJ31DBWZXj9TkRI07vcZcz7ow",
+        "address": "MADHUSUDAN MADHUR JIWAN COMPLEX NEAR NILDIH PARK, GOLMURI, Gayatri Nagar, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "Ekdant Dental Clinic",
+        "locationConfidence": 1.0728184,
+        "calibratedProbability": 0.69339174
+      }, {
+        "latitudeE7": 227818480,
+        "longitudeE7": 862259714,
+        "placeId": "ChIJ_WjTGvHj9TkRGyFNge_CqJ8",
+        "address": "Q6JG+P9Q, Namda Basti, Jamshedpur, Jharkhand 831003, India",
+        "name": "JHA JI PAN SHOP",
+        "locationConfidence": 0.8976026,
+        "calibratedProbability": 0.580145
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227812966,
+        "longitudeE7": 862258977,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227705593,
+        "longitudeE7": 862601820,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T12:55:01.861Z",
+        "endTimestamp": "2020-05-09T13:15:45Z"
+      },
+      "distance": 3712,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 65.29226303100586
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.479448437690735
+      }, {
+        "activityType": "STILL",
+        "probability": 13.567021489143372
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.181990772485733
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.772267859429121
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.25342446751892567
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1610267092473805
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.11775633320212364
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.08559650159440935
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0562075583729893
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.017859169747680426
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.014109043695498258
+      }, {
+        "activityType": "SKIING",
+        "probability": 9.467436029808596E-4
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 7.345905146394216E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 6.9210720710088935E-6
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227812824,
+          "lngE7": 862258911
+        }, {
+          "latE7": 227711143,
+          "lngE7": 862439880
+        }, {
+          "latE7": 227705650,
+          "lngE7": 862601623
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5315.713374611006,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227705589,
+          "longitudeE7": 862601823,
+          "accuracyMetres": 84
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-09T13:17:08.534Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T13:15:45Z",
+        "endTimestamp": "2020-05-09T13:49:07Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708206,
+        "longitudeE7": 862599182,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 11.492245,
+        "calibratedProbability": 6.269651
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 2.7238393,
+        "calibratedProbability": 1.486004
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.2278233,
+        "calibratedProbability": 1.2154
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 2.0614095,
+        "calibratedProbability": 1.1246121
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.6457273,
+        "calibratedProbability": 0.89783466
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 1.5704896,
+        "calibratedProbability": 0.8567884
+      }, {
+        "latitudeE7": 227704912,
+        "longitudeE7": 862617627,
+        "placeId": "ChIJCZh8L3AJ9jkRNL_3rnhdv7Y",
+        "address": "TELCO BARINAGAR, Q7C6+5PR, near Sri sri jyotiling Shiv Mandir, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "M Z ENTERPRISES",
+        "locationConfidence": 1.2530054,
+        "calibratedProbability": 0.68358326
+      }, {
+        "latitudeE7": 227713720,
+        "longitudeE7": 862586110,
+        "placeId": "ChIJodKdmAEI9jkRPqFKOnL8QNw",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "BMV Store",
+        "locationConfidence": 1.0478606,
+        "calibratedProbability": 0.5716655
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.04741,
+        "calibratedProbability": 0.5714197
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2020-05-10T05:28:12.408Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+            "locationConfidence": 74.5543
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+                "locationConfidence": 74.5543
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+                "locationConfidence": 11.492245
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227705809,
+        "longitudeE7": 862601222,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227726311,
+        "longitudeE7": 862572844,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T13:49:07.920Z",
+        "endTimestamp": "2020-05-09T14:08:54Z"
+      },
+      "distance": 2196,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 64.78379964828491
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.027027904987335
+      }, {
+        "activityType": "STILL",
+        "probability": 8.976408839225769
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.116958498954773
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.3704764656722546
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.21861593704670668
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.2002153778448701
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.13001294573768973
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.06072102696634829
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.048102426808327436
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.04358176083769649
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.021122023463249207
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.0028361107979435474
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 8.61982073274703E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 3.625515034855198E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227705688,
+          "lngE7": 862601623
+        }, {
+          "latE7": 227705669,
+          "lngE7": 862601623
+        }, {
+          "latE7": 227705650,
+          "lngE7": 862601623
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 0.42390866676400574,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227705791,
+          "longitudeE7": 862601166,
+          "accuracyMetres": 92
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-09T14:07:07.210Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 100.0,
+        "calibratedProbability": 100.0
+      },
+      "duration": {
+        "startTimestamp": "2020-05-09T14:08:54Z",
+        "endTimestamp": "2020-05-10T17:06:20.559Z"
+      },
+      "placeConfidence": "USER_CONFIRMED",
+      "visitConfidence": 100,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJT0gdDgEI9jkRsHMBFmnZ-Vk",
+        "locationConfidence": 14.406232,
+        "calibratedProbability": 6.44815
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 4.994949,
+        "calibratedProbability": 2.2357116
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 4.8772383,
+        "calibratedProbability": 2.1830251
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 3.962409,
+        "calibratedProbability": 1.7735525
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 3.8413172,
+        "calibratedProbability": 1.7193525
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.8923976,
+        "calibratedProbability": 1.2946212
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 2.4804366,
+        "calibratedProbability": 1.1102297
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 2.1654775,
+        "calibratedProbability": 0.9692558
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 2.0775015,
+        "calibratedProbability": 0.92987823
+      }],
+      "editConfirmationStatus": "CONFIRMED",
+      "locationConfidence": 100,
+      "placeVisitType": "SINGLE_PLACE",
+      "locationAssertionType": "WITHIN_OR_AT",
+      "lastEditedTimestamp": "2020-05-10T05:27:37.665Z",
+      "placeVisitImportance": "MAIN",
+      "editActionMetadata": {
+        "placeVisitSegment": {
+          "location": {
+            "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+            "locationConfidence": 56.2897
+          }
+        },
+        "editHistory": {
+          "editEvent": [{
+            "editOperation": ["CONFIRM"],
+            "uiConfiguration": {
+            }
+          }]
+        },
+        "originalCandidates": {
+          "placeVisitSegment": {
+            "placeVisitCandidate": [{
+              "location": {
+                "placeId": "ChIJUercGQEI9jkRAAAAAAAAAAA",
+                "locationConfidence": 56.2897
+              }
+            }, {
+              "location": {
+                "placeId": "ChIJT0gdDgEI9jkRsHMBFmnZ-Vk",
+                "locationConfidence": 14.406232
+              }
+            }]
+          }
+        }
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227739722,
+        "longitudeE7": 862609739,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 36.606495,
+        "calibratedProbability": 13.484591
+      },
+      "duration": {
+        "startTimestamp": "2020-05-10T17:06:20.559Z",
+        "endTimestamp": "2020-05-11T04:01:11.368Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227726267,
+      "centerLngE7": 862571733,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 17.168495,
+        "calibratedProbability": 6.3242908
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 10.078511,
+        "calibratedProbability": 3.7125814
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 8.088871,
+        "calibratedProbability": 2.9796655
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 7.996116,
+        "calibratedProbability": 2.9454978
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 7.309941,
+        "calibratedProbability": 2.692734
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 5.7380543,
+        "calibratedProbability": 2.1137044
+      }, {
+        "latitudeE7": 227742837,
+        "longitudeE7": 862562488,
+        "placeId": "ChIJzxCM3qni9TkRwIaaFf1yONY",
+        "locationConfidence": 3.5052981,
+        "calibratedProbability": 1.2912328
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 1.2828275,
+        "calibratedProbability": 0.4725501,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.9520608,
+        "calibratedProbability": 0.35070688
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 29,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227707182,
+        "longitudeE7": 862599623,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 79.85209,
+        "calibratedProbability": 54.89892
+      },
+      "duration": {
+        "startTimestamp": "2020-05-11T04:01:11.368Z",
+        "endTimestamp": "2020-05-11T07:21:03.652Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227726300,
+      "centerLngE7": 862574400,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 4.4054756,
+        "calibratedProbability": 3.0287979
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 3.8315895,
+        "calibratedProbability": 2.6342468
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 2.474991,
+        "calibratedProbability": 1.7015752
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.134015,
+        "calibratedProbability": 1.4671515
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 2.0647478,
+        "calibratedProbability": 1.4195298
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 1.825931,
+        "calibratedProbability": 1.2553414
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 1.3763129,
+        "calibratedProbability": 0.9462255
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 0.594329,
+        "calibratedProbability": 0.4086057
+      }, {
+        "latitudeE7": 227717234,
+        "longitudeE7": 862589608,
+        "placeId": "ChIJS_gknwEI9jkRtPgB1iGyTKE",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Jharkhand Gramin Bank",
+        "locationConfidence": 0.59033245,
+        "calibratedProbability": 0.40585804
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 73.660225,
+        "calibratedProbability": 43.02235
+      },
+      "duration": {
+        "startTimestamp": "2020-05-11T07:21:03.652Z",
+        "endTimestamp": "2020-05-13T10:56:44.215Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706912,
+      "centerLngE7": 862599435,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 23.9635,
+        "calibratedProbability": 13.996238
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.5051201,
+        "calibratedProbability": 0.2950229
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.41163898,
+        "calibratedProbability": 0.24042386
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.27025032,
+        "calibratedProbability": 0.15784372
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227726385,
+        "longitudeE7": 862576018,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227771058,
+        "longitudeE7": 862367122,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-13T10:56:44.215Z",
+        "endTimestamp": "2020-05-13T11:17:05.608Z"
+      },
+      "distance": 2889,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 71.89869284629822
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.600192546844482
+      }, {
+        "activityType": "STILL",
+        "probability": 5.286385491490364
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.991894960403442
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.2071101926267147
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.4312916658818722
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.22320610005408525
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.1318240538239479
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.07265539607033134
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.07173636113293469
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.06916628335602582
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.013288545596878976
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002233883242297452
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 2.705405904634972E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 4.621679750016483E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227724609,
+          "lngE7": 862576293
+        }, {
+          "latE7": 227708015,
+          "lngE7": 862579498
+        }, {
+          "latE7": 227706565,
+          "lngE7": 862601928
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227771320,
+          "lngE7": 862367095
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4315.96252624968,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227705460,
+          "lngE7": 862602463,
+          "accuracyMeters": 23,
+          "timestamp": "2020-05-13T11:03:57.631Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227771342,
+          "longitudeE7": 862367071,
+          "accuracyMetres": 97
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-13T11:18:08.793Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227744089,
+        "longitudeE7": 862379207,
+        "placeId": "ChIJPdFNRrbi9TkRB23mDS89tBo",
+        "address": "Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004",
+        "name": "Telco Lake",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 46.026497,
+        "calibratedProbability": 26.414816
+      },
+      "duration": {
+        "startTimestamp": "2020-05-13T11:17:05.608Z",
+        "endTimestamp": "2020-05-13T11:53:09.921Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227774038,
+      "centerLngE7": 862366463,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227741536,
+        "longitudeE7": 862346828,
+        "placeId": "ChIJO9H_mMni9TkRQTGh0vJjwS0",
+        "address": "Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831008, India",
+        "name": "The Indian Steel \u0026 Wire Products Limited | ISWP .",
+        "locationConfidence": 33.357563,
+        "calibratedProbability": 19.144056
+      }, {
+        "latitudeE7": 227762499,
+        "longitudeE7": 862346039,
+        "placeId": "ChIJI8-WRsji9TkR8ulSKX8_Fh0",
+        "address": "Q6GM+GRM, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Punjab National Bank ATM",
+        "locationConfidence": 8.30798,
+        "calibratedProbability": 4.767987
+      }, {
+        "latitudeE7": 227763278,
+        "longitudeE7": 862371725,
+        "placeId": "ChIJqeAeubfi9TkRnxEcLIhIZ_w",
+        "address": "Q6GP+GVM, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Ramakrishna Mission Lady Indra Singh School",
+        "locationConfidence": 5.0178337,
+        "calibratedProbability": 2.8797574
+      }, {
+        "latitudeE7": 227793563,
+        "longitudeE7": 862349827,
+        "placeId": "ChIJtUI46Mfi9TkRbpL_-AZYYZY",
+        "address": "c6, Dalma Rd, Indra Nagar, Nildih, Jamshedpur, Jharkhand 831003, India",
+        "locationConfidence": 4.748765,
+        "calibratedProbability": 2.7253377
+      }, {
+        "latitudeE7": 227753570,
+        "longitudeE7": 862387143,
+        "placeId": "ChIJUVVVVbbi9TkRwYWB4Wow9Ww",
+        "address": "Azad Market, Sabji Line, Telco 831004, NH 33 to RVSCET, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831012, India",
+        "name": "Chandi Das Chicken Shop",
+        "locationConfidence": 1.5050329,
+        "calibratedProbability": 0.86374515
+      }, {
+        "latitudeE7": 227762495,
+        "longitudeE7": 862344563,
+        "placeId": "ChIJaSVTfLbi9TkRmth7dBetT7I",
+        "address": "G-4/1, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831008, India",
+        "name": "Gyanoday Noble Academy",
+        "locationConfidence": 1.0363283,
+        "calibratedProbability": 0.5947535
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 37,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227784692,
+        "longitudeE7": 862366506,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227706296,
+        "longitudeE7": 862602039,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-13T11:53:09.921Z",
+        "endTimestamp": "2020-05-13T12:44:31.390Z"
+      },
+      "distance": 3060,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 56.44792914390564
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 25.56726038455963
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.066342771053314
+      }, {
+        "activityType": "STILL",
+        "probability": 6.845860183238983
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.6401845961809158
+      }, {
+        "activityType": "CYCLING",
+        "probability": 1.1139006353914738
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.12855306267738342
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.05962540162727237
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.0562724017072469
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.0344118510838598
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.034160271752625704
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.002458162089169491
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.002330946699657943
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.287860742304474E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 8.075402888607641E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227771320,
+          "lngE7": 862367095
+        }, {
+          "latE7": 227735042,
+          "lngE7": 862513198
+        }, {
+          "latE7": 227747707,
+          "lngE7": 862603607
+        }, {
+          "latE7": 227739791,
+          "lngE7": 862612533
+        }, {
+          "latE7": 227706565,
+          "lngE7": 862601928
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 4386.935478548777,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.9738588478184123
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227745304,
+          "lngE7": 862600937,
+          "accuracyMeters": 35,
+          "timestamp": "2020-05-13T12:15:55.249Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706285,
+          "longitudeE7": 862602008,
+          "accuracyMetres": 91
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2020-05-13T12:45:41.553Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 76.07099,
+        "calibratedProbability": 43.07409
+      },
+      "duration": {
+        "startTimestamp": "2020-05-13T12:44:31.390Z",
+        "endTimestamp": "2020-05-14T13:14:30.258Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706394,
+      "centerLngE7": 862601770,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 21.481909,
+        "calibratedProbability": 12.163817
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.65519154,
+        "calibratedProbability": 0.37099266
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.36316484,
+        "calibratedProbability": 0.2056368
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 0.33864555,
+        "calibratedProbability": 0.1917531
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706184,
+        "longitudeE7": 862594797,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227704932,
+        "longitudeE7": 862602708,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-14T13:14:30.258Z",
+        "endTimestamp": "2020-05-14T14:29:36.938Z"
+      },
+      "distance": 2159,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 34.99971926212311
+      }, {
+        "activityType": "STILL",
+        "probability": 34.43507254123688
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.44287610054016
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.072082489728928
+      }, {
+        "activityType": "CYCLING",
+        "probability": 3.2352183014154434
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.28046024963259697
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.23873301688581705
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.18694378668442369
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.04103581886738539
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.03047809295821935
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.01696654799161479
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.011391611042199656
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.008500168769387528
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.0385571082879324E-4
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.1353135960234795E-4
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706127,
+          "lngE7": 862594375
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227728443,
+          "lngE7": 862506942
+        }, {
+          "latE7": 227735042,
+          "lngE7": 862513198
+        }, {
+          "latE7": 227709789,
+          "lngE7": 862606430
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2592.79000322967,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227725983,
+          "lngE7": 862509689,
+          "accuracyMeters": 28,
+          "timestamp": "2020-05-14T13:30:55.641Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227704932,
+          "longitudeE7": 862602708,
+          "accuracyMetres": 86
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-05-14T14:29:36.938Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 75.22465,
+        "calibratedProbability": 42.917038
+      },
+      "duration": {
+        "startTimestamp": "2020-05-14T14:29:36.938Z",
+        "endTimestamp": "2020-05-17T02:56:42.591Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706476,
+      "centerLngE7": 862600286,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 21.675598,
+        "calibratedProbability": 12.366326
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.5799493,
+        "calibratedProbability": 0.33087173
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.5510012,
+        "calibratedProbability": 0.3143563
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 0.35317367,
+        "calibratedProbability": 0.20149206
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227707182,
+        "longitudeE7": 862599623,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 84.76282,
+        "calibratedProbability": 49.050335
+      },
+      "duration": {
+        "startTimestamp": "2020-05-17T02:56:42.591Z",
+        "endTimestamp": "2020-05-17T10:27:09.243Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227726300,
+      "centerLngE7": 862574080,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 7.022966,
+        "calibratedProbability": 4.0640326
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.6212531,
+        "calibratedProbability": 0.9381827
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 1.3656188,
+        "calibratedProbability": 0.7902529
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.0470498,
+        "calibratedProbability": 0.60590416
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.99345666,
+        "calibratedProbability": 0.57489103
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 0.8733065,
+        "calibratedProbability": 0.50536287
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 0.821637,
+        "calibratedProbability": 0.47546285
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.46053717,
+        "calibratedProbability": 0.2665025
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 0.45472074,
+        "calibratedProbability": 0.26313666,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 69,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227739722,
+        "longitudeE7": 862609739,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 56.85778,
+        "calibratedProbability": 26.636658
+      },
+      "duration": {
+        "startTimestamp": "2020-05-17T10:27:09.243Z",
+        "endTimestamp": "2020-05-18T16:56:29.545Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227726267,
+      "centerLngE7": 862572800,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 9.733393,
+        "calibratedProbability": 4.559887
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 8.299719,
+        "calibratedProbability": 3.8882413
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 7.6609416,
+        "calibratedProbability": 3.5889878
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 5.7816243,
+        "calibratedProbability": 2.7085679
+      }, {
+        "latitudeE7": 227734908,
+        "longitudeE7": 862578490,
+        "placeId": "ChIJl1PAIgII9jkRk4lP2wHO9xE",
+        "address": "Q7F5+94X, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "N-28",
+        "locationConfidence": 2.973532,
+        "calibratedProbability": 1.3930364
+      }, {
+        "latitudeE7": 227722670,
+        "longitudeE7": 862591680,
+        "placeId": "ChIJNYFReAEI9jkR-FHFkRNuF0A",
+        "address": "Kharangajhar Market, Q7C5+WM7, Talco, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bajrang Store",
+        "locationConfidence": 2.8556526,
+        "calibratedProbability": 1.3378124
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 1.874464,
+        "calibratedProbability": 0.87814647,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227735220,
+        "longitudeE7": 862599452,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 1.4600812,
+        "calibratedProbability": 0.68401694
+      }, {
+        "latitudeE7": 227726833,
+        "longitudeE7": 862595500,
+        "placeId": "ChIJAaHifAEI9jkRfGeNJwYuW9Q",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Giri Namkeen",
+        "locationConfidence": 1.330121,
+        "calibratedProbability": 0.62313336
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 76.429184,
+        "calibratedProbability": 43.432934
+      },
+      "duration": {
+        "startTimestamp": "2020-05-18T16:56:29.545Z",
+        "endTimestamp": "2020-05-19T07:12:17.773Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706709,
+      "centerLngE7": 862600829,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 20.46167,
+        "calibratedProbability": 11.627893
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.6205842,
+        "calibratedProbability": 0.35266364
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.5542639,
+        "calibratedProbability": 0.31497532
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 0.34574294,
+        "calibratedProbability": 0.19647771
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227707182,
+        "longitudeE7": 862599623,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 79.09197,
+        "calibratedProbability": 46.62555
+      },
+      "duration": {
+        "startTimestamp": "2020-05-19T07:12:17.773Z",
+        "endTimestamp": "2020-05-20T09:12:39.537Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227726300,
+      "centerLngE7": 862573867,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 11.741287,
+        "calibratedProbability": 6.9216123
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 1.960771,
+        "calibratedProbability": 1.1558951
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.8641317,
+        "calibratedProbability": 1.0989252
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 1.2218235,
+        "calibratedProbability": 0.7202777
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.1807551,
+        "calibratedProbability": 0.6960676
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.9154234,
+        "calibratedProbability": 0.5396517
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.55559546,
+        "calibratedProbability": 0.32752934
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 0.54566616,
+        "calibratedProbability": 0.32167593,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 75.55725,
+        "calibratedProbability": 40.280167
+      },
+      "duration": {
+        "startTimestamp": "2020-05-20T09:12:39.537Z",
+        "endTimestamp": "2020-05-22T22:33:33.855Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706200,
+      "centerLngE7": 862601890,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 20.01054,
+        "calibratedProbability": 10.667777
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.83154297,
+        "calibratedProbability": 0.44330215
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.63586956,
+        "calibratedProbability": 0.3389871
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.59689116,
+        "calibratedProbability": 0.3182074
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.5016058,
+        "calibratedProbability": 0.26741004
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 0.48421437,
+        "calibratedProbability": 0.2581385
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227739722,
+        "longitudeE7": 862609739,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 42.068645,
+        "calibratedProbability": 18.40922
+      },
+      "duration": {
+        "startTimestamp": "2020-05-22T22:33:33.855Z",
+        "endTimestamp": "2020-05-23T07:01:54.105Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227726250,
+      "centerLngE7": 862571200,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 17.330402,
+        "calibratedProbability": 7.583776
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 9.660533,
+        "calibratedProbability": 4.2274446
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 8.539073,
+        "calibratedProbability": 3.7366943
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 8.231537,
+        "calibratedProbability": 3.6021166
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 5.2197857,
+        "calibratedProbability": 2.2841756
+      }, {
+        "latitudeE7": 227742837,
+        "longitudeE7": 862562488,
+        "placeId": "ChIJzxCM3qni9TkRwIaaFf1yONY",
+        "locationConfidence": 3.740899,
+        "calibratedProbability": 1.6370157
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 1.5631254,
+        "calibratedProbability": 0.6840229,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227722670,
+        "longitudeE7": 862591680,
+        "placeId": "ChIJNYFReAEI9jkR-FHFkRNuF0A",
+        "address": "Kharangajhar Market, Q7C5+WM7, Talco, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bajrang Store",
+        "locationConfidence": 1.4130856,
+        "calibratedProbability": 0.6183656
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 1.0416131,
+        "calibratedProbability": 0.4558094
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 78.40048,
+        "calibratedProbability": 42.131283
+      },
+      "duration": {
+        "startTimestamp": "2020-05-23T07:01:54.105Z",
+        "endTimestamp": "2020-05-26T04:20:07.423Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227705429,
+      "centerLngE7": 862601971,
+      "visitConfidence": 68,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 17.721563,
+        "calibratedProbability": 9.523311
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.8100318,
+        "calibratedProbability": 0.43529934
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.5693686,
+        "calibratedProbability": 0.30597043
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.53851354,
+        "calibratedProbability": 0.28938937
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227739722,
+        "longitudeE7": 862609739,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 66.67806,
+        "calibratedProbability": 28.818602
+      },
+      "duration": {
+        "startTimestamp": "2020-05-26T04:20:07.423Z",
+        "endTimestamp": "2020-05-26T15:04:07.882Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227726267,
+      "centerLngE7": 862572800,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 7.4165874,
+        "calibratedProbability": 3.2054873
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 6.0641484,
+        "calibratedProbability": 2.6209562
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 4.9866934,
+        "calibratedProbability": 2.1552744
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 3.6775026,
+        "calibratedProbability": 1.5894356
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 3.0998125,
+        "calibratedProbability": 1.3397549
+      }, {
+        "latitudeE7": 227717234,
+        "longitudeE7": 862589608,
+        "placeId": "ChIJS_gknwEI9jkRtPgB1iGyTKE",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Jharkhand Gramin Bank",
+        "locationConfidence": 1.8842903,
+        "calibratedProbability": 0.81439996
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 1.6458695,
+        "calibratedProbability": 0.71135324
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 1.5829946,
+        "calibratedProbability": 0.6841784,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227715352,
+        "longitudeE7": 862587348,
+        "placeId": "ChIJu3opnwEI9jkRwMJOr13rNP0",
+        "address": "Q7C5+JG2, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Gandhi Pathology",
+        "locationConfidence": 1.2293826,
+        "calibratedProbability": 0.5313455
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 78.585846,
+        "calibratedProbability": 45.618206
+      },
+      "duration": {
+        "startTimestamp": "2020-05-26T15:04:07.882Z",
+        "endTimestamp": "2020-05-29T12:49:19.892Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706133,
+      "centerLngE7": 862601757,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227710342,
+        "longitudeE7": 862596436,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 18.606749,
+        "calibratedProbability": 10.801011
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.59663105,
+        "calibratedProbability": 0.34633768
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.484419,
+        "calibratedProbability": 0.28119984
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.36132964,
+        "calibratedProbability": 0.20974784
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227708508,
+        "longitudeE7": 862579557,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227706942,
+        "longitudeE7": 862601591,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-29T12:49:19.892Z",
+        "endTimestamp": "2020-05-29T13:01:59.369Z"
+      },
+      "distance": 1938,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 42.67703890800476
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 40.74120223522186
+      }, {
+        "activityType": "STILL",
+        "probability": 11.04455441236496
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.541349038481712
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.41518458165228367
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.17596192192286253
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.15807562740519643
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.14062307309359312
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.06563017377629876
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.015647101099602878
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.012835233064834028
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.008374103344976902
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.003439828287810087
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 6.551326237058674E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 2.2067075633458444E-5
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227708110,
+          "lngE7": 862579727
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227727680,
+          "lngE7": 862501525
+        }, {
+          "latE7": 227735042,
+          "lngE7": 862513198
+        }, {
+          "latE7": 227706584,
+          "lngE7": 862601623
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2432.8719712275815,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 1.0
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227726059,
+          "lngE7": 862500229,
+          "accuracyMeters": 56,
+          "timestamp": "2020-05-29T12:53:33.275Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706942,
+          "longitudeE7": 862601590,
+          "accuracyMetres": 32
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "NOT_FROM_RAW_LOCATION",
+        "timestamp": "2020-05-29T13:01:42.223Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 74.28173,
+        "calibratedProbability": 49.773308
+      },
+      "duration": {
+        "startTimestamp": "2020-05-29T13:01:59.369Z",
+        "endTimestamp": "2020-05-29T13:11:13.605Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227706900,
+      "centerLngE7": 862601500,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 20.52726,
+        "calibratedProbability": 13.754521
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 1.0119001,
+        "calibratedProbability": 0.678035
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.94332117,
+        "calibratedProbability": 0.63208294
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.9013616,
+        "calibratedProbability": 0.6039675
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.49554893,
+        "calibratedProbability": 0.33204815
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 0.47631237,
+        "calibratedProbability": 0.31915846
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706917,
+        "longitudeE7": 862601564,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227709547,
+        "longitudeE7": 862602225,
+        "sourceInfo": {
+          "deviceTag": 267859213
+        }
+      },
+      "duration": {
+        "startTimestamp": "2020-05-29T13:11:13.605Z",
+        "endTimestamp": "2020-05-29T13:22:15.081Z"
+      },
+      "distance": 2266,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 48.44922125339508
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.301899909973145
+      }, {
+        "activityType": "STILL",
+        "probability": 8.148400485515594
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.893575191497803
+      }, {
+        "activityType": "CYCLING",
+        "probability": 0.8612202480435371
+      }, {
+        "activityType": "RUNNING",
+        "probability": 0.18152473494410515
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 0.06016050465404987
+      }, {
+        "activityType": "IN_FERRY",
+        "probability": 0.05059358081780374
+      }, {
+        "activityType": "FLYING",
+        "probability": 0.03649324644356966
+      }, {
+        "activityType": "SKIING",
+        "probability": 0.006471234519267455
+      }, {
+        "activityType": "SAILING",
+        "probability": 0.004733192326966673
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.0033166706998599693
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.002339403727091849
+      }, {
+        "activityType": "IN_VEHICLE",
+        "probability": 4.079689119862451E-5
+      }, {
+        "activityType": "IN_TRAM",
+        "probability": 1.3994788616855658E-5
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227705602,
+          "lngE7": 862585665,
+          "accuracyMeters": 44,
+          "timestamp": "2020-05-29T13:12:29.154Z"
+        }, {
+          "latE7": 227726086,
+          "lngE7": 862504978,
+          "accuracyMeters": 68,
+          "timestamp": "2020-05-29T13:14:19.174Z"
+        }, {
+          "latE7": 227729399,
+          "lngE7": 862494250,
+          "accuracyMeters": 76,
+          "timestamp": "2020-05-29T13:14:50.731Z"
+        }, {
+          "latE7": 227709547,
+          "lngE7": 862602225,
+          "accuracyMeters": 32,
+          "timestamp": "2020-05-29T13:20:29.860Z"
+        }, {
+          "latE7": 227709547,
+          "lngE7": 862602225,
+          "accuracyMeters": 32,
+          "timestamp": "2020-05-29T13:20:29.860Z"
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2279.278285227154
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227709547,
+          "longitudeE7": 862602225,
+          "accuracyMetres": 92
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "FROM_RAW_LOCATION",
+        "timestamp": "2020-05-29T13:22:43.558Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 81.09646,
+        "calibratedProbability": 52.442272
+      },
+      "duration": {
+        "startTimestamp": "2020-05-29T13:22:15.081Z",
+        "endTimestamp": "2020-05-30T03:12:33.472Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227719050,
+      "centerLngE7": 862580750,
+      "visitConfidence": 79,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 12.03766,
+        "calibratedProbability": 7.7843375
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.827114,
+        "calibratedProbability": 1.1815313
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.96702915,
+        "calibratedProbability": 0.6253442
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 0.8779616,
+        "calibratedProbability": 0.5677473
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.6571856,
+        "calibratedProbability": 0.42497915
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.6382,
+        "calibratedProbability": 0.41270182
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.58078206,
+        "calibratedProbability": 0.37557164
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.5320279,
+        "calibratedProbability": 0.344044
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 66,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 79.814835,
+        "calibratedProbability": 50.12169
+      },
+      "duration": {
+        "startTimestamp": "2020-05-30T03:12:33.472Z",
+        "endTimestamp": "2020-05-30T14:52:51.488Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227726275,
+      "centerLngE7": 862572800,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 9.774832,
+        "calibratedProbability": 6.1383457
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 2.2620852,
+        "calibratedProbability": 1.420532
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 1.962964,
+        "calibratedProbability": 1.2326915
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.4048587,
+        "calibratedProbability": 0.88221556
+      }, {
+        "latitudeE7": 227735999,
+        "longitudeE7": 862565000,
+        "placeId": "ChIJ4QAdCAII9jkRUvZoSyyVjpw",
+        "address": "MAIN ROAD. P.B.NO.123, Bistupur, Jamshedpur, Jharkhand 831004, India",
+        "name": "DENA BANK",
+        "locationConfidence": 1.3786365,
+        "calibratedProbability": 0.86574864
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 1.1524724,
+        "calibratedProbability": 0.72372335
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.61255556,
+        "calibratedProbability": 0.38466933
+      }, {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "locationConfidence": 0.57215554,
+        "calibratedProbability": 0.35929912,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 79.70777,
+        "calibratedProbability": 42.918156
+      },
+      "duration": {
+        "startTimestamp": "2020-05-30T14:52:51.488Z",
+        "endTimestamp": "2020-05-30T23:30:17.589Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706150,
+      "centerLngE7": 862602033,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 16.185915,
+        "calibratedProbability": 8.715206
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.8748525,
+        "calibratedProbability": 0.4710589
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.6628245,
+        "calibratedProbability": 0.35689378
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.43911523,
+        "calibratedProbability": 0.23643889
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 82.62658,
+        "calibratedProbability": 51.832928
+      },
+      "duration": {
+        "startTimestamp": "2020-05-30T23:30:17.589Z",
+        "endTimestamp": "2020-05-31T11:12:35.851Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227723867,
+      "centerLngE7": 862575983,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 3.7433534,
+        "calibratedProbability": 2.3482633
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 2.765415,
+        "calibratedProbability": 1.7347873
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 2.1518226,
+        "calibratedProbability": 1.3498714
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 2.0681634,
+        "calibratedProbability": 1.2973907
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 1.5792423,
+        "calibratedProbability": 0.9906831
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 1.3646697,
+        "calibratedProbability": 0.8560783
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 1.0598786,
+        "calibratedProbability": 0.6648782
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.99354196,
+        "calibratedProbability": 0.6232642
+      }, {
+        "latitudeE7": 227740002,
+        "longitudeE7": 862584579,
+        "placeId": "ChIJCcdINwII9jkRDxvtKaE7OhY",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.68019927,
+        "calibratedProbability": 0.4266995
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 67,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "address": "",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": 267859213
+        },
+        "locationConfidence": 77.67034,
+        "calibratedProbability": 43.011997
+      },
+      "duration": {
+        "startTimestamp": "2020-05-31T11:12:35.851Z",
+        "endTimestamp": "2020-06-01T16:32:30.354Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227706429,
+      "centerLngE7": 862601707,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227711983,
+        "longitudeE7": 862594604,
+        "placeId": "ChIJpWW3EAEI9jkRzI9BObRGr_w",
+        "locationConfidence": 17.81104,
+        "calibratedProbability": 9.863333
+      }, {
+        "latitudeE7": 227701912,
+        "longitudeE7": 862616119,
+        "placeId": "ChIJLQuZ1wYI9jkRPQbJyrIzN9M",
+        "address": "83, H N Rd, Karthik Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.967549,
+        "calibratedProbability": 0.53580576
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.6599198,
+        "calibratedProbability": 0.36544797
+      }, {
+        "latitudeE7": 227736645,
+        "longitudeE7": 862608566,
+        "placeId": "ChIJVxjj8QMI9jkRuXz7MOWL6hk",
+        "locationConfidence": 0.57324165,
+        "calibratedProbability": 0.31744766
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.47967628,
+        "calibratedProbability": 0.26563337
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

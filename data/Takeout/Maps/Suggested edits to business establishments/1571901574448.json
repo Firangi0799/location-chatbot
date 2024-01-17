@@ -1,0 +1,40 @@
+{
+  "editAction": "MODIFY_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0x3973150c7a916293:0x3bfb1db737298e46",
+  "nameChange": {
+    "operations": [{
+      "type": "IMPLICIT_DELETE_OPERATION",
+      "text": {
+        "text": "New SKY Family dhaba",
+        "language": "en"
+      }
+    }, {
+      "type": "SET_OPERATION",
+      "text": {
+        "text": "Chaudhary Family Dhaba",
+        "language": "en"
+      }
+    }, {
+      "type": "IMPLICIT_DELETE_OPERATION",
+      "text": {
+        "text": "न्यू SKY फॅमिली ढाबा",
+        "language": "hi"
+      }
+    }, {
+      "type": "SET_OPERATION",
+      "text": {
+        "text": "Chaudhary Family Dhaba",
+        "language": "hi"
+      }
+    }]
+  },
+  "phoneNumberChange": {
+    "operations": [{
+      "type": "IMPLICIT_DELETE_OPERATION",
+      "phoneNumber": "070233 35566"
+    }]
+  },
+  "metadata": {
+    "createTime": "2019-10-24T07:19:34.448Z"
+  }
+}

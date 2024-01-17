@@ -1,0 +1,120 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227760793,
+        "longitudeE7": 862601034
+      },
+      "endLocation": {
+        "latitudeE7": 228078786,
+        "longitudeE7": 862022675
+      },
+      "duration": {
+        "startTimestamp": "2017-08-13T11:55:42.171Z",
+        "endTimestamp": "2017-08-13T13:23:20.046Z"
+      },
+      "distance": 6903,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 49.07452934065943
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 34.52332129368195
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.021846989391472
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227763481,
+          "lngE7": 862601013
+        }, {
+          "latE7": 228078670,
+          "lngE7": 862022247
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227867225,
+        "longitudeE7": 861670470
+      },
+      "endLocation": {
+        "latitudeE7": 227990645,
+        "longitudeE7": 861301876
+      },
+      "duration": {
+        "startTimestamp": "2017-08-17T03:35:43.134Z",
+        "endTimestamp": "2017-08-17T03:57:57.401Z"
+      },
+      "distance": 4038,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 79.08400437868445
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.138870807677035
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 2.7240158293174876
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227867336,
+          "lngE7": 861670455
+        }, {
+          "latE7": 227989749,
+          "lngE7": 861304092
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 225518223,
+        "longitudeE7": 858331585
+      },
+      "endLocation": {
+        "latitudeE7": 228046319,
+        "longitudeE7": 861998927
+      },
+      "duration": {
+        "startTimestamp": "2017-08-20T03:06:52.053Z",
+        "endTimestamp": "2017-08-20T03:13:44.020Z"
+      },
+      "distance": 46967,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 60.70190448033132
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.466293409684248
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.088578684477413
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 225516643,
+          "lngE7": 858331451
+        }, {
+          "latE7": 228044891,
+          "lngE7": 861998901
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}

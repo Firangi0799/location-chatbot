@@ -1,0 +1,33 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          86.28695069999999,
+          22.7794565
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "831004, India",
+        "name": "Home"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.93959699999999,
+          13.017507499999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "address": "Malur, Karnataka 563130, India",
+        "name": "Work"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

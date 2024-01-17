@@ -1,0 +1,407 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-27T18:12:52Z",
+        "google_maps_url": "http://maps.google.com/?q=Marina+Beach,+Tamil+Nadu&ftid=0x3a52689bb60132bb:0x549cf8edf62b60a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-16T08:17:48Z",
+        "google_maps_url": "http://maps.google.com/?q=Prayagraj,+Uttar+Pradesh&ftid=0x398534c9b20bd49f:0xa2237856ad4041a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.8813491,
+          25.2230486
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-16T08:16:59Z",
+        "google_maps_url": "http://maps.google.com/?cid=18321154878394208748",
+        "location": {
+          "address": "Naya Nohra, Baran Rd, Kota, Rajasthan 325201, India",
+          "country_code": "IN",
+          "name": "Kota Junction"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-08-16T08:16:11Z",
+        "google_maps_url": "http://maps.google.com/?q=Talwandi,+Kota,+Rajasthan+324005&ftid=0x396f84db0597ad8f:0x7de5313f2ea73743",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5810518,
+          12.9936781
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-16T12:13:29Z",
+        "google_maps_url": "http://maps.google.com/?cid=1346754488590816094",
+        "location": {
+          "address": "XHVJ+FCF, Railway Parallel Rd, Kumara Park West, Sampangiram Nagar, Bengaluru, Karnataka 560020, India",
+          "name": "Karnataka State Bio-Fuel Development Board"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-06-10T07:58:42Z",
+        "google_maps_url": "http://maps.google.com/?q=COMMERCIAL+BUILDING,+BARTON+CENTRE,+Church+St,+Haridevpur,+Shanthala+Nagar,+Shivaji+Nagar,+Bengaluru,+Karnataka+560001&ftid=0x3bae167db1226b5b:0x79f02533bc290093",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-01-28T07:17:39Z",
+        "google_maps_url": "http://maps.google.com/?q=30.458781,78.059520",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6720096,
+          27.5718524
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-12T15:25:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=6480054662645021171",
+        "location": {
+          "address": "Sri Kripalu Maharaj Ji Marg, Raman Reiti, Vrindavan, Uttar Pradesh 281121, India",
+          "country_code": "IN",
+          "name": "Prem Mandir, Vrindavan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6914387,
+          27.5808431
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-12T15:25:05Z",
+        "google_maps_url": "http://maps.google.com/?cid=5259412039875669157",
+        "location": {
+          "address": "HMJR+CX3, Radha Vallabh Temple Rd, Gotam Nagar, Vrindavan, Uttar Pradesh 281121, India",
+          "country_code": "IN",
+          "name": "Shri Radhavallabh Lal Ji Temple, Vrindavan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-12T15:24:08Z",
+        "google_maps_url": "http://maps.google.com/?q=Banke+Bihari+Temple,+Goda+Vihar,+Vrindavan,+Uttar+Pradesh+281121&ftid=0x39736fcc9e5a474f:0xf3cd9afd8022be42",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6834280,
+          27.5595075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-12T15:22:44Z",
+        "google_maps_url": "http://maps.google.com/?cid=16276120085822548855",
+        "location": {
+          "address": "Yamuna Expressway Link Rd, Kailash Nagar, Vrindavan, Dhorera Khadar, Uttar Pradesh 281121, India",
+          "country_code": "IN",
+          "name": "Tourist Facilitation Centre (TFC) / जनसुविधा केंद्र"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-23T03:25:55Z",
+        "google_maps_url": "http://maps.google.com/?q=Kailani,+Uttar+Pradesh+274509&ftid=0x399234b717bfd551:0x231e5bea2bfa83ed",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          84.0320013,
+          26.3073175
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-19T07:23:38Z",
+        "google_maps_url": "http://maps.google.com/?cid=8446226095005616259",
+        "location": {
+          "address": "824J+WRC, Malviya Rd, Bhatpar Rani, Uttar Pradesh 274702, India",
+          "country_code": "IN",
+          "name": "deep vastralay"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.9702255,
+          26.7321764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-15T10:59:27Z",
+        "google_maps_url": "http://maps.google.com/?cid=2788509358142830051",
+        "location": {
+          "address": "PXJC+V3H, Mainpur, Uttar Pradesh 274402, India",
+          "country_code": "IN",
+          "name": "Mainpur Kote Mandir"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.9491133,
+          26.7699764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-15T10:05:35Z",
+        "google_maps_url": "http://maps.google.com/?cid=11069735147035238336",
+        "location": {
+          "address": "QW9X+XJ, Parsauni Mukundaha, Uttar Pradesh 274402, India",
+          "name": "Byas baba"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T06:17:26Z",
+        "google_maps_url": "http://maps.google.com/?q=Opposite+BHU+Gate,+Saket+Nagar+Colony,+Lanka,+Varanasi,+Uttar+Pradesh+221005&ftid=0x398e318e75940cad:0xf04d8e4106157d4e",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T06:17:03Z",
+        "google_maps_url": "http://maps.google.com/?q=Malsi,+Dehradun,+Uttarakhand+248003&ftid=0x3908d64c14057db5:0xf6b16cf1500c62c",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T06:15:44Z",
+        "google_maps_url": "http://maps.google.com/?q=Ambala-Dehradun-Rishikesh+Rd,+Indraprasth+Enclave,+Majra,+Dehradun,+Uttarakhand+248171&ftid=0x39092a4a81732995:0x54d82faa74242f71",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T06:14:58Z",
+        "google_maps_url": "http://maps.google.com/?q=Devpura,+Haridwar,+Uttarakhand+249401&ftid=0x39094701ca57f2b5:0x3056b999f22cb4a8",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-03-02T06:14:41Z",
+        "google_maps_url": "http://maps.google.com/?q=Har+Ki+Pauri,+Haridwar,+Uttarakhand+249401&ftid=0x390947198bde4477:0xa08b6f7623e46a9a",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-02-23T11:37:22Z",
+        "google_maps_url": "http://maps.google.com/?q=26.15851809345591,83.98704260587692",
+        "Comment": "No location information is available for this saved place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2609886,
+          22.7709181
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-02T18:37:14Z",
+        "google_maps_url": "http://maps.google.com/?cid=15529084484856258013",
+        "location": {
+          "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Samudayik Vikash Maidan"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2430387,
+          22.7755874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-02T18:36:48Z",
+        "google_maps_url": "http://maps.google.com/?cid=11935866403858838069",
+        "location": {
+          "address": "Q6GV+66M, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "C1/C2 GROUND, TARCOMPANY"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2754480,
+          22.7799615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-02T18:35:55Z",
+        "google_maps_url": "http://maps.google.com/?cid=13952788004776593144",
+        "location": {
+          "address": "Q7HG+X5P, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Nirmal General Store"
+        }
+      },
+      "type": "Feature"
+    }
+  ]
+}

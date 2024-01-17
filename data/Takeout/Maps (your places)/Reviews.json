@@ -1,0 +1,2437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          77.2133282,
+          28.6196139
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-08T14:31:31.950652Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe7bb0c52185a1a3e",
+        "location": {
+          "address": "Rafi Marg, Sansad Marg, behind RBI Bank, New Delhi, Delhi 110001, India",
+          "name": "Constitution Club of India"
+        },
+        "review_text_published": "A must visit place 💀"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2072444,
+          28.6187503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-11-08T14:30:52.685305Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbeadf8761c54364e",
+        "location": {
+          "address": "J694+GV5, Lok Sabha Secretariat, Parliament Library Building, Pandit Pant Marg Area, New Delhi, Delhi 110001, India",
+          "country_code": "IN",
+          "name": "Parliament Museum"
+        },
+        "review_text_published": "Cool place 🎉"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.3170714,
+          23.3097341
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-17T13:10:45.758362Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x73f8487bfae1f2c9",
+        "location": {
+          "address": "Maharatoli, Opp. H.P. Petrol Pump, Kalyanpur, Solanki Rd Number 2, Hatia, Ranchi, Jharkhand 834003, India",
+          "country_code": "IN",
+          "name": "."
+        },
+        "review_text_published": "Excellent experience 😄"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0421422,
+          27.1751448
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-10-17T13:09:04.030451Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdd2ae4803f767dde",
+        "location": {
+          "address": "Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001, India",
+          "country_code": "IN",
+          "name": "Taj Mahal"
+        },
+        "review_text_published": "Beautiful 💕"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5860610,
+          12.9802350
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-18T08:39:40.888284Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe216f7625f066e10",
+        "location": {
+          "address": "1, Palace Rd, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",
+          "country_code": "IN",
+          "name": "Radisson Blu Hotel, Atria Bengaluru"
+        },
+        "questions": [
+          {
+            "question": "Rooms",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Location",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excellent service 💯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5812810,
+          12.9866460
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-18T08:39:11.984189Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1f4a974581516787",
+        "location": {
+          "address": "No. 25, Old No. 17, American Colony Crescent Road Kumara Park East, Shivananda Circle 35, Bengaluru, Karnataka 560001, India",
+          "country_code": "IN",
+          "name": "FabHotel Hiland Suites - Hotel in Sheshadripuram, Bangalore"
+        },
+        "questions": [
+          {
+            "question": "Rooms",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Location",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Good experience 😃"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5808723,
+          12.9848935
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-09-18T08:38:31.169674Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3f18b4bffc98fb5f",
+        "location": {
+          "address": "Near 37, Crescent Rd, High Grounds, Gandhi Nagar, Bengaluru, Karnataka 560001, India",
+          "country_code": "IN",
+          "name": "37th Crescent Hotel Bengaluru"
+        },
+        "questions": [
+          {
+            "question": "Rooms",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Location",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Excellent service 👍"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6052239,
+          12.9755733
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-07-08T06:29:43.445362Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7438121b3d97ccf7",
+        "location": {
+          "address": "613, Barton Centre, 84, Mahatma Gandhi Rd, Haridevpur, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",
+          "name": "Ella Foods Pvt. Ltd."
+        },
+        "review_text_published": "Takes me back to my childhood! <3"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0476980,
+          12.8330371
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-07T05:50:42.422226Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3d45e495602cbeaa",
+        "location": {
+          "address": "2, GST Road, Thailavaram Village,Maraimalai Nagar, Chennai - Trichy Hwy, Guduvancheri, Tamil Nadu 603203, India",
+          "country_code": "IN",
+          "name": "Adyar Ananda Bhavan - A2B"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Food is good 💯"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0533182,
+          12.8374012
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-07T05:50:03.470336Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xce6f794afa16920c",
+        "location": {
+          "address": "6/1A, G.S.T Road, Taluk, Vallancherry, Chengalpattu, Guduvancheri, Tamil Nadu 603202, India",
+          "country_code": "IN",
+          "name": "Anjappar Chettinad Restaurant Guduvanchery"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Good food 😋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0696225,
+          12.8570595
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-07T05:49:19.206888Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x34eb3107815c06c0",
+        "location": {
+          "address": "No: 245, Grand Southern Trunk Rd, opp. to Indian Oil Bunk, Abnirami Nagar, Urapakkam, Chennai, Tamil Nadu 603210, India",
+          "country_code": "IN",
+          "name": "Naattarasan"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Very good food 🥑🥝"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0797694,
+          12.8773115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-07T05:48:34.660678Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x667e7e89d96f467e",
+        "location": {
+          "address": "Plot 2&3 Bharathidasan Street G.S.T.Road, Near Vandalur Zoological Park, Kilambakkam, Vandalur, Tamil Nadu 603210, India",
+          "country_code": "IN",
+          "name": "Dindigul Thalappakatti Restaurant"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Delicious 😋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0724827,
+          12.8609693
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-07T05:47:33.619075Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa102a2219c69ad6",
+        "location": {
+          "address": "153, GST Road, Urapakkam, Chennai, Tamil Nadu 603210, India",
+          "country_code": "IN",
+          "name": "SINGAPORE'S KOMALA'S RESTAURANTS"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Too delicious 😋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          80.0446140,
+          12.8234026
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2023-05-06T07:12:40.802508Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x20ac4fea8eb7213e",
+        "location": {
+          "address": "2, Tech Park Building, Food Court, Campus, SRM Nagar, Kattankulathur, Tamil Nadu 603203, India",
+          "country_code": "IN",
+          "name": "Subway"
+        },
+        "questions": [
+          {
+            "question": "Food",
+            "rating": 5
+          },
+          {
+            "question": "Service",
+            "rating": 5
+          },
+          {
+            "question": "Atmosphere",
+            "rating": 5
+          }
+        ],
+        "review_text_published": "Delicious 😋"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2726680,
+          22.7791150
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-11T14:31:48.185260Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe4654c0d67f6ddaa",
+        "location": {
+          "address": "Kamdhenu Rd, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Suvidha store"
+        },
+        "review_text_published": "It's a shop where you can find all sorts of daily needs.\nAn all round grocery shop with well maintained stock and good quality products."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2232021,
+          22.7938354
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-10-11T14:30:38.151837Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x30ca5b64e4ebca63",
+        "location": {
+          "address": "Hotel No 4 Golmuri market, Golmuri, Jamshedpur, Jharkhand 831003, India",
+          "country_code": "IN",
+          "name": "Ice cream parlour"
+        },
+        "review_text_published": "It's a decent place to eat. The staff is decent and friendly.\nThe place gets crowded on festivals or special occasions.\nThey increase the menu price during festivals but during normal days the menu is quite affordable.\n\nThe place is hygienic and good."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2644302,
+          22.7772060
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-26T14:24:06.977084Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9dea7d0e865667e0",
+        "location": {
+          "address": "K - 29, River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Nilesh Fast Food Corner - NFC"
+        },
+        "review_text_published": "I'm a local and have been eating at the place for a long time.\n\nThe place is overrated, I mean it was wonderful back then but now it's more like eating packed food. Back then they used to personally prepare your order according to your needs.\nBut now everything is already prepared and they just mix and match things to serve you."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6913740,
+          27.5704071
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-13T09:05:54.652140Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdb40ed87d213d711",
+        "location": {
+          "address": "HMCR+4F6, opposite Jaipur Temple, Tarash Mandir Colony, Vrindavan, Uttar Pradesh 281121, India",
+          "country_code": "IN",
+          "name": "Annapurna Bhavan Shree Ji Rasoi"
+        },
+        "review_text_published": "Fair review:\n\nThe love they show you is more precious than anything.\n\nFrom outside it might look as if it's closed but it's open from 11 am to 2 pm.\nThey'll check the aadhar card to verify if you're from another district or state.\nThe place is very clean and hygienic.\nThey have a proper place to sit and eat.\nThey serve you on the table.\nUsually you'll get rotis, chawal, daal, sabzi, achar, and one sweet dish at the end.\nYou can ask more if you are not full.\nJust don't waste the food.\n\nRadhe radhe."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6834280,
+          27.5595075
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-09-13T08:58:57.252875Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe1e064fbc50dab77",
+        "location": {
+          "address": "Yamuna Expressway Link Rd, Kailash Nagar, Vrindavan, Dhorera Khadar, Uttar Pradesh 281121, India",
+          "country_code": "IN",
+          "name": "Tourist Facilitation Centre (TFC) / जनसुविधा केंद्र"
+        },
+        "review_text_published": "Ok I'll give a fair review...\n\nThe Place is clean and hygienic.\nThe bathroom and toilet are clean.\nThey have a dormitory, halls, and rooms (ac and nonac).\nPrices for nonac dormitories are 100 INR per day.\nYou'll get a dormitory bed for sure no need to worry.\nNo drinking water facility though, you have to buy  RO water for 5 INR per 2 litres.\nYou'll get food in the premises for 60 INR per plate.\nBeware of monkeys if you are leaving your luggage in the rooms or dorms, lock all the doors and windows before leaving.\nNo locker facilities available.\n\nTransport:\nTake the electric bus from the new mathura bus stand to pagal baba mandir(Mathura - vrindavan route).\nIt's walking distance from there.\n\nBest place to stay for budget travelers.\n10rs ride to Annapurna sewa sansthan where you'll get free lunch if you're from another district or State."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0320508,
+          30.2781358
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-06-05T04:36:35.998741Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8560bc1e8c45850d",
+        "location": {
+          "address": "APSR, H.N.-64, Madhur Vihar Phase -2, Lane no.-3, near Bengali Kothi, Dehradun, Uttarakhand 248001, India",
+          "name": "Plantica"
+        },
+        "review_text_published": "I was there in January 2022 AIA batch and trust me I enjoyed each and every day in Plantica.\n\nThe faculty is awesome and supportive as well.\n\nI highly recommend evryone to atleast visit once."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2765292,
+          22.7816798
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-25T14:29:19.427940Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfb48d785a8e23b4d",
+        "location": {
+          "address": "Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+          "name": "Urban Enclave"
+        },
+        "review_text_published": "Lund jagah hai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2025660,
+          22.8075067
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-25T14:29:08.472066Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xeaa1da1abe821757",
+        "location": {
+          "address": "& 12, Seagull Apartment, SN G/01, No 11, SNP Area, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Reliance SMART Superstore"
+        },
+        "review_text_published": "Excellent"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.1586450,
+          22.7887888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-25T14:29:00.182811Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa73a92e11bcc33fa",
+        "location": {
+          "address": "S Type, Housing Colony, Adityapur, Jamshedpur, Jharkhand 831013, India",
+          "country_code": "IN",
+          "name": "Reliance trends adityapur"
+        },
+        "review_text_published": "Pathetic"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2646645,
+          22.7790014
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-25T14:28:50.614961Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x921eb1d197ebf036",
+        "location": {
+          "address": "Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+          "country_code": "IN",
+          "name": "Baker's TREAT"
+        },
+        "review_text_published": "Average"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2630075,
+          22.7781302
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-04-25T14:28:42.030756Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb677ebb4c07312fa",
+        "location": {
+          "address": "1st Floor Zone 1B Near Chinmaya Vidyalaya, opposite K-9 Quarters, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "THE STAR BEANS"
+        },
+        "review_text_published": "Average"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0335874,
+          30.3185145
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-16T14:28:15.984693Z",
+        "five_star_rating_draft": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5b912d5a2b3af9e9",
+        "location": {
+          "address": "near Hanuman Mandir, opposite Railway Station entry road, Hanuman Chowk, Ajit Prasad Nagar, Khurbura Mohalla, Dehradun, Uttarakhand 248001, India",
+          "country_code": "IN",
+          "name": "Chetan Swadisht Kachori"
+        },
+        "review_text_draft": "Too pricy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0072800,
+          30.2992970
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-16T14:27:59.799425Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb74d7461ffe7fa3d",
+        "location": {
+          "address": "Ground floor, 583 K, Saharanpur Rd, opposite ITI, Niranjanpur, Dehradun, Uttarakhand 248003, India",
+          "country_code": "IN",
+          "name": "Domino's Pizza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0418200,
+          30.3242864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-16T14:27:51.676261Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdc5852f79736305f",
+        "location": {
+          "address": "Clock Tower, Paltan Bazaar, Dehradun, Uttarakhand 248001, India",
+          "country_code": "IN",
+          "name": "Clock Tower"
+        },
+        "review_text_published": "It's such a lively place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.9941917,
+          30.2728070
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2022-01-08T14:18:07.603998Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7d82a2220fbd3ff7",
+        "location": {
+          "address": "170, 170, Pant Marg, Clement Town, Dehradun, Bharu Wala Grant, Uttarakhand 248001, India",
+          "country_code": "IN",
+          "name": "Chai Sutta bar ,Graphic Era University"
+        },
+        "questions": [
+          {
+            "question": "Service",
+            "selected_option": "Delivery"
+          },
+          {
+            "question": "Meal type",
+            "selected_option": "Brunch"
+          }
+        ],
+        "review_text_published": "It's a place you must visit"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          84.8619430,
+          22.2288759
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:17:17.690005Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd2661b7715aa73d9",
+        "location": {
+          "address": "6VH6+HQ4, Railway Colony, Rourkela, Odisha 769001, India",
+          "name": "Rourkela Railway Station"
+        },
+        "review_text_published": "Average"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2034997,
+          22.8052460
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:17:07.772376Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xac920129fc64896c",
+        "location": {
+          "address": "2ND FLOOR, 41, Thakur Bari Rd, above Indian Bank, opposite Central Bank, SNP Area, Sakchi, Jamshedpur, Jharkhand 831011, India",
+          "country_code": "IN",
+          "name": "THE LAPTRONICS - HP & Dell Service Centre In Jamshedpur"
+        },
+        "review_text_published": "Chutiye log h"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6743240,
+          27.4920376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:16:57.694615Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc162b76e4a5a85ab",
+        "location": {
+          "address": "FMRF+RP8, Adarsh Nagar, Manoharpura, Mathura, Uttar Pradesh 281001, India",
+          "name": "New Bus Stand"
+        },
+        "review_text_published": "Sab jagah ki bus mil jati hai... Koi problem ni hogi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:16:35.903389Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdf39520d47f44adc",
+        "review_text_published": "Gg place",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2379207,
+          22.7744089
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:16:06.304862Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x1ab43d2f0de66d07",
+        "location": {
+          "address": "Indra Nagar, Telco Colony, Jamshedpur, Kalimali, Jharkhand 831004",
+          "name": "Telco Lake"
+        },
+        "review_text_published": "Dirty af"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6852676,
+          27.4910793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:15:48.628071Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xffd56ea7cbe3e92",
+        "location": {
+          "address": "FMRP+C4J, Mathura Cantonment, Mathura, Uttar Pradesh 281001, India",
+          "name": "Mathura Cantt"
+        },
+        "review_text_published": "Station bhi chutiya.... Mathura ke log bhi chutiya"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2090704,
+          28.6263764
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:15:23.046344Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6db044e71b8e8e3b",
+        "location": {
+          "address": "Hanuman Road Area, Connaught Place, New Delhi, Delhi 110001, India",
+          "country_code": "IN",
+          "name": "Gurudwara Sri Bangla Sahib"
+        },
+        "review_text_published": "The place is engraved in my memories..❤️"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6739068,
+          27.4834908
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:14:30.240715Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x127c8216f23e6508",
+        "location": {
+          "address": "FMMF+9HV, Jn, Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+          "name": "MATHURA JN"
+        },
+        "review_text_published": "Chutiya jagah h mathura.. log bade ajeeb h .. saale dheere toh baat ni kar sakte... Behen ke laude"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:13:51.408219Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6deb9bb88fa7eac0",
+        "review_text_published": "Haha.. best market ever .. i spent my whole day here but still felt like i missed something",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:13:19.020502Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2c207b4433034b95",
+        "review_text_published": "OP station",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.5289356,
+          24.4344117
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:13:07.802200Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x34cf124c135a5d58",
+        "location": {
+          "address": "Koderma Station FOB, Jhumri Telaiya, Jharkhand 825409, India",
+          "name": "Koderma Railway Station"
+        },
+        "review_text_published": "Bleh"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2115799,
+          22.8157024
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:13:00.212326Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9d6c787deb3a76f5",
+        "location": {
+          "address": "Bus Stand, Jai Prakash Narayan Setu Bridge, Gandhi Ghat, Mango, Jamshedpur, Jharkhand 831001, India",
+          "name": "Mango Bus Stand"
+        },
+        "review_text_published": "Sahi h yaar.. average hai"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2410203,
+          28.6561592
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:12:44.105185Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x441e32f4fa5002fb",
+        "location": {
+          "address": "Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006, India",
+          "country_code": "IN",
+          "name": "Red Fort"
+        },
+        "review_text_published": "You can visit with your family... Remember you have to submit your bags before entering main premises... Online ticket price is 40INR for indian nationals and you should book online to avoid huge queues"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.2337060,
+          28.6485073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:10:54.768236Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3a83fb1d3b088cbf",
+        "location": {
+          "address": "1129, Matia Mahal Rd, Bazar Matia Mahal, Manohar Market, Jama Masjid, Chandni Chowk, New Delhi, Delhi, 110006, India",
+          "country_code": "IN",
+          "name": "Aslam Chicken"
+        },
+        "questions": [
+          {
+            "question": "Service",
+            "selected_option": "Dine in"
+          },
+          {
+            "question": "Meal type",
+            "selected_option": "Brunch"
+          }
+        ],
+        "review_text_published": "The butter chicken tastes heavenly"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.4888483,
+          23.5030065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:10:27.369590Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3b59de4b8ade8865",
+        "location": {
+          "address": "GF3Q+6G5, Ukrid, Jharkhand 835103, India",
+          "country_code": "IN",
+          "name": "Atithi Restaurant"
+        },
+        "questions": [
+          {
+            "question": "Service",
+            "selected_option": "Dine in"
+          },
+          {
+            "question": "Meal type",
+            "selected_option": "Dinner"
+          }
+        ],
+        "review_text_published": "Average"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.4880817,
+          23.5013712
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:10:15.980832Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x44b07612dfbdc580",
+        "location": {
+          "address": "GF2Q+G6W, NH33, near bp petrol pump, Ormanjhi, Ukrid, Jharkhand 835103, India",
+          "country_code": "IN",
+          "name": "Khalsa Dhaba"
+        },
+        "questions": [
+          {
+            "question": "Service",
+            "selected_option": "Dine in"
+          },
+          {
+            "question": "Meal type",
+            "selected_option": "Lunch"
+          }
+        ],
+        "review_text_published": "Excellent"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.4061999,
+          27.8510106
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-31T14:09:58.341637Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x410ff59cdb1c457d",
+        "location": {
+          "address": "NH2 Kotwan Border, in front of Sales Tax Office, Kosi Kalan, Uttar Pradesh 281403, India",
+          "country_code": "IN",
+          "name": "Hansraj Dhaba & Banquet Hall"
+        },
+        "review_text_published": "Food is a bit overpriced but tastes good"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.1526189,
+          22.7901394
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:08:10.853696Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9c623043e03ca068",
+        "location": {
+          "address": "H.No 1839, Ground Floor, Tata Kandra Main Road Near Ashiana More, beside HP petrol Pump, Adityapur, Jamshedpur, Jharkhand 832109, India",
+          "country_code": "IN",
+          "name": "PURE EV Electric Scooters in Jamshedpur - Sachdeva Electric Rides"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2441156,
+          22.7702458
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:07:45.273207Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x802c30a6e3ca3f13",
+        "location": {
+          "address": "Red Carpet Service Station, Tata Motors, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "In & Out"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2596830,
+          22.7721789
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:07:38.738046Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x70b094cc45ae274",
+        "location": {
+          "address": "Hanuman Mandir Rd, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Ispat Trading Corporation"
+        },
+        "review_text_published": "Excellent place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:07:26.865681Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7996b4210175cc7a",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2209695,
+          22.7551821
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:07:23.001666Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfb861892ce242fff",
+        "location": {
+          "address": "H-No-51, Sopodera Rd, near shiv mandir, Salgajhari, Parsudih, Jamshedpur, Jharkhand 831002, India",
+          "name": "SOPODERA NEW SHIV MANDIR"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.1966526,
+          22.7697234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:07:05.387590Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc00f42dd837600d9",
+        "location": {
+          "address": "Railway Station, Gudri market, Kumar Chowk, Jugsalai, Jamshedpur, Jharkhand 831002, India",
+          "country_code": "IN",
+          "name": "Jaiswal Army Store"
+        },
+        "review_text_published": "The man is grumpy"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2682880,
+          22.7829200
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:06:52.086474Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9e861b5672f16f58",
+        "location": {
+          "address": "Q7M9+587, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+          "country_code": "IN",
+          "name": "Shukla Hotel"
+        },
+        "review_text_published": "Good place"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2402587,
+          22.7735786
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:06:41.302901Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2cd3f7b39b109eea",
+        "location": {
+          "address": "Azad Market, 49/50, Telco Town, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Gyani's Restaurant"
+        },
+        "review_text_published": "It's ok-ish"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2057559,
+          22.8067706
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-12-09T14:06:29.265640Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3b69c630fd274b6",
+        "location": {
+          "address": "R644+P82, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Kolkata Alishan Biryani"
+        },
+        "review_text_published": "Best biriyani place in Jamshedpur! Affordable and quality food\nP.s. you wouldn't wanna go thr with a girl.. the place is crowded with guys and creepy ass men"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2395817,
+          22.7731304
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-24T13:25:42.596586Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x2db30f03802cd663",
+        "location": {
+          "address": "Azad Market Rd, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "CHAIPAANI"
+        },
+        "review_text_published": "Please visit once... You'll love the \"chaipani\" special"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2035675,
+          22.8059542
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-17T11:57:29.904843Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8b4445e8826dfcc6",
+        "location": {
+          "address": "36b, snp area, 1st floor naidu tower, above spykar showroom, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Brewers The Coffee Bar"
+        },
+        "review_text_published": "Decent place... Just don't try their steamed momos and try cappuccino instead of latte"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2049027,
+          22.8046735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-09T11:49:22.363830Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x529561df5fb702eb",
+        "location": {
+          "address": "Straight Mile Rd, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Sakchi Market"
+        },
+        "review_text_published": "Good"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2055850,
+          22.8069550
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-11-09T11:49:14.114176Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xaa5e52edac24d647",
+        "location": {
+          "address": "B, G1A, 88A, Purulia Rd, near SITLA MATA MANDIR CHOWK, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "DOTCOM"
+        },
+        "review_text_published": "The sell out of warranty products... Don't buy they are fraud! Billing date and the warranty date is totally different!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2499165,
+          22.7753503
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-17T15:01:57.439979Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3014f3808c628333",
+        "location": {
+          "address": "Q6GX+4XV, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "New Sector Market"
+        },
+        "review_text_published": "Badhai jagah hai..."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2006697,
+          22.7681995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-16T14:58:56.669733Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc4f4842bbcba7b1d",
+        "location": {
+          "address": "Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+          "name": "Tatanagar Railway Station, Jamshedpur"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2074637,
+          22.8011896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-15T14:56:35.046432Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd7f9c482d97e3966",
+        "location": {
+          "address": "New Kalimati Rd, Hirasingh Bagan, Kasidih, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Pappu restaurant"
+        },
+        "review_text_published": "Staff pays no attention to your queries!\n\nFood comes very late to your table!\nPathetic experience! Least recommended 😐"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2499789,
+          22.7755137
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-11T06:31:57.373960Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x4faf8e91dec5dd2b",
+        "location": {
+          "address": "New, Sector Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Gupta HP GAS"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2462062,
+          22.7723170
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-11T06:31:18.698930Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc266ec2fed92ef21",
+        "location": {
+          "address": "K42, Cross Rd Number 14, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Telco Club"
+        },
+        "review_text_published": "Excellent place for employees"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2487939,
+          22.7742278
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-11T06:31:05.242808Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xd168a4d1ffd928ba",
+        "location": {
+          "address": "Q6FX+MGV, Rd Number 8, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Aambagan Park"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2754480,
+          22.7799615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-11T06:30:56.660513Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc1a242c3eb0a46f8",
+        "location": {
+          "address": "Q7HG+X5P, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Nirmal General Store"
+        },
+        "review_text_published": "An excellent general store in the area"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2624656,
+          22.7781201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-11T06:30:27.692018Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf5bca66a563efda",
+        "location": {
+          "address": "First Floor Sinha Complex Near Vidya Bharti Chinmaya Vidyalaya, beside Kali Mandir, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Shake Shook Cafe Jamshedpur"
+        },
+        "review_text_published": "It's a decent place... Very small sitting area... It was quite small for two of us...\n\nIt's good for takeaways... Shakes are decent priced and are good in taste"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:55.229817Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x87c584ccf1f36ee7",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2021624,
+          22.8049785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:49.811358Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x22e19d141bc42371",
+        "location": {
+          "address": "G-4/132, Straight Mile Rd, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "name": "Sonari-Sakchi Auto Stand"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2607643,
+          22.7746967
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:46.920995Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x3034eef1af11ee24",
+        "location": {
+          "address": "Q7F6+V8C, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Plaza Auto Stand"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2603391,
+          22.7739452
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:42.400263Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc9020d5e21afb8a2",
+        "location": {
+          "address": "Q7F6+H4G, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Plaza Sabji Market"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2391470,
+          22.7730277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:36.328800Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9a9313975739cadf",
+        "location": {
+          "address": "Azad Market, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Shukla Misthan Bhandar"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:07.880729Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb5b9b659c8413011",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.4684151,
+          22.5497921
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:24:02.011068Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc2e071652baa6eb9",
+        "location": {
+          "name": "Subarnarekha River"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2241363,
+          22.7953892
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:23:48.298302Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xdff759f67cef3004",
+        "location": {
+          "address": "Telco Road, Golmuri, Jamshedpur, Jharkhand 831001, India",
+          "name": "Akash Deep Plaza"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2052010,
+          22.8028549
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:23:42.363995Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbb7702afb33e6b52",
+        "location": {
+          "address": "R634+43W, Main Road, Beside Basant Talkies, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Manohar Chat"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2513900,
+          22.7847640
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:23:38.755968Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x88204e1e6f0845a0",
+        "location": {
+          "address": "Birsanagar zone no 1 Sunday market, Jamshedpur, Jharkhand 831019, India",
+          "country_code": "IN",
+          "name": "Pustak Manjusha"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2447572,
+          22.7720465
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:23:34.085322Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xff6c47eb47a39577",
+        "location": {
+          "address": "Q6CV+RW6, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Telco Club Ground"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2589204,
+          22.7717714
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:23:28.286848Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb5fb32f59cd089b0",
+        "location": {
+          "address": "Shop No 2 & 3, Upadhyay Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "TECH CONNECT"
+        },
+        "review_text_published": "Staffs are dumb af... I mean they don't know shit about phones and electronics... They talk as if they are coolest people on the planet but trust me, they aren't!\n\nHave my advice... Don't go there"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2035875,
+          22.8060032
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:21:51.249971Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xbe329b59b2c289e9",
+        "location": {
+          "address": "Kumar Tower 1st floor, near Delhi Darbar, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Dosa Hut"
+        },
+        "review_text_published": "The staff is nice.. one day I got a fly in my dosa and they just replaced my order without a word and apologized for the mismanagement."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.1655096,
+          22.8617606
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-10-03T06:20:42.284811Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xf6b2e7f2bbfa7429",
+        "location": {
+          "address": "Dobo, Jharkhand 831018, India",
+          "country_code": "IN",
+          "name": "Dobo Dam / Satnala Dam Jamshedpur"
+        },
+        "review_text_published": "Perfect place for a family outing in winters. In summer you get direct sunlight and the place is still undee construction so you won't get any shed to rest or sit. Evenings may be pleasant but keep in mind you should come back before dark."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-09-04T06:17:13.115596Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x928cb052823032a",
+        "review_text_published": "Very poor behaviour.. train them first how to talk to a dissatisfied customer!",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          78.0415855,
+          30.3240066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-07-19T05:18:05.477249Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x458b10a32467a17e",
+        "location": {
+          "address": "4, Paltan Bazar Rd, Ghanta Ghar, Paltan Bazaar, Dehradun, Uttarakhand 248001, India",
+          "country_code": "IN",
+          "name": "Gaylord Xpress"
+        },
+        "review_text_published": "Five star rating coz you are the Gay Lord (*_*)"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2027964,
+          22.8040753
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-02-19T06:51:52.309200Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7b0da788d0419273",
+        "location": {
+          "address": "R633+J4M, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Jamshedpur Eye Hospital"
+        },
+        "review_text_published": "Worst service towards patients... I mean they'll makr you wait till you exhaust... If you go there early or late... You have to wait till the end of the day!!\nTry going to a private hospital if it is possible..."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2038552,
+          22.8034182
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2021-02-16T05:10:13.977458Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xede1c77d4a17afc7",
+        "location": {
+          "address": "19, New Kalimati Rd, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Realme store(exclusive)"
+        },
+        "review_text_published": "Excellent service... I mean you won't find such excellent cooperation and service anywhere in Jamshedpur...\nJust visit once to feel how a realme exclusive shop actually looks like... 🔥🔥"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2671462,
+          22.7735551
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-11-15T09:27:48.952851Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcdb189adf0b57582",
+        "location": {
+          "address": "Durga Puja Maidan, Kampur Basti, Ghorabandha Road Near Ghorabandha, Telco, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Moonka Automobiles"
+        },
+        "review_text_published": "The staff was efficient and well behaved"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2019577,
+          22.8096840
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-20T14:09:49.153661Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb2ad10dd3ef7a451",
+        "location": {
+          "address": "113, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "Dua Honda Pvt ltd"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2632688,
+          22.7781215
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-20T14:09:42.800455Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa9c5f25eb686460a",
+        "location": {
+          "address": "Q7H7+68R, Near K9, Prakash Nagar, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Goldy Stores"
+        },
+        "review_text_published": "The staff is friendly and supportive"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-10-20T14:09:14.082768Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x57e44b58140f6637",
+        "review_text_published": "The staff was friendly and supportive",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5184473,
+          27.6889466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2020-01-22T10:15:48.742530Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb974890cac71f855",
+        "location": {
+          "address": "28, K. M. Stone, Chennai - Delhi Hwy, near Punjab National Bank, Chhata Rural, Uttar Pradesh 281401, India",
+          "country_code": "IN",
+          "name": "SANSKRITI UNIVERSITY Mathura Uttar Pradesh"
+        },
+        "review_text_published": "Its a pretty f*cked up university...\nthe management is the worst....\nThe male faculty members raid girls hostels for checking, they even go into the rooms of the girls staying in the hostel for checking...\nThere is a huge shortage of teaching staff, almost each semester they hire new teaching staff and majority of them leave as soon as possible..\nIf you are planning for taking admissions , please be aware of them."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2595779,
+          22.7703770
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-06-10T08:32:14.621272Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc3fe04bc0ee0609",
+        "location": {
+          "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Sri V.V.S.S Temple"
+        },
+        "review_text_published": "It's a temple....\nHow can i rate it!!"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          83.9122374,
+          26.2522722
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-23T06:25:47.767634Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x9b69021fb437611d",
+        "location": {
+          "address": "7W26+WV5, Indauli, Salempur, Uttar Pradesh, India",
+          "country_code": "IN",
+          "name": "Kali Mai Mandir"
+        },
+        "review_text_published": "My maternal uncle lives in indauli and whenever i go to that village i always go and pray in this temple"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6561006,
+          27.5012791
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-23T06:24:41.827405Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xb21d585cfbd7c14",
+        "location": {
+          "address": "Killano26/2-26/4 Khasra No. 369, Bhuteshwar Rd, Krishna Nagar, Mathura, Uttar Pradesh 281001, India",
+          "country_code": "IN",
+          "name": "Vishal Mega Mart"
+        },
+        "review_text_published": "I go there every week...\nIt's the one and only standard shop in the whole locality"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6591498,
+          27.5006888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-23T06:23:59.974523Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x189bda09de05aa46",
+        "location": {
+          "address": "Shop No. 216, Equal Of Khatri Studio, Street, in front of mayank Gas Agency, Krishna Nagar, Mathura, Uttar Pradesh 281004, India",
+          "name": "DTDC COURIER SERVICE MATHURA"
+        },
+        "review_text_published": "I always use this service"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.3307805,
+          27.9977310
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-23T06:23:04.067654Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x68d0cc2a380d9e17",
+        "location": {
+          "address": "X8XJ+38R, NH 19, Khatela Sarai, Haryana 121105, India",
+          "country_code": "IN",
+          "name": "Gulshan Dhaba Sager Nh19,khatela"
+        },
+        "review_text_published": "Food is awesome and hospitality is worth paying."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5508584,
+          27.6520232
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-04-15T06:23:26.455013Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe8f188c36f352cf",
+        "location": {
+          "address": "MH22+R85, Mathura, Uttar Pradesh 281406, India",
+          "country_code": "IN",
+          "name": "R.K.FAST FOOD & CAFE"
+        },
+        "review_text_published": "The good was awesome but hospitality was not up to the mark... But still the experience was good"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.6734947,
+          27.4795257
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-22T03:42:13.512615Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x67a804912cc1ab06",
+        "location": {
+          "address": "Platform No 1, Mathura Railway Staion, Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+          "country_code": "IN",
+          "name": "Comésum"
+        },
+        "review_text_published": "The food is very delicious"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-03-22T03:41:45.935895Z",
+        "five_star_rating_published": 2,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x392c9a86d48cdb9f",
+        "review_text_published": "I'm staying in this hostel for approx 1 year...\nThe toilets are not sufficient for all the students stating here...",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.7345583,
+          27.9305392
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2019-01-09T17:14:59.761370Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xc891f4981609656b",
+        "location": {
+          "address": "WPJM+6R7, Sikkim 737120, India",
+          "country_code": "IN",
+          "name": "Zero Point"
+        },
+        "review_text_published": "It's just heaven on Earth...\nVisited twice but still feel like going there.."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          75.8765451,
+          25.2231202
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-25T18:53:23.394332Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x5d18e566844cd1d5",
+        "location": {
+          "address": "1, Station Main Rd, Bhimganj Mandi, Kota, Rajasthan 324002, India",
+          "country_code": "IN",
+          "name": "Flagship Hotel Royal Paradise"
+        },
+        "review_text_published": "Very neat and clean...\nIts a good value for money...\nIt's a couple friendly hotel...\nUnmarried couples are allowed...😉😉"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:17:12.338591Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xa7e52718a5d5fed5",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          0,
+          0
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:17:03.257397Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x52e240e6e9b0301e",
+        "Comment": "No location information is available for this review"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          77.5517554,
+          27.6461495
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-12-01T04:16:58.799448Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7af277c87f6dc021",
+        "location": {
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "country_code": "IN",
+          "name": "Glb Student Mess"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          88.6134586,
+          27.3287160
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-08-01T08:31:07.394Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x803cfb434839f0e4",
+        "location": {
+          "address": "8JH7+F9P, Tibet Rd, Near Taxi Stand, Arithang, Gangtok, Sikkim 737101, India",
+          "country_code": "IN",
+          "name": "Hotel Pinewood"
+        },
+        "review_text_published": "The rooms are quite good as compared to the price they offer.\nIf you book the hotel online then it'll be a good deal..."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          74.6461126,
+          19.3491581
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-07-31T07:43:13.360Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x8a222967de57e9b9",
+        "location": {
+          "address": "Manmad Rd, Ahmed Nagar, Rahuri, Maharashtra 413722, India",
+          "country_code": "IN",
+          "name": "Mahatma Phule Krishi Vidyapeeth Rahuri"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2603073,
+          22.7759151
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-06-15T04:48:10.520Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6fafac952cead828",
+        "location": {
+          "address": "K3-89, Rd Number 16, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Plaza Market"
+        },
+        "review_text_published": "You can find everything you want....\nThe place is nice and quiet..."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2650595,
+          22.7763450
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-06-15T04:47:13.794Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x593f37a906f2dd1",
+        "location": {
+          "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Millennium Park"
+        },
+        "review_text_published": "A good place to enjoy your evening with your family or friends."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2536316,
+          22.7760525
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2018-05-09T04:26:27.741Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x706862da7468b385",
+        "location": {
+          "address": "Q7G3+CFC, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Sumant Moolgaokar Stadium"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2032667,
+          22.8053778
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-10-30T19:12:42.537Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xe429b0d6e727eeae",
+        "location": {
+          "address": "SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+          "name": "MIITJEE - Best IIT JEE | NEET | Foundation | Boards,Test Series Coaching CLASSES in Jamshedpur"
+        },
+        "review_text_published": "Awesome faculty and very nice environment..\nBest coaching center in entire Jamshedpur.."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2366438,
+          22.7719639
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-10-30T19:07:26.742Z",
+        "five_star_rating_published": 1,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x539ba1ce12320300",
+        "location": {
+          "address": "Q6CP+QMJ, Telco Rd, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Shiksha Niketan High School"
+        },
+        "review_text_published": "Worst school in jamshedpur,...made a blunder by taking admission here..."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2593310,
+          22.7723069
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-10-30T18:57:26.653Z",
+        "five_star_rating_published": 3,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x42bd66cdc5cc3721",
+        "location": {
+          "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Dilip Magazine Centre"
+        },
+        "review_text_published": "You can find evry sort of magazine and newspaper here....a good shop."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.2593781,
+          22.7721961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-10-30T18:56:37.589Z",
+        "five_star_rating_published": 4,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xfd30e04ffcd1cb9b",
+        "location": {
+          "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+          "country_code": "IN",
+          "name": "Mishra Dial Centre /Mishra Mobile"
+        },
+        "review_text_published": "Best mobile phone shop in kharangajhar market...staff is good and well behaved....down to earth staff members make your problems solvable.."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          85.3043814,
+          23.3513370
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-07-06T17:59:05.906Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0xcfb96634325907d2",
+        "location": {
+          "address": "Gate No.-3 Street Number 3, Ashok Kunj, Delatoli, Ranchi, Jharkhand 834002, India",
+          "country_code": "IN",
+          "name": "CCB"
+        },
+        "review_text_published": "Fuddu katte h yeh log bas aur kuch nahi.."
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          86.1836036,
+          22.7910434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "date": "2017-03-16T04:24:58.468Z",
+        "five_star_rating_published": 5,
+        "google_maps_url": "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x6796a43891827d57",
+        "location": {
+          "address": "2ND FLOOR SONTHALIA BHAWAN, Diagonal Rd, behind Canara Bank, Bistupur, Jamshedpur, Jharkhand 831001, India",
+          "country_code": "IN",
+          "name": "XAVIER TECHKER'S"
+        },
+        "review_text_published": "Sahi jagah h yarr"
+      },
+      "type": "Feature"
+    }
+  ]
+}

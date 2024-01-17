@@ -1,0 +1,16 @@
+{
+  "editAction": "MODIFY_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0x39f608067fe03a75:0xf2b1f8ded75fd81c",
+  "businessExistenceChange": {
+    "operations": [{
+      "type": "IMPLICIT_DELETE_OPERATION",
+      "businessExistence": "OPEN"
+    }, {
+      "type": "SET_OPERATION",
+      "businessExistence": "CLOSED_PERMANENTLY"
+    }]
+  },
+  "metadata": {
+    "createTime": "2022-11-16T19:39:59.725614Z"
+  }
+}

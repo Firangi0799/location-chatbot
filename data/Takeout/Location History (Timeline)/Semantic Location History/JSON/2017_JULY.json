@@ -1,0 +1,215 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "sourceInfo": {
+          "deviceTag": -912438556
+        },
+        "locationConfidence": 79.706085
+      },
+      "duration": {
+        "startTimestamp": "2017-07-06T10:37:20.248Z",
+        "endTimestamp": "2017-07-06T18:06:56.953Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227706400,
+      "centerLngE7": 862600200,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227708863,
+        "longitudeE7": 862605174,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 8.334332
+      }, {
+        "latitudeE7": 227707990,
+        "longitudeE7": 862595599,
+        "placeId": "ChIJKWaxDwEI9jkRU0tKyrhjQDs",
+        "address": "Telco, near Kharangajhar Market, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Candy Floss School",
+        "locationConfidence": 3.0960996
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 2.4655776
+      }, {
+        "latitudeE7": 227724882,
+        "longitudeE7": 862594517,
+        "placeId": "ChIJB019eAEI9jkRmMkSgx6wGSo",
+        "address": "Q7C5+XQM, Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Maa Fish And Telco Ice Center",
+        "locationConfidence": 1.2403209
+      }, {
+        "latitudeE7": 227705187,
+        "longitudeE7": 862574370,
+        "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+        "name": "Telco",
+        "locationConfidence": 0.58905363
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 0.50701934
+      }, {
+        "latitudeE7": 227698860,
+        "longitudeE7": 862597620,
+        "placeId": "ChIJIYWe4gAI9jkRyyG1RopBwWc",
+        "name": "Prakash Store",
+        "locationConfidence": 0.27722856
+      }, {
+        "latitudeE7": 227716188,
+        "longitudeE7": 862591359,
+        "placeId": "ChIJSaS7dQEI9jkR7LPD8d_EDD0",
+        "address": "Shankar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Olympic Stores",
+        "locationConfidence": 0.24844007
+      }, {
+        "latitudeE7": 227720712,
+        "longitudeE7": 862595442,
+        "placeId": "ChIJ_3W3vwYI9jkRUbGVkN4tiAo",
+        "name": "National Institute of Software Education",
+        "locationConfidence": 0.1857988
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227708600,
+        "longitudeE7": 862569933
+      },
+      "endLocation": {
+        "latitudeE7": 227906000,
+        "longitudeE7": 862435750
+      },
+      "duration": {
+        "startTimestamp": "2017-07-08T06:23:12Z",
+        "endTimestamp": "2017-07-08T06:35:55Z"
+      },
+      "distance": 4612,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 56.70783293661666
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 41.69405614119042
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.7031945997902338
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227708683,
+          "lngE7": 862570343
+        }, {
+          "latE7": 227905426,
+          "lngE7": 862435073
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 228049510,
+        "longitudeE7": 862043850,
+        "placeId": "ChIJpbZJDQ_j9TkRnpCIhRDDAO0",
+        "address": "H. No. 43, Kalka Tower, Sakchi New Planning Area, Thakurbari Road, Jamshedpur, Jharkhand 831001, India",
+        "name": "Khosla Electronics",
+        "sourceInfo": {
+          "deviceTag": -912438556
+        },
+        "locationConfidence": 68.24813
+      },
+      "duration": {
+        "startTimestamp": "2017-07-14T07:56:54.830Z",
+        "endTimestamp": "2017-07-14T08:04:05Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 228050265,
+      "centerLngE7": 862042173,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 228047359,
+        "longitudeE7": 862028741,
+        "placeId": "ChIJzxqLmQ_j9TkRoWREEX4ua_E",
+        "name": "Sakchi Market",
+        "locationConfidence": 25.190931
+      }, {
+        "latitudeE7": 228048650,
+        "longitudeE7": 862036490,
+        "placeId": "ChIJ1UkABQ_j9TkREhdGn8A_mwU",
+        "name": "Wocky Tocky",
+        "locationConfidence": 1.6292051
+      }, {
+        "latitudeE7": 228048516,
+        "longitudeE7": 862036873,
+        "placeId": "ChIJleACBQ_j9TkRYy5KN0aMVSE",
+        "address": "Thakur Bari Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Central Bank of India",
+        "locationConfidence": 0.13537556
+      }, {
+        "latitudeE7": 228049149,
+        "longitudeE7": 862046100,
+        "placeId": "ChIJRShbcg_j9TkRmCRwoJ0GYQU",
+        "address": "9, Medical Line Opp Bhola Maharaj Hotel, Straight Mile Road Ground Floor, Oriental Bank Of Commerce Building, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sport\u0027s World",
+        "locationConfidence": 0.13103767
+      }, {
+        "latitudeE7": 228050490,
+        "longitudeE7": 862042930,
+        "placeId": "ChIJky2DEg_j9TkRsIzHXwKI1wA",
+        "name": "Gaurav Enterprises",
+        "locationConfidence": 0.115239576
+      }, {
+        "latitudeE7": 228049599,
+        "longitudeE7": 862044090,
+        "placeId": "ChIJ_8utDQ_j9TkRn9w0-Tsdwxg",
+        "address": "#83 Mile, Sakchi Supervisors Flat, Straight Mile Rd, SNP Area, Gandak Road Colony, Baradwari, Jamshedpur, Jharkhand 831001, India",
+        "name": "Medicine House",
+        "locationConfidence": 0.089205325
+      }, {
+        "latitudeE7": 228047782,
+        "longitudeE7": 862044151,
+        "placeId": "ChIJq2JGDw_j9TkR_MVOE3PFeiE",
+        "name": "E World",
+        "locationConfidence": 0.07470632
+      }, {
+        "latitudeE7": 228049462,
+        "longitudeE7": 862045612,
+        "placeId": "ChIJzdb0cg_j9TkR_bE4t5H6SJI",
+        "address": "10, Sree Boarding Building, Planner Road, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Swiss Delice",
+        "locationConfidence": 0.073492505
+      }, {
+        "latitudeE7": 228050230,
+        "longitudeE7": 862041210,
+        "placeId": "ChIJk8ITPmHj9TkRc79_U8hoG-g",
+        "address": "58 B, Pennar Rd, Circular Road, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Samsung Smart Cafe",
+        "locationConfidence": 0.072692946
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

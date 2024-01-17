@@ -1,0 +1,16 @@
+{
+  "editAction": "MODIFY_PLACE_ACTION",
+  "placeUrl": "https://google.com/maps/?cid=0x39f5e2b5fe90eabf:0x539ba1ce12320300",
+  "phoneNumberChange": {
+    "operations": [{
+      "type": "IMPLICIT_DELETE_OPERATION",
+      "phoneNumber": "090319 24992"
+    }, {
+      "type": "SET_OPERATION",
+      "phoneNumber": "06572286362"
+    }]
+  },
+  "metadata": {
+    "createTime": "2017-10-30T19:09:42.947Z"
+  }
+}

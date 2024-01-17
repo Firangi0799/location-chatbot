@@ -1,0 +1,4466 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276350675,
+        "longitudeE7": 775657819,
+        "placeId": "ChIJK3uGaq5sczkR6iO7DqVorPI",
+        "address": "21st KM Stone NH-2 Delhi Road, Akbarpur, 281406, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Public School",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 60.297005,
+        "calibratedProbability": 22.111113
+      },
+      "duration": {
+        "startTimestamp": "2019-12-01T00:41:12.019Z",
+        "endTimestamp": "2019-12-02T01:52:21.911Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276358200,
+      "centerLngE7": 775626550,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276344232,
+        "longitudeE7": 775651845,
+        "placeId": "ChIJuTxHa6xsczkRgWl1pxCXvIk",
+        "address": "JHP8+GF3, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Chaudhary Dhaba",
+        "locationConfidence": 22.552553,
+        "calibratedProbability": 8.270096
+      }, {
+        "latitudeE7": 276347223,
+        "longitudeE7": 775645135,
+        "placeId": "ChIJ5TkBV2ttczkRTLFrfnC0-rU",
+        "address": "JHM7+VRM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "BH SIEM",
+        "locationConfidence": 6.9666147,
+        "calibratedProbability": 2.5546806
+      }, {
+        "latitudeE7": 276344244,
+        "longitudeE7": 775649974,
+        "placeId": "ChIJ42xjBaVtczkRbbtRoLqLFrI",
+        "address": "JHM7+QXH, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS",
+        "locationConfidence": 5.4323072,
+        "calibratedProbability": 1.992045
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJCzEo8fVtczkRzs0UCNMEGZE",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Pathavari Mandir Neetu Ghar",
+        "locationConfidence": 2.6165833,
+        "calibratedProbability": 0.9595098
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJ_____6xsczkReDVDLQV-sTw",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Prp Computers",
+        "locationConfidence": 2.1349363,
+        "calibratedProbability": 0.78288823
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276474573,
+        "longitudeE7": 775513735
+      },
+      "endLocation": {
+        "latitudeE7": 276937889,
+        "longitudeE7": 775172025
+      },
+      "duration": {
+        "startTimestamp": "2019-12-02T01:52:21.911Z",
+        "endTimestamp": "2019-12-03T04:08:05.065Z"
+      },
+      "distance": 6153,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.4589204788208
+      }, {
+        "activityType": "STILL",
+        "probability": 36.10659837722778
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 18.82328987121582
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276937889,
+          "longitudeE7": 775172025,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-03T04:08:05.065Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 40.440216,
+        "calibratedProbability": 16.880089
+      },
+      "duration": {
+        "startTimestamp": "2019-12-03T04:08:05.065Z",
+        "endTimestamp": "2019-12-03T10:08:05.527Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276931133,
+      "centerLngE7": 775161667,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276924791,
+        "longitudeE7": 775180071,
+        "placeId": "ChIJu_s3G-oUczkR9NWCyzxJlGk",
+        "address": "NH2, Chhata, Mathura, Bilothi, Uttar Pradesh 281401, India",
+        "name": "Nari Semari Devi Temple",
+        "locationConfidence": 34.681244,
+        "calibratedProbability": 14.476245
+      }, {
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 12.409554,
+        "calibratedProbability": 5.1798525
+      }, {
+        "latitudeE7": 276955885,
+        "longitudeE7": 775161838,
+        "placeId": "ChIJqcaT9wcVczkR_ZS0fFUJpGg",
+        "address": "MGW8+6FM, NH2, Semri, Uttar Pradesh 281401, India",
+        "name": "Dwarka City Residential Project",
+        "locationConfidence": 4.249125,
+        "calibratedProbability": 1.7736207
+      }, {
+        "latitudeE7": 276931649,
+        "longitudeE7": 775167072,
+        "placeId": "ChIJN4kfegcVczkRiizCZs2AGvU",
+        "address": "MGV8+7M8, Semri, Uttar Pradesh 281401, India",
+        "name": "Shri Madhavpuram By GLR Group",
+        "locationConfidence": 3.876708,
+        "calibratedProbability": 1.6181707
+      }, {
+        "latitudeE7": 276932878,
+        "longitudeE7": 775183477,
+        "placeId": "ChIJTa_AnF4VczkREfm9ueyOy5s",
+        "address": "MGV9+88C, NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti University School of Pharmacy Campus II",
+        "locationConfidence": 2.1052206,
+        "calibratedProbability": 0.87873685
+      }, {
+        "latitudeE7": 276941921,
+        "longitudeE7": 775189955,
+        "placeId": "ChIJGx8_LQsVczkRSWTV5_VvL6o",
+        "address": "NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti Ayurvedic Hospital",
+        "locationConfidence": 1.2988633,
+        "calibratedProbability": 0.5421565
+      }, {
+        "latitudeE7": 276956304,
+        "longitudeE7": 775162264,
+        "placeId": "ChIJYYKG9wcVczkRE1Bgrr5ervQ",
+        "address": "MGW8+7F5 chatta, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "Hare Krishna City",
+        "locationConfidence": 0.9390719,
+        "calibratedProbability": 0.39197657
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276937889,
+        "longitudeE7": 775172025
+      },
+      "endLocation": {
+        "latitudeE7": 276927899,
+        "longitudeE7": 775156544
+      },
+      "duration": {
+        "startTimestamp": "2019-12-03T10:08:05.527Z",
+        "endTimestamp": "2019-12-04T08:43:50.772Z"
+      },
+      "distance": 188,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.22232663631439
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 29.024699330329895
+      }, {
+        "activityType": "STILL",
+        "probability": 25.28035342693329
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276936664,
+          "lngE7": 775169525
+        }, {
+          "latE7": 276934471,
+          "lngE7": 775169296
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 6025.485398129655,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276927899,
+          "longitudeE7": 775156544,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-04T08:43:50.772Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276924791,
+        "longitudeE7": 775180071,
+        "placeId": "ChIJu_s3G-oUczkR9NWCyzxJlGk",
+        "address": "NH2, Chhata, Mathura, Bilothi, Uttar Pradesh 281401, India",
+        "name": "Nri Semri Mata Mandir",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 34.635197,
+        "calibratedProbability": 15.180262
+      },
+      "duration": {
+        "startTimestamp": "2019-12-04T08:43:50.772Z",
+        "endTimestamp": "2019-12-04T09:12:24.091Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 276932800,
+      "centerLngE7": 775164250,
+      "visitConfidence": 78,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 23.381924,
+        "calibratedProbability": 10.248064
+      }, {
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "locationConfidence": 22.78348,
+        "calibratedProbability": 9.985772
+      }, {
+        "latitudeE7": 276931649,
+        "longitudeE7": 775167072,
+        "placeId": "ChIJN4kfegcVczkRiizCZs2AGvU",
+        "address": "MGV8+7M8, Semri, Uttar Pradesh 281401, India",
+        "name": "Shri Madhavpuram By GLR Group",
+        "locationConfidence": 7.4147725,
+        "calibratedProbability": 3.249821
+      }, {
+        "latitudeE7": 276955885,
+        "longitudeE7": 775161838,
+        "placeId": "ChIJqcaT9wcVczkR_ZS0fFUJpGg",
+        "address": "MGW8+6FM, NH2, Semri, Uttar Pradesh 281401, India",
+        "name": "Dwarka City Residential Project",
+        "locationConfidence": 5.4067483,
+        "calibratedProbability": 2.3697238
+      }, {
+        "latitudeE7": 276932878,
+        "longitudeE7": 775183477,
+        "placeId": "ChIJTa_AnF4VczkREfm9ueyOy5s",
+        "address": "MGV9+88C, NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti University School of Pharmacy Campus II",
+        "locationConfidence": 2.9030201,
+        "calibratedProbability": 1.2723647
+      }, {
+        "latitudeE7": 276941921,
+        "longitudeE7": 775189955,
+        "placeId": "ChIJGx8_LQsVczkRSWTV5_VvL6o",
+        "address": "NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti Ayurvedic Hospital",
+        "locationConfidence": 2.4194245,
+        "calibratedProbability": 1.0604097
+      }, {
+        "latitudeE7": 276956304,
+        "longitudeE7": 775162264,
+        "placeId": "ChIJYYKG9wcVczkRE1Bgrr5ervQ",
+        "address": "MGW8+7F5 chatta, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "Hare Krishna City",
+        "locationConfidence": 1.0554332,
+        "calibratedProbability": 0.46258584
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 27,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276927899,
+        "longitudeE7": 775156544
+      },
+      "endLocation": {
+        "latitudeE7": 276279410,
+        "longitudeE7": 775695612
+      },
+      "duration": {
+        "startTimestamp": "2019-12-04T09:12:24.091Z",
+        "endTimestamp": "2019-12-04T17:37:25.302Z"
+      },
+      "distance": 8954,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 34.31229889392853
+      }, {
+        "activityType": "STILL",
+        "probability": 34.119269251823425
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 16.553662717342377
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276279410,
+          "longitudeE7": 775695612,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-04T17:37:25.302Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276467717,
+        "longitudeE7": 775544575
+      },
+      "endLocation": {
+        "latitudeE7": 276467717,
+        "longitudeE7": 775544575
+      },
+      "duration": {
+        "startTimestamp": "2019-12-04T17:37:25.302Z",
+        "endTimestamp": "2019-12-04T19:13:58.692Z"
+      },
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 31.610068678855896
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 30.05748987197876
+      }, {
+        "activityType": "STILL",
+        "probability": 24.756307899951935
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276467717,
+          "longitudeE7": 775544575,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-04T19:13:58.692Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276467717,
+        "longitudeE7": 775544575
+      },
+      "endLocation": {
+        "latitudeE7": 276927899,
+        "longitudeE7": 775156544
+      },
+      "duration": {
+        "startTimestamp": "2019-12-04T19:13:58.692Z",
+        "endTimestamp": "2019-12-05T04:56:58.838Z"
+      },
+      "distance": 6386,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.268115878105164
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 29.346978664398193
+      }, {
+        "activityType": "STILL",
+        "probability": 25.372406840324402
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276927899,
+          "longitudeE7": 775156544,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-05T04:56:58.838Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 40.28675,
+        "calibratedProbability": 14.850056
+      },
+      "duration": {
+        "startTimestamp": "2019-12-05T04:56:58.838Z",
+        "endTimestamp": "2019-12-05T10:40:36.754Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276933514,
+      "centerLngE7": 775165357,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276924791,
+        "longitudeE7": 775180071,
+        "placeId": "ChIJu_s3G-oUczkR9NWCyzxJlGk",
+        "address": "NH2, Chhata, Mathura, Bilothi, Uttar Pradesh 281401, India",
+        "name": "Nari Semari Devi Temple",
+        "locationConfidence": 32.06118,
+        "calibratedProbability": 11.818037
+      }, {
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 12.104599,
+        "calibratedProbability": 4.4618635
+      }, {
+        "latitudeE7": 276931649,
+        "longitudeE7": 775167072,
+        "placeId": "ChIJN4kfegcVczkRiizCZs2AGvU",
+        "address": "MGV8+7M8, Semri, Uttar Pradesh 281401, India",
+        "name": "Shri Madhavpuram By GLR Group",
+        "locationConfidence": 7.587351,
+        "calibratedProbability": 2.7967653
+      }, {
+        "latitudeE7": 276955885,
+        "longitudeE7": 775161838,
+        "placeId": "ChIJqcaT9wcVczkR_ZS0fFUJpGg",
+        "address": "MGW8+6FM, NH2, Semri, Uttar Pradesh 281401, India",
+        "name": "Dwarka City Residential Project",
+        "locationConfidence": 3.7673004,
+        "calibratedProbability": 1.3886606
+      }, {
+        "latitudeE7": 276932878,
+        "longitudeE7": 775183477,
+        "placeId": "ChIJTa_AnF4VczkREfm9ueyOy5s",
+        "address": "MGV9+88C, NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti University School of Pharmacy Campus II",
+        "locationConfidence": 1.9418254,
+        "calibratedProbability": 0.7157742
+      }, {
+        "latitudeE7": 276941921,
+        "longitudeE7": 775189955,
+        "placeId": "ChIJGx8_LQsVczkRSWTV5_VvL6o",
+        "address": "NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti Ayurvedic Hospital",
+        "locationConfidence": 1.2574631,
+        "calibratedProbability": 0.46351212
+      }, {
+        "latitudeE7": 276956304,
+        "longitudeE7": 775162264,
+        "placeId": "ChIJYYKG9wcVczkRE1Bgrr5ervQ",
+        "address": "MGW8+7F5 chatta, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "Hare Krishna City",
+        "locationConfidence": 0.99352926,
+        "calibratedProbability": 0.36622375
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276937889,
+        "longitudeE7": 775172025
+      },
+      "endLocation": {
+        "latitudeE7": 276937889,
+        "longitudeE7": 775172025
+      },
+      "duration": {
+        "startTimestamp": "2019-12-05T10:40:36.754Z",
+        "endTimestamp": "2019-12-06T04:33:52.396Z"
+      },
+      "distance": 15772,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 67.80639886856079
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 13.376446068286896
+      }, {
+        "activityType": "STILL",
+        "probability": 10.619310289621353
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276937889,
+          "longitudeE7": 775172025,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-06T04:33:52.396Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 40.362732,
+        "calibratedProbability": 12.814875
+      },
+      "duration": {
+        "startTimestamp": "2019-12-06T04:33:52.396Z",
+        "endTimestamp": "2019-12-06T10:08:16.388Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276932800,
+      "centerLngE7": 775164250,
+      "visitConfidence": 68,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276924791,
+        "longitudeE7": 775180071,
+        "placeId": "ChIJu_s3G-oUczkR9NWCyzxJlGk",
+        "address": "NH2, Chhata, Mathura, Bilothi, Uttar Pradesh 281401, India",
+        "name": "Nari Semari Devi Temple",
+        "locationConfidence": 32.470936,
+        "calibratedProbability": 10.309286
+      }, {
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 12.404785,
+        "calibratedProbability": 3.938429
+      }, {
+        "latitudeE7": 276931649,
+        "longitudeE7": 775167072,
+        "placeId": "ChIJN4kfegcVczkRiizCZs2AGvU",
+        "address": "MGV8+7M8, Semri, Uttar Pradesh 281401, India",
+        "name": "Shri Madhavpuram By GLR Group",
+        "locationConfidence": 6.7838626,
+        "calibratedProbability": 2.1538272
+      }, {
+        "latitudeE7": 276955885,
+        "longitudeE7": 775161838,
+        "placeId": "ChIJqcaT9wcVczkR_ZS0fFUJpGg",
+        "address": "MGW8+6FM, NH2, Semri, Uttar Pradesh 281401, India",
+        "name": "Dwarka City Residential Project",
+        "locationConfidence": 3.892395,
+        "calibratedProbability": 1.2358072
+      }, {
+        "latitudeE7": 276932878,
+        "longitudeE7": 775183477,
+        "placeId": "ChIJTa_AnF4VczkREfm9ueyOy5s",
+        "address": "MGV9+88C, NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti University School of Pharmacy Campus II",
+        "locationConfidence": 1.9848667,
+        "calibratedProbability": 0.6301808
+      }, {
+        "latitudeE7": 276941921,
+        "longitudeE7": 775189955,
+        "placeId": "ChIJGx8_LQsVczkRSWTV5_VvL6o",
+        "address": "NH 19, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti Ayurvedic Hospital",
+        "locationConfidence": 1.1952078,
+        "calibratedProbability": 0.3794698
+      }, {
+        "latitudeE7": 276956304,
+        "longitudeE7": 775162264,
+        "placeId": "ChIJYYKG9wcVczkRE1Bgrr5ervQ",
+        "address": "MGW8+7F5 chatta, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "Hare Krishna City",
+        "locationConfidence": 0.90521437,
+        "calibratedProbability": 0.287399
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 33,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276937889,
+        "longitudeE7": 775172025
+      },
+      "endLocation": {
+        "latitudeE7": 276467717,
+        "longitudeE7": 775544575
+      },
+      "duration": {
+        "startTimestamp": "2019-12-06T10:08:16.388Z",
+        "endTimestamp": "2019-12-07T11:16:39.443Z"
+      },
+      "distance": 6386,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.798232078552246
+      }, {
+        "activityType": "STILL",
+        "probability": 22.48540371656418
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 18.64663064479828
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276936664,
+          "lngE7": 775169525
+        }, {
+          "latE7": 276471080,
+          "lngE7": 775560073
+        }, {
+          "latE7": 276476459,
+          "lngE7": 775552749
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ75AH_acVczkRrMBU2DSYZsk"
+        }, {
+          "placeId": "ChIJ27xAKwcVczkR_nQ65vBwzw0"
+        }, {
+          "placeId": "ChIJ27xAKwcVczkR6whPubsqXf4"
+        }, {
+          "placeId": "ChIJO4UVmQEVczkR4MQPWo9-Ofk"
+        }, {
+          "placeId": "ChIJ2buUwf0UczkRCnrBpOmUey0"
+        }, {
+          "placeId": "ChIJ2buUwf0UczkRgF2uWcmiLak"
+        }, {
+          "placeId": "ChIJM6t21voUczkR3eU-xG8_r7A"
+        }, {
+          "placeId": "ChIJM6t21voUczkR5pYxfSjtvr4"
+        }, {
+          "placeId": "ChIJ9SxgAO8UczkRVEvH8YlFgpQ"
+        }, {
+          "placeId": "ChIJ9SxgAO8UczkRauzHCby0EG4"
+        }, {
+          "placeId": "ChIJq2A_CewUczkRYoVh5F7poAk"
+        }, {
+          "placeId": "ChIJ3ec81uoUczkRDN2BAMJCs1A"
+        }, {
+          "placeId": "ChIJ3ec81uoUczkRfIbdhkBVCYE"
+        }, {
+          "placeId": "ChIJWTZ8aL4UczkRXT7G-pUaEhU"
+        }, {
+          "placeId": "ChIJa457G68UczkR6-r4-zfz4Uc"
+        }, {
+          "placeId": "ChIJ6w5TjKoUczkR9-DK2DkCVBg"
+        }],
+        "distanceMeters": 7688.064327214563,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276467717,
+          "longitudeE7": 775544575,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-07T11:16:39.443Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275089706,
+        "longitudeE7": 774900538,
+        "placeId": "ChIJwccvgcgNczkRJQtr_XBAa9s",
+        "address": "Pali Brahmnan, GF5R+H2M, Radha Kund, Pali Brahmnan, Uttar Pradesh 281501, India",
+        "name": "Radhey Shyam Gainda laal",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 57.92839
+      },
+      "duration": {
+        "startTimestamp": "2019-12-07T11:16:39.443Z",
+        "endTimestamp": "2019-12-07T23:47:17.568Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275078133,
+      "centerLngE7": 774895854,
+      "visitConfidence": 61,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275508279,
+        "longitudeE7": 775447996
+      },
+      "endLocation": {
+        "latitudeE7": 276299544,
+        "longitudeE7": 775719752
+      },
+      "duration": {
+        "startTimestamp": "2019-12-07T23:47:17.568Z",
+        "endTimestamp": "2019-12-08T07:13:53.122Z"
+      },
+      "distance": 9197,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 36.703506112098694
+      }, {
+        "activityType": "STILL",
+        "probability": 36.37564182281494
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.026883244514465
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276299544,
+          "longitudeE7": 775719752,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-08T07:13:53.122Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276282445,
+        "longitudeE7": 775735241,
+        "placeId": "ChIJGce7dbpsczkR1PmJj9sOlgo",
+        "address": "JHHF+7CR, NH2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Balaji Ashram",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 55.963818,
+        "calibratedProbability": 7.6735797
+      },
+      "duration": {
+        "startTimestamp": "2019-12-08T07:13:53.122Z",
+        "endTimestamp": "2019-12-08T14:32:36.068Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276299544,
+      "centerLngE7": 775719752,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276309953,
+        "longitudeE7": 775723974,
+        "placeId": "ChIJ16EcmrptczkR44n0x1yUiyc",
+        "address": "JHJC+9XR, Mathura, Uttar Pradesh 281406, India",
+        "name": "Milan Family Dhaba",
+        "locationConfidence": 25.645191,
+        "calibratedProbability": 3.5163865
+      }, {
+        "latitudeE7": 276313608,
+        "longitudeE7": 775715755,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 7.1393104,
+        "calibratedProbability": 0.9789194
+      }, {
+        "latitudeE7": 276301263,
+        "longitudeE7": 775731694,
+        "placeId": "ChIJEecn2I9tczkRO0BXyrPOFwc",
+        "address": "JHJF+373, NH 19, Uttar Pradesh 281406, India",
+        "name": "Ramesh Dejal Mestri",
+        "locationConfidence": 4.3879566,
+        "calibratedProbability": 0.6016626
+      }, {
+        "latitudeE7": 276296783,
+        "longitudeE7": 775727251,
+        "placeId": "ChIJF1qwfLBsczkRoag2yrXfMhM",
+        "address": "JHHF+V3H, Uttar Pradesh 281406, India",
+        "locationConfidence": 3.7424598,
+        "calibratedProbability": 0.5131541
+      }, {
+        "latitudeE7": 276313611,
+        "longitudeE7": 775715642,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 3.1212635,
+        "calibratedProbability": 0.42797768
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276482810,
+        "longitudeE7": 775529203
+      },
+      "endLocation": {
+        "latitudeE7": 275543398,
+        "longitudeE7": 775439187
+      },
+      "duration": {
+        "startTimestamp": "2019-12-08T14:32:36.068Z",
+        "endTimestamp": "2019-12-09T02:16:55.916Z"
+      },
+      "distance": 10483,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.88136541843414
+      }, {
+        "activityType": "STILL",
+        "probability": 29.25923466682434
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 20.087555050849915
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275543398,
+          "longitudeE7": 775439187,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-09T02:16:55.916Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 86.20725,
+        "calibratedProbability": 37.069904,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-09T02:16:55.916Z",
+        "endTimestamp": "2019-12-09T19:13:35.306Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 51.65434,
+          "calibratedProbability": 25.970144,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-12-09T02:16:55.916Z",
+          "endTimestamp": "2019-12-09T08:17:00.090Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276458581,
+        "centerLngE7": 775526982,
+        "visitConfidence": 60,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 25.444473,
+          "calibratedProbability": 12.7926655
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 6.1365004,
+          "calibratedProbability": 3.0852356
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.0232993,
+          "calibratedProbability": 0.5144821
+        }, {
+          "latitudeE7": 276466212,
+          "longitudeE7": 775512886,
+          "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+          "locationConfidence": 0.55054253,
+          "calibratedProbability": 0.27679512
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 0.5429327,
+          "calibratedProbability": 0.27296916
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 42,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276458581,
+      "centerLngE7": 775526982,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 8.609502,
+        "calibratedProbability": 3.7021642
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.7078105,
+        "calibratedProbability": 0.73437405
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.9188146,
+        "calibratedProbability": 0.39509866
+      }, {
+        "latitudeE7": 276487997,
+        "longitudeE7": 775531770,
+        "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+        "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "GL Bajaj Group of Institutions, Mathura",
+        "locationConfidence": 0.9061143,
+        "calibratedProbability": 0.38963738
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 0.831938,
+        "calibratedProbability": 0.35774094
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.61248493,
+        "calibratedProbability": 0.2633741
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 49.24462
+      },
+      "duration": {
+        "startTimestamp": "2019-12-09T19:13:35.306Z",
+        "endTimestamp": "2019-12-10T00:42:36.591Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275485756,
+      "centerLngE7": 775431331,
+      "visitConfidence": 58,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276428981,
+        "longitudeE7": 775528065
+      },
+      "endLocation": {
+        "latitudeE7": 275534691,
+        "longitudeE7": 775404041
+      },
+      "duration": {
+        "startTimestamp": "2019-12-10T00:42:36.591Z",
+        "endTimestamp": "2019-12-11T06:49:44.817Z"
+      },
+      "distance": 10564,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.51700305938721
+      }, {
+        "activityType": "STILL",
+        "probability": 30.328086018562317
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 25.10390877723694
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275534691,
+          "longitudeE7": 775404041,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-11T06:49:44.817Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 56.45733
+      },
+      "duration": {
+        "startTimestamp": "2019-12-11T06:49:44.817Z",
+        "endTimestamp": "2019-12-11T14:32:00.984Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275485756,
+      "centerLngE7": 775431331,
+      "visitConfidence": 60,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276321308,
+        "longitudeE7": 775677525
+      },
+      "endLocation": {
+        "latitudeE7": 275542841,
+        "longitudeE7": 775439904
+      },
+      "duration": {
+        "startTimestamp": "2019-12-11T14:32:00.984Z",
+        "endTimestamp": "2019-12-12T15:52:25.715Z"
+      },
+      "distance": 8967,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.700233697891235
+      }, {
+        "activityType": "STILL",
+        "probability": 31.58547878265381
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.443075239658356
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275542841,
+          "longitudeE7": 775439904,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-12T15:52:25.715Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276325788,
+        "longitudeE7": 775664309,
+        "placeId": "ChIJG3yr7a1sczkRFkhFQJ8sCwI",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 60.13313,
+        "calibratedProbability": 21.43217
+      },
+      "duration": {
+        "startTimestamp": "2019-12-12T15:52:25.715Z",
+        "endTimestamp": "2019-12-13T11:28:00.372Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276358600,
+      "centerLngE7": 775625500,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276350675,
+        "longitudeE7": 775657819,
+        "placeId": "ChIJK3uGaq5sczkR6iO7DqVorPI",
+        "address": "21st KM Stone NH-2 Delhi Road, Akbarpur, 281406, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Public School",
+        "locationConfidence": 20.525517,
+        "calibratedProbability": 7.3155413
+      }, {
+        "latitudeE7": 276344232,
+        "longitudeE7": 775651845,
+        "placeId": "ChIJuTxHa6xsczkRgWl1pxCXvIk",
+        "address": "JHP8+GF3, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Chaudhary Dhaba",
+        "locationConfidence": 9.537154,
+        "calibratedProbability": 3.3991566
+      }, {
+        "latitudeE7": 276347223,
+        "longitudeE7": 775645135,
+        "placeId": "ChIJ5TkBV2ttczkRTLFrfnC0-rU",
+        "address": "JHM7+VRM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "BH SIEM",
+        "locationConfidence": 4.5093994,
+        "calibratedProbability": 1.6072043
+      }, {
+        "latitudeE7": 276344299,
+        "longitudeE7": 775649887,
+        "placeId": "ChIJ42xjBaVtczkRbbtRoLqLFrI",
+        "address": "JHM7+QXH, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS",
+        "locationConfidence": 3.030956,
+        "calibratedProbability": 1.0802692
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJCzEo8fVtczkRzs0UCNMEGZE",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Pathavari Mandir Neetu Ghar",
+        "locationConfidence": 1.2139478,
+        "calibratedProbability": 0.43266562
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJ_____6xsczkReDVDLQV-sTw",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Prp Computers",
+        "locationConfidence": 1.0498971,
+        "calibratedProbability": 0.37419596
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276362328,
+        "longitudeE7": 775580714,
+        "placeId": "ChIJCwvuk1MTczkRKoKmkgfAaV8",
+        "address": "Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "Ajhai",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 53.4969
+      },
+      "duration": {
+        "startTimestamp": "2019-12-13T11:28:00.372Z",
+        "endTimestamp": "2019-12-14T00:12:50.010Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 276367850,
+      "centerLngE7": 775613550,
+      "visitConfidence": 59,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 57.032528,
+        "calibratedProbability": 14.339043
+      },
+      "duration": {
+        "startTimestamp": "2019-12-14T00:12:50.010Z",
+        "endTimestamp": "2019-12-14T08:25:06.020Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 275514540,
+      "centerLngE7": 775456406,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 275509296,
+        "longitudeE7": 775484898,
+        "placeId": "ChIJp3PafccNczkRKlVhdEqT3ko",
+        "address": "Radha Kund Rd, near D.A.Vcollage, Govardhan, Ral, Uttar Pradesh 281502, India",
+        "name": "Shri Lovely Kripa Dham",
+        "locationConfidence": 25.590704,
+        "calibratedProbability": 6.433981
+      }, {
+        "latitudeE7": 275509296,
+        "longitudeE7": 775484898,
+        "placeId": "ChIJcRiw0TYTczkR7FprAGDQP44",
+        "address": "HG2X+99H, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "English Wine Shop.",
+        "locationConfidence": 5.023186,
+        "calibratedProbability": 1.2629229
+      }, {
+        "latitudeE7": 275498425,
+        "longitudeE7": 775479831,
+        "placeId": "ChIJp0rt2fMNczkRxaERI665XyI",
+        "address": "Radha Kund Rd, near Kanhaiya the dhaaba, Ral, Uttar Pradesh 281504, India",
+        "name": "Shri Radhika dhaam hotel Radhakund",
+        "locationConfidence": 3.5895395,
+        "calibratedProbability": 0.9024773
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJdXWrJhITczkRfqdHKe0GO54",
+        "address": "HG2X+99H, Radha Kund Rd, Govardhan, Ral, Uttar Pradesh 281502, India",
+        "name": "Shri Radhe Bhojnalay",
+        "locationConfidence": 3.2796407,
+        "calibratedProbability": 0.82456297
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJz2VpuE0TczkRByekdxTJ_Qo",
+        "address": "HG2X+99H, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "Nandkishore Cock Agency",
+        "locationConfidence": 2.521958,
+        "calibratedProbability": 0.6340674
+      }, {
+        "latitudeE7": 275509296,
+        "longitudeE7": 775484898,
+        "placeId": "ChIJT5mppJsTczkRIlqUTasE3Vs",
+        "locationConfidence": 1.3646683,
+        "calibratedProbability": 0.34310308
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJSSVvrb4TczkRVC8VBpSPeek",
+        "address": "Canara Bank, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "Komal Aqua Collers Sal/ Sarvis",
+        "locationConfidence": 1.2739768,
+        "calibratedProbability": 0.32030156
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276371721,
+        "longitudeE7": 775610105
+      },
+      "endLocation": {
+        "latitudeE7": 276254050,
+        "longitudeE7": 775728318
+      },
+      "duration": {
+        "startTimestamp": "2019-12-14T08:25:06.020Z",
+        "endTimestamp": "2019-12-14T20:15:05.749Z"
+      },
+      "distance": 1751,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.05549621582031
+      }, {
+        "activityType": "STILL",
+        "probability": 31.93790316581726
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 16.320817172527313
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276356964,
+          "lngE7": 775590362
+        }, {
+          "latE7": 276350975,
+          "lngE7": 775531616
+        }, {
+          "latE7": 276252899,
+          "lngE7": 775728073
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJe4pUiFMTczkRK9rFQh4_5o4"
+        }, {
+          "placeId": "ChIJkdQ8GFQTczkRyAZIeLcFlgE"
+        }, {
+          "placeId": "ChIJA8PNiFYTczkRabihQa54nKs"
+        }, {
+          "placeId": "ChIJw713klYTczkRav0nbSEskoI"
+        }, {
+          "placeId": "ChIJ7Whf11YTczkRXHaoIHKusy0"
+        }, {
+          "placeId": "ChIJ7Whf11YTczkRNWmZJr-iXOs"
+        }, {
+          "placeId": "ChIJeWtJc1ETczkRrUyGZsB3PCY"
+        }, {
+          "placeId": "ChIJeWtJc1ETczkRW2Kx12yNs6E"
+        }, {
+          "placeId": "ChIJF9W9mrNsczkRMqxwf02O7Z0"
+        }, {
+          "placeId": "ChIJ2wGfmrNsczkRIsrL1R8I8v4"
+        }, {
+          "placeId": "ChIJAdVvkLNsczkRMK2gE6Uq_tY"
+        }, {
+          "placeId": "ChIJS3JdkLNsczkRwKotx-CcGvY"
+        }, {
+          "placeId": "ChIJNS8P8bNsczkRVc1ECqx3yAw"
+        }, {
+          "placeId": "ChIJkzvTVLFsczkRwH5nq6i_59M"
+        }, {
+          "placeId": "ChIJkzvTVLFsczkRokHHFcwN0yM"
+        }, {
+          "placeId": "ChIJc9F8KLdsczkRBKj4YfoilxU"
+        }, {
+          "placeId": "ChIJc9F8KLdsczkROhjTT16SrvY"
+        }],
+        "distanceMeters": 3474.3404741229597,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276254050,
+          "longitudeE7": 775728318,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-14T20:15:05.749Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 74.071686,
+        "calibratedProbability": 16.04936
+      },
+      "duration": {
+        "startTimestamp": "2019-12-14T20:15:05.749Z",
+        "endTimestamp": "2019-12-15T03:54:15.967Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 68.365974,
+          "calibratedProbability": 19.998308
+        },
+        "duration": {
+          "startTimestamp": "2019-12-14T20:15:05.749Z",
+          "endTimestamp": "2019-12-15T03:54:15.967Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276422928,
+        "centerLngE7": 775557937,
+        "visitConfidence": 57,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276415805,
+          "longitudeE7": 775576179,
+          "placeId": "ChIJuYil6o4TczkRGN1N4OP2TM4",
+          "address": "JHR5+J2X, Sihana Rd, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281406, India",
+          "name": "Tulsi Seva Dham Ashram Akbarpur Mathura",
+          "locationConfidence": 1.8363403,
+          "calibratedProbability": 0.53716344
+        }, {
+          "latitudeE7": 276428074,
+          "longitudeE7": 775585889,
+          "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+          "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+          "name": "kamal Shadi Sansar And Garment",
+          "locationConfidence": 1.0732327,
+          "calibratedProbability": 0.31394035
+        }, {
+          "latitudeE7": 276428184,
+          "longitudeE7": 775586033,
+          "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+          "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+          "name": "kamal Shadi Sansar And Garment",
+          "locationConfidence": 0.7798167,
+          "calibratedProbability": 0.22811078
+        }, {
+          "latitudeE7": 276453765,
+          "longitudeE7": 775517555,
+          "placeId": "ChIJhVAgBWoVczkRzaA_r4s6qdM",
+          "address": "JHW2+5MF, Mathura, Uttar Pradesh 281406, India",
+          "name": "Indira Gandhi Hostel",
+          "locationConfidence": 0.70788485,
+          "calibratedProbability": 0.20706938
+        }, {
+          "latitudeE7": 276428490,
+          "longitudeE7": 775585547,
+          "placeId": "ChIJH8BXUIwVczkRvAmotCa1RlI",
+          "address": "JHV5+4CM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+          "name": "गौरा कैलाश ज्वेलरी संसार",
+          "locationConfidence": 0.654663,
+          "calibratedProbability": 0.19150102
+        }, {
+          "latitudeE7": 276428137,
+          "longitudeE7": 775586157,
+          "placeId": "ChIJbYobnwYVczkREWArvGTQLQE",
+          "address": "rod and govardhan, Akbarpur - Shergarh Rd, Sihana, Chaumuhan Rural, Uttar Pradesh 281406, India",
+          "name": "Manoj Mobile Shop Akbarpur",
+          "locationConfidence": 0.65377647,
+          "calibratedProbability": 0.19124168
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 55,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276422928,
+      "centerLngE7": 775557937,
+      "visitConfidence": 57,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 20.513372,
+        "calibratedProbability": 4.444701
+      }, {
+        "latitudeE7": 276415805,
+        "longitudeE7": 775576179,
+        "placeId": "ChIJuYil6o4TczkRGN1N4OP2TM4",
+        "address": "JHR5+J2X, Sihana Rd, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Tulsi Seva Dham Ashram Akbarpur Mathura",
+        "locationConfidence": 1.9895984,
+        "calibratedProbability": 0.43109295
+      }, {
+        "latitudeE7": 276428074,
+        "longitudeE7": 775585889,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 1.1628029,
+        "calibratedProbability": 0.25194842
+      }, {
+        "latitudeE7": 276428184,
+        "longitudeE7": 775586033,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 0.84489894,
+        "calibratedProbability": 0.18306708
+      }, {
+        "latitudeE7": 276428490,
+        "longitudeE7": 775585547,
+        "placeId": "ChIJH8BXUIwVczkRvAmotCa1RlI",
+        "address": "JHV5+4CM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "गौरा कैलाश ज्वेलरी संसार",
+        "locationConfidence": 0.70930016,
+        "calibratedProbability": 0.15368645
+      }, {
+        "latitudeE7": 276428137,
+        "longitudeE7": 775586157,
+        "placeId": "ChIJbYobnwYVczkREWArvGTQLQE",
+        "address": "rod and govardhan, Akbarpur - Shergarh Rd, Sihana, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Manoj Mobile Shop Akbarpur",
+        "locationConfidence": 0.7083396,
+        "calibratedProbability": 0.15347831
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276362328,
+        "longitudeE7": 775580714,
+        "placeId": "ChIJCwvuk1MTczkRKoKmkgfAaV8",
+        "address": "Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "Ajhai",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 59.331192
+      },
+      "duration": {
+        "startTimestamp": "2019-12-15T03:54:15.967Z",
+        "endTimestamp": "2019-12-15T14:13:35.513Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 276367850,
+      "centerLngE7": 775613550,
+      "visitConfidence": 61,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 68.39549,
+        "calibratedProbability": 22.829338,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-15T14:13:35.513Z",
+        "endTimestamp": "2019-12-16T02:41:24.660Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "name": "RAJIV GHANTI HOSTEL",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 25.751638,
+          "calibratedProbability": 15.18517,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-12-15T15:13:19.323Z",
+          "endTimestamp": "2019-12-15T15:23:55.116Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276453200,
+        "centerLngE7": 775532100,
+        "visitConfidence": 62,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 14.304435,
+          "calibratedProbability": 8.435008,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 13.275759,
+          "calibratedProbability": 7.8284206
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 1.2879561,
+          "calibratedProbability": 0.75947917,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.2511035,
+          "calibratedProbability": 0.73774797
+        }, {
+          "latitudeE7": 276448648,
+          "longitudeE7": 775523198,
+          "placeId": "ChIJG2ob9qgUczkR7CBTsBAFOOU",
+          "locationConfidence": 0.7267007,
+          "calibratedProbability": 0.4285193
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 18,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453333,
+      "centerLngE7": 775531300,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 25.074049,
+        "calibratedProbability": 8.369323
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.9524674,
+        "calibratedProbability": 0.9854871
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 2.5998309,
+        "calibratedProbability": 0.8677826
+      }, {
+        "latitudeE7": 276458235,
+        "longitudeE7": 775548087,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.48364988,
+        "calibratedProbability": 0.16143471
+      }, {
+        "latitudeE7": 276458832,
+        "longitudeE7": 775548174,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.4822849,
+        "calibratedProbability": 0.1609791
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 55,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276325788,
+        "longitudeE7": 775664309,
+        "placeId": "ChIJG3yr7a1sczkRFkhFQJ8sCwI",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 28.732145,
+        "calibratedProbability": 7.140105
+      },
+      "duration": {
+        "startTimestamp": "2019-12-16T02:41:24.660Z",
+        "endTimestamp": "2019-12-16T15:29:05.600Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276331150,
+      "centerLngE7": 775678400,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276337974,
+        "longitudeE7": 775681278,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 19.730795,
+        "calibratedProbability": 4.9032173
+      }, {
+        "latitudeE7": 276353160,
+        "longitudeE7": 775674543,
+        "placeId": "ChIJmVWMKKxsczkRtrk1Po0PLNw",
+        "address": "JHP8+4XP, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Bank Of India",
+        "locationConfidence": 12.88427,
+        "calibratedProbability": 3.2018158
+      }, {
+        "latitudeE7": 276348740,
+        "longitudeE7": 775688550,
+        "placeId": "ChIJa-xMEji35zsRrh5tR_OmTp4",
+        "address": "Plot No. 37,, Near Iocl Petrol Pump, Barsana, Mathura, Barsana, Uttar Pradesh 281405, India",
+        "name": "Bank of Baroda ATM",
+        "locationConfidence": 11.248164,
+        "calibratedProbability": 2.7952342
+      }, {
+        "latitudeE7": 276345233,
+        "longitudeE7": 775680692,
+        "placeId": "ChIJF1VVlcBsczkRLwO_VUEhX08",
+        "address": "21st Km, NH 2, Village – Chaumuhan, Tehsil, Chhata Rural, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS Ayurvedic Medical College \u0026 Hospital",
+        "locationConfidence": 8.601762,
+        "calibratedProbability": 2.1375878
+      }, {
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 7.857565,
+        "calibratedProbability": 1.9526505
+      }, {
+        "latitudeE7": 276344906,
+        "longitudeE7": 775670018,
+        "placeId": "ChIJ35QQKrBsczkRwKnSygtwbHo",
+        "address": "JHM8+QRR, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Institute of Technology \u0026 Management",
+        "locationConfidence": 4.1265054,
+        "calibratedProbability": 1.0254606
+      }, {
+        "latitudeE7": 276350675,
+        "longitudeE7": 775657819,
+        "placeId": "ChIJK3uGaq5sczkR6iO7DqVorPI",
+        "address": "21st KM Stone NH-2 Delhi Road, Akbarpur, 281406, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Public School",
+        "locationConfidence": 2.2815769,
+        "calibratedProbability": 0.56698513
+      }, {
+        "latitudeE7": 276346708,
+        "longitudeE7": 775682099,
+        "placeId": "ChIJ5Umjfa5sczkRT7tYMcly6Pc",
+        "address": "JHM9+V78, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "OBC ATM",
+        "locationConfidence": 1.7842388,
+        "calibratedProbability": 0.4433937
+      }, {
+        "latitudeE7": 276344232,
+        "longitudeE7": 775651845,
+        "placeId": "ChIJuTxHa6xsczkRgWl1pxCXvIk",
+        "address": "JHP8+GF3, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Chaudhary Dhaba",
+        "locationConfidence": 1.7566949,
+        "calibratedProbability": 0.4365489
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 21,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 80.53709,
+        "calibratedProbability": 34.572926,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-16T15:29:05.600Z",
+        "endTimestamp": "2019-12-18T12:02:05.231Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 41.153236,
+          "calibratedProbability": 22.52632
+        },
+        "duration": {
+          "startTimestamp": "2019-12-16T15:53:29.224Z",
+          "endTimestamp": "2019-12-16T16:25:37.508Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276475100,
+        "centerLngE7": 775528567,
+        "visitConfidence": 62,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 27.250288,
+          "calibratedProbability": 14.91617
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 4.5005994,
+          "calibratedProbability": 2.463523
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 2.2741382,
+          "calibratedProbability": 1.2448101
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.9835794,
+          "calibratedProbability": 0.5383884
+        }, {
+          "latitudeE7": 276496586,
+          "longitudeE7": 775508420,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.8352644,
+          "calibratedProbability": 0.4572042
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 0.629437,
+          "calibratedProbability": 0.3445391
+        }, {
+          "latitudeE7": 276494857,
+          "longitudeE7": 775511444,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.54339993,
+          "calibratedProbability": 0.2974444
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 33,
+        "placeVisitType": "SINGLE_PLACE"
+      }, {
+        "location": {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 39.391945,
+          "calibratedProbability": 21.74404,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-12-16T16:37:46.954Z",
+          "endTimestamp": "2019-12-16T17:00:03.775Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276467300,
+        "centerLngE7": 775529333,
+        "visitConfidence": 62,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 29.62747,
+          "calibratedProbability": 16.354128
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 5.94409,
+          "calibratedProbability": 3.2810903
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 1.565647,
+          "calibratedProbability": 0.8642247
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.987186,
+          "calibratedProbability": 0.5449188
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 32,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276457360,
+      "centerLngE7": 775528060,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 13.724281,
+        "calibratedProbability": 5.8915534
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.183915,
+        "calibratedProbability": 0.9375101
+      }, {
+        "latitudeE7": 276450157,
+        "longitudeE7": 775541840,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 1.3987836,
+        "calibratedProbability": 0.60046923
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 1.0479748,
+        "calibratedProbability": 0.4498742
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.7828631,
+        "calibratedProbability": 0.3360671
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, National Highway 2, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 71.28291,
+        "calibratedProbability": 34.695904
+      },
+      "duration": {
+        "startTimestamp": "2019-12-18T12:02:05.231Z",
+        "endTimestamp": "2019-12-19T03:06:36.809Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 276453200,
+      "centerLngE7": 775532200,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "locationConfidence": 24.971506,
+        "calibratedProbability": 12.154511,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 276450157,
+        "longitudeE7": 775541840,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 1.5389932,
+        "calibratedProbability": 0.7490822
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.4491678,
+        "calibratedProbability": 0.705361
+      }, {
+        "latitudeE7": 276466354,
+        "longitudeE7": 775512839,
+        "placeId": "ChIJQX-hmIQVczkR7bf6PbW8hiE",
+        "address": "C Block, 2/51, NH2,Bye Pass Road, near Shree Ram Picture Palace, Kamla Nagar, Agra, Uttar Pradesh 282004, India",
+        "name": "Dr Bharat Maheshwari",
+        "locationConfidence": 0.7517236,
+        "calibratedProbability": 0.36589035
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 57,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 78.44308,
+        "calibratedProbability": 49.989666,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-19T03:06:36.809Z",
+        "endTimestamp": "2019-12-19T17:21:57.777Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 48.029724,
+          "calibratedProbability": 38.530033
+        },
+        "duration": {
+          "startTimestamp": "2019-12-19T03:06:36.809Z",
+          "endTimestamp": "2019-12-19T07:04:10.148Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276456675,
+        "centerLngE7": 775536000,
+        "visitConfidence": 80,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460799,
+          "longitudeE7": 775525455,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 20.231176,
+          "calibratedProbability": 16.229698
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 8.97121,
+          "calibratedProbability": 7.1968145
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.90317947,
+          "calibratedProbability": 0.72454166
+        }, {
+          "latitudeE7": 276467002,
+          "longitudeE7": 775549561,
+          "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+          "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+          "name": "Delhi public school mathura",
+          "locationConfidence": 0.6857538,
+          "calibratedProbability": 0.5501201
+        }, {
+          "latitudeE7": 276466354,
+          "longitudeE7": 775512839,
+          "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+          "locationConfidence": 0.6009926,
+          "calibratedProbability": 0.48212367
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 39,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276457120,
+      "centerLngE7": 775534720,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 15.131902,
+        "calibratedProbability": 9.643154
+      }, {
+        "latitudeE7": 276450157,
+        "longitudeE7": 775541840,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 2.2124684,
+        "calibratedProbability": 1.4099467
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.9475162,
+        "calibratedProbability": 1.2410997
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 1.2948701,
+        "calibratedProbability": 0.82518595
+      }, {
+        "latitudeE7": 276466354,
+        "longitudeE7": 775512839,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.94823027,
+        "calibratedProbability": 0.60428166
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276358187,
+        "longitudeE7": 775622692
+      },
+      "endLocation": {
+        "latitudeE7": 276358187,
+        "longitudeE7": 775622692
+      },
+      "duration": {
+        "startTimestamp": "2019-12-20T15:34:28.515Z",
+        "endTimestamp": "2019-12-20T22:22:52.908Z"
+      },
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 39.50997292995453
+      }, {
+        "activityType": "STILL",
+        "probability": 35.16821563243866
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.36072289943695
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276358187,
+          "longitudeE7": 775622692,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-20T22:22:52.908Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 55.275707
+      },
+      "duration": {
+        "startTimestamp": "2019-12-20T22:22:52.908Z",
+        "endTimestamp": "2019-12-21T04:41:07.656Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275508162,
+      "centerLngE7": 775447565,
+      "visitConfidence": 60,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275508162,
+        "longitudeE7": 775447565
+      },
+      "endLocation": {
+        "latitudeE7": 276390395,
+        "longitudeE7": 775585429
+      },
+      "duration": {
+        "startTimestamp": "2019-12-21T04:41:07.656Z",
+        "endTimestamp": "2019-12-21T08:38:50.705Z"
+      },
+      "distance": 9903,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.068145513534546
+      }, {
+        "activityType": "STILL",
+        "probability": 31.559425592422485
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.55373924970627
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276390395,
+          "longitudeE7": 775585429,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-21T08:38:50.705Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 60.540638
+      },
+      "duration": {
+        "startTimestamp": "2019-12-21T08:38:50.705Z",
+        "endTimestamp": "2019-12-21T11:53:01.574Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275508162,
+      "centerLngE7": 775447565,
+      "visitConfidence": 62,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 75.20081,
+        "calibratedProbability": 29.174057,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-21T11:53:01.574Z",
+        "endTimestamp": "2019-12-21T16:41:33.226Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 33.380264,
+          "calibratedProbability": 17.3924
+        },
+        "duration": {
+          "startTimestamp": "2019-12-21T11:53:01.574Z",
+          "endTimestamp": "2019-12-21T12:25:09.872Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276452946,
+        "centerLngE7": 775537758,
+        "visitConfidence": 62,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460799,
+          "longitudeE7": 775525455,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 28.263765,
+          "calibratedProbability": 14.726509
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 9.761343,
+          "calibratedProbability": 5.0860353
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.1312143,
+          "calibratedProbability": 0.58940613
+        }, {
+          "latitudeE7": 276457201,
+          "longitudeE7": 775536395,
+          "placeId": "ChIJG7ywHKkUczkRf87O2LJuKbg",
+          "address": "JHW3+7FJ, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS INSTITUTE OF MANAGEMENT",
+          "locationConfidence": 1.0169209,
+          "calibratedProbability": 0.5298549
+        }, {
+          "latitudeE7": 276467002,
+          "longitudeE7": 775549561,
+          "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+          "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+          "name": "Delhi public school mathura",
+          "locationConfidence": 0.89372367,
+          "calibratedProbability": 0.46566442
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 26,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276452946,
+      "centerLngE7": 775537758,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 15.782786,
+        "calibratedProbability": 6.1229115
+      }, {
+        "latitudeE7": 276450157,
+        "longitudeE7": 775541840,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 3.3971992,
+        "calibratedProbability": 1.317939
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.548459,
+        "calibratedProbability": 0.98867136
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 2.0134277,
+        "calibratedProbability": 0.78110665
+      }, {
+        "latitudeE7": 276458235,
+        "longitudeE7": 775548087,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.5446667,
+        "calibratedProbability": 0.21130274
+      }, {
+        "latitudeE7": 276458832,
+        "longitudeE7": 775548174,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.49976206,
+        "calibratedProbability": 0.19388205
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276325788,
+        "longitudeE7": 775664309,
+        "placeId": "ChIJG3yr7a1sczkRFkhFQJ8sCwI",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 56.00277,
+        "calibratedProbability": 10.432768
+      },
+      "duration": {
+        "startTimestamp": "2019-12-21T16:41:33.226Z",
+        "endTimestamp": "2019-12-21T23:57:18.204Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276320932,
+      "centerLngE7": 775677577,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276345233,
+        "longitudeE7": 775680692,
+        "placeId": "ChIJF1VVlcBsczkRLwO_VUEhX08",
+        "address": "21st Km, NH 2, Village – Chaumuhan, Tehsil, Chhata Rural, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS Ayurvedic Medical College \u0026 Hospital",
+        "locationConfidence": 15.097938,
+        "calibratedProbability": 2.8125978
+      }, {
+        "latitudeE7": 276337245,
+        "longitudeE7": 775681163,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 14.6889105,
+        "calibratedProbability": 2.7364001
+      }, {
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 5.8830185,
+        "calibratedProbability": 1.0959487
+      }, {
+        "latitudeE7": 276344906,
+        "longitudeE7": 775670018,
+        "placeId": "ChIJ35QQKrBsczkRwKnSygtwbHo",
+        "address": "JHM8+QRR, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Institute of Technology \u0026 Management",
+        "locationConfidence": 3.7259593,
+        "calibratedProbability": 0.69410974
+      }, {
+        "latitudeE7": 276315280,
+        "longitudeE7": 775669090,
+        "placeId": "ChIJD02PCLJsczkRqyCbwW8pTSI",
+        "address": "Sanjay Institute Of Engg. \u0026 Mgntchaumuhan, Chhata Rural, Mathura, Uttar Pradesh 281406, India",
+        "name": "supertech",
+        "locationConfidence": 1.742686,
+        "calibratedProbability": 0.32464534
+      }, {
+        "latitudeE7": 276346708,
+        "longitudeE7": 775682099,
+        "placeId": "ChIJ5Umjfa5sczkRT7tYMcly6Pc",
+        "address": "JHM9+V78, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "OBC ATM",
+        "locationConfidence": 1.7049463,
+        "calibratedProbability": 0.3176148
+      }, {
+        "latitudeE7": 276328653,
+        "longitudeE7": 775692664,
+        "placeId": "ChIJKxEauHhtczkRItMApHk5eag",
+        "address": "JHM9+4PR, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "My College SKS",
+        "locationConfidence": 1.1537707,
+        "calibratedProbability": 0.21493618
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276464014,
+        "longitudeE7": 775493707
+      },
+      "endLocation": {
+        "latitudeE7": 275534185,
+        "longitudeE7": 775405482
+      },
+      "duration": {
+        "startTimestamp": "2019-12-21T23:57:18.204Z",
+        "endTimestamp": "2019-12-22T03:04:15.442Z"
+      },
+      "distance": 10375,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 28.20816934108734
+      }, {
+        "activityType": "STILL",
+        "probability": 27.63180136680603
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 23.297008872032166
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275534185,
+          "longitudeE7": 775405482,
+          "accuracyMetres": 86
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-22T03:04:15.442Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276325788,
+        "longitudeE7": 775664309,
+        "placeId": "ChIJG3yr7a1sczkRFkhFQJ8sCwI",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 56.237286,
+        "calibratedProbability": 11.16661
+      },
+      "duration": {
+        "startTimestamp": "2019-12-22T03:04:15.442Z",
+        "endTimestamp": "2019-12-22T08:30:15.178Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276320932,
+      "centerLngE7": 775677577,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276345233,
+        "longitudeE7": 775680692,
+        "placeId": "ChIJF1VVlcBsczkRLwO_VUEhX08",
+        "address": "21st Km, NH 2, Village – Chaumuhan, Tehsil, Chhata Rural, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS Ayurvedic Medical College \u0026 Hospital",
+        "locationConfidence": 14.4253235,
+        "calibratedProbability": 2.8643267
+      }, {
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 9.767925,
+        "calibratedProbability": 1.9395427
+      }, {
+        "latitudeE7": 276337245,
+        "longitudeE7": 775681163,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 9.413753,
+        "calibratedProbability": 1.8692173
+      }, {
+        "latitudeE7": 276344906,
+        "longitudeE7": 775670018,
+        "placeId": "ChIJ35QQKrBsczkRwKnSygtwbHo",
+        "address": "JHM8+QRR, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Institute of Technology \u0026 Management",
+        "locationConfidence": 4.5335917,
+        "calibratedProbability": 0.90020084
+      }, {
+        "latitudeE7": 276346708,
+        "longitudeE7": 775682099,
+        "placeId": "ChIJ5Umjfa5sczkRT7tYMcly6Pc",
+        "address": "JHM9+V78, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "OBC ATM",
+        "locationConfidence": 2.9550118,
+        "calibratedProbability": 0.5867542
+      }, {
+        "latitudeE7": 276315280,
+        "longitudeE7": 775669090,
+        "placeId": "ChIJD02PCLJsczkRqyCbwW8pTSI",
+        "address": "Sanjay Institute Of Engg. \u0026 Mgntchaumuhan, Chhata Rural, Mathura, Uttar Pradesh 281406, India",
+        "name": "supertech",
+        "locationConfidence": 1.494491,
+        "calibratedProbability": 0.2967497
+      }, {
+        "latitudeE7": 276328653,
+        "longitudeE7": 775692664,
+        "placeId": "ChIJKxEauHhtczkRItMApHk5eag",
+        "address": "JHM9+4PR, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "My College SKS",
+        "locationConfidence": 1.1726195,
+        "calibratedProbability": 0.23283812
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 274789696,
+        "longitudeE7": 776733511,
+        "placeId": "ChIJnUt_gEhxczkRx8W71b9QU4s",
+        "address": "Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+        "name": "Mathura Jn",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 64.825966,
+        "calibratedProbability": 53.273865
+      },
+      "duration": {
+        "startTimestamp": "2019-12-22T08:30:15.178Z",
+        "endTimestamp": "2019-12-22T10:16:00.461Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 274795375,
+          "longitudeE7": 776734974,
+          "placeId": "ChIJy1G5K0ZxczkRBqvBLJEEqGc",
+          "address": "Platform No 1, Mathura Railway Staion, Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+          "name": "Comésum",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 36.530735,
+          "calibratedProbability": 45.77308,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-12-22T08:31:27.460Z",
+          "endTimestamp": "2019-12-22T09:21:15.989Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 274794513,
+        "centerLngE7": 776732326,
+        "visitConfidence": 94,
+        "otherCandidateLocations": [{
+          "latitudeE7": 274795785,
+          "longitudeE7": 776740536,
+          "placeId": "ChIJBfQUtElxczkRTYr9NobG-2w",
+          "locationConfidence": 25.93911,
+          "calibratedProbability": 32.501755,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 274812926,
+          "longitudeE7": 776720087,
+          "placeId": "ChIJp7fXa0ZxczkRKXGXK2Ebwp4",
+          "address": "FMJC+GR6, Shanti Nagar, Mathura, Uttar Pradesh 281001, India",
+          "name": "Mathura Junction West(2nd entry) ticket Counter",
+          "locationConfidence": 2.1362917,
+          "calibratedProbability": 2.6767776,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 274789598,
+          "longitudeE7": 776732956,
+          "placeId": "ChIJc-fhhUhxczkRieXf7hrYnRs",
+          "locationConfidence": 0.3099657,
+          "calibratedProbability": 0.38838762
+        }, {
+          "latitudeE7": 274804441,
+          "longitudeE7": 776751399,
+          "placeId": "ChIJAV1dC3VxczkRpE18YDNS1zQ",
+          "address": "Station-Dholi Pyau Road, Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+          "name": "Railway Station Parking",
+          "locationConfidence": 0.26716268,
+          "calibratedProbability": 0.33475536
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 29,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 274794462,
+      "centerLngE7": 776732337,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 274795785,
+        "longitudeE7": 776740536,
+        "placeId": "ChIJBfQUtElxczkRTYr9NobG-2w",
+        "locationConfidence": 30.383839,
+        "calibratedProbability": 24.969387,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 274812926,
+        "longitudeE7": 776720087,
+        "placeId": "ChIJp7fXa0ZxczkRKXGXK2Ebwp4",
+        "address": "FMJC+GR6, Shanti Nagar, Mathura, Uttar Pradesh 281001, India",
+        "name": "Mathura Junction West(2nd entry) ticket Counter",
+        "locationConfidence": 3.4894736,
+        "calibratedProbability": 2.8676434,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 274789598,
+        "longitudeE7": 776732956,
+        "placeId": "ChIJc-fhhUhxczkRieXf7hrYnRs",
+        "locationConfidence": 0.3653753,
+        "calibratedProbability": 0.3002648
+      }, {
+        "latitudeE7": 274804441,
+        "longitudeE7": 776751399,
+        "placeId": "ChIJAV1dC3VxczkRpE18YDNS1zQ",
+        "address": "Station-Dholi Pyau Road, Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+        "name": "Railway Station Parking",
+        "locationConfidence": 0.3207542,
+        "calibratedProbability": 0.26359525
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 274793800,
+        "longitudeE7": 776740400
+      },
+      "endLocation": {
+        "latitudeE7": 254478530,
+        "longitudeE7": 785528240
+      },
+      "duration": {
+        "startTimestamp": "2019-12-22T10:16:00.461Z",
+        "endTimestamp": "2019-12-22T14:53:59.834Z"
+      },
+      "distance": 242239,
+      "activityType": "IN_TRAIN",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_TRAIN",
+        "probability": 75.58885216712952
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.680562674999237
+      }, {
+        "activityType": "STILL",
+        "probability": 7.903992384672165
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 274793800,
+          "longitudeE7": 776740400,
+          "placeId": "ChIJnUt_gEhxczkRx8W71b9QU4s",
+          "address": "Mayur Vihar, Mathura, Uttar Pradesh 281001, India",
+          "name": "Mathura Jn"
+        }, {
+          "latitudeE7": 254439390,
+          "longitudeE7": 785530960,
+          "placeId": "ChIJD1HgvNlwdzkRmyz8G0-4P7o",
+          "address": "Pedestrian Opas, Rani Laxmi Nagar, Jhansi, Uttar Pradesh 284003, India",
+          "name": "Jhansi"
+        }],
+        "name": "",
+        "hexRgbColor": "000000",
+        "linePlaceId": "ChIJ_xIq3qgO2DsR4pO8y7DJdS8",
+        "source": "INFERRED",
+        "confidence": 0.9595860822111207,
+        "distanceMeters": 269914.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 254443599,
+        "longitudeE7": 785534647,
+        "placeId": "ChIJD1HgvNlwdzkRmyz8G0-4P7o",
+        "address": "Pedestrian Opas, Rani Laxmi Nagar, Jhansi, Uttar Pradesh 284003, India",
+        "name": "Jhansi",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 90.22684,
+        "calibratedProbability": 70.21322,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-12-22T14:53:59.834Z",
+        "endTimestamp": "2019-12-22T15:00:03.312Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 254478500,
+      "centerLngE7": 785528200,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 254452399,
+        "longitudeE7": 785526603,
+        "placeId": "ChIJ26JOl9lwdzkRnBixOFbr0C4",
+        "address": "Railway Officers Colony, Jhansi, Uttar Pradesh 284003, India",
+        "name": "Jhansi Railway Station",
+        "locationConfidence": 8.537994,
+        "calibratedProbability": 6.644144,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 254462392,
+        "longitudeE7": 785508674,
+        "placeId": "ChIJ9fwZGtlwdzkRoaxG3LzhGrw",
+        "address": "Garhiya Rd, Rani Laxmi Nagar, Jhansi Rly. Settl, Jhansi, Uttar Pradesh 284003, India",
+        "name": "Railway Station Bus Stop",
+        "locationConfidence": 0.72585124,
+        "calibratedProbability": 0.564847
+      }, {
+        "latitudeE7": 254456815,
+        "longitudeE7": 785537723,
+        "placeId": "ChIJCyV0wtlwdzkRotztI9h-BZ0",
+        "address": "CHW3+6GJ, Railway Officers Colony, Jhansi, Uttar Pradesh 284003, India",
+        "name": "GRP Police Station",
+        "locationConfidence": 0.50662965,
+        "calibratedProbability": 0.39425188
+      }, {
+        "latitudeE7": 254500000,
+        "longitudeE7": 785545000,
+        "placeId": "ChIJ2aPtANhwdzkR8wTCD-4HcnQ",
+        "address": "FH23+2Q5, Jhansi Railway Station Rd, Railway Officers Colony, Jhansi, Uttar Pradesh 284003, India",
+        "name": "Mata Temple",
+        "locationConfidence": 0.0015480682,
+        "calibratedProbability": 0.0012046844
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 254478530,
+        "longitudeE7": 785528240
+      },
+      "endLocation": {
+        "latitudeE7": 227694030,
+        "longitudeE7": 862623622
+      },
+      "duration": {
+        "startTimestamp": "2019-12-22T15:00:03.312Z",
+        "endTimestamp": "2019-12-23T17:20:50.594Z"
+      },
+      "distance": 837051,
+      "activityType": "IN_TRAIN",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_TRAIN",
+        "probability": 78.94070148468018
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.712418168783188
+      }, {
+        "activityType": "STILL",
+        "probability": 5.129185691475868
+      }]
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 56.708515,
+        "calibratedProbability": 39.414845
+      },
+      "duration": {
+        "startTimestamp": "2019-12-23T17:20:50.594Z",
+        "endTimestamp": "2019-12-24T07:13:43.487Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227702779,
+      "centerLngE7": 862596626,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 16.42556,
+        "calibratedProbability": 11.416468
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 6.471947,
+        "calibratedProbability": 4.4982805
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 5.8900275,
+        "calibratedProbability": 4.093821
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 5.7929583,
+        "calibratedProbability": 4.026354
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 3.1331627,
+        "calibratedProbability": 2.1776822
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.810549,
+        "calibratedProbability": 1.258409
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.9547069,
+        "calibratedProbability": 0.6635622
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.73908937,
+        "calibratedProbability": 0.51369876
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.73885685,
+        "calibratedProbability": 0.51353717
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227714311,
+        "longitudeE7": 862598527
+      },
+      "endLocation": {
+        "latitudeE7": 228107398,
+        "longitudeE7": 862017798
+      },
+      "duration": {
+        "startTimestamp": "2019-12-24T07:13:43.487Z",
+        "endTimestamp": "2019-12-24T08:08:05.120Z"
+      },
+      "distance": 7385,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 48.90953600406647
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.862319946289062
+      }, {
+        "activityType": "WALKING",
+        "probability": 17.597194015979767
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227715072,
+          "lngE7": 862598800
+        }, {
+          "latE7": 227795372,
+          "lngE7": 862307510
+        }, {
+          "latE7": 228107318,
+          "lngE7": 862017211
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 9882.388394479842,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 228107398,
+          "longitudeE7": 862017798,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-24T08:08:05.120Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 228098153,
+        "longitudeE7": 861951762,
+        "placeId": "ChIJF6dDzjDj9TkR1f7VpRgn5ac",
+        "name": "Jubilee Park, Jamshedpur",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 60.71269,
+        "calibratedProbability": 26.649391
+      },
+      "duration": {
+        "startTimestamp": "2019-12-24T08:08:05.120Z",
+        "endTimestamp": "2019-12-24T08:48:20.189Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 228105413,
+      "centerLngE7": 862025380,
+      "visitConfidence": 67,
+      "otherCandidateLocations": [{
+        "latitudeE7": 228108355,
+        "longitudeE7": 862028038,
+        "placeId": "ChIJqfLuygvj9TkR7Ll7R9XYe1s",
+        "address": "77, Old Gandak Road, Subarnarekha Link Rd, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "DC Office",
+        "locationConfidence": 8.994643,
+        "calibratedProbability": 3.948133
+      }, {
+        "latitudeE7": 228104310,
+        "longitudeE7": 861994483,
+        "placeId": "ChIJ4WjKGArj9TkR21W9QhJZG4Y",
+        "address": "R56X+5Q6, Subarnarekha Link Rd, Jubilee Park, Sonari, Jamshedpur, Jharkhand 831001, India",
+        "name": "RTO Office",
+        "locationConfidence": 6.8591876,
+        "calibratedProbability": 3.0107903
+      }, {
+        "latitudeE7": 228110815,
+        "longitudeE7": 862015290,
+        "placeId": "ChIJicrWkAnj9TkRcqKgRlupJLA",
+        "address": "77 Tr Old gandhak rd Sakchi Jsr, Subarnarekha Link Rd, Gandak Road Colony, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Old Book Market",
+        "locationConfidence": 4.731055,
+        "calibratedProbability": 2.076662
+      }, {
+        "latitudeE7": 228120260,
+        "longitudeE7": 862005815,
+        "placeId": "ChIJH53-HQrj9TkRQuL-o3sBUXw",
+        "address": "R662+R68, Mango Bridge, Gandhi Ghat, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sakchi Court",
+        "locationConfidence": 3.3366299,
+        "calibratedProbability": 1.4645894
+      }, {
+        "latitudeE7": 228106342,
+        "longitudeE7": 862025296,
+        "placeId": "ChIJjUy21GTj9TkR7Pfr4dkW7v0",
+        "address": "4th \u0026 5th floor, Krishna Villa, beside Dhalbum Club, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Lalaji- House of Food",
+        "locationConfidence": 2.8786488,
+        "calibratedProbability": 1.2635618
+      }, {
+        "latitudeE7": 228100933,
+        "longitudeE7": 862043482,
+        "placeId": "ChIJjbs4Gwzj9TkR2NgPqHqtaAc",
+        "address": "159, Dhalbhum Road, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "ASG Eye Hospital",
+        "locationConfidence": 1.7851348,
+        "calibratedProbability": 0.7835719
+      }, {
+        "latitudeE7": 228106219,
+        "longitudeE7": 862025132,
+        "placeId": "ChIJhwRDgwPj9TkRodCFI7UdMOg",
+        "address": "148/A, Aambagan Rd, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Unplugged - Music Bistro \u0026 Kitchen",
+        "locationConfidence": 1.4090611,
+        "calibratedProbability": 0.6184971
+      }, {
+        "latitudeE7": 228099784,
+        "longitudeE7": 862028262,
+        "placeId": "ChIJfwotAQnj9TkRnHgj8Eir2qE",
+        "address": "R653+X4W, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Apollo Clinic",
+        "locationConfidence": 1.2757838,
+        "calibratedProbability": 0.55999595
+      }, {
+        "latitudeE7": 228101503,
+        "longitudeE7": 862041561,
+        "placeId": "ChIJWXK3oxHj9TkRLIi7UP3hBMU",
+        "address": "lg building, Dhalbhum Road, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Lg Service Center",
+        "locationConfidence": 0.8431777,
+        "calibratedProbability": 0.3701067
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228104619,
+        "longitudeE7": 862028413
+      },
+      "endLocation": {
+        "latitudeE7": 227773506,
+        "longitudeE7": 862619172
+      },
+      "duration": {
+        "startTimestamp": "2019-12-24T08:48:20.189Z",
+        "endTimestamp": "2019-12-24T15:04:01.283Z"
+      },
+      "distance": 7087,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 40.842774510383606
+      }, {
+        "activityType": "STILL",
+        "probability": 31.195735931396484
+      }, {
+        "activityType": "WALKING",
+        "probability": 13.072389364242554
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228103332,
+          "lngE7": 862028274
+        }, {
+          "latE7": 228103122,
+          "lngE7": 862098312
+        }, {
+          "latE7": 227770442,
+          "lngE7": 862619247
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 8751.027139412869,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227773506,
+          "longitudeE7": 862619172,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-24T15:04:01.283Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 60.31081,
+        "calibratedProbability": 41.698387
+      },
+      "duration": {
+        "startTimestamp": "2019-12-24T15:04:01.283Z",
+        "endTimestamp": "2019-12-25T13:38:07.485Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707063,
+      "centerLngE7": 862592872,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 12.929772,
+        "calibratedProbability": 8.939536
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 6.389208,
+        "calibratedProbability": 4.4174447
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 5.9795094,
+        "calibratedProbability": 4.134183
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 5.640161,
+        "calibratedProbability": 3.8995602
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 3.477776,
+        "calibratedProbability": 2.4045053
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.6819006,
+        "calibratedProbability": 1.162852
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.9065955,
+        "calibratedProbability": 0.6268126
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.77407056,
+        "calibratedProbability": 0.53518593
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.6883318,
+        "calibratedProbability": 0.47590685
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227697452,
+        "longitudeE7": 862610928
+      },
+      "endLocation": {
+        "latitudeE7": 227712286,
+        "longitudeE7": 862602127
+      },
+      "duration": {
+        "startTimestamp": "2019-12-25T13:38:07.485Z",
+        "endTimestamp": "2019-12-25T16:00:59.073Z"
+      },
+      "distance": 188,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 53.99399399757385
+      }, {
+        "activityType": "STILL",
+        "probability": 27.69789695739746
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.126289933919907
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227697525,
+          "lngE7": 862610626
+        }, {
+          "latE7": 227748184,
+          "lngE7": 862627792
+        }, {
+          "latE7": 227775669,
+          "lngE7": 862632598
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1464.6079455445997,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227712286,
+          "longitudeE7": 862602127,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-25T16:00:59.073Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 59.276443,
+        "calibratedProbability": 38.77346
+      },
+      "duration": {
+        "startTimestamp": "2019-12-25T16:00:59.073Z",
+        "endTimestamp": "2019-12-26T13:38:30.957Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227699933,
+      "centerLngE7": 862613033,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 12.832495,
+        "calibratedProbability": 8.393895
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 10.515442,
+        "calibratedProbability": 6.8782816
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 6.601466,
+        "calibratedProbability": 4.3181014
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 3.70697,
+        "calibratedProbability": 2.4247754
+      }, {
+        "latitudeE7": 227702488,
+        "longitudeE7": 862613550,
+        "placeId": "ChIJZ6BwI9MJ9jkRmOCr4YJ3baw",
+        "locationConfidence": 3.2226639,
+        "calibratedProbability": 2.1079845
+      }, {
+        "latitudeE7": 227721139,
+        "longitudeE7": 862599340,
+        "placeId": "ChIJ1ZqQQgEI9jkRwGdm-t90nY0",
+        "address": "HOUSE NO 99,HANUMAN MANDIR ROAD,KHARANGAJHAR TELCO,PO TELCO PLAZA MARKET,JAMSHEDPUR,831004, Kharangajhar, Bari Nagar, Ranchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "CANARA BANK ATM",
+        "locationConfidence": 0.9073917,
+        "calibratedProbability": 0.59353626
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.753071,
+        "calibratedProbability": 0.49259314
+      }, {
+        "latitudeE7": 227709840,
+        "longitudeE7": 862643853,
+        "placeId": "ChIJH4J5WQYI9jkRtViKQm4YiMw",
+        "address": "Q7C7+9QR, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Radha Krishna Mandir",
+        "locationConfidence": 0.7046568,
+        "calibratedProbability": 0.46092477
+      }, {
+        "latitudeE7": 227724082,
+        "longitudeE7": 862605929,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.5001518,
+        "calibratedProbability": 0.32715553
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227712286,
+        "longitudeE7": 862602127
+      },
+      "endLocation": {
+        "latitudeE7": 227732310,
+        "longitudeE7": 862501734
+      },
+      "duration": {
+        "startTimestamp": "2019-12-26T13:38:30.957Z",
+        "endTimestamp": "2019-12-26T14:08:06.989Z"
+      },
+      "distance": 1053,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 33.04755985736847
+      }, {
+        "activityType": "WALKING",
+        "probability": 24.995775520801544
+      }, {
+        "activityType": "STILL",
+        "probability": 18.820321559906006
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227713623,
+          "lngE7": 862602386
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227732295,
+          "lngE7": 862501983
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1452.672626823551,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227732310,
+          "longitudeE7": 862501734,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-26T14:08:06.989Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227721812,
+        "longitudeE7": 862362507,
+        "placeId": "ChIJv-qQ_rXi9TkRAAMyEs6hm1M",
+        "address": "Q6CP+QMJ, Telco Rd, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shiksha Niketan High School",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 66.145096,
+        "calibratedProbability": 30.191217
+      },
+      "duration": {
+        "startTimestamp": "2019-12-26T14:08:06.989Z",
+        "endTimestamp": "2019-12-26T14:42:15.489Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227735800,
+      "centerLngE7": 862499367,
+      "visitConfidence": 69,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227748392,
+        "longitudeE7": 862475279,
+        "placeId": "ChIJC7z0N67i9TkRkF5Ep4bc7lA",
+        "address": "Q6FX+W2J, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Union Bank of India - Telco Branch",
+        "locationConfidence": 13.297677,
+        "calibratedProbability": 6.0695815
+      }, {
+        "latitudeE7": 227725745,
+        "longitudeE7": 862499613,
+        "placeId": "ChIJ3dJGIKzi9TkRkMEf3Pppjig",
+        "address": "Ground Floor, Ring Rd, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "IndianOil",
+        "locationConfidence": 5.5858355,
+        "calibratedProbability": 2.5495944
+      }, {
+        "latitudeE7": 227748099,
+        "longitudeE7": 862486091,
+        "placeId": "ChIJfbPlWa7i9TkRf5YfeLmyXTk",
+        "address": "Q6FX+WCH, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kata Bhatta Jharkhand Map Toll Office",
+        "locationConfidence": 4.244356,
+        "calibratedProbability": 1.9372907
+      }, {
+        "latitudeE7": 227765676,
+        "longitudeE7": 862488811,
+        "placeId": "ChIJ7d6DAbLi9TkRIe-S7S_sZsI",
+        "address": "K42, Cross Rd Number 14, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Club",
+        "locationConfidence": 2.388809,
+        "calibratedProbability": 1.0903461
+      }, {
+        "latitudeE7": 227727584,
+        "longitudeE7": 862490237,
+        "placeId": "ChIJ3wb21K3i9TkR8t9sMVHxBkA",
+        "address": "Ring Rd, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Gopeshwar Bal Udyaan",
+        "locationConfidence": 1.8376896,
+        "calibratedProbability": 0.83879364
+      }, {
+        "latitudeE7": 227748040,
+        "longitudeE7": 862490353,
+        "placeId": "ChIJteMcM5_j9TkRdKLP4Lmo23A",
+        "address": "SSB 29, Cross road 11 Cross road 11, Agrico Rd, Agrico Colony, Sidhgora, Jamshedpur, Jharkhand 831009, India",
+        "name": "OYO 24872 Hotel Golden Fiesta",
+        "locationConfidence": 1.4888822,
+        "calibratedProbability": 0.67958426
+      }, {
+        "latitudeE7": 227731105,
+        "longitudeE7": 862511707,
+        "placeId": "ChIJz0ATrK7i9TkRrKTH0WHEu2Q",
+        "address": "Q7F2+6FV, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Railway Computerised Reservation Centre",
+        "locationConfidence": 1.38546,
+        "calibratedProbability": 0.63237834
+      }, {
+        "latitudeE7": 227729584,
+        "longitudeE7": 862474954,
+        "placeId": "ChIJEXxiC67i9TkRussVMUYaxYQ",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Ring Road Park",
+        "locationConfidence": 0.8591342,
+        "calibratedProbability": 0.39214256
+      }, {
+        "latitudeE7": 227719850,
+        "longitudeE7": 862503429,
+        "placeId": "ChIJbYbBeKzi9TkRCk9jJ0vSbVY",
+        "address": "Q7C2+Q4W, Ring Rd, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Truck Park",
+        "locationConfidence": 0.7603396,
+        "calibratedProbability": 0.34704882
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 56.251816,
+        "calibratedProbability": 33.867073
+      },
+      "duration": {
+        "startTimestamp": "2019-12-26T14:42:15.489Z",
+        "endTimestamp": "2019-12-27T10:34:03.884Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227702389,
+      "centerLngE7": 862611956,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 12.29239,
+        "calibratedProbability": 7.400779
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 8.727499,
+        "calibratedProbability": 5.254494
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 6.3921895,
+        "calibratedProbability": 3.8484933
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 4.418783,
+        "calibratedProbability": 2.6603808
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 3.892206,
+        "calibratedProbability": 2.3433487
+      }, {
+        "latitudeE7": 227702488,
+        "longitudeE7": 862613550,
+        "placeId": "ChIJZ6BwI9MJ9jkRmOCr4YJ3baw",
+        "locationConfidence": 3.7530115,
+        "calibratedProbability": 2.259545
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.528295,
+        "calibratedProbability": 0.9201281
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.77221,
+        "calibratedProbability": 0.46491817
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.7449681,
+        "calibratedProbability": 0.44851688
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227712211,
+        "longitudeE7": 862601960
+      },
+      "endLocation": {
+        "latitudeE7": 227704889,
+        "longitudeE7": 862610928
+      },
+      "duration": {
+        "startTimestamp": "2019-12-27T10:34:03.884Z",
+        "endTimestamp": "2019-12-27T13:44:53.869Z"
+      },
+      "distance": 122,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 50.96971392631531
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.875960886478424
+      }, {
+        "activityType": "STILL",
+        "probability": 15.166811645030975
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227713623,
+          "lngE7": 862602386
+        }, {
+          "latE7": 227720088,
+          "lngE7": 862587432
+        }, {
+          "latE7": 227725677,
+          "lngE7": 862583389
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 300.8443850615483,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227704889,
+          "longitudeE7": 862610928,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-27T13:44:53.869Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 51.70158,
+        "calibratedProbability": 35.00078
+      },
+      "duration": {
+        "startTimestamp": "2019-12-27T13:44:53.869Z",
+        "endTimestamp": "2019-12-28T03:20:07.196Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227693800,
+      "centerLngE7": 862615650,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 27.21365,
+        "calibratedProbability": 18.423014
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 9.3679285,
+        "calibratedProbability": 6.3418717
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 4.386943,
+        "calibratedProbability": 2.9698591
+      }, {
+        "latitudeE7": 227702488,
+        "longitudeE7": 862613550,
+        "placeId": "ChIJZ6BwI9MJ9jkRmOCr4YJ3baw",
+        "locationConfidence": 1.5985177,
+        "calibratedProbability": 1.0821596
+      }, {
+        "latitudeE7": 227715872,
+        "longitudeE7": 862608640,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 1.0431993,
+        "calibratedProbability": 0.7062219
+      }, {
+        "latitudeE7": 227673838,
+        "longitudeE7": 862637822,
+        "placeId": "ChIJSwyqfgcI9jkRijqNBx1BKlE",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Masjid E Raza Telco - Sunni Hanafi",
+        "locationConfidence": 0.98973864,
+        "calibratedProbability": 0.67003024
+      }, {
+        "latitudeE7": 227690982,
+        "longitudeE7": 862591268,
+        "placeId": "ChIJUeWN9wAI9jkR1HrfmdCPGCw",
+        "address": "Q795+GHG, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Maktab",
+        "locationConfidence": 0.95589584,
+        "calibratedProbability": 0.64711946
+      }, {
+        "latitudeE7": 227720986,
+        "longitudeE7": 862601253,
+        "placeId": "ChIJHxWGaAEI9jkRb-1VQrCLAIg",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hanuman Mandir",
+        "locationConfidence": 0.85728043,
+        "calibratedProbability": 0.5803591
+      }, {
+        "latitudeE7": 227684428,
+        "longitudeE7": 862599596,
+        "placeId": "ChIJb_K22wMI9jkRmqbEPtAGAgo",
+        "address": "KHRANGAJHAR, near GANESH TEMPLE, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Tata Motors Limited",
+        "locationConfidence": 0.67420846,
+        "calibratedProbability": 0.45642358
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 42,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227712211,
+        "longitudeE7": 862601960
+      },
+      "endLocation": {
+        "latitudeE7": 227726237,
+        "longitudeE7": 862569670
+      },
+      "duration": {
+        "startTimestamp": "2019-12-28T03:20:07.196Z",
+        "endTimestamp": "2019-12-28T11:12:54.698Z"
+      },
+      "distance": 365,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 46.11198306083679
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 34.27210748195648
+      }, {
+        "activityType": "STILL",
+        "probability": 12.028417736291885
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227713623,
+          "lngE7": 862602386
+        }, {
+          "latE7": 227720088,
+          "lngE7": 862587432
+        }, {
+          "latE7": 227723941,
+          "lngE7": 862569885
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 440.6278084629191,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227726237,
+          "longitudeE7": 862569670,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-28T11:12:54.698Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 66.29705,
+        "calibratedProbability": 42.015266
+      },
+      "duration": {
+        "startTimestamp": "2019-12-28T11:12:54.698Z",
+        "endTimestamp": "2019-12-30T06:17:27.276Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227707978,
+      "centerLngE7": 862597535,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 18.41215,
+        "calibratedProbability": 11.668564
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 7.994268,
+        "calibratedProbability": 5.0663085
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.6149902,
+        "calibratedProbability": 1.0234882,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.9169481,
+        "calibratedProbability": 0.5811091
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 0.7724438,
+        "calibratedProbability": 0.48953056
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.7635625,
+        "calibratedProbability": 0.48390213
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.7389241,
+        "calibratedProbability": 0.4682877
+      }, {
+        "latitudeE7": 227725370,
+        "longitudeE7": 862589221,
+        "placeId": "ChIJcxWYDk4J9jkRf_r3BX21LMs",
+        "locationConfidence": 0.7071591,
+        "calibratedProbability": 0.44815686
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 0.63167554,
+        "calibratedProbability": 0.40031973
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227717257,
+        "longitudeE7": 862570237
+      },
+      "endLocation": {
+        "latitudeE7": 227712150,
+        "longitudeE7": 862601736
+      },
+      "duration": {
+        "startTimestamp": "2019-12-30T06:17:27.276Z",
+        "endTimestamp": "2019-12-30T07:37:07.864Z"
+      },
+      "distance": 327,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 45.701536536216736
+      }, {
+        "activityType": "STILL",
+        "probability": 24.90638941526413
+      }, {
+        "activityType": "WALKING",
+        "probability": 15.411791205406189
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227717494,
+          "lngE7": 862570190
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227730770,
+          "lngE7": 862428665
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1606.392174153353,
+        "travelMode": "TWO_WHEELER",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227712150,
+          "longitudeE7": 862601736,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-12-30T07:37:07.864Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 63.722683,
+        "calibratedProbability": 42.891476
+      },
+      "duration": {
+        "startTimestamp": "2019-12-30T07:37:07.864Z",
+        "endTimestamp": "2019-12-31T07:28:36.073Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227705550,
+      "centerLngE7": 862593100,
+      "visitConfidence": 86,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 14.492829,
+        "calibratedProbability": 9.755064
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 6.0545325,
+        "calibratedProbability": 4.075281
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 5.173527,
+        "calibratedProbability": 3.4822795
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 3.6869366,
+        "calibratedProbability": 2.481662
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 3.0552735,
+        "calibratedProbability": 2.056492
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.71983105,
+        "calibratedProbability": 0.48451534
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.65148294,
+        "calibratedProbability": 0.4385105
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.60457003,
+        "calibratedProbability": 0.4069336
+      }, {
+        "latitudeE7": 227726233,
+        "longitudeE7": 862582343,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.58131146,
+        "calibratedProbability": 0.39127836
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227699064,
+        "longitudeE7": 862584535
+      },
+      "endLocation": {
+        "latitudeE7": 227740368,
+        "longitudeE7": 862440971
+      },
+      "duration": {
+        "startTimestamp": "2019-12-31T07:28:36.073Z",
+        "endTimestamp": "2019-12-31T07:38:10.677Z"
+      },
+      "distance": 1541,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 42.796069383621216
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 21.645531058311462
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.713816344738007
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227696590,
+          "lngE7": 862581863
+        }, {
+          "latE7": 227741336,
+          "lngE7": 862438201
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1876.801433909097,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227740377,
+        "longitudeE7": 862469697,
+        "placeId": "ChIJv-qQ_rXi9TkRAAMyEs6hm1M",
+        "address": "Q6CP+QMJ, Telco Rd, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shiksha Niketan High School",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 65.26416,
+        "calibratedProbability": 32.05348
+      },
+      "duration": {
+        "startTimestamp": "2019-12-31T07:38:10.677Z",
+        "endTimestamp": "2019-12-31T08:09:03.812Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227749489,
+      "centerLngE7": 862453405,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227748392,
+        "longitudeE7": 862475279,
+        "placeId": "ChIJC7z0N67i9TkRkF5Ep4bc7lA",
+        "address": "Q6FX+W2J, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Union Bank of India - Telco Branch",
+        "locationConfidence": 15.140453,
+        "calibratedProbability": 7.4359984
+      }, {
+        "latitudeE7": 227761704,
+        "longitudeE7": 862477183,
+        "placeId": "ChIJd3gLt6_i9TkRk-82Phy8ts0",
+        "address": "Telco Nursery, Cross Rd NO. 12, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bank Of India",
+        "locationConfidence": 7.17886,
+        "calibratedProbability": 3.5257857
+      }, {
+        "latitudeE7": 227748604,
+        "longitudeE7": 862448147,
+        "placeId": "ChIJw-1RKVzj9TkR_0BB88yDIFg",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Gulmohur High School",
+        "locationConfidence": 4.0528255,
+        "calibratedProbability": 1.9904822
+      }, {
+        "latitudeE7": 227736095,
+        "longitudeE7": 862460929,
+        "placeId": "ChIJP8Xp47Hi9TkRGK1rM9qQHtk",
+        "address": "K2 - 68, Rd Number 2, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 3.4850562,
+        "calibratedProbability": 1.7116312
+      }, {
+        "latitudeE7": 227750011,
+        "longitudeE7": 862460727,
+        "placeId": "ChIJ2ZLb1rHi9TkRfbc9TNAJaJg",
+        "address": "K2-65, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 2.300877,
+        "calibratedProbability": 1.13004
+      }, {
+        "latitudeE7": 227732740,
+        "longitudeE7": 862430401,
+        "placeId": "ChIJa5JxcbHi9TkR5ALxeHComWc",
+        "address": "G Road, Telco Colony, near New Market, Indra Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Gurudwara shaheb - Jamshedpur District, Jharkhand, India",
+        "locationConfidence": 1.0321398,
+        "calibratedProbability": 0.50691944
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227727113,
+        "longitudeE7": 862459633
+      },
+      "endLocation": {
+        "latitudeE7": 227718141,
+        "longitudeE7": 862571160
+      },
+      "duration": {
+        "startTimestamp": "2019-12-31T08:09:03.812Z",
+        "endTimestamp": "2019-12-31T08:25:13.866Z"
+      },
+      "distance": 1147,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 34.17133390903473
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 23.586952686309814
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.3025444149971
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227728404,
+          "lngE7": 862459869
+        }, {
+          "latE7": 227726879,
+          "lngE7": 862474136
+        }, {
+          "latE7": 227717647,
+          "lngE7": 862571258
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1295.888782196257,
+        "travelMode": "WALK",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227702160,
+        "longitudeE7": 862606506,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 56.232903,
+        "calibratedProbability": 32.4963
+      },
+      "duration": {
+        "startTimestamp": "2019-12-31T08:25:13.866Z",
+        "endTimestamp": "2020-01-02T06:17:09.207Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227706860,
+      "centerLngE7": 862594820,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 19.483671,
+        "calibratedProbability": 11.259373
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 7.119618,
+        "calibratedProbability": 4.1143394
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 4.9859753,
+        "calibratedProbability": 2.8813336
+      }, {
+        "latitudeE7": 227702637,
+        "longitudeE7": 862598801,
+        "placeId": "ChIJs6hmGwEI9jkRyuidgX9xICo",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004",
+        "locationConfidence": 3.966455,
+        "calibratedProbability": 2.2921653
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 3.232422,
+        "calibratedProbability": 1.8679768
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 1.5116402,
+        "calibratedProbability": 0.87355816
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.7595503,
+        "calibratedProbability": 0.4389347
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.6871331,
+        "calibratedProbability": 0.3970857
+      }, {
+        "latitudeE7": 227726233,
+        "longitudeE7": 862582343,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raji bhojnalaya",
+        "locationConfidence": 0.6516257,
+        "calibratedProbability": 0.37656644
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

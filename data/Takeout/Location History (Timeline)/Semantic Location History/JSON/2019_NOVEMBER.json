@@ -1,0 +1,4051 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275089706,
+        "longitudeE7": 774900538,
+        "placeId": "ChIJwccvgcgNczkRJQtr_XBAa9s",
+        "address": "Pali Brahmnan, GF5R+H2M, Radha Kund, Pali Brahmnan, Uttar Pradesh 281501, India",
+        "name": "Radhey Shyam Gainda laal",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 58.09583
+      },
+      "duration": {
+        "startTimestamp": "2019-11-01T20:56:21.464Z",
+        "endTimestamp": "2019-11-02T02:40:40.212Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275077814,
+      "centerLngE7": 774898083,
+      "visitConfidence": 61,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 83.03687,
+        "calibratedProbability": 34.604385,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-02T02:40:40.212Z",
+        "endTimestamp": "2019-11-02T03:52:03.867Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "name": "RAJIV GHANTI HOSTEL",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 35.59756,
+          "calibratedProbability": 18.043764,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-11-02T02:40:40.212Z",
+          "endTimestamp": "2019-11-02T03:52:03.867Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276453529,
+        "centerLngE7": 775532278,
+        "visitConfidence": 61,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 25.93007,
+          "calibratedProbability": 13.143487
+        }, {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 19.150507,
+          "calibratedProbability": 9.707048,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.810693,
+          "calibratedProbability": 0.41092575
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 0.722712,
+          "calibratedProbability": 0.36632973,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 28,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453529,
+      "centerLngE7": 775532278,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 14.473197,
+        "calibratedProbability": 6.0314903
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.8910682,
+        "calibratedProbability": 0.7880746
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.4298085,
+        "calibratedProbability": 0.17911632
+      }, {
+        "latitudeE7": 276458235,
+        "longitudeE7": 775548087,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.16434562,
+        "calibratedProbability": 0.0684886
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276890491,
+        "longitudeE7": 775182964,
+        "placeId": "ChIJQUbFaI4VczkRVfhxrAyJdLk",
+        "address": "28, K. M. Stone, Chennai - Delhi Hwy, near Punjab National Bank, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "SANSKRITI UNIVERSITY",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 93.71704,
+        "calibratedProbability": 63.338562
+      },
+      "duration": {
+        "startTimestamp": "2019-11-02T03:52:03.867Z",
+        "endTimestamp": "2019-11-02T07:36:00.434Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 276914250,
+      "centerLngE7": 775166650,
+      "visitConfidence": 72,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "locationConfidence": 1.8599509,
+        "calibratedProbability": 1.2570459
+      }, {
+        "latitudeE7": 276924791,
+        "longitudeE7": 775180071,
+        "placeId": "ChIJu_s3G-oUczkR9NWCyzxJlGk",
+        "address": "NH2, Chhata, Mathura, Bilothi, Uttar Pradesh 281401, India",
+        "name": "Nari Semari Devi Temple",
+        "locationConfidence": 1.6997806,
+        "calibratedProbability": 1.1487949
+      }, {
+        "latitudeE7": 276883221,
+        "longitudeE7": 775186768,
+        "placeId": "ChIJv8OKAAEVczkRjh-oH1qFruw",
+        "address": "Semri, Uttar Pradesh 281401",
+        "locationConfidence": 1.1450356,
+        "calibratedProbability": 0.7738711
+      }, {
+        "latitudeE7": 276894451,
+        "longitudeE7": 775188610,
+        "placeId": "ChIJHXFi-b4VczkRVIeADNO8i2A",
+        "address": "MGQ9+QGH, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti university park",
+        "locationConfidence": 0.8211054,
+        "calibratedProbability": 0.55494326
+      }, {
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 0.5889351,
+        "calibratedProbability": 0.39803115
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276891496,
+        "longitudeE7": 775194285
+      },
+      "endLocation": {
+        "latitudeE7": 276511354,
+        "longitudeE7": 775496062
+      },
+      "duration": {
+        "startTimestamp": "2019-11-02T07:36:00.434Z",
+        "endTimestamp": "2019-11-02T20:30:40.921Z"
+      },
+      "distance": 5167,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.094080686569214
+      }, {
+        "activityType": "STILL",
+        "probability": 30.856209993362427
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.088577032089233
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276511354,
+          "longitudeE7": 775496062,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-02T20:30:40.921Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "KD Medical College \u0026 Hospital",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 25.035284,
+        "calibratedProbability": 7.0392904
+      },
+      "duration": {
+        "startTimestamp": "2019-11-02T20:30:40.921Z",
+        "endTimestamp": "2019-11-04T12:10:33.939Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 276511354,
+      "centerLngE7": 775496062,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276520232,
+        "longitudeE7": 775508584,
+        "placeId": "ChIJDeiGqwEVczkRz1LzNowYjw4",
+        "address": "MH22+R85, Mathura, Uttar Pradesh 281406, India",
+        "name": "R.K.FAST FOOD \u0026 CAFE",
+        "locationConfidence": 24.914986,
+        "calibratedProbability": 7.005465
+      }, {
+        "latitudeE7": 276506977,
+        "longitudeE7": 775507889,
+        "placeId": "ChIJVWrCh6UUczkRb_Vggm-MXR8",
+        "address": "Uttar Pradesh 281406",
+        "locationConfidence": 19.786564,
+        "calibratedProbability": 5.5634823
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 11.660412,
+        "calibratedProbability": 3.2786136
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 6.947065,
+        "calibratedProbability": 1.9533393
+      }, {
+        "latitudeE7": 276489678,
+        "longitudeE7": 775486416,
+        "placeId": "ChIJU1XFuKUUczkRaL8mrOHhgzc",
+        "locationConfidence": 3.5989225,
+        "calibratedProbability": 1.0119262
+      }, {
+        "latitudeE7": 276491650,
+        "longitudeE7": 775482470,
+        "placeId": "ChIJnRC1sKUUczkR_dWSX6-Q6BM",
+        "address": "JGXX+M79, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D.M.C.H.R.C. MESS",
+        "locationConfidence": 3.3925328,
+        "calibratedProbability": 0.9538946
+      }, {
+        "latitudeE7": 276497090,
+        "longitudeE7": 775519370,
+        "placeId": "ChIJZ5rREq8UczkRnK9f2YRnFnM",
+        "address": "JHX2+VQM, Uttar Pradesh 281406, India",
+        "name": "Shri Akhileshwar Mahadev",
+        "locationConfidence": 1.4309388,
+        "calibratedProbability": 0.4023439
+      }, {
+        "latitudeE7": 276500568,
+        "longitudeE7": 775500333,
+        "placeId": "ChIJW2RBh6UUczkR7D1v7_RDlVc",
+        "address": "mast masala, Srinagar - Kanyakumari Hwy, Uttar Pradesh 281406, India",
+        "name": "MAST MASALA CAFETERIA",
+        "locationConfidence": 1.0645179,
+        "calibratedProbability": 0.29931557
+      }, {
+        "latitudeE7": 276486550,
+        "longitudeE7": 775497180,
+        "placeId": "ChIJ2aPy7aUUczkRCAladpXycjY",
+        "address": "JGXX+FV6, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Library",
+        "locationConfidence": 0.7916908,
+        "calibratedProbability": 0.22260348
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 17,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276337974,
+        "longitudeE7": 775681278,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 47.52491,
+        "calibratedProbability": 6.984981
+      },
+      "duration": {
+        "startTimestamp": "2019-11-04T12:10:33.939Z",
+        "endTimestamp": "2019-11-04T22:49:49.830Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276312450,
+      "centerLngE7": 775667600,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "locationConfidence": 18.816025,
+        "calibratedProbability": 2.7654881
+      }, {
+        "latitudeE7": 276344906,
+        "longitudeE7": 775670018,
+        "placeId": "ChIJ35QQKrBsczkRwKnSygtwbHo",
+        "address": "JHM8+QRR, National Highway 2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Institute of Technology \u0026 Management",
+        "locationConfidence": 17.423166,
+        "calibratedProbability": 2.5607727
+      }, {
+        "latitudeE7": 276315280,
+        "longitudeE7": 775669090,
+        "placeId": "ChIJD02PCLJsczkRqyCbwW8pTSI",
+        "address": "Sanjay Institute Of Engg. \u0026 Mgntchaumuhan, Chhata Rural, Mathura, Uttar Pradesh 281406, India",
+        "name": "supertech",
+        "locationConfidence": 13.513072,
+        "calibratedProbability": 1.9860859
+      }, {
+        "latitudeE7": 276328653,
+        "longitudeE7": 775692664,
+        "placeId": "ChIJKxEauHhtczkRItMApHk5eag",
+        "address": "JHM9+4PR, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "My College SKS",
+        "locationConfidence": 2.7228281,
+        "calibratedProbability": 0.4001881
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "KD Medical College \u0026 Hospital",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 30.522633,
+        "calibratedProbability": 7.4945354
+      },
+      "duration": {
+        "startTimestamp": "2019-11-04T22:49:49.830Z",
+        "endTimestamp": "2019-11-05T10:40:04.414Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276515876,
+      "centerLngE7": 775492509,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276520232,
+        "longitudeE7": 775508584,
+        "placeId": "ChIJDeiGqwEVczkRz1LzNowYjw4",
+        "address": "MH22+R85, Mathura, Uttar Pradesh 281406, India",
+        "name": "R.K.FAST FOOD \u0026 CAFE",
+        "locationConfidence": 22.943512,
+        "calibratedProbability": 5.6335564
+      }, {
+        "latitudeE7": 276506977,
+        "longitudeE7": 775507889,
+        "placeId": "ChIJVWrCh6UUczkRb_Vggm-MXR8",
+        "address": "Uttar Pradesh 281406",
+        "locationConfidence": 15.362941,
+        "calibratedProbability": 3.7722206
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 14.040357,
+        "calibratedProbability": 3.447473
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 7.014396,
+        "calibratedProbability": 1.7223167
+      }, {
+        "latitudeE7": 276491650,
+        "longitudeE7": 775482470,
+        "placeId": "ChIJnRC1sKUUczkR_dWSX6-Q6BM",
+        "address": "JGXX+M79, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D.M.C.H.R.C. MESS",
+        "locationConfidence": 3.0388389,
+        "calibratedProbability": 0.74615735
+      }, {
+        "latitudeE7": 276489678,
+        "longitudeE7": 775486416,
+        "placeId": "ChIJU1XFuKUUczkRaL8mrOHhgzc",
+        "locationConfidence": 2.6558852,
+        "calibratedProbability": 0.6521268
+      }, {
+        "latitudeE7": 276538644,
+        "longitudeE7": 775502806,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 1.092666,
+        "calibratedProbability": 0.2682935
+      }, {
+        "latitudeE7": 276494836,
+        "longitudeE7": 775513798,
+        "placeId": "ChIJ9ZLXbq8UczkRzW7y86hrQnQ",
+        "address": "JHX2+QHR, Mathura, Uttar Pradesh 281406, India",
+        "name": "Union Bank",
+        "locationConfidence": 1.0530167,
+        "calibratedProbability": 0.258558
+      }, {
+        "latitudeE7": 276486550,
+        "longitudeE7": 775497180,
+        "placeId": "ChIJ2aPy7aUUczkRCAladpXycjY",
+        "address": "JGXX+FV6, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Library",
+        "locationConfidence": 0.89539456,
+        "calibratedProbability": 0.21985543
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 23,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276254066,
+        "longitudeE7": 775728345
+      },
+      "endLocation": {
+        "latitudeE7": 275010961,
+        "longitudeE7": 776547915
+      },
+      "duration": {
+        "startTimestamp": "2019-11-05T10:40:04.414Z",
+        "endTimestamp": "2019-11-05T11:52:25.171Z"
+      },
+      "distance": 16010,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.51169764995575
+      }, {
+        "activityType": "STILL",
+        "probability": 28.69025468826294
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 19.167254865169525
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276252937,
+          "lngE7": 775727844
+        }, {
+          "latE7": 276129112,
+          "lngE7": 775860595
+        }, {
+          "latE7": 275009422,
+          "lngE7": 776548233
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJc9F8KLdsczkROhjTT16SrvY"
+        }, {
+          "placeId": "ChIJrQXlG7psczkRuwY32y-zvFE"
+        }, {
+          "placeId": "ChIJJWUnDbpsczkRpcf57AG7oUg"
+        }, {
+          "placeId": "ChIJecYfY7BsczkRhd6_AWrYEt0"
+        }, {
+          "placeId": "ChIJuafNdatsczkRgpCxv80gzgs"
+        }, {
+          "placeId": "ChIJV-6AXFUTczkRfd3IJweQIo0"
+        }, {
+          "placeId": "ChIJ6w5TjKoUczkR9uDK2DkCVBg"
+        }, {
+          "placeId": "ChIJifo2s6sUczkRNUBBTS5ie7U"
+        }, {
+          "placeId": "ChIJfTc1DKtsczkRgcEeIGvU2Ig"
+        }, {
+          "placeId": "ChIJP5e7Qq5sczkRxiki0hXy-y8"
+        }, {
+          "placeId": "ChIJJZFmjLlsczkRLSKFAHmFpyM"
+        }, {
+          "placeId": "ChIJAd5EprlsczkRKTZYu_JNJOg"
+        }, {
+          "placeId": "ChIJ01WN6rhsczkR1wXcdkbZp58"
+        }, {
+          "placeId": "ChIJNSqdqsBsczkRlww5Cg-8t2E"
+        }, {
+          "placeId": "ChIJJZuGvMBsczkRNn8u7VBtTiw"
+        }, {
+          "placeId": "ChIJbbGa78BsczkRaGhH_q-2_zU"
+        }, {
+          "placeId": "ChIJYfXaH8JsczkRA-tjqB0ntCI"
+        }, {
+          "placeId": "ChIJP4AgNOhsczkRrvJCQGTuBZM"
+        }, {
+          "placeId": "ChIJeTM1KOZsczkREM8gNntDLYo"
+        }, {
+          "placeId": "ChIJ6bqGe-ZsczkR_Oit_FXmfk4"
+        }, {
+          "placeId": "ChIJUbYffuZsczkRGiiiUe52ioY"
+        }, {
+          "placeId": "ChIJaQImGORsczkRUrYDRMwnDnw"
+        }, {
+          "placeId": "ChIJMeiXiuNsczkR5FXXfGhD-Sc"
+        }, {
+          "placeId": "ChIJK8xhoeNsczkRWwSkPrGBow0"
+        }, {
+          "placeId": "ChIJpWl-_OJsczkRW9x8zlkJzQw"
+        }, {
+          "placeId": "ChIJ2XY97OJsczkRL6kTJjmvbdc"
+        }, {
+          "placeId": "ChIJZ_y00QJtczkR0LcOQzFsbUU"
+        }, {
+          "placeId": "ChIJH-XwfARtczkR5VucdBTzJes"
+        }, {
+          "placeId": "ChIJIx-zzwVtczkRLt_a-aLeCMs"
+        }, {
+          "placeId": "ChIJIcX6mwhtczkRljP-TOGXhjU"
+        }, {
+          "placeId": "ChIJHyyUJghtczkRYS4CS3ySeyQ"
+        }, {
+          "placeId": "ChIJL9eQ46ZtczkRbb5r42oTk8A"
+        }, {
+          "placeId": "ChIJ39CURaFtczkRXVMoqpQDfkc"
+        }, {
+          "placeId": "ChIJn6JO9aFtczkRUX0pEgtStlY"
+        }, {
+          "placeId": "ChIJh4TwxphtczkRxpgLzb1s-Og"
+        }, {
+          "placeId": "ChIJp-q9HpltczkRyjS6XsmtGjk"
+        }, {
+          "placeId": "ChIJEyJOIJptczkRsVXHKu04L9o"
+        }, {
+          "placeId": "ChIJS2tRaZBtczkRTKVYHVeBHNM"
+        }, {
+          "placeId": "ChIJi_eVFZBtczkRqj8hPbTv4FY"
+        }, {
+          "placeId": "ChIJQf3WIpBtczkRXGF_bL8rUgQ"
+        }, {
+          "placeId": "ChIJdZmeT45tczkR9tf_e_FCmV4"
+        }, {
+          "placeId": "ChIJNVzhpo5tczkRPhSHp2Le_SA"
+        }, {
+          "placeId": "ChIJP6tWBoxtczkRfb0EUXR4OP4"
+        }, {
+          "placeId": "ChIJa_0dBYttczkRdSS1Clj7Eic"
+        }, {
+          "placeId": "ChIJ-Z5AHottczkRpRWbhy23ylk"
+        }, {
+          "placeId": "ChIJ-Z5AHottczkR9NPNx96O2L0"
+        }, {
+          "placeId": "ChIJNdT37w5yczkRlT9RwT0F8cA"
+        }, {
+          "placeId": "ChIJxUkdCBByczkRuFFmUrfOGbc"
+        }, {
+          "placeId": "ChIJY_n79BpyczkR3i-QZacK1uM"
+        }, {
+          "placeId": "ChIJ9RVDwRtyczkR7Ac8MFO-oOo"
+        }, {
+          "placeId": "ChIJ01z7rR5yczkRA4pFT7m4mok"
+        }, {
+          "placeId": "ChIJ01z7rR5yczkRHWLt3nhToWU"
+        }, {
+          "placeId": "ChIJZTNorIpxczkRR5qzIiEfgLk"
+        }, {
+          "placeId": "ChIJLY2B5YpxczkRp_t_uD5wCRY"
+        }, {
+          "placeId": "ChIJvZeJqotxczkRW-pLmp3YQH0"
+        }, {
+          "placeId": "ChIJWwPfq4txczkRu8C6QeabPj0"
+        }, {
+          "placeId": "ChIJq8EEu4txczkRFd3AWSFwMkA"
+        }, {
+          "placeId": "ChIJs6BQlYtxczkRT7HmCi9BgrQ"
+        }, {
+          "placeId": "ChIJew2h7otxczkRCwqGNzFslas"
+        }, {
+          "placeId": "ChIJj8yU-4txczkRl0gWI4zLvUg"
+        }, {
+          "placeId": "ChIJgb-VrI5xczkR826QxOJr_aI"
+        }, {
+          "placeId": "ChIJN9-qto5xczkR2xSYBIb1Ylw"
+        }, {
+          "placeId": "ChIJCzwhK49xczkRGRm4iSwc0dQ"
+        }, {
+          "placeId": "ChIJyy_dsYhxczkRqRqRpJz_jvQ"
+        }, {
+          "placeId": "ChIJ8Q58qIhxczkROZMeJ0bcqFM"
+        }, {
+          "placeId": "ChIJ55wCFYZxczkRmTZWD4ZEhrs"
+        }, {
+          "placeId": "ChIJPwYf9oZxczkRb-7I_VL78_E"
+        }, {
+          "placeId": "ChIJhR5y8IZxczkR6TsGc0k_g6Y"
+        }, {
+          "placeId": "ChIJgwHa3YZxczkRgzD0wHtP6FI"
+        }, {
+          "placeId": "ChIJi7cX1oZxczkRELJ_N_i0rMM"
+        }, {
+          "placeId": "ChIJkzc52oBxczkRejCcRbyEdlU"
+        }, {
+          "placeId": "ChIJTxba8YBxczkRJsOuD-20NhY"
+        }, {
+          "placeId": "ChIJM33h-H9xczkR6Y5jQW06DLI"
+        }, {
+          "placeId": "ChIJh6M1439xczkRvrmJ8XV5I4g"
+        }, {
+          "placeId": "ChIJGWS_4X9xczkRXCg2-kq80ps"
+        }, {
+          "placeId": "ChIJQd3NYdVzczkRVKcuN9MfnwM"
+        }, {
+          "placeId": "ChIJM603fNVzczkRNDA7Nj8m_iE"
+        }, {
+          "placeId": "ChIJK8yhgdVzczkRghisF6cIK8c"
+        }, {
+          "placeId": "ChIJd2Hji9VzczkR-CEhYdsJbEQ"
+        }, {
+          "placeId": "ChIJlxr8-dVzczkRe1n3aZ86Jy4"
+        }, {
+          "placeId": "ChIJXeoC_NVzczkRnyzBrVZMpLE"
+        }, {
+          "placeId": "ChIJEwiwBNZzczkRnz17oB7TWDE"
+        }, {
+          "placeId": "ChIJO00SItZzczkROb7vi9ycoK8"
+        }, {
+          "placeId": "ChIJee4NLNZzczkRMjE8lajJ7Rc"
+        }],
+        "distanceMeters": 22659.762384559854,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275010961,
+          "longitudeE7": 776547915,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-05T11:52:25.171Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275006880,
+        "longitudeE7": 776591630,
+        "placeId": "ChIJ-_6PK2NxczkRRqoF3gnamxg",
+        "address": "Shop No. 216, Equal Of Khatri Studio, Street, in front of mayank Gas Agency, Krishna Nagar, Mathura, Uttar Pradesh 281004, India",
+        "name": "DTDC COURIER \u0026 CARGO",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 84.11708,
+        "calibratedProbability": 66.20923
+      },
+      "duration": {
+        "startTimestamp": "2019-11-05T11:52:25.171Z",
+        "endTimestamp": "2019-11-05T12:48:24.280Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 275012201,
+      "centerLngE7": 776585867,
+      "visitConfidence": 87,
+      "otherCandidateLocations": [{
+        "latitudeE7": 275009698,
+        "longitudeE7": 776599818,
+        "placeId": "ChIJt1jAmGRxczkRohowaZO2IzI",
+        "address": "Radha Nagar, Shankar Vihar, Krishna Nagar, Mathura, Uttar Pradesh 281001, India",
+        "name": "Mohan Misthan Bhandar",
+        "locationConfidence": 3.0498426,
+        "calibratedProbability": 2.4005556
+      }, {
+        "latitudeE7": 275009210,
+        "longitudeE7": 776599057,
+        "placeId": "ChIJs06kr2RxczkRJK7QFoJw0pY",
+        "address": "GM25+9X6, Mathura - Govardhan Rd, Radha Nagar, Krishna Nagar, Mathura, Uttar Pradesh 281004, India",
+        "name": "Krishna Nagar Square Mathura",
+        "locationConfidence": 1.6525029,
+        "calibratedProbability": 1.3006983
+      }, {
+        "latitudeE7": 275006322,
+        "longitudeE7": 776600582,
+        "placeId": "ChIJK_EspWRxczkR4lY3-FGWzhc",
+        "address": "DIST, Krishna Nagar, Mathura, Uttar Pradesh 281001, India",
+        "name": "CENTRAL BANK OF INDIA - KRISHNA NAGAR MATHURA Branch",
+        "locationConfidence": 1.4687943,
+        "calibratedProbability": 1.1560998
+      }, {
+        "latitudeE7": 275009340,
+        "longitudeE7": 776603420,
+        "placeId": "ChIJMcfAsGRxczkRZ5zRa4mvCnI",
+        "address": "Shop No 4, Subhadra Nursingh Home, Krishna Nagar, Chauraha, Mathura, Uttar Pradesh 281001, India",
+        "name": "HDFC Bank ATM",
+        "locationConfidence": 1.3687552,
+        "calibratedProbability": 1.0773582
+      }, {
+        "latitudeE7": 275028326,
+        "longitudeE7": 776601695,
+        "placeId": "ChIJvQXkQntxczkRKI07obFcv9Y",
+        "address": "Mahaban, Mathura, Nabipur Bangar, Uttar Pradesh 281004, India",
+        "name": "Chinta Haran Mahadev, Mathura",
+        "locationConfidence": 1.345405,
+        "calibratedProbability": 1.058979
+      }, {
+        "latitudeE7": 274989288,
+        "longitudeE7": 776592672,
+        "placeId": "ChIJ08g-YGNxczkRf4VWzn6p5BM",
+        "address": "FMX5+HPC, Bhuteshwar Rd, Krishna Nagar, Mathura, Uttar Pradesh 281001, India",
+        "name": "RamLila Maidaan",
+        "locationConfidence": 1.0060803,
+        "calibratedProbability": 0.79189384
+      }, {
+        "latitudeE7": 275010959,
+        "longitudeE7": 776609399,
+        "placeId": "ChIJD3oFM2NxczkRVJSEBFWmpT0",
+        "locationConfidence": 0.8444877,
+        "calibratedProbability": 0.6647031
+      }, {
+        "latitudeE7": 275010783,
+        "longitudeE7": 776601380,
+        "placeId": "ChIJTVJLsGRxczkRmB_An54PsVE",
+        "address": "GM26+C3J, Radha Nagar, Shankar Vihar, Krishna Nagar, Mathura, Uttar Pradesh 281004, India",
+        "name": "Madras Restaurant",
+        "locationConfidence": 0.8157664,
+        "calibratedProbability": 0.6420963
+      }, {
+        "latitudeE7": 275008089,
+        "longitudeE7": 776601021,
+        "placeId": "ChIJ63Dj34txczkRciIT7QoMBeI",
+        "address": "Shop no 216/1062 ground floor, main market, Krishna Nagar, Mathura, Uttar Pradesh 281004, India",
+        "name": "Relaxo",
+        "locationConfidence": 0.79819983,
+        "calibratedProbability": 0.6282695
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 69,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275009908,
+        "longitudeE7": 776601307
+      },
+      "endLocation": {
+        "latitudeE7": 276509849,
+        "longitudeE7": 775505387
+      },
+      "duration": {
+        "startTimestamp": "2019-11-05T12:48:24.280Z",
+        "endTimestamp": "2019-11-06T01:28:50.240Z"
+      },
+      "distance": 19870,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 53.145354986190796
+      }, {
+        "activityType": "STILL",
+        "probability": 25.85526704788208
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.508777856826782
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 275009193,
+          "lngE7": 776601333
+        }, {
+          "latE7": 276101894,
+          "lngE7": 775883865
+        }, {
+          "latE7": 276512413,
+          "lngE7": 775508804
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJMUgZsGRxczkR8ZBHUT-TaeQ"
+        }, {
+          "placeId": "ChIJ3bzOV2NxczkROvnsVoOlXkY"
+        }, {
+          "placeId": "ChIJb4xZSWNxczkRShiYPgKqE8g"
+        }, {
+          "placeId": "ChIJIz3uLGNxczkRl76fQiffp_8"
+        }, {
+          "placeId": "ChIJOXw702JxczkRO3XCW9lZdEA"
+        }, {
+          "placeId": "ChIJvz_AzGJxczkR0-tw_B6Dq6U"
+        }, {
+          "placeId": "ChIJy1V0A9hzczkR6YIQtoS7RUg"
+        }, {
+          "placeId": "ChIJ3xqgwtdzczkRANh95TQ4gKM"
+        }, {
+          "placeId": "ChIJc9ugxNdzczkRLKTPZpGxk0c"
+        }, {
+          "placeId": "ChIJc6dmzddzczkRdA3tPZQlFMM"
+        }, {
+          "placeId": "ChIJZdxdI9ZzczkRTsivSM2hrPk"
+        }, {
+          "placeId": "ChIJS4iJBtZzczkRW5EWRFjdM8E"
+        }, {
+          "placeId": "ChIJ6xD38NVzczkRMZyMh49d7Y4"
+        }, {
+          "placeId": "ChIJBxhFX9VzczkRkZpc5bzZ7_Q"
+        }, {
+          "placeId": "ChIJPRrL4n9xczkRfdxpfCCk-Ts"
+        }, {
+          "placeId": "ChIJXXyy-H9xczkRuXtteHIfHxU"
+        }, {
+          "placeId": "ChIJP4aBA4BxczkRL-jcGM_nIOo"
+        }, {
+          "placeId": "ChIJr1xFaYBxczkRtaPJFDzlADw"
+        }, {
+          "placeId": "ChIJdZjv8YBxczkRP3sxaTRvxGo"
+        }, {
+          "placeId": "ChIJIXpT3YBxczkRw9p40pDeaIU"
+        }, {
+          "placeId": "ChIJgdkb1IBxczkRMN4N4b1g3UA"
+        }, {
+          "placeId": "ChIJ7cjhKYdxczkRupv4ztyHZHQ"
+        }, {
+          "placeId": "ChIJxwjN5oZxczkRsHwhywfjKYA"
+        }, {
+          "placeId": "ChIJlRZ0WIZxczkRtk5hevyPrE4"
+        }, {
+          "placeId": "ChIJs8MhHIZxczkRJE8ovlczkbg"
+        }, {
+          "placeId": "ChIJ-btipYhxczkRJW9gc6xyMp0"
+        }, {
+          "placeId": "ChIJXwguyohxczkRecAWdiCKayw"
+        }, {
+          "placeId": "ChIJb2fD1I5xczkR5XS9OPAAVmE"
+        }, {
+          "placeId": "ChIJ44V2tI5xczkRBDYb1eHsAUo"
+        }, {
+          "placeId": "ChIJlzjmVYlxczkR1KYmIAaVxME"
+        }, {
+          "placeId": "ChIJ7dGf6otxczkR46jkatAehqg"
+        }, {
+          "placeId": "ChIJixwDsItxczkR8S-JdBVLfnk"
+        }, {
+          "placeId": "ChIJ5cCo-4pxczkR5zewUWODJYM"
+        }, {
+          "placeId": "ChIJlcbsq4pxczkRzaWiW_qSlhc"
+        }, {
+          "placeId": "ChIJ6edYxx5yczkRtq4dhPf3aEQ"
+        }, {
+          "placeId": "ChIJ6edYxx5yczkRB-Wu1i3Lj30"
+        }, {
+          "placeId": "ChIJG7iZVhlyczkRfTiL21jpshE"
+        }, {
+          "placeId": "ChIJFQrwTRpyczkRf6eOv311Ekw"
+        }, {
+          "placeId": "ChIJsfJHixpyczkRfyR3HO1k-8M"
+        }, {
+          "placeId": "ChIJSXIoBhByczkRbVkgS1RwPw8"
+        }, {
+          "placeId": "ChIJaf6J5g9yczkROyCTPrOfP5U"
+        }, {
+          "placeId": "ChIJ1wAy5g9yczkRoiQcYn_3vwA"
+        }, {
+          "placeId": "ChIJp7at9wpyczkRZircaxTevDM"
+        }, {
+          "placeId": "ChIJLxK2HYttczkRWiGKUUji1gw"
+        }, {
+          "placeId": "ChIJLxK2HYttczkRHcU6MVSgSKk"
+        }, {
+          "placeId": "ChIJW1bEBYttczkR9ntfdQKRqQc"
+        }, {
+          "placeId": "ChIJW1j_A4xtczkRwzxxINUEjPk"
+        }, {
+          "placeId": "ChIJt-_HT45tczkRs89JeX4AjtQ"
+        }, {
+          "placeId": "ChIJ6W25IpBtczkRuzlTO_k3mOY"
+        }, {
+          "placeId": "ChIJkTL-FJBtczkRg9b7kmgUJY0"
+        }, {
+          "placeId": "ChIJkXnpZJBtczkRKtHk27o1jmM"
+        }, {
+          "placeId": "ChIJLyiUIZptczkRiODoT-oPem4"
+        }, {
+          "placeId": "ChIJEzwlGZltczkRi1Q3Vzkm6UY"
+        }, {
+          "placeId": "ChIJI_cNxphtczkRNxu33iitCKc"
+        }, {
+          "placeId": "ChIJpd3d9KFtczkRXuboonPT9Kg"
+        }, {
+          "placeId": "ChIJc3x6RqFtczkRAo6qiVUhGuM"
+        }, {
+          "placeId": "ChIJV6PV46ZtczkRiL8x9mV2Q2o"
+        }, {
+          "placeId": "ChIJm1kqqAhtczkR4u2d04hT4to"
+        }, {
+          "placeId": "ChIJyUkwYwRtczkRCyyW7AhLvAg"
+        }, {
+          "placeId": "ChIJH1UdGuRsczkRazd9YQevuAI"
+        }, {
+          "placeId": "ChIJ_QImguZsczkRlaxLhH4acVE"
+        }, {
+          "placeId": "ChIJQwmhfOZsczkRombDg38KV_g"
+        }, {
+          "placeId": "ChIJ41kTb-ZsczkR_Pmg1bc2PjE"
+        }, {
+          "placeId": "ChIJZ3o4L-ZsczkRwbKkoGM5ngI"
+        }, {
+          "placeId": "ChIJw-1PMehsczkR3BligPMKhkU"
+        }, {
+          "placeId": "ChIJw-1PMehsczkR6530MI9jRX8"
+        }, {
+          "placeId": "ChIJj9KRH8JsczkRTyqR2Nepp3E"
+        }, {
+          "placeId": "ChIJWyre_MBsczkR8cERtiWumPU"
+        }, {
+          "placeId": "ChIJS7SUusBsczkRARXvTu28bbQ"
+        }, {
+          "placeId": "ChIJl4PuurhsczkR9w-FxgaQ5to"
+        }, {
+          "placeId": "ChIJ0d4RprlsczkRqwGj6JKkQwo"
+        }, {
+          "placeId": "ChIJPdDhjLlsczkR6njgnDSTFWM"
+        }, {
+          "placeId": "ChIJJWUnDbpsczkRv1Qpmw6BBgk"
+        }, {
+          "placeId": "ChIJJWUnDbpsczkRpcf57AG7oUg"
+        }, {
+          "placeId": "ChIJecYfY7BsczkRhd6_AWrYEt0"
+        }, {
+          "placeId": "ChIJuafNdatsczkRgpCxv80gzgs"
+        }, {
+          "placeId": "ChIJr9GCSVUTczkREB7xlBC8dRs"
+        }, {
+          "placeId": "ChIJ3fb6X1UTczkRB7UPHTE8c7M"
+        }, {
+          "placeId": "ChIJ3fb6X1UTczkR85vcDCOKSgU"
+        }, {
+          "placeId": "ChIJ5wZ9yqsUczkReTztlXOLVoA"
+        }],
+        "distanceMeters": 21644.54537548931,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276509849,
+          "longitudeE7": 775505387,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-06T01:28:50.240Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 79.0394,
+        "calibratedProbability": 29.910439
+      },
+      "duration": {
+        "startTimestamp": "2019-11-06T01:28:50.240Z",
+        "endTimestamp": "2019-11-06T09:54:10.218Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 275514859,
+      "centerLngE7": 775456581,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 275509296,
+        "longitudeE7": 775484898,
+        "placeId": "ChIJcRiw0TYTczkR7FprAGDQP44",
+        "address": "HG2X+99H, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "English Wine Shop.",
+        "locationConfidence": 5.8944044,
+        "calibratedProbability": 2.2305865
+      }, {
+        "latitudeE7": 275498425,
+        "longitudeE7": 775479831,
+        "placeId": "ChIJp0rt2fMNczkRxaERI665XyI",
+        "address": "Radha Kund Rd, near Kanhaiya the dhaaba, Ral, Uttar Pradesh 281504, India",
+        "name": "Shri Radhika dhaam hotel Radhakund",
+        "locationConfidence": 4.3776054,
+        "calibratedProbability": 1.6565927
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJdXWrJhITczkRfqdHKe0GO54",
+        "address": "HG2X+99H, Radha Kund Rd, Govardhan, Ral, Uttar Pradesh 281502, India",
+        "name": "Shri Radhe Bhojnalay",
+        "locationConfidence": 4.012681,
+        "calibratedProbability": 1.5184964
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJz2VpuE0TczkRByekdxTJ_Qo",
+        "address": "HG2X+99H, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "Nandkishore Cock Agency",
+        "locationConfidence": 3.1206474,
+        "calibratedProbability": 1.1809292
+      }, {
+        "latitudeE7": 275509296,
+        "longitudeE7": 775484898,
+        "placeId": "ChIJT5mppJsTczkRIlqUTasE3Vs",
+        "locationConfidence": 1.8360629,
+        "calibratedProbability": 0.69481105
+      }, {
+        "latitudeE7": 275509266,
+        "longitudeE7": 775484969,
+        "placeId": "ChIJSSVvrb4TczkRVC8VBpSPeek",
+        "address": "Canara Bank, Radha Kund Rd, Ral, Uttar Pradesh 281504, India",
+        "name": "Komal Aqua Collers Sal/ Sarvis",
+        "locationConfidence": 1.7192001,
+        "calibratedProbability": 0.6505873
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 64,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276282445,
+        "longitudeE7": 775735241,
+        "placeId": "ChIJGce7dbpsczkR1PmJj9sOlgo",
+        "address": "JHHF+7CR, NH2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Balaji Ashram",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 61.54603,
+        "calibratedProbability": 36.12937
+      },
+      "duration": {
+        "startTimestamp": "2019-11-06T09:54:10.218Z",
+        "endTimestamp": "2019-11-06T11:32:42.072Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276282267,
+      "centerLngE7": 775724108,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276309953,
+        "longitudeE7": 775723974,
+        "placeId": "ChIJ16EcmrptczkR44n0x1yUiyc",
+        "address": "JHJC+9XR, Mathura, Uttar Pradesh 281406, India",
+        "name": "Milan Family Dhaba",
+        "locationConfidence": 20.185574,
+        "calibratedProbability": 11.849539
+      }, {
+        "latitudeE7": 276313608,
+        "longitudeE7": 775715755,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 5.5699086,
+        "calibratedProbability": 3.2697039
+      }, {
+        "latitudeE7": 276301263,
+        "longitudeE7": 775731694,
+        "placeId": "ChIJEecn2I9tczkRO0BXyrPOFwc",
+        "address": "JHJF+373, NH 19, Uttar Pradesh 281406, India",
+        "name": "Ramesh Dejal Mestri",
+        "locationConfidence": 5.2751713,
+        "calibratedProbability": 3.0966842
+      }, {
+        "latitudeE7": 276296783,
+        "longitudeE7": 775727251,
+        "placeId": "ChIJF1qwfLBsczkRoag2yrXfMhM",
+        "address": "JHHF+V3H, Uttar Pradesh 281406, India",
+        "locationConfidence": 4.3567233,
+        "calibratedProbability": 2.5575275
+      }, {
+        "latitudeE7": 276313611,
+        "longitudeE7": 775715642,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 3.0665936,
+        "calibratedProbability": 1.8001827
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 74.06424,
+        "calibratedProbability": 24.36719
+      },
+      "duration": {
+        "startTimestamp": "2019-11-06T11:32:42.072Z",
+        "endTimestamp": "2019-11-07T09:16:03.357Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 43.13561,
+          "calibratedProbability": 19.220673
+        },
+        "duration": {
+          "startTimestamp": "2019-11-06T11:32:42.072Z",
+          "endTimestamp": "2019-11-06T17:12:00.535Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276493258,
+        "centerLngE7": 775520900,
+        "visitConfidence": 60,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 17.38174,
+          "calibratedProbability": 7.74508
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 9.114226,
+          "calibratedProbability": 4.061182
+        }, {
+          "latitudeE7": 276496586,
+          "longitudeE7": 775508420,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 1.6505404,
+          "calibratedProbability": 0.73545957
+        }, {
+          "latitudeE7": 276494857,
+          "longitudeE7": 775511444,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 1.2677467,
+          "calibratedProbability": 0.56489164
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 0.78679276,
+          "calibratedProbability": 0.35058472
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 35,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276493258,
+      "centerLngE7": 775520900,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 15.649209,
+        "calibratedProbability": 5.1486015
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 2.8339927,
+        "calibratedProbability": 0.93238574
+      }, {
+        "latitudeE7": 276506977,
+        "longitudeE7": 775507889,
+        "placeId": "ChIJVWrCh6UUczkRb_Vggm-MXR8",
+        "address": "Uttar Pradesh 281406",
+        "locationConfidence": 2.67606,
+        "calibratedProbability": 0.88042575
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 2.1767325,
+        "calibratedProbability": 0.71614665
+      }, {
+        "latitudeE7": 276487997,
+        "longitudeE7": 775531770,
+        "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+        "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "GL Bajaj Group of Institutions, Mathura",
+        "locationConfidence": 1.3509303,
+        "calibratedProbability": 0.44445708
+      }, {
+        "latitudeE7": 276497090,
+        "longitudeE7": 775519370,
+        "placeId": "ChIJZ5rREq8UczkRnK9f2YRnFnM",
+        "address": "JHX2+VQM, Uttar Pradesh 281406, India",
+        "name": "Shri Akhileshwar Mahadev",
+        "locationConfidence": 0.57344425,
+        "calibratedProbability": 0.18866359
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275514859,
+        "longitudeE7": 775456581
+      },
+      "endLocation": {
+        "latitudeE7": 276307898,
+        "longitudeE7": 775664412
+      },
+      "duration": {
+        "startTimestamp": "2019-11-07T09:16:03.357Z",
+        "endTimestamp": "2019-11-07T16:40:46.138Z"
+      },
+      "distance": 9052,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 47.160255908966064
+      }, {
+        "activityType": "STILL",
+        "probability": 29.153618216514587
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 15.763765573501587
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276307898,
+          "longitudeE7": 775664412,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-07T16:40:46.138Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 75.06626,
+        "calibratedProbability": 24.51941
+      },
+      "duration": {
+        "startTimestamp": "2019-11-07T16:40:46.138Z",
+        "endTimestamp": "2019-11-08T19:15:55.525Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276307898,
+      "centerLngE7": 775664412,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276315280,
+        "longitudeE7": 775669090,
+        "placeId": "ChIJD02PCLJsczkRqyCbwW8pTSI",
+        "address": "Sanjay Institute Of Engg. \u0026 Mgntchaumuhan, Chhata Rural, Mathura, Uttar Pradesh 281406, India",
+        "name": "supertech",
+        "locationConfidence": 24.933737,
+        "calibratedProbability": 8.144278
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275089706,
+        "longitudeE7": 774900538,
+        "placeId": "ChIJwccvgcgNczkRJQtr_XBAa9s",
+        "address": "Pali Brahmnan, GF5R+H2M, Radha Kund, Pali Brahmnan, Uttar Pradesh 281501, India",
+        "name": "Radhey Shyam Gainda laal",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 49.571365
+      },
+      "duration": {
+        "startTimestamp": "2019-11-08T19:15:55.525Z",
+        "endTimestamp": "2019-11-09T14:17:02.349Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275077958,
+      "centerLngE7": 774896604,
+      "visitConfidence": 58,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276282445,
+        "longitudeE7": 775735241,
+        "placeId": "ChIJGce7dbpsczkR1PmJj9sOlgo",
+        "address": "JHHF+7CR, NH2, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Balaji Ashram",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 65.79459,
+        "calibratedProbability": 13.225754
+      },
+      "duration": {
+        "startTimestamp": "2019-11-09T14:17:02.349Z",
+        "endTimestamp": "2019-11-09T20:19:17.016Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276291400,
+      "centerLngE7": 775706067,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276309953,
+        "longitudeE7": 775723974,
+        "placeId": "ChIJ16EcmrptczkR44n0x1yUiyc",
+        "address": "JHJC+9XR, Mathura, Uttar Pradesh 281406, India",
+        "name": "Milan Family Dhaba",
+        "locationConfidence": 19.283869,
+        "calibratedProbability": 3.8763628
+      }, {
+        "latitudeE7": 276313608,
+        "longitudeE7": 775715755,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 6.1492686,
+        "calibratedProbability": 1.2361003
+      }, {
+        "latitudeE7": 276313611,
+        "longitudeE7": 775715642,
+        "placeId": "ChIJQfPPoi5tczkR4Mnz_N3iBbE",
+        "address": "JHJC+GJW, NH 19, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "प्रदूषण जाँच केंद्र चौमुहां मथुरा",
+        "locationConfidence": 3.6068778,
+        "calibratedProbability": 0.7250395
+      }, {
+        "latitudeE7": 276296783,
+        "longitudeE7": 775727251,
+        "placeId": "ChIJF1qwfLBsczkRoag2yrXfMhM",
+        "address": "JHHF+V3H, Uttar Pradesh 281406, India",
+        "locationConfidence": 3.1943862,
+        "calibratedProbability": 0.64212215
+      }, {
+        "latitudeE7": 276301263,
+        "longitudeE7": 775731694,
+        "placeId": "ChIJEecn2I9tczkRO0BXyrPOFwc",
+        "address": "JHJF+373, NH 19, Uttar Pradesh 281406, India",
+        "name": "Ramesh Dejal Mestri",
+        "locationConfidence": 1.9710076,
+        "calibratedProbability": 0.3962037
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 52,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275533801,
+        "longitudeE7": 775406886
+      },
+      "endLocation": {
+        "latitudeE7": 276292148,
+        "longitudeE7": 775671053
+      },
+      "duration": {
+        "startTimestamp": "2019-11-09T20:19:17.016Z",
+        "endTimestamp": "2019-11-11T02:35:47.005Z"
+      },
+      "distance": 8825,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.0833535194397
+      }, {
+        "activityType": "STILL",
+        "probability": 33.920326828956604
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.255227267742157
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276292148,
+          "longitudeE7": 775671053,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-11T02:35:47.005Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275089706,
+        "longitudeE7": 774900538,
+        "placeId": "ChIJwccvgcgNczkRJQtr_XBAa9s",
+        "address": "Pali Brahmnan, GF5R+H2M, Radha Kund, Pali Brahmnan, Uttar Pradesh 281501, India",
+        "name": "Radhey Shyam Gainda laal",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 60.448296
+      },
+      "duration": {
+        "startTimestamp": "2019-11-11T02:35:47.005Z",
+        "endTimestamp": "2019-11-11T08:33:25.602Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275077922,
+      "centerLngE7": 774896484,
+      "visitConfidence": 62,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 85.30358,
+        "calibratedProbability": 34.313313
+      },
+      "duration": {
+        "startTimestamp": "2019-11-11T08:33:25.602Z",
+        "endTimestamp": "2019-11-11T15:24:57.339Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 54.557297,
+          "calibratedProbability": 26.869614
+        },
+        "duration": {
+          "startTimestamp": "2019-11-11T11:49:41.617Z",
+          "endTimestamp": "2019-11-11T12:44:02.836Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276478650,
+        "centerLngE7": 775532000,
+        "visitConfidence": 59,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 19.212149,
+          "calibratedProbability": 9.462034
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 2.3379393,
+          "calibratedProbability": 1.1514412
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 2.2731647,
+          "calibratedProbability": 1.1195396
+        }, {
+          "latitudeE7": 276496586,
+          "longitudeE7": 775508420,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.99091774,
+          "calibratedProbability": 0.4880296
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 0.8004865,
+          "calibratedProbability": 0.39424172
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.6050205,
+          "calibratedProbability": 0.2979742
+        }, {
+          "latitudeE7": 276494857,
+          "longitudeE7": 775511444,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.45152813,
+          "calibratedProbability": 0.2223788
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 44,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276478650,
+      "centerLngE7": 775532000,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 7.935849,
+        "calibratedProbability": 3.1921904
+      }, {
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 2.406556,
+        "calibratedProbability": 0.96803564
+      }, {
+        "latitudeE7": 276487997,
+        "longitudeE7": 775531770,
+        "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+        "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "GL Bajaj Group of Institutions, Mathura",
+        "locationConfidence": 1.6558932,
+        "calibratedProbability": 0.666082
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 1.0107034,
+        "calibratedProbability": 0.40655485
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 0.672177,
+        "calibratedProbability": 0.2703828
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 0.4690951,
+        "calibratedProbability": 0.18869323
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276478640,
+        "longitudeE7": 775532086
+      },
+      "endLocation": {
+        "latitudeE7": 275252155,
+        "longitudeE7": 775001179
+      },
+      "duration": {
+        "startTimestamp": "2019-11-11T15:24:57.339Z",
+        "endTimestamp": "2019-11-11T21:29:38.628Z"
+      },
+      "distance": 14607,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.71463334560394
+      }, {
+        "activityType": "STILL",
+        "probability": 34.1172993183136
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.746548235416412
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276486358,
+          "lngE7": 775539245
+        }, {
+          "latE7": 275252151,
+          "lngE7": 775001144
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 34092.85868785159,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 73.82491,
+        "calibratedProbability": 28.62219,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-11T21:53:02.224Z",
+        "endTimestamp": "2019-11-12T12:42:01.444Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 20.179659,
+          "calibratedProbability": 13.385881
+        },
+        "duration": {
+          "startTimestamp": "2019-11-12T09:11:34.077Z",
+          "endTimestamp": "2019-11-12T09:21:48.335Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276453400,
+        "centerLngE7": 775532200,
+        "visitConfidence": 63,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 18.301842,
+          "calibratedProbability": 12.14026,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 18.099945,
+          "calibratedProbability": 12.006334,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 0.9580654,
+          "calibratedProbability": 0.63551867,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.90129983,
+          "calibratedProbability": 0.5978641
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 11,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453400,
+      "centerLngE7": 775532200,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 23.601414,
+        "calibratedProbability": 9.150355
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.6692774,
+        "calibratedProbability": 0.647185
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.4798319,
+        "calibratedProbability": 0.18603261
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.41292697,
+        "calibratedProbability": 0.16009332
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276453442,
+        "longitudeE7": 775532250
+      },
+      "endLocation": {
+        "latitudeE7": 275533837,
+        "longitudeE7": 775407096
+      },
+      "duration": {
+        "startTimestamp": "2019-11-12T12:42:01.444Z",
+        "endTimestamp": "2019-11-14T16:16:08.753Z"
+      },
+      "distance": 10299,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.054094672203064
+      }, {
+        "activityType": "STILL",
+        "probability": 28.715690970420837
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.58421915769577
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276453442,
+          "longitudeE7": 775532250,
+          "accuracyMetres": 83
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-14T16:14:18.949Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276498026,
+        "longitudeE7": 775503883,
+        "placeId": "ChIJVWrCh6UUczkRb_Vggm-MXR8",
+        "address": "Uttar Pradesh 281406",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 24.62515,
+        "calibratedProbability": 6.210997
+      },
+      "duration": {
+        "startTimestamp": "2019-11-14T16:16:08.753Z",
+        "endTimestamp": "2019-11-14T16:29:01.325Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 276508000,
+      "centerLngE7": 775495450,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 19.84211,
+        "calibratedProbability": 5.00461
+      }, {
+        "latitudeE7": 276520232,
+        "longitudeE7": 775508584,
+        "placeId": "ChIJDeiGqwEVczkRz1LzNowYjw4",
+        "address": "MH22+R85, Mathura, Uttar Pradesh 281406, India",
+        "name": "R.K.FAST FOOD \u0026 CAFE",
+        "locationConfidence": 18.385986,
+        "calibratedProbability": 4.6373444
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 13.800627,
+        "calibratedProbability": 3.4808173
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 7.1746635,
+        "calibratedProbability": 1.8096057
+      }, {
+        "latitudeE7": 276489678,
+        "longitudeE7": 775486416,
+        "placeId": "ChIJU1XFuKUUczkRaL8mrOHhgzc",
+        "locationConfidence": 6.1493697,
+        "calibratedProbability": 1.5510044
+      }, {
+        "latitudeE7": 276491650,
+        "longitudeE7": 775482470,
+        "placeId": "ChIJnRC1sKUUczkR_dWSX6-Q6BM",
+        "address": "JGXX+M79, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D.M.C.H.R.C. MESS",
+        "locationConfidence": 3.0046933,
+        "calibratedProbability": 0.7578488
+      }, {
+        "latitudeE7": 276497090,
+        "longitudeE7": 775519370,
+        "placeId": "ChIJZ5rREq8UczkRnK9f2YRnFnM",
+        "address": "JHX2+VQM, Uttar Pradesh 281406, India",
+        "name": "Shri Akhileshwar Mahadev",
+        "locationConfidence": 2.7617037,
+        "calibratedProbability": 0.6965616
+      }, {
+        "latitudeE7": 276494836,
+        "longitudeE7": 775513798,
+        "placeId": "ChIJ9ZLXbq8UczkRzW7y86hrQnQ",
+        "address": "JHX2+QHR, Mathura, Uttar Pradesh 281406, India",
+        "name": "Union Bank",
+        "locationConfidence": 2.5125258,
+        "calibratedProbability": 0.6337135
+      }, {
+        "latitudeE7": 276500568,
+        "longitudeE7": 775500333,
+        "placeId": "ChIJW2RBh6UUczkR7D1v7_RDlVc",
+        "address": "mast masala, Srinagar - Kanyakumari Hwy, Uttar Pradesh 281406, India",
+        "name": "MAST MASALA CAFETERIA",
+        "locationConfidence": 0.81571525,
+        "calibratedProbability": 0.20574108
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 17,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 70.92201,
+        "calibratedProbability": 15.298117,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-14T16:29:01.325Z",
+        "endTimestamp": "2019-11-15T03:22:34.609Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "name": "RAJIV GHANTI HOSTEL",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 22.411747,
+          "calibratedProbability": 8.536134,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-11-14T16:29:01.325Z",
+          "endTimestamp": "2019-11-14T16:43:31.733Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276453400,
+        "centerLngE7": 775532200,
+        "visitConfidence": 58,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 17.27347,
+          "calibratedProbability": 6.5790787,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 14.637032,
+          "calibratedProbability": 5.5749183
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 1.234285,
+          "calibratedProbability": 0.47011158,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.0723592,
+          "calibratedProbability": 0.40843767
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 14,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453442,
+      "centerLngE7": 775532250,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 24.110798,
+        "calibratedProbability": 5.20078
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.7262974,
+        "calibratedProbability": 0.58807147
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 1.8850961,
+        "calibratedProbability": 0.40662155
+      }, {
+        "latitudeE7": 276458235,
+        "longitudeE7": 775548087,
+        "placeId": "ChIJ5XTUS5EVczkRdpaVEdHetu0",
+        "address": "JHW3+8WF, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Theme park , थीम पार्क",
+        "locationConfidence": 0.34812173,
+        "calibratedProbability": 0.07509103
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 57,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275533837,
+        "longitudeE7": 775407096
+      },
+      "endLocation": {
+        "latitudeE7": 276392288,
+        "longitudeE7": 775593144
+      },
+      "duration": {
+        "startTimestamp": "2019-11-15T03:22:34.609Z",
+        "endTimestamp": "2019-11-15T19:24:43.096Z"
+      },
+      "distance": 9720,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 36.77063584327698
+      }, {
+        "activityType": "STILL",
+        "probability": 33.04499387741089
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.732740938663483
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 275552463,
+          "lngE7": 775402984
+        }, {
+          "latE7": 276378211,
+          "lngE7": 775569686
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 21339.13067495036,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276392288,
+          "longitudeE7": 775593144,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-15T19:24:43.096Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275501809,
+        "longitudeE7": 775442540,
+        "placeId": "ChIJMYlFtqASczkRjRjC58anCro",
+        "address": "HG2V+4M4, Ral, Uttar Pradesh 281504, India",
+        "name": "Maharshi Dayanand Rehabilitation Institute",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 53.995148
+      },
+      "duration": {
+        "startTimestamp": "2019-11-15T19:24:43.096Z",
+        "endTimestamp": "2019-11-16T07:30:32.674Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275508761,
+      "centerLngE7": 775447908,
+      "visitConfidence": 59,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276362328,
+        "longitudeE7": 775580714,
+        "placeId": "ChIJCwvuk1MTczkRKoKmkgfAaV8",
+        "address": "Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "Ajhai",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 58.481194
+      },
+      "duration": {
+        "startTimestamp": "2019-11-16T07:30:32.674Z",
+        "endTimestamp": "2019-11-16T14:35:28.249Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 276388250,
+      "centerLngE7": 775597800,
+      "visitConfidence": 61,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276415805,
+        "longitudeE7": 775576179,
+        "placeId": "ChIJuYil6o4TczkRGN1N4OP2TM4",
+        "address": "JHR5+J2X, Sihana Rd, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Tulsi Seva Dham Ashram Akbarpur Mathura",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 41.813488,
+        "calibratedProbability": 7.885795
+      },
+      "duration": {
+        "startTimestamp": "2019-11-16T14:35:28.249Z",
+        "endTimestamp": "2019-11-16T15:04:45.087Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 276411450,
+      "centerLngE7": 775571500,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276428074,
+        "longitudeE7": 775585889,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 22.033981,
+        "calibratedProbability": 4.1554885
+      }, {
+        "latitudeE7": 276428184,
+        "longitudeE7": 775586033,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 16.64949,
+        "calibratedProbability": 3.1400027
+      }, {
+        "latitudeE7": 276428137,
+        "longitudeE7": 775586157,
+        "placeId": "ChIJbYobnwYVczkREWArvGTQLQE",
+        "address": "rod and govardhan, Akbarpur - Shergarh Rd, Sihana, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Manoj Mobile Shop Akbarpur",
+        "locationConfidence": 12.310183,
+        "calibratedProbability": 2.321633
+      }, {
+        "latitudeE7": 276428490,
+        "longitudeE7": 775585547,
+        "placeId": "ChIJH8BXUIwVczkRvAmotCa1RlI",
+        "address": "JHV5+4CM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "गौरा कैलाश ज्वेलरी संसार",
+        "locationConfidence": 7.1928577,
+        "calibratedProbability": 1.3565336
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 34,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276329877,
+        "longitudeE7": 775673458,
+        "placeId": "ChIJq6qq6sBsczkRIu2hAWDFCTU",
+        "address": "21st Milestone, NH#2, Mathura-Delhi Road Dist:-Mathura Tehsil:Chhata, Chaumuhan, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay College Of Pharmacy",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 71.58168,
+        "calibratedProbability": 19.13308
+      },
+      "duration": {
+        "startTimestamp": "2019-11-16T15:04:45.087Z",
+        "endTimestamp": "2019-11-17T11:58:28.033Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276304894,
+      "centerLngE7": 775671361,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276315280,
+        "longitudeE7": 775669090,
+        "placeId": "ChIJD02PCLJsczkRqyCbwW8pTSI",
+        "address": "Sanjay Institute Of Engg. \u0026 Mgntchaumuhan, Chhata Rural, Mathura, Uttar Pradesh 281406, India",
+        "name": "supertech",
+        "locationConfidence": 28.418318,
+        "calibratedProbability": 7.5959373
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 57,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276478631,
+        "longitudeE7": 775532019
+      },
+      "endLocation": {
+        "latitudeE7": 276254301,
+        "longitudeE7": 775729012
+      },
+      "duration": {
+        "startTimestamp": "2019-11-17T11:58:28.033Z",
+        "endTimestamp": "2019-11-17T19:45:26.970Z"
+      },
+      "distance": 3222,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 33.63099694252014
+      }, {
+        "activityType": "STILL",
+        "probability": 31.993839144706726
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.651111960411072
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276486396,
+          "lngE7": 775539169
+        }, {
+          "latE7": 276252803,
+          "lngE7": 775728683
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 15507.582064842383,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276453442,
+          "longitudeE7": 775532250,
+          "accuracyMetres": 120
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-17T19:45:29.499Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276452296,
+        "longitudeE7": 775539038,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 55.27496,
+        "calibratedProbability": 8.705193
+      },
+      "duration": {
+        "startTimestamp": "2019-11-17T19:45:26.970Z",
+        "endTimestamp": "2019-11-17T21:03:50.344Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276417250,
+      "centerLngE7": 775571300,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276415805,
+        "longitudeE7": 775576179,
+        "placeId": "ChIJuYil6o4TczkRGN1N4OP2TM4",
+        "address": "JHR5+J2X, Sihana Rd, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Tulsi Seva Dham Ashram Akbarpur Mathura",
+        "locationConfidence": 13.191018,
+        "calibratedProbability": 2.077439
+      }, {
+        "latitudeE7": 276434195,
+        "longitudeE7": 775592383,
+        "placeId": "ChIJ9S3zX9EVczkRfsm_5hovVIc",
+        "locationConfidence": 12.23699,
+        "calibratedProbability": 1.9271902
+      }, {
+        "latitudeE7": 276428074,
+        "longitudeE7": 775585889,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 6.220184,
+        "calibratedProbability": 0.97960997
+      }, {
+        "latitudeE7": 276428490,
+        "longitudeE7": 775585547,
+        "placeId": "ChIJH8BXUIwVczkRvAmotCa1RlI",
+        "address": "JHV5+4CM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "गौरा कैलाश ज्वेलरी संसार",
+        "locationConfidence": 4.754324,
+        "calibratedProbability": 0.7487533
+      }, {
+        "latitudeE7": 276428184,
+        "longitudeE7": 775586033,
+        "placeId": "ChIJ5c_0a7kVczkRuONOldl1Atw",
+        "address": "sihana, JHV5+4CG, rod, Akbarpur, Chaumuhan Rural, Uttar Pradesh 281502, India",
+        "name": "kamal Shadi Sansar And Garment",
+        "locationConfidence": 4.233714,
+        "calibratedProbability": 0.666763
+      }, {
+        "latitudeE7": 276428137,
+        "longitudeE7": 775586157,
+        "placeId": "ChIJbYobnwYVczkREWArvGTQLQE",
+        "address": "rod and govardhan, Akbarpur - Shergarh Rd, Sihana, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Manoj Mobile Shop Akbarpur",
+        "locationConfidence": 4.0888114,
+        "calibratedProbability": 0.6439424
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276355185,
+        "longitudeE7": 775623740
+      },
+      "endLocation": {
+        "latitudeE7": 276453442,
+        "longitudeE7": 775532250
+      },
+      "duration": {
+        "startTimestamp": "2019-11-17T21:03:50.344Z",
+        "endTimestamp": "2019-11-18T09:32:37.696Z"
+      },
+      "distance": 1416,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.16591799259186
+      }, {
+        "activityType": "STILL",
+        "probability": 34.50130820274353
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.627741277217865
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276344528,
+          "lngE7": 775600433
+        }, {
+          "latE7": 276470851,
+          "lngE7": 775560379
+        }, {
+          "latE7": 276476020,
+          "lngE7": 775553359
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJe4pUiFMTczkRK9rFQh4_5o4"
+        }, {
+          "placeId": "ChIJkdQ8GFQTczkRyAZIeLcFlgE"
+        }, {
+          "placeId": "ChIJj9d62VUTczkRYISQu__a4zE"
+        }, {
+          "placeId": "ChIJ8VeJeKoUczkRPiYptnKPf2Y"
+        }],
+        "distanceMeters": 1928.7174269639959,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276453442,
+          "longitudeE7": 775532250,
+          "accuracyMetres": 120
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-18T09:32:37.696Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 73.892784,
+        "calibratedProbability": 46.27388,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-18T09:32:37.696Z",
+        "endTimestamp": "2019-11-18T19:14:41.892Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 26.644648,
+          "calibratedProbability": 23.245073
+        },
+        "duration": {
+          "startTimestamp": "2019-11-18T09:32:37.696Z",
+          "endTimestamp": "2019-11-18T15:36:15.899Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276453435,
+        "centerLngE7": 775532242,
+        "visitConfidence": 81,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 25.900137,
+          "calibratedProbability": 22.595556,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 17.35955,
+          "calibratedProbability": 15.144657,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.1551616,
+          "calibratedProbability": 1.0077753
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 0.5188688,
+          "calibratedProbability": 0.45266667,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 19,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453435,
+      "centerLngE7": 775532242,
+      "visitConfidence": 81,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 19.25399,
+        "calibratedProbability": 12.057426
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 3.081699,
+        "calibratedProbability": 1.9298524
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.0253668,
+        "calibratedProbability": 1.2683455
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.8420591,
+        "calibratedProbability": 0.52732265
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.621018,
+        "calibratedProbability": 0.3889001
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276478908,
+        "longitudeE7": 775532037
+      },
+      "endLocation": {
+        "latitudeE7": 276340566,
+        "longitudeE7": 775680872
+      },
+      "duration": {
+        "startTimestamp": "2019-11-18T19:14:41.892Z",
+        "endTimestamp": "2019-11-19T01:36:00.470Z"
+      },
+      "distance": 2125,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.467320799827576
+      }, {
+        "activityType": "STILL",
+        "probability": 34.80970859527588
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.271476864814758
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276486473,
+          "lngE7": 775539093
+        }, {
+          "latE7": 276344566,
+          "lngE7": 775686111
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 16017.499407691319,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276340566,
+          "longitudeE7": 775680872,
+          "accuracyMetres": 152
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-19T01:36:00.470Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 75.86722,
+        "calibratedProbability": 35.27381,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-19T01:36:00.470Z",
+        "endTimestamp": "2019-11-19T19:46:49.195Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 21.747461,
+          "calibratedProbability": 15.853586
+        },
+        "duration": {
+          "startTimestamp": "2019-11-19T05:29:15.640Z",
+          "endTimestamp": "2019-11-19T05:49:07.452Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 276453400,
+        "centerLngE7": 775532200,
+        "visitConfidence": 66,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 19.630135,
+          "calibratedProbability": 14.310085,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 18.31431,
+          "calibratedProbability": 13.350868,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 1.4114275,
+          "calibratedProbability": 1.0289103,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.178747,
+          "calibratedProbability": 0.85928965
+        }, {
+          "latitudeE7": 276466212,
+          "longitudeE7": 775512886,
+          "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+          "locationConfidence": 0.68090975,
+          "calibratedProbability": 0.49637341
+        }, {
+          "latitudeE7": 276467002,
+          "longitudeE7": 775549561,
+          "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+          "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+          "name": "Delhi public school mathura",
+          "locationConfidence": 0.6712424,
+          "calibratedProbability": 0.48932606
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 13,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276453400,
+      "centerLngE7": 775532200,
+      "visitConfidence": 66,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 18.707657,
+        "calibratedProbability": 8.697964
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 2.2157993,
+        "calibratedProbability": 1.0302168
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.6963501,
+        "calibratedProbability": 0.7887033
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.75509477,
+        "calibratedProbability": 0.3510748
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.53054136,
+        "calibratedProbability": 0.24667063
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276481431,
+        "longitudeE7": 775530201
+      },
+      "endLocation": {
+        "latitudeE7": 276376941,
+        "longitudeE7": 775607556
+      },
+      "duration": {
+        "startTimestamp": "2019-11-19T19:46:49.195Z",
+        "endTimestamp": "2019-11-20T01:21:19.505Z"
+      },
+      "distance": 1389,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.06787407398224
+      }, {
+        "activityType": "STILL",
+        "probability": 28.735408186912537
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 21.383292973041534
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276488323,
+          "lngE7": 775536575
+        }, {
+          "latE7": 276363182,
+          "lngE7": 775584869
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 8443.468021375524,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276376941,
+          "longitudeE7": 775607556,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-20T01:21:19.505Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276890491,
+        "longitudeE7": 775182964,
+        "placeId": "ChIJQUbFaI4VczkRVfhxrAyJdLk",
+        "address": "28, K. M. Stone, Chennai - Delhi Hwy, near Punjab National Bank, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "SANSKRITI UNIVERSITY",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 91.230255,
+        "calibratedProbability": 43.806496
+      },
+      "duration": {
+        "startTimestamp": "2019-11-20T01:21:19.505Z",
+        "endTimestamp": "2019-11-20T09:13:23.099Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276889885,
+      "centerLngE7": 775195212,
+      "visitConfidence": 60,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276884730,
+        "longitudeE7": 775197611,
+        "placeId": "ChIJQUbFaI4VczkRVfhxrAyJdLk",
+        "address": "28, K. M. Stone, Chennai - Delhi Hwy, near Punjab National Bank, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "SANSKRITI UNIVERSITY Mathura Uttar Pradesh",
+        "locationConfidence": 2.9011042,
+        "calibratedProbability": 1.393038
+      }, {
+        "latitudeE7": 276882267,
+        "longitudeE7": 775196154,
+        "placeId": "ChIJF3GuCQEVczkRS7r28JNQxTE",
+        "address": "MGQ9+7RX, Semri, Uttar Pradesh 281401, India",
+        "name": "Punjab National Bank",
+        "locationConfidence": 2.7687402,
+        "calibratedProbability": 1.32948
+      }, {
+        "latitudeE7": 276881638,
+        "longitudeE7": 775190964,
+        "placeId": "ChIJv8OKAAEVczkRjh-oH1qFruw",
+        "address": "Semri, Uttar Pradesh 281401",
+        "locationConfidence": 0.956528,
+        "calibratedProbability": 0.45930094
+      }, {
+        "latitudeE7": 276910700,
+        "longitudeE7": 775178660,
+        "placeId": "ChIJp-EHNAcVczkRDRBjTVHmJbM",
+        "address": "28 near Sanskriti University, Mathura, Chennai - Delhi Hwy, Brindavan, Chhata Rural, Semri, Uttar Pradesh 281401, India",
+        "name": "OYO 12065 Hotel Raj Palace",
+        "locationConfidence": 0.5452974,
+        "calibratedProbability": 0.26183823
+      }, {
+        "latitudeE7": 276894451,
+        "longitudeE7": 775188610,
+        "placeId": "ChIJHXFi-b4VczkRVIeADNO8i2A",
+        "address": "MGQ9+QGH, Semri, Uttar Pradesh 281401, India",
+        "name": "Sanskriti university park",
+        "locationConfidence": 0.51652044,
+        "calibratedProbability": 0.24802025
+      }, {
+        "latitudeE7": 276910544,
+        "longitudeE7": 775178381,
+        "placeId": "ChIJwf4ONAcVczkR-skJFu3hc6c",
+        "address": "Chennai - Delhi Hwy, near Sanskriti University, Semri, Uttar Pradesh 281401, India",
+        "name": "140% Veg New Gulshan Dhaba",
+        "locationConfidence": 0.47342765,
+        "calibratedProbability": 0.22732817
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276927238,
+        "longitudeE7": 775153627
+      },
+      "endLocation": {
+        "latitudeE7": 276502222,
+        "longitudeE7": 775509595
+      },
+      "duration": {
+        "startTimestamp": "2019-11-20T09:13:23.099Z",
+        "endTimestamp": "2019-11-20T19:31:59.356Z"
+      },
+      "distance": 5884,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.98317801952362
+      }, {
+        "activityType": "STILL",
+        "probability": 32.15205669403076
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 17.573365569114685
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276931209,
+          "lngE7": 775141754
+        }, {
+          "latE7": 276502113,
+          "lngE7": 775509643
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 14789.782579848445,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276502222,
+          "longitudeE7": 775509595,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-20T19:31:59.356Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276350675,
+        "longitudeE7": 775657819,
+        "placeId": "ChIJK3uGaq5sczkR6iO7DqVorPI",
+        "address": "21st KM Stone NH-2 Delhi Road, Akbarpur, 281406, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Public School",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 61.84101,
+        "calibratedProbability": 12.647454
+      },
+      "duration": {
+        "startTimestamp": "2019-11-20T19:31:59.356Z",
+        "endTimestamp": "2019-11-21T01:04:45.825Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276358150,
+      "centerLngE7": 775628300,
+      "visitConfidence": 59,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276344232,
+        "longitudeE7": 775651845,
+        "placeId": "ChIJuTxHa6xsczkRgWl1pxCXvIk",
+        "address": "JHP8+GF3, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Chaudhary Dhaba",
+        "locationConfidence": 23.450743,
+        "calibratedProbability": 4.796044
+      }, {
+        "latitudeE7": 276347223,
+        "longitudeE7": 775645135,
+        "placeId": "ChIJ5TkBV2ttczkRTLFrfnC0-rU",
+        "address": "JHM7+VRM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "BH SIEM",
+        "locationConfidence": 6.356488,
+        "calibratedProbability": 1.3000013
+      }, {
+        "latitudeE7": 276344244,
+        "longitudeE7": 775649974,
+        "placeId": "ChIJ42xjBaVtczkRbbtRoLqLFrI",
+        "address": "JHM7+QXH, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS",
+        "locationConfidence": 4.61956,
+        "calibratedProbability": 0.94477224
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJCzEo8fVtczkRzs0UCNMEGZE",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Pathavari Mandir Neetu Ghar",
+        "locationConfidence": 2.0133197,
+        "calibratedProbability": 0.41175538
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJ_____6xsczkReDVDLQV-sTw",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Prp Computers",
+        "locationConfidence": 1.7188767,
+        "calibratedProbability": 0.35153717
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 275089706,
+        "longitudeE7": 774900538,
+        "placeId": "ChIJwccvgcgNczkRJQtr_XBAa9s",
+        "address": "Pali Brahmnan, GF5R+H2M, Radha Kund, Pali Brahmnan, Uttar Pradesh 281501, India",
+        "name": "Radhey Shyam Gainda laal",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 100.0,
+        "calibratedProbability": 62.13852
+      },
+      "duration": {
+        "startTimestamp": "2019-11-21T01:04:45.825Z",
+        "endTimestamp": "2019-11-21T08:08:23.277Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 275078478,
+      "centerLngE7": 774895572,
+      "visitConfidence": 62,
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276356135,
+        "longitudeE7": 775626030
+      },
+      "endLocation": {
+        "latitudeE7": 276254025,
+        "longitudeE7": 775729359
+      },
+      "duration": {
+        "startTimestamp": "2019-11-21T08:08:23.277Z",
+        "endTimestamp": "2019-11-21T20:47:46.475Z"
+      },
+      "distance": 1524,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "UNKNOWN_CONFIDENCE",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 41.70909523963928
+      }, {
+        "activityType": "STILL",
+        "probability": 28.797638416290283
+      }, {
+        "activityType": "WALKING",
+        "probability": 16.04900062084198
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276344528,
+          "lngE7": 775600433
+        }, {
+          "latE7": 276252746,
+          "lngE7": 775729141
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 3655.4522768087627,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276254025,
+          "longitudeE7": 775729359,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-21T20:47:46.475Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276350675,
+        "longitudeE7": 775657819,
+        "placeId": "ChIJK3uGaq5sczkR6iO7DqVorPI",
+        "address": "21st KM Stone NH-2 Delhi Road, Akbarpur, 281406, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Sanjay Public School",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 63.37987,
+        "calibratedProbability": 23.37145
+      },
+      "duration": {
+        "startTimestamp": "2019-11-21T20:47:46.475Z",
+        "endTimestamp": "2019-11-22T02:58:19.689Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276358150,
+      "centerLngE7": 775628300,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276344232,
+        "longitudeE7": 775651845,
+        "placeId": "ChIJuTxHa6xsczkRgWl1pxCXvIk",
+        "address": "JHP8+GF3, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Chaudhary Dhaba",
+        "locationConfidence": 21.014076,
+        "calibratedProbability": 7.7489815
+      }, {
+        "latitudeE7": 276347223,
+        "longitudeE7": 775645135,
+        "placeId": "ChIJ5TkBV2ttczkRTLFrfnC0-rU",
+        "address": "JHM7+VRM, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "BH SIEM",
+        "locationConfidence": 6.769981,
+        "calibratedProbability": 2.4964437
+      }, {
+        "latitudeE7": 276344244,
+        "longitudeE7": 775649974,
+        "placeId": "ChIJ42xjBaVtczkRbbtRoLqLFrI",
+        "address": "JHM7+QXH, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "SKS",
+        "locationConfidence": 4.908378,
+        "calibratedProbability": 1.809974
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJ_____6xsczkReDVDLQV-sTw",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Prp Computers",
+        "locationConfidence": 2.022615,
+        "calibratedProbability": 0.74584323
+      }, {
+        "latitudeE7": 276344271,
+        "longitudeE7": 775648077,
+        "placeId": "ChIJCzEo8fVtczkRzs0UCNMEGZE",
+        "address": "JHM7+QW8, Chaumuhan Rural, Uttar Pradesh 281406, India",
+        "name": "Pathavari Mandir Neetu Ghar",
+        "locationConfidence": 1.9050789,
+        "calibratedProbability": 0.70250154
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 275541825,
+        "longitudeE7": 775440730
+      },
+      "endLocation": {
+        "latitudeE7": 275542077,
+        "longitudeE7": 775440711
+      },
+      "duration": {
+        "startTimestamp": "2019-11-22T02:58:19.689Z",
+        "endTimestamp": "2019-11-23T15:27:35.086Z"
+      },
+      "distance": 2,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 41.664060950279236
+      }, {
+        "activityType": "STILL",
+        "probability": 35.77203154563904
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 13.548888266086578
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 275559272,
+          "lngE7": 775439758
+        }, {
+          "latE7": 275559272,
+          "lngE7": 775439682
+        }, {
+          "latE7": 275559272,
+          "lngE7": 775439682
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJwyvs_KMSczkR0RU9Iz_LKd0"
+        }],
+        "distanceMeters": 0.7516409533156988,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 275542077,
+          "longitudeE7": 775440711,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-23T15:27:35.086Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 79.98038,
+        "calibratedProbability": 38.42629
+      },
+      "duration": {
+        "startTimestamp": "2019-11-23T15:27:35.086Z",
+        "endTimestamp": "2019-11-23T16:33:39.678Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 44.371403,
+          "calibratedProbability": 26.821987
+        },
+        "duration": {
+          "startTimestamp": "2019-11-23T15:29:51.337Z",
+          "endTimestamp": "2019-11-23T16:33:39.678Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276481633,
+        "centerLngE7": 775525733,
+        "visitConfidence": 65,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 22.43832,
+          "calibratedProbability": 13.5637
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 3.6964505,
+          "calibratedProbability": 2.2344606
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 3.660727,
+          "calibratedProbability": 2.2128663
+        }, {
+          "latitudeE7": 276496586,
+          "longitudeE7": 775508420,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 1.671712,
+          "calibratedProbability": 1.0105301
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 1.2400966,
+          "calibratedProbability": 0.7496237
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.2021858,
+          "calibratedProbability": 0.7267071
+        }, {
+          "latitudeE7": 276494857,
+          "longitudeE7": 775511444,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.937722,
+          "calibratedProbability": 0.5668419
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 36,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276481633,
+      "centerLngE7": 775525733,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 6.491757,
+        "calibratedProbability": 3.1189415
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 3.6189451,
+        "calibratedProbability": 1.7387093
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 2.9538329,
+        "calibratedProbability": 1.4191586
+      }, {
+        "latitudeE7": 276487997,
+        "longitudeE7": 775531770,
+        "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+        "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "GL Bajaj Group of Institutions, Mathura",
+        "locationConfidence": 2.223904,
+        "calibratedProbability": 1.0684668
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.1381924,
+        "calibratedProbability": 1.027287
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 1.6534679,
+        "calibratedProbability": 0.7944028
+      }, {
+        "latitudeE7": 276497090,
+        "longitudeE7": 775519370,
+        "placeId": "ChIJZ5rREq8UczkRnK9f2YRnFnM",
+        "address": "JHX2+VQM, Uttar Pradesh 281406, India",
+        "name": "Shri Akhileshwar Mahadev",
+        "locationConfidence": 0.61081076,
+        "calibratedProbability": 0.29346186
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276481307,
+        "longitudeE7": 775529962
+      },
+      "endLocation": {
+        "latitudeE7": 276481307,
+        "longitudeE7": 775529962
+      },
+      "duration": {
+        "startTimestamp": "2019-11-23T16:33:39.678Z",
+        "endTimestamp": "2019-11-24T04:57:13.241Z"
+      },
+      "distance": 10476,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 38.40476870536804
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 23.719459772109985
+      }, {
+        "activityType": "STILL",
+        "probability": 22.383548319339752
+      }],
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276481307,
+          "longitudeE7": 775529962,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-24T04:57:13.241Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 76.126076,
+        "calibratedProbability": 30.864609
+      },
+      "duration": {
+        "startTimestamp": "2019-11-24T04:57:13.241Z",
+        "endTimestamp": "2019-11-25T06:11:42.530Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "IVS Group of Institutions",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 48.233173,
+          "calibratedProbability": 25.642542
+        },
+        "duration": {
+          "startTimestamp": "2019-11-24T04:57:13.241Z",
+          "endTimestamp": "2019-11-24T09:29:13.087Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276469286,
+        "centerLngE7": 775524903,
+        "visitConfidence": 63,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "locationConfidence": 18.80177,
+          "calibratedProbability": 9.995717
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 4.564853,
+          "calibratedProbability": 2.426845
+        }, {
+          "latitudeE7": 276495000,
+          "longitudeE7": 775510000,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 2.4212964,
+          "calibratedProbability": 1.2872509
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 1.0627373,
+          "calibratedProbability": 0.5649905
+        }, {
+          "latitudeE7": 276496586,
+          "longitudeE7": 775508420,
+          "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+          "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+          "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+          "locationConfidence": 0.68192416,
+          "calibratedProbability": 0.36253613
+        }, {
+          "latitudeE7": 276487997,
+          "longitudeE7": 775531770,
+          "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+          "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "GL Bajaj Group of Institutions, Mathura",
+          "locationConfidence": 0.46668255,
+          "calibratedProbability": 0.24810573
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 39,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276466830,
+      "centerLngE7": 775521357,
+      "visitConfidence": 63,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 10.798708,
+        "calibratedProbability": 4.378236
+      }, {
+        "latitudeE7": 276495000,
+        "longitudeE7": 775510000,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 4.143769,
+        "calibratedProbability": 1.6800525
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 3.6748083,
+        "calibratedProbability": 1.4899168
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 1.8066748,
+        "calibratedProbability": 0.7324995
+      }, {
+        "latitudeE7": 276496586,
+        "longitudeE7": 775508420,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 1.2682868,
+        "calibratedProbability": 0.5142151
+      }, {
+        "latitudeE7": 276487997,
+        "longitudeE7": 775531770,
+        "placeId": "ChIJx0N3impxczkROzSZ3cPdaBg",
+        "address": "NH#19, Mathura-Delhi, Road, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "GL Bajaj Group of Institutions, Mathura",
+        "locationConfidence": 0.8382858,
+        "calibratedProbability": 0.33987516
+      }, {
+        "latitudeE7": 276494857,
+        "longitudeE7": 775511444,
+        "placeId": "ChIJFw3uZa8UczkRsDmOE_KGWWY",
+        "address": "24 KM Milestone, Mathura-Delhi Road, NH #2, P.O. Akbarpur, Tehsil Chhata, NH2, Mathura, Uttar Pradesh 281406, India",
+        "name": "K.D. Medical College, Hospital and Research Center in Mathura",
+        "locationConfidence": 0.7681215,
+        "calibratedProbability": 0.3114277
+      }, {
+        "latitudeE7": 276474766,
+        "longitudeE7": 775532681,
+        "placeId": "ChIJPd3m1agUczkR5_D_S2-etVY",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Canteen",
+        "locationConfidence": 0.535604,
+        "calibratedProbability": 0.21715565
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276973341,
+        "longitudeE7": 775146865,
+        "placeId": "ChIJmV76ofUVczkR9IfooRdJYYc",
+        "address": "Shrinya Agro Yeald Farms and Organic Research Centre. NH-2 Delhi Agra highway Km115 Chatta, Semri, Uttar Pradesh 281401, India",
+        "name": "Say Force Organic Farms",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 64.10756,
+        "calibratedProbability": 29.19043
+      },
+      "duration": {
+        "startTimestamp": "2019-11-25T06:11:42.530Z",
+        "endTimestamp": "2019-11-25T07:05:05.366Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 276984133,
+      "centerLngE7": 775146668,
+      "visitConfidence": 71,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276993122,
+        "longitudeE7": 775131989,
+        "placeId": "ChIJQcrmwacVczkRP-YXpQJu4Fk",
+        "address": "Semri, Uttar Pradesh 281401",
+        "locationConfidence": 35.892437,
+        "calibratedProbability": 16.34309
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 276984133,
+        "longitudeE7": 775146668
+      },
+      "endLocation": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 77.45431,
+        "calibratedProbability": 29.38596,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-25T07:05:05.366Z",
+        "endTimestamp": "2019-11-29T21:54:17.853Z"
+      },
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 45.669394731521606
+      }, {
+        "activityType": "STILL",
+        "probability": 29.267194867134094
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.039219915866852
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 276984043,
+          "lngE7": 775146331
+        }, {
+          "latE7": 276496505,
+          "lngE7": 775527954
+        }, {
+          "latE7": 276344528,
+          "lngE7": 775600433
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ75AH_acVczkRrMBU2DSYZsk"
+        }, {
+          "placeId": "ChIJ27xAKwcVczkR_nQ65vBwzw0"
+        }, {
+          "placeId": "ChIJ27xAKwcVczkR6whPubsqXf4"
+        }, {
+          "placeId": "ChIJO4UVmQEVczkR4MQPWo9-Ofk"
+        }, {
+          "placeId": "ChIJ2buUwf0UczkRCnrBpOmUey0"
+        }, {
+          "placeId": "ChIJ2buUwf0UczkRgF2uWcmiLak"
+        }, {
+          "placeId": "ChIJM6t21voUczkR3eU-xG8_r7A"
+        }, {
+          "placeId": "ChIJM6t21voUczkR5pYxfSjtvr4"
+        }, {
+          "placeId": "ChIJ9SxgAO8UczkRVEvH8YlFgpQ"
+        }, {
+          "placeId": "ChIJ9SxgAO8UczkRauzHCby0EG4"
+        }, {
+          "placeId": "ChIJq2A_CewUczkRYoVh5F7poAk"
+        }, {
+          "placeId": "ChIJ3ec81uoUczkRDN2BAMJCs1A"
+        }, {
+          "placeId": "ChIJ3ec81uoUczkRfIbdhkBVCYE"
+        }, {
+          "placeId": "ChIJWTZ8aL4UczkRXT7G-pUaEhU"
+        }, {
+          "placeId": "ChIJa457G68UczkR6-r4-zfz4Uc"
+        }, {
+          "placeId": "ChIJ6w5TjKoUczkR9-DK2DkCVBg"
+        }, {
+          "placeId": "ChIJ8VeJeKoUczkRPyYptnKPf2Y"
+        }, {
+          "placeId": "ChIJj9d62VUTczkRYYSQu__a4zE"
+        }, {
+          "placeId": "ChIJkdQ8GFQTczkRyQZIeLcFlgE"
+        }, {
+          "placeId": "ChIJe4pUiFMTczkRKtrFQh4_5o4"
+        }],
+        "distanceMeters": 8992.44616338296,
+        "travelMode": "DRIVE",
+        "confidence": 0.0
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 276474573,
+          "longitudeE7": 775513735,
+          "accuracyMetres": 160
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-11-30T15:45:53.956Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 77.45431,
+        "calibratedProbability": 29.38596,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-29T21:54:17.853Z",
+        "endTimestamp": "2019-11-30T01:20:59.446Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 35.98898,
+          "calibratedProbability": 17.804077,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-11-29T21:54:17.853Z",
+          "endTimestamp": "2019-11-30T01:20:59.446Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276454400,
+        "centerLngE7": 775530700,
+        "visitConfidence": 61,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276474000,
+          "longitudeE7": 775541000,
+          "placeId": "ChIJwd_aMakUczkRixFF6_P4FHU",
+          "address": "Mathura, NH-2, Delhi Agra Road, Akbarpur, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "Ishwarchand vidya sagar IVS Group of Institutions",
+          "locationConfidence": 22.608109,
+          "calibratedProbability": 11.184438
+        }, {
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 15.969877,
+          "calibratedProbability": 7.9004445,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 0.9841496,
+          "calibratedProbability": 0.4868678
+        }, {
+          "latitudeE7": 276454127,
+          "longitudeE7": 775530756,
+          "placeId": "ChIJ-0gPLO4VczkRGWZiKvzq34Y",
+          "address": "JHW3+568, Akbarpur - Shergarh Rd, Chhata Rural, Uttar Pradesh 281406, India",
+          "name": "RAJIV GANDHI HOSTEL",
+          "locationConfidence": 0.6564608,
+          "calibratedProbability": 0.32475716,
+          "isCurrentLocation": true
+        }, {
+          "latitudeE7": 276457201,
+          "longitudeE7": 775536395,
+          "placeId": "ChIJG7ywHKkUczkRf87O2LJuKbg",
+          "address": "JHW3+7FJ, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS INSTITUTE OF MANAGEMENT",
+          "locationConfidence": 0.47489625,
+          "calibratedProbability": 0.23493552
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 29,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276454400,
+      "centerLngE7": 775530700,
+      "visitConfidence": 61,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 17.425404,
+        "calibratedProbability": 6.6111517
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 2.1180546,
+        "calibratedProbability": 0.8035843
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 1.6102197,
+        "calibratedProbability": 0.6109131
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 0.70232105,
+        "calibratedProbability": 0.26645875
+      }, {
+        "latitudeE7": 276467002,
+        "longitudeE7": 775549561,
+        "placeId": "ChIJPefKV90VczkRWSQfHH08K2o",
+        "address": "24 km milestone, mathura - delhi road , NH-2 , P.O. Akbarpur , tehsil chhatta, Mathura, Uttar Pradesh 281406, India",
+        "name": "Delhi public school mathura",
+        "locationConfidence": 0.6785824,
+        "calibratedProbability": 0.25745234
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 276477635,
+        "longitudeE7": 775542403,
+        "placeId": "ChIJhapALqkUczkRxr2GigXNRKk",
+        "address": "JHX3+4M5, near ivs institute, Akbarpur, Uttar Pradesh 281401, India",
+        "name": "Marketing",
+        "sourceInfo": {
+          "deviceTag": -427843846
+        },
+        "locationConfidence": 61.86615,
+        "calibratedProbability": 18.441673,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-11-30T15:45:53.956Z",
+        "endTimestamp": "2019-12-01T00:41:12.019Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 276460640,
+          "longitudeE7": 775525655,
+          "placeId": "ChIJmyTK46gUczkRlrIOX_LWLk8",
+          "address": "NH-2, Delhi Mathura Highway, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS Polytechnic",
+          "sourceInfo": {
+            "deviceTag": -427843846
+          },
+          "locationConfidence": 43.980743,
+          "calibratedProbability": 21.2058,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-11-30T15:45:53.956Z",
+          "endTimestamp": "2019-11-30T23:14:49.614Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 276448999,
+        "centerLngE7": 775510152,
+        "visitConfidence": 62,
+        "otherCandidateLocations": [{
+          "latitudeE7": 276452925,
+          "longitudeE7": 775531674,
+          "placeId": "ChIJ47fU_agUczkRn9uM1IaaLDk",
+          "locationConfidence": 9.8317795,
+          "calibratedProbability": 4.7405005
+        }, {
+          "latitudeE7": 276461677,
+          "longitudeE7": 775517667,
+          "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+          "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+          "name": "Glb Student Mess",
+          "locationConfidence": 2.9110093,
+          "calibratedProbability": 1.4035752
+        }, {
+          "latitudeE7": 276466212,
+          "longitudeE7": 775512886,
+          "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+          "locationConfidence": 2.2126591,
+          "calibratedProbability": 1.0668579
+        }, {
+          "latitudeE7": 276457201,
+          "longitudeE7": 775536395,
+          "placeId": "ChIJG7ywHKkUczkRf87O2LJuKbg",
+          "address": "JHW3+7FJ, Akbarpur, Mathura, Uttar Pradesh 281406, India",
+          "name": "IVS INSTITUTE OF MANAGEMENT",
+          "locationConfidence": 0.80213434,
+          "calibratedProbability": 0.38675788
+        }, {
+          "latitudeE7": 276448648,
+          "longitudeE7": 775523198,
+          "placeId": "ChIJG2ob9qgUczkR7CBTsBAFOOU",
+          "locationConfidence": 0.6926268,
+          "calibratedProbability": 0.3339576
+        }, {
+          "latitudeE7": 276466212,
+          "longitudeE7": 775512886,
+          "placeId": "ChIJNWtqu6gUczkRhxnxMDT2Vas",
+          "address": "Faculty Appartments, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+          "name": "C M DHABA",
+          "locationConfidence": 0.5923667,
+          "calibratedProbability": 0.2856161
+        }, {
+          "latitudeE7": 276453765,
+          "longitudeE7": 775517555,
+          "placeId": "ChIJhVAgBWoVczkRzaA_r4s6qdM",
+          "address": "JHW2+5MF, Mathura, Uttar Pradesh 281406, India",
+          "name": "Indira Gandhi Hostel",
+          "locationConfidence": 0.5341754,
+          "calibratedProbability": 0.25755855,
+          "isCurrentLocation": true
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 36,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 276448999,
+      "centerLngE7": 775510152,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 276453972,
+        "longitudeE7": 775531158,
+        "placeId": "ChIJNWtqu6gUczkRZspwe_EyYao",
+        "address": "G L Bajaj Group of Institutions, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "Faculty Appartments",
+        "locationConfidence": 22.810705,
+        "calibratedProbability": 6.79964
+      }, {
+        "latitudeE7": 276454525,
+        "longitudeE7": 775547943,
+        "placeId": "ChIJIbVCBqkUczkRZaDxtQjxPPQ",
+        "locationConfidence": 6.851977,
+        "calibratedProbability": 2.042505
+      }, {
+        "latitudeE7": 276461677,
+        "longitudeE7": 775517667,
+        "placeId": "ChIJ0Z5xlagUczkRIcBtf8h38no",
+        "address": "JHW2+FP2, Mathura, Uttar Pradesh 281406, India",
+        "name": "Glb Student Mess",
+        "locationConfidence": 4.0948133,
+        "calibratedProbability": 1.2206224
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJZ4SjQ1NxczkRRq4VtBcBlrg",
+        "locationConfidence": 3.112469,
+        "calibratedProbability": 0.92779547
+      }, {
+        "latitudeE7": 276466212,
+        "longitudeE7": 775512886,
+        "placeId": "ChIJNWtqu6gUczkRhxnxMDT2Vas",
+        "address": "Faculty Appartments, NH#2, NH2, Akbarpur, Uttar Pradesh 281406, India",
+        "name": "C M DHABA",
+        "locationConfidence": 0.83326125,
+        "calibratedProbability": 0.24838674
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

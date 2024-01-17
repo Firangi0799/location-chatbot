@@ -1,0 +1,852 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Jamshedpur,, Kharangajhar, Bari Nagar, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 84.66513
+      },
+      "duration": {
+        "startTimestamp": "2017-02-21T06:14:30.308Z",
+        "endTimestamp": "2017-02-21T06:39:47.512Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 227719911,
+          "longitudeE7": 862592113,
+          "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+          "address": "Jamshedpur,, Kharangajhar, Bari Nagar, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+          "name": "Khanghajhar Market",
+          "sourceInfo": {
+            "deviceTag": 1701821915
+          },
+          "locationConfidence": 13.921846
+        },
+        "duration": {
+          "startTimestamp": "2017-02-21T06:14:30.308Z",
+          "endTimestamp": "2017-02-21T06:39:47.512Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 227723600,
+        "centerLngE7": 862592033,
+        "visitConfidence": 70,
+        "otherCandidateLocations": [{
+          "latitudeE7": 227722310,
+          "longitudeE7": 862595360,
+          "placeId": "ChIJ4U9regEI9jkR7d7zdcp_1Jk",
+          "address": "Shop No-3, Ground Floor, Singh Building, Hanuman Mandir Road, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Comport",
+          "locationConfidence": 13.654868
+        }, {
+          "latitudeE7": 227722975,
+          "longitudeE7": 862590691,
+          "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+          "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Kharangajhar Market",
+          "locationConfidence": 13.426875
+        }, {
+          "latitudeE7": 227713612,
+          "longitudeE7": 862606852,
+          "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+          "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Debnath Homes",
+          "locationConfidence": 12.5625305
+        }, {
+          "latitudeE7": 227724882,
+          "longitudeE7": 862594517,
+          "placeId": "ChIJB019eAEI9jkRmMkSgx6wGSo",
+          "address": "Q7C5+XQM, Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Maa Fish And Telco Ice Center",
+          "locationConfidence": 5.5172014
+        }, {
+          "latitudeE7": 227722164,
+          "longitudeE7": 862594267,
+          "placeId": "ChIJ__8_egEI9jkRspDfvjVb1AY",
+          "address": "Kharangajhar Market, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+          "name": "Maa Mangala Gouri Travels",
+          "locationConfidence": 2.973626
+        }, {
+          "latitudeE7": 227723069,
+          "longitudeE7": 862593310,
+          "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+          "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Dilip Magazine Centre",
+          "locationConfidence": 1.8436685
+        }, {
+          "latitudeE7": 227705187,
+          "longitudeE7": 862574370,
+          "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+          "name": "Telco",
+          "locationConfidence": 1.8294628
+        }, {
+          "latitudeE7": 227722600,
+          "longitudeE7": 862593040,
+          "placeId": "ChIJVaeaeQEI9jkRjZKoqeXjD20",
+          "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Laxmi Confectionary",
+          "locationConfidence": 1.734612
+        }, {
+          "latitudeE7": 227719772,
+          "longitudeE7": 862587422,
+          "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+          "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Telco Bus Stand",
+          "locationConfidence": 0.946084
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 15,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 227723600,
+      "centerLngE7": 862592033,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 2.1348965
+      }, {
+        "latitudeE7": 227722310,
+        "longitudeE7": 862595360,
+        "placeId": "ChIJ4U9regEI9jkR7d7zdcp_1Jk",
+        "address": "Shop No-3, Ground Floor, Singh Building, Hanuman Mandir Road, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Comport",
+        "locationConfidence": 2.0939558
+      }, {
+        "latitudeE7": 227722975,
+        "longitudeE7": 862590691,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kharangajhar Market",
+        "locationConfidence": 2.0589933
+      }, {
+        "latitudeE7": 227713612,
+        "longitudeE7": 862606852,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.9264473
+      }, {
+        "latitudeE7": 227724882,
+        "longitudeE7": 862594517,
+        "placeId": "ChIJB019eAEI9jkRmMkSgx6wGSo",
+        "address": "Q7C5+XQM, Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Maa Fish And Telco Ice Center",
+        "locationConfidence": 0.8460555
+      }, {
+        "latitudeE7": 227722164,
+        "longitudeE7": 862594267,
+        "placeId": "ChIJ__8_egEI9jkRspDfvjVb1AY",
+        "address": "Kharangajhar Market, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Maa Mangala Gouri Travels",
+        "locationConfidence": 0.45600158
+      }, {
+        "latitudeE7": 227723069,
+        "longitudeE7": 862593310,
+        "placeId": "ChIJpzrQeQEI9jkRITfMxc1mvUI",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dilip Magazine Centre",
+        "locationConfidence": 0.28272408
+      }, {
+        "latitudeE7": 227705187,
+        "longitudeE7": 862574370,
+        "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+        "name": "Telco",
+        "locationConfidence": 0.28054565
+      }, {
+        "latitudeE7": 227722600,
+        "longitudeE7": 862593040,
+        "placeId": "ChIJVaeaeQEI9jkRjZKoqeXjD20",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Laxmi Confectionary",
+        "locationConfidence": 0.26600042
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410
+      },
+      "endLocation": {
+        "latitudeE7": 227721524,
+        "longitudeE7": 862594120
+      },
+      "duration": {
+        "startTimestamp": "2017-02-21T06:39:47.512Z",
+        "endTimestamp": "2017-02-21T11:49:18.876Z"
+      },
+      "distance": 36,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 35.11860956603047
+      }, {
+        "activityType": "WALKING",
+        "probability": 33.900878747217
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 22.092112927834815
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227724552,
+          "lngE7": 862593688
+        }, {
+          "latE7": 227721881,
+          "lngE7": 862594223
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Jamshedpur,, Kharangajhar, Bari Nagar, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 61.120323
+      },
+      "duration": {
+        "startTimestamp": "2017-02-22T14:27:27Z",
+        "endTimestamp": "2017-02-22T15:15:37Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 227713612,
+          "longitudeE7": 862606852,
+          "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+          "address": "Debnath Homes, Kharangajhar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+          "name": "Debnath Homes",
+          "sourceInfo": {
+            "deviceTag": 1701821915
+          },
+          "locationConfidence": 30.608759
+        },
+        "duration": {
+          "startTimestamp": "2017-02-22T14:27:27Z",
+          "endTimestamp": "2017-02-22T15:15:37Z"
+        },
+        "placeConfidence": "LOW_CONFIDENCE",
+        "centerLatE7": 227708110,
+        "centerLngE7": 862602348,
+        "visitConfidence": 51,
+        "otherCandidateLocations": [{
+          "latitudeE7": 227719911,
+          "longitudeE7": 862592113,
+          "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+          "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Khanghajhar Market",
+          "locationConfidence": 14.611579
+        }, {
+          "latitudeE7": 227722310,
+          "longitudeE7": 862595360,
+          "placeId": "ChIJ4U9regEI9jkR7d7zdcp_1Jk",
+          "address": "Shop No-3, Ground Floor, Singh Building, Hanuman Mandir Road, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Comport",
+          "locationConfidence": 8.09904
+        }, {
+          "latitudeE7": 227710480,
+          "longitudeE7": 862604930,
+          "placeId": "ChIJ18CQt_F8mjkRHEfHnigrRxA",
+          "address": "Ho.No 120, Kartik Nagar, Near Sukhi Bhawan Kharanghajhar, Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+          "name": "Satnam Petroleum Transport",
+          "locationConfidence": 4.2965255
+        }, {
+          "latitudeE7": 227722975,
+          "longitudeE7": 862590691,
+          "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+          "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Kharangajhar Market",
+          "locationConfidence": 3.7760854
+        }, {
+          "latitudeE7": 227692434,
+          "longitudeE7": 862594057,
+          "placeId": "ChIJgfw9-gAI9jkRabb2O1dMWKs",
+          "address": "Q795+MQR, Bari Nagar Main Rd, Telco Colony, Jamshedpur, Jharkhand 835207, India",
+          "name": "Keshri Bhandar",
+          "locationConfidence": 3.2549734
+        }, {
+          "latitudeE7": 227724882,
+          "longitudeE7": 862594517,
+          "placeId": "ChIJB019eAEI9jkRmMkSgx6wGSo",
+          "address": "Q7C5+XQM, Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Maa Fish And Telco Ice Center",
+          "locationConfidence": 2.3481977
+        }, {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+          "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+          "name": "Sri V.V.S.S Temple",
+          "locationConfidence": 1.4686515
+        }, {
+          "latitudeE7": 227705187,
+          "longitudeE7": 862574370,
+          "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+          "name": "Telco",
+          "locationConfidence": 1.1000496
+        }, {
+          "latitudeE7": 227700581,
+          "longitudeE7": 862598902,
+          "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+          "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+          "name": "Deepak Paper \u0026 Board Manufacturing",
+          "locationConfidence": 0.8184453
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 28,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 227708110,
+      "centerLngE7": 862602348,
+      "visitConfidence": 51,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227713612,
+        "longitudeE7": 862606852,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 11.900586
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 5.6809344
+      }, {
+        "latitudeE7": 227722310,
+        "longitudeE7": 862595360,
+        "placeId": "ChIJ4U9regEI9jkR7d7zdcp_1Jk",
+        "address": "Shop No-3, Ground Floor, Singh Building, Hanuman Mandir Road, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Comport",
+        "locationConfidence": 3.1488807
+      }, {
+        "latitudeE7": 227710480,
+        "longitudeE7": 862604930,
+        "placeId": "ChIJ18CQt_F8mjkRHEfHnigrRxA",
+        "address": "Ho.No 120, Kartik Nagar, Near Sukhi Bhawan Kharanghajhar, Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Satnam Petroleum Transport",
+        "locationConfidence": 1.6704751
+      }, {
+        "latitudeE7": 227722975,
+        "longitudeE7": 862590691,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kharangajhar Market",
+        "locationConfidence": 1.4681298
+      }, {
+        "latitudeE7": 227692434,
+        "longitudeE7": 862594057,
+        "placeId": "ChIJgfw9-gAI9jkRabb2O1dMWKs",
+        "address": "Q795+MQR, Bari Nagar Main Rd, Telco Colony, Jamshedpur, Jharkhand 835207, India",
+        "name": "Keshri Bhandar",
+        "locationConfidence": 1.2655231
+      }, {
+        "latitudeE7": 227724882,
+        "longitudeE7": 862594517,
+        "placeId": "ChIJB019eAEI9jkRmMkSgx6wGSo",
+        "address": "Q7C5+XQM, Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Maa Fish And Telco Ice Center",
+        "locationConfidence": 0.9129717
+      }, {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "locationConfidence": 0.57100695
+      }, {
+        "latitudeE7": 227705187,
+        "longitudeE7": 862574370,
+        "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+        "name": "Telco",
+        "locationConfidence": 0.4276957
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227760784,
+        "longitudeE7": 862536345,
+        "placeId": "ChIJN4j8-6ji9TkRhbNodNpiaHA",
+        "address": "Telco Colony, Jamshedpur, Purba Singhbhum, Jharkhand 831004, India",
+        "name": "Sumant Moolgaokar Stadium",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 95.76552
+      },
+      "duration": {
+        "startTimestamp": "2017-02-22T23:25:17Z",
+        "endTimestamp": "2017-02-22T23:39:29Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227758682,
+      "centerLngE7": 862530209,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227745940,
+        "longitudeE7": 862529850,
+        "placeId": "ChIJvYy8aqni9TkRrwO_xJSbteY",
+        "address": "Ullaramman Kovil Street, Q7F2+WXM, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Little Flower School Jamshedpur",
+        "locationConfidence": 1.4142135
+      }, {
+        "latitudeE7": 227742349,
+        "longitudeE7": 862528140,
+        "placeId": "ChIJecKBPani9TkRPT0dXpMkJr4",
+        "address": "Q7F3+M4V, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Little Flower School Auditorium",
+        "locationConfidence": 1.0500486
+      }, {
+        "latitudeE7": 227752785,
+        "longitudeE7": 862551524,
+        "placeId": "ChIJjYEVtqni9TkR7t4qg2d6GpE",
+        "address": "Q7G4+59R, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Basketball \u0026 Volleyball Court",
+        "locationConfidence": 0.42875946
+      }, {
+        "latitudeE7": 227744933,
+        "longitudeE7": 862562360,
+        "placeId": "ChIJzxCM3qni9TkRwIaaFf1yONY",
+        "name": "GE Hostel",
+        "locationConfidence": 0.18825719
+      }, {
+        "latitudeE7": 227773979,
+        "longitudeE7": 862528750,
+        "placeId": "ChIJcc5UlKji9TkRK89pBHUeRf0",
+        "address": "K2 - 7, Cross Rd No. 16, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shree Ram Mandir Telco",
+        "locationConfidence": 0.17034513
+      }, {
+        "latitudeE7": 227731359,
+        "longitudeE7": 862535468,
+        "placeId": "ChIJt_2Me6ni9TkRMPON8u_w35A",
+        "address": "K2 - 26, Cross Rd 19, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "locationConfidence": 0.12115366
+      }, {
+        "latitudeE7": 227749470,
+        "longitudeE7": 862522940,
+        "placeId": "ChIJb7G1JKni9TkRhir1Y04JSYI",
+        "name": "ICICI BANK",
+        "locationConfidence": 0.10248354
+      }, {
+        "latitudeE7": 227755884,
+        "longitudeE7": 862551314,
+        "placeId": "ChIJ5VYMtani9TkRNdD0JyqotMo",
+        "address": "Plot No-15A, A Rood, Zone No-1B Birsanagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Salini Logistics",
+        "locationConfidence": 0.099248596
+      }, {
+        "latitudeE7": 227742699,
+        "longitudeE7": 862542710,
+        "placeId": "ChIJpb5tlqni9TkRLCz8RwwScz0",
+        "address": "Q7F3+PP2, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Lupita Church",
+        "locationConfidence": 0.079757385
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227760784,
+        "longitudeE7": 862536345,
+        "placeId": "ChIJN4j8-6ji9TkRhbNodNpiaHA",
+        "address": "Telco Colony, Jamshedpur, Purba Singhbhum, Jharkhand 831004, India",
+        "name": "Sumant Moolgaokar Stadium",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 95.76552
+      },
+      "endLocation": {
+        "latitudeE7": 227705350,
+        "longitudeE7": 862595467
+      },
+      "duration": {
+        "startTimestamp": "2017-02-22T23:39:29Z",
+        "endTimestamp": "2017-02-22T23:48:06Z"
+      },
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 48.53313370872855
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.947341460453302
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 10.978102806917551
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227760925,
+          "lngE7": 862523345
+        }, {
+          "latE7": 227704792,
+          "lngE7": 862594604
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1153.5058826741986,
+        "travelMode": "WALK",
+        "confidence": 0.9950623418620886
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227713612,
+        "longitudeE7": 862606852,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "Debnath Homes, Kharangajhar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 43.93916
+      },
+      "duration": {
+        "startTimestamp": "2017-02-24T04:36:56.305Z",
+        "endTimestamp": "2017-02-24T04:58:46.940Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227707285,
+      "centerLngE7": 862603785,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 18.429497
+      }, {
+        "latitudeE7": 227722975,
+        "longitudeE7": 862590691,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kharangajhar Market",
+        "locationConfidence": 7.1463723
+      }, {
+        "latitudeE7": 227692434,
+        "longitudeE7": 862594057,
+        "placeId": "ChIJgfw9-gAI9jkRabb2O1dMWKs",
+        "address": "Q795+MQR, Bari Nagar Main Rd, Telco Colony, Jamshedpur, Jharkhand 835207, India",
+        "name": "Keshri Bhandar",
+        "locationConfidence": 5.146364
+      }, {
+        "latitudeE7": 227722310,
+        "longitudeE7": 862595360,
+        "placeId": "ChIJ4U9regEI9jkR7d7zdcp_1Jk",
+        "address": "Shop No-3, Ground Floor, Singh Building, Hanuman Mandir Road, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Comport",
+        "locationConfidence": 2.2862473
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 1.3925976
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 1.2937826
+      }, {
+        "latitudeE7": 227710480,
+        "longitudeE7": 862604930,
+        "placeId": "ChIJ18CQt_F8mjkRHEfHnigrRxA",
+        "address": "Ho.No 120, Kartik Nagar, Near Sukhi Bhawan Kharanghajhar, Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Satnam Petroleum Transport",
+        "locationConfidence": 0.93915635
+      }, {
+        "latitudeE7": 227729250,
+        "longitudeE7": 862603500,
+        "placeId": "ChIJoVYa4AMI9jkRIzbvrGVzJ4A",
+        "address": "Q7F6+54H, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Tower B Block",
+        "locationConfidence": 0.78780025
+      }, {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "locationConfidence": 0.5941345
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227753500,
+        "longitudeE7": 862542300
+      },
+      "endLocation": {
+        "latitudeE7": 227760784,
+        "longitudeE7": 862536345
+      },
+      "duration": {
+        "startTimestamp": "2017-02-25T23:14:19Z",
+        "endTimestamp": "2017-02-25T23:24:22.096Z"
+      },
+      "distance": 4479,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 43.959778761720045
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 31.71454461306182
+      }, {
+        "activityType": "RUNNING",
+        "probability": 17.94913383654056
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227752628,
+          "lngE7": 862542953
+        }, {
+          "latE7": 227754230,
+          "lngE7": 862530593
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 161.6986829876403,
+        "travelMode": "WALK",
+        "confidence": 1.0
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227760784,
+        "longitudeE7": 862536345,
+        "placeId": "ChIJN4j8-6ji9TkRhbNodNpiaHA",
+        "address": "Telco Colony, Jamshedpur, Purba Singhbhum, Jharkhand 831004, India",
+        "name": "Sumant Moolgaokar Stadium",
+        "sourceInfo": {
+          "deviceTag": 1701821915
+        },
+        "locationConfidence": 70.97412
+      },
+      "duration": {
+        "startTimestamp": "2017-02-25T23:24:22.096Z",
+        "endTimestamp": "2017-02-25T23:41:27.224Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227762200,
+      "centerLngE7": 862518300,
+      "visitConfidence": 27,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227767789,
+        "longitudeE7": 862510490,
+        "placeId": "ChIJZ0eyNq_i9TkRdV6QEeZj__8",
+        "address": "Shop No.1, Cross Rd Number 14, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "M/S Gold Line Logistics",
+        "locationConfidence": 24.961973
+      }, {
+        "latitudeE7": 227768640,
+        "longitudeE7": 862508759,
+        "placeId": "ChIJOSkUN6_i9TkRI2bR2-9pj4Q",
+        "address": "Shop No 25, Rd Number 8, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sahu Gen. Store",
+        "locationConfidence": 1.3736264
+      }, {
+        "latitudeE7": 227742349,
+        "longitudeE7": 862528140,
+        "placeId": "ChIJecKBPani9TkRPT0dXpMkJr4",
+        "address": "Q7F3+M4V, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Little Flower School Auditorium",
+        "locationConfidence": 0.5729923
+      }, {
+        "latitudeE7": 227757860,
+        "longitudeE7": 862504520,
+        "placeId": "ChIJMxL6IK_i9TkRxwMeFqhuQiw",
+        "address": "#F/2, Old Sector Market, Telco Colony, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "DTDC",
+        "locationConfidence": 0.34142557
+      }, {
+        "latitudeE7": 227768910,
+        "longitudeE7": 862509120,
+        "placeId": "ChIJS5ReYAPj9TkRFG89du5IylE",
+        "address": "2, Rd Number 1, near SUNDAY MARKET, Zone Number 4, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "New Micro Tech Computer Academy",
+        "locationConfidence": 0.3303437
+      }, {
+        "latitudeE7": 227745940,
+        "longitudeE7": 862529850,
+        "placeId": "ChIJvYy8aqni9TkRrwO_xJSbteY",
+        "address": "Ullaramman Kovil Street, Q7F2+WXM, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Little Flower School Jamshedpur",
+        "locationConfidence": 0.22850423
+      }, {
+        "latitudeE7": 227773979,
+        "longitudeE7": 862528750,
+        "placeId": "ChIJcc5UlKji9TkRK89pBHUeRf0",
+        "address": "K2 - 7, Cross Rd No. 16, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shree Ram Mandir Telco",
+        "locationConfidence": 0.15823516
+      }, {
+        "latitudeE7": 227765136,
+        "longitudeE7": 862483971,
+        "placeId": "ChIJ7d6DAbLi9TkRIe-S7S_sZsI",
+        "address": "K42, Cross Rd Number 14, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Recreation Club",
+        "locationConfidence": 0.13442121
+      }, {
+        "latitudeE7": 227769200,
+        "longitudeE7": 862508940,
+        "placeId": "ChIJC00PN6_i9TkRlojuXH3HW3E",
+        "address": "Shop no.26 Road no 8, \u0026, Cross Rd Number 14, near Sector Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Abhishek Digital Studio",
+        "locationConfidence": 0.08424503
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 61,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227760784,
+        "longitudeE7": 862536345
+      },
+      "endLocation": {
+        "latitudeE7": 227721524,
+        "longitudeE7": 862594120
+      },
+      "duration": {
+        "startTimestamp": "2017-02-25T23:41:27.224Z",
+        "endTimestamp": "2017-02-25T23:54:28.474Z"
+      },
+      "distance": 4479,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 29.325585589627572
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 24.994505460149657
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.153449932766883
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227768573,
+          "lngE7": 862511520
+        }, {
+          "latE7": 227738647,
+          "lngE7": 862534713
+        }, {
+          "latE7": 227745018,
+          "lngE7": 862542953
+        }, {
+          "latE7": 227739562,
+          "lngE7": 862568054
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862570266
+        }, {
+          "latE7": 227729892,
+          "lngE7": 862566070
+        }, {
+          "latE7": 227724266,
+          "lngE7": 862573852
+        }, {
+          "latE7": 227715206,
+          "lngE7": 862568893
+        }, {
+          "latE7": 227721881,
+          "lngE7": 862594223
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1145.3970494684863,
+        "travelMode": "WALK",
+        "confidence": 0.9960761450195362
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227743626,
+          "lngE7": 862534027,
+          "accuracyMeters": 23,
+          "timestamp": "2017-02-25T23:42:50Z"
+        }, {
+          "latE7": 227743950,
+          "lngE7": 862542114,
+          "accuracyMeters": 23,
+          "timestamp": "2017-02-25T23:43:05Z"
+        }, {
+          "latE7": 227741547,
+          "lngE7": 862568130,
+          "accuracyMeters": 22,
+          "timestamp": "2017-02-25T23:44:24Z"
+        }, {
+          "latE7": 227733688,
+          "lngE7": 862570267,
+          "accuracyMeters": 23,
+          "timestamp": "2017-02-25T23:44:55Z"
+        }, {
+          "latE7": 227730408,
+          "lngE7": 862568970,
+          "accuracyMeters": 23,
+          "timestamp": "2017-02-25T23:45:10Z"
+        }, {
+          "latE7": 227727070,
+          "lngE7": 862573624,
+          "accuracyMeters": 24,
+          "timestamp": "2017-02-25T23:45:26Z"
+        }, {
+          "latE7": 227713394,
+          "lngE7": 862569199,
+          "accuracyMeters": 21,
+          "timestamp": "2017-02-25T23:46:28Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}

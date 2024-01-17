@@ -1,0 +1,165 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227909301,
+        "longitudeE7": 861835545,
+        "placeId": "ChIJpR9rZ8jj9TkRV32CkTiklmc",
+        "address": "Near Canara Bank, Jamshedpur, Jharkhand, India",
+        "name": "Xavier Tachker\u0027s",
+        "sourceInfo": {
+          "deviceTag": -912438556
+        },
+        "locationConfidence": 85.98238
+      },
+      "duration": {
+        "startTimestamp": "2017-03-16T06:28:09.745Z",
+        "endTimestamp": "2017-03-16T06:49:23.455Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227910515,
+      "centerLngE7": 861834963,
+      "visitConfidence": 56,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227910691,
+        "longitudeE7": 861838037,
+        "placeId": "ChIJQ_kRzqD08jkRXc9f3FSQsmw",
+        "address": "Diagonal Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Modern Hotel \u0026 Lodge",
+        "locationConfidence": 4.8482413
+      }, {
+        "latitudeE7": 227922080,
+        "longitudeE7": 861843200,
+        "placeId": "ChIJl6pvNGbj9TkR00uMavk_D6o",
+        "address": "Q5RM+VP9, Tata - Hata Main Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "WoodLand",
+        "locationConfidence": 1.3020731
+      }, {
+        "latitudeE7": 227915019,
+        "longitudeE7": 861837960,
+        "placeId": "ChIJuz4_sT3j9TkRFq0iNlHyXAU",
+        "address": "POST BOX NO.106,GAJRAJ MANZIL, H.O JAMSHEDPUR, 1, Bistupur Main Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Canara Bank",
+        "locationConfidence": 0.619992
+      }, {
+        "latitudeE7": 227900080,
+        "longitudeE7": 861832529,
+        "placeId": "ChIJZVQrnGfj9TkR21fSrXshVY8",
+        "address": "4, Diagonal Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Rajhans Hotel",
+        "locationConfidence": 0.47708926
+      }, {
+        "latitudeE7": 227910691,
+        "longitudeE7": 861838037,
+        "placeId": "ChIJe5MxibTj9TkRS2zLTWKBWnE",
+        "address": "Shop no 10, Sree Durga Jewellery \u0026 SON, Laxmi Mansion, Diagonal Rd, opposite Godrej Interio, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sree Durga Jewellery",
+        "locationConfidence": 0.3947738
+      }, {
+        "latitudeE7": 227910691,
+        "longitudeE7": 861838037,
+        "placeId": "ChIJQ_kRzqD08jkRI0b83QYvHOY",
+        "address": "2, Awatar Building, Diagonal Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Ashok Fasteners",
+        "locationConfidence": 0.22892612
+      }, {
+        "latitudeE7": 227909396,
+        "longitudeE7": 861835985,
+        "placeId": "ChIJiUkBu2fj9TkRUZREzMciGFc",
+        "name": "Govind Prasad Agrwal",
+        "locationConfidence": 0.20671836
+      }, {
+        "latitudeE7": 227911934,
+        "longitudeE7": 861837905,
+        "placeId": "ChIJe-9Qt2fj9TkR0aj-8sLyRZ4",
+        "name": "S K Chakravarty \u0026 Company",
+        "locationConfidence": 0.19245605
+      }, {
+        "latitudeE7": 227910691,
+        "longitudeE7": 861838037,
+        "placeId": "ChIJQ_kRzqD08jkRhpZztE7IGno",
+        "address": "Navedi Bhavan, Diagonal Rd, South Park, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Accropoly Glass Industries Private Limited",
+        "locationConfidence": 0.16632897
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227916564,
+          "lngE7": 861840560,
+          "accuracyMeters": 15,
+          "timestamp": "2017-03-16T06:28:25.245Z"
+        }, {
+          "latE7": 227912109,
+          "lngE7": 861838774,
+          "accuracyMeters": 25,
+          "timestamp": "2017-03-16T06:29:59.381Z"
+        }, {
+          "latE7": 227912109,
+          "lngE7": 861838774,
+          "accuracyMeters": 22,
+          "timestamp": "2017-03-16T06:30:14.552Z"
+        }, {
+          "latE7": 227914083,
+          "lngE7": 861827850,
+          "accuracyMeters": 23,
+          "timestamp": "2017-03-16T06:33:01Z"
+        }, {
+          "latE7": 227909833,
+          "lngE7": 861832100,
+          "accuracyMeters": 24,
+          "timestamp": "2017-03-16T06:33:17Z"
+        }, {
+          "latE7": 227901770,
+          "lngE7": 861834007,
+          "accuracyMeters": 23,
+          "timestamp": "2017-03-16T06:34:29.762Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 616.4139472140921
+      },
+      "locationConfidence": 63,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227908278,
+        "longitudeE7": 861832539
+      },
+      "endLocation": {
+        "latitudeE7": 227905958,
+        "longitudeE7": 861519564
+      },
+      "duration": {
+        "startTimestamp": "2017-03-16T06:49:40.355Z",
+        "endTimestamp": "2017-03-16T06:59:35.670Z"
+      },
+      "distance": 5950,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 92.69008022075694
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 4.251198746158533
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.007831587074523
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227907066,
+          "lngE7": 861832580
+        }, {
+          "latE7": 227906074,
+          "lngE7": 861519546
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}

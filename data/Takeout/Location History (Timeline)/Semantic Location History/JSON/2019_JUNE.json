@@ -1,0 +1,4579 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706100,
+        "longitudeE7": 862601464,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227875332,
+        "longitudeE7": 862921675,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T10:25:26.488Z",
+        "endTimestamp": "2019-06-01T11:52:07.080Z"
+      },
+      "distance": 3796,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 65.3224380399623
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.377469699317025
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.449222449225312
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706012,
+          "lngE7": 862601776
+        }, {
+          "latE7": 227877120,
+          "lngE7": 862720336
+        }, {
+          "latE7": 227875175,
+          "lngE7": 862921600
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5269.394924441406
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227875332,
+          "longitudeE7": 862921675,
+          "accuracyMetres": 23
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-01T11:57:16.001Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 225101133,
+        "longitudeE7": 863158790,
+        "placeId": "ChIJN7lRYqLp9TkRuW6qK2Vx4MI",
+        "name": "Subarnarekha River",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 40.937397,
+        "calibratedProbability": 29.418285,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T11:52:07.080Z",
+        "endTimestamp": "2019-06-01T11:59:03.522Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227875125,
+      "centerLngE7": 862922025,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227877871,
+        "longitudeE7": 862935992,
+        "placeId": "ChIJa5pVF2EI9jkR5MyyLMaIfdY",
+        "address": "Q7QV+4C8, Hurlung, Jharkhand 831004, India",
+        "name": "Jharkhand HRD Centre",
+        "locationConfidence": 35.151,
+        "calibratedProbability": 25.260086
+      }, {
+        "latitudeE7": 227879818,
+        "longitudeE7": 862950228,
+        "placeId": "ChIJ774Gr2EI9jkRLlVFVQ8CuJs",
+        "address": "Q7QW+52R, Hurlung, Jharkhand 831004, India",
+        "name": "General Store",
+        "locationConfidence": 23.911604,
+        "calibratedProbability": 17.183271
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227875652,
+        "longitudeE7": 862922018,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227817522,
+        "longitudeE7": 862812094,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T11:59:03.522Z",
+        "endTimestamp": "2019-06-01T12:41:51.733Z"
+      },
+      "distance": 1299,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 67.84723149318788
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.385628183962396
+      }, {
+        "activityType": "WALKING",
+        "probability": 8.825243184122614
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227875137,
+          "lngE7": 862921676
+        }, {
+          "latE7": 227856540,
+          "lngE7": 862685852
+        }, {
+          "latE7": 227813529,
+          "lngE7": 862812423
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5022.614674046164
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227818195,
+          "longitudeE7": 862813367,
+          "accuracyMetres": 77
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-01T12:40:45.490Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227817522,
+        "longitudeE7": 862812094,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227812017,
+        "longitudeE7": 862801687,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T12:41:51.733Z",
+        "endTimestamp": "2019-06-01T12:50:24.981Z"
+      },
+      "distance": 123,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 41.97287670663865
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 41.0439292042748
+      }, {
+        "activityType": "WALKING",
+        "probability": 13.107808855085642
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227813529,
+          "lngE7": 862812423
+        }, {
+          "latE7": 227808303,
+          "lngE7": 862806549
+        }, {
+          "latE7": 227807731,
+          "lngE7": 862802352
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJMzKj3G0I9jkRgzJvgvmNdtk"
+        }, {
+          "placeId": "ChIJYf843W0I9jkRn2PLGaRO6cA"
+        }, {
+          "placeId": "ChIJiRcbwG0I9jkRb7y55SG_rdA"
+        }],
+        "distanceMeters": 167.22392450463295
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227808249,
+          "longitudeE7": 862794562,
+          "accuracyMetres": 77
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-01T12:52:56.348Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227812017,
+        "longitudeE7": 862801687,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227706100,
+        "longitudeE7": 862601464,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T12:50:24.981Z",
+        "endTimestamp": "2019-06-01T15:42:09.224Z"
+      },
+      "distance": 2366,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 65.49027666964531
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 19.88064332412115
+      }, {
+        "activityType": "WALKING",
+        "probability": 10.471602564240138
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227807559,
+          "lngE7": 862801055
+        }, {
+          "latE7": 227748279,
+          "lngE7": 862612152
+        }, {
+          "latE7": 227706012,
+          "lngE7": 862601776
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3171.0156780155053
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706100,
+          "lngE7": 862601464,
+          "accuracyMeters": 17,
+          "timestamp": "2019-06-01T15:19:06.969Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706100,
+          "longitudeE7": 862601464,
+          "accuracyMetres": 88
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-01T15:39:32.880Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 50.096367,
+        "calibratedProbability": 43.95973
+      },
+      "duration": {
+        "startTimestamp": "2019-06-01T15:42:09.224Z",
+        "endTimestamp": "2019-06-02T20:18:10.658Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227706914,
+      "centerLngE7": 862602114,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 18.979904,
+        "calibratedProbability": 16.654928
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 7.3301315,
+        "calibratedProbability": 6.4322147
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 5.438822,
+        "calibratedProbability": 4.7725844
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.758345,
+        "calibratedProbability": 1.5429536
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 1.6998943,
+        "calibratedProbability": 1.4916629
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 1.377417,
+        "calibratedProbability": 1.208688
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.84961605,
+        "calibratedProbability": 0.7455409
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 0.78140223,
+        "calibratedProbability": 0.6856831
+      }, {
+        "latitudeE7": 227695393,
+        "longitudeE7": 862596139,
+        "placeId": "ChIJA_qm_AAI9jkRNqX11bQsDKs",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Education Centre",
+        "locationConfidence": 0.75535744,
+        "calibratedProbability": 0.6628287
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.6375606,
+        "calibratedProbability": 0.55946153
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 0.4574158,
+        "calibratedProbability": 0.40138388
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-02T20:18:10.658Z",
+        "endTimestamp": "2019-06-03T08:59:19.672Z"
+      },
+      "distance": 12056,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 82.92340841666993
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.641005819379783
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.1391102399255346
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227763442,
+          "lngE7": 862523803
+        }, {
+          "latE7": 227891139,
+          "lngE7": 862417449
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 3969.255146881439
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227756778,
+          "longitudeE7": 862587598,
+          "accuracyMetres": 128
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-03T09:00:35.490Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 57.129303,
+        "calibratedProbability": 55.713818
+      },
+      "duration": {
+        "startTimestamp": "2019-06-03T08:59:19.672Z",
+        "endTimestamp": "2019-06-04T11:33:00.458Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707991,
+      "centerLngE7": 862601521,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 7.275919,
+        "calibratedProbability": 7.0956445
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 7.0535817,
+        "calibratedProbability": 6.878816
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 5.8656344,
+        "calibratedProbability": 5.7203026,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 2.4019835,
+        "calibratedProbability": 2.34247
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 2.089769,
+        "calibratedProbability": 2.037991
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 2.0386102,
+        "calibratedProbability": 1.9880998
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 1.7098031,
+        "calibratedProbability": 1.6674396
+      }, {
+        "latitudeE7": 227695393,
+        "longitudeE7": 862596139,
+        "placeId": "ChIJA_qm_AAI9jkRNqX11bQsDKs",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Education Centre",
+        "locationConfidence": 1.0348024,
+        "calibratedProbability": 1.0091633
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.69371855,
+        "calibratedProbability": 0.67653036
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.64161474,
+        "calibratedProbability": 0.6257175
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 0.47686255,
+        "calibratedProbability": 0.4650474
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-04T11:33:00.458Z",
+        "endTimestamp": "2019-06-04T13:59:08.062Z"
+      },
+      "distance": 876,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 85.537779133016
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.4947411184254
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.3038059938526434
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227748279,
+          "lngE7": 862612152
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1381.737005388296
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706100,
+          "lngE7": 862601464,
+          "accuracyMeters": 82,
+          "timestamp": "2019-06-04T11:33:00.458Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706100,
+          "longitudeE7": 862601464,
+          "accuracyMetres": 142
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-04T13:59:08.120Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 50.694736,
+        "calibratedProbability": 45.649185
+      },
+      "duration": {
+        "startTimestamp": "2019-06-04T13:59:08.062Z",
+        "endTimestamp": "2019-06-05T13:41:30.246Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227705216,
+      "centerLngE7": 862598241,
+      "visitConfidence": 82,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 9.961369,
+        "calibratedProbability": 8.969933
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 9.407611,
+        "calibratedProbability": 8.47129
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 6.9858775,
+        "calibratedProbability": 6.2905865
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 3.131337,
+        "calibratedProbability": 2.819681
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 2.276327,
+        "calibratedProbability": 2.0497684
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 1.6981053,
+        "calibratedProbability": 1.5290961
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 1.3234329,
+        "calibratedProbability": 1.1917142
+      }, {
+        "latitudeE7": 227695393,
+        "longitudeE7": 862596139,
+        "placeId": "ChIJA_qm_AAI9jkRNqX11bQsDKs",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Education Centre",
+        "locationConfidence": 0.96276927,
+        "calibratedProbability": 0.8669467
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.6718397,
+        "calibratedProbability": 0.6049728
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.6449167,
+        "calibratedProbability": 0.58072937
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-05T13:41:30.246Z",
+        "endTimestamp": "2019-06-05T14:13:09.168Z"
+      },
+      "distance": 902,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 63.36782294650273
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.646485036862387
+      }, {
+        "activityType": "WALKING",
+        "probability": 14.653971129286894
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227739791,
+          "lngE7": 862612533
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1381.737005388296
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227704459,
+          "longitudeE7": 862601822,
+          "accuracyMetres": 158
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-05T14:13:13.206Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "placeId": "ChIJC4vADgUI9jkR0S1vkHrzkwU",
+        "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Millennium Park",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 33.715958,
+        "calibratedProbability": 29.484083
+      },
+      "duration": {
+        "startTimestamp": "2019-06-05T14:13:09.168Z",
+        "endTimestamp": "2019-06-05T15:01:18.512Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227778255,
+      "centerLngE7": 862626788,
+      "visitConfidence": 80,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227759314,
+        "longitudeE7": 862602796,
+        "placeId": "ChIJ5Sq3oAMI9jkRKNjqLJWsr28",
+        "address": "K3-89, Rd Number 16, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Plaza Market",
+        "locationConfidence": 20.045723,
+        "calibratedProbability": 17.529675
+      }, {
+        "latitudeE7": 227781145,
+        "longitudeE7": 862632698,
+        "placeId": "ChIJf32NxQQI9jkRCkaGtl7yxak",
+        "address": "Q7H7+68R, Near K9, Prakash Nagar, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Goldy Stores",
+        "locationConfidence": 5.8483605,
+        "calibratedProbability": 5.114301
+      }, {
+        "latitudeE7": 227782759,
+        "longitudeE7": 862612330,
+        "placeId": "ChIJGcQgpgQI9jkRU9HV5K6IvWU",
+        "address": "Birsanagar Zone No 1B, near Barbecue, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bhabani Enterprises",
+        "locationConfidence": 4.967432,
+        "calibratedProbability": 4.3439426
+      }, {
+        "latitudeE7": 227773207,
+        "longitudeE7": 862622666,
+        "placeId": "ChIJLzlnZycJ9jkR-3jaO3eSDSE",
+        "locationConfidence": 2.7560344,
+        "calibratedProbability": 2.4101095
+      }, {
+        "latitudeE7": 227782514,
+        "longitudeE7": 862634240,
+        "placeId": "ChIJX0zozwQI9jkRz25COkKjphY",
+        "address": "B.Ed College Road, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shivam Complex",
+        "locationConfidence": 2.3648171,
+        "calibratedProbability": 2.067996
+      }, {
+        "latitudeE7": 227783550,
+        "longitudeE7": 862634990,
+        "placeId": "ChIJi2oq0AQI9jkRsIjZZQfpasY",
+        "address": "Shivam Complex, B.Ed College Road, Sadhudera, Birsanagar, Telco Colony, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shivam Collection",
+        "locationConfidence": 2.1610167,
+        "calibratedProbability": 1.8897758
+      }, {
+        "latitudeE7": 227781006,
+        "longitudeE7": 862631400,
+        "placeId": "ChIJAyEJxgQI9jkRjcM7J_nhT9I",
+        "address": "Road, Zone Number 1/B, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilanchal Salon",
+        "locationConfidence": 1.7910964,
+        "calibratedProbability": 1.5662862
+      }, {
+        "latitudeE7": 227781099,
+        "longitudeE7": 862633134,
+        "placeId": "ChIJf32NxQQI9jkRCkaGtl7yxak",
+        "address": "Q7H7+68R, Near K9, Prakash Nagar, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Goldy Stores",
+        "locationConfidence": 1.5973194,
+        "calibratedProbability": 1.3968312
+      }, {
+        "latitudeE7": 227772863,
+        "longitudeE7": 862629295,
+        "placeId": "ChIJmQ_p6gQI9jkRgFYow_OiVkw",
+        "address": "Q7H6+46P, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+        "name": "Royal Power Gym",
+        "locationConfidence": 1.2271932,
+        "calibratedProbability": 1.0731615
+      }, {
+        "latitudeE7": 227783579,
+        "longitudeE7": 862634680,
+        "placeId": "ChIJncAqzgQI9jkRDwGiY8DtG4I",
+        "address": "Near Chinmaya Vidyalaya School. Just Beside raj medical. Near goldy store Birsanagar, First floor, zone, k 9, 1B Rd, Sadhudera, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dental wworld",
+        "locationConfidence": 1.0033303,
+        "calibratedProbability": 0.8773969
+      }, {
+        "latitudeE7": 227781735,
+        "longitudeE7": 862632332,
+        "placeId": "ChIJ2yxezwQI9jkRa4ejhZL69dA",
+        "address": "infront of, k 9, near goldy store, River View, Sadhudera, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Supreme Tent and Event",
+        "locationConfidence": 0.6602942,
+        "calibratedProbability": 0.5774171
+      }, {
+        "latitudeE7": 227789267,
+        "longitudeE7": 862624583,
+        "placeId": "ChIJdzm3TBsI9jkRU8qh15ZtkRI",
+        "address": "Q7H6+HXG, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Garrixer PG,Bsr",
+        "locationConfidence": 0.6345149,
+        "calibratedProbability": 0.5548735
+      }, {
+        "latitudeE7": 227781360,
+        "longitudeE7": 862630728,
+        "placeId": "ChIJsfYhxgQI9jkRGkZN3IBxlec",
+        "address": "Sahu Furniture, Infront of K-9, Plaza, Telco,, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sahu Furniture",
+        "locationConfidence": 0.6309516,
+        "calibratedProbability": 0.5517574
+      }, {
+        "latitudeE7": 227781154,
+        "longitudeE7": 862632430,
+        "placeId": "ChIJf32NxQQI9jkRoi1Ma-FjnOQ",
+        "address": "Infront Of K9, Double Road, beside Goldy Stores, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bharat Cyber Cafe \u0026 Mobile Store",
+        "locationConfidence": 0.6306306,
+        "calibratedProbability": 0.5514767
+      }, {
+        "latitudeE7": 227771262,
+        "longitudeE7": 862646618,
+        "placeId": "ChIJTXfmN7cJ9jkR4GdWhg596p0",
+        "address": "K - 29, River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilesh Fast Food Corner - NFC",
+        "locationConfidence": 0.6148915,
+        "calibratedProbability": 0.53771317
+      }, {
+        "latitudeE7": 227782415,
+        "longitudeE7": 862634096,
+        "placeId": "ChIJVVVV5RoI9jkRlHDTJKbk7Rw",
+        "address": "Q7H7+79V, Near dhobi more, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "One Step",
+        "locationConfidence": 0.6033343,
+        "calibratedProbability": 0.52760655
+      }, {
+        "latitudeE7": 227781520,
+        "longitudeE7": 862630690,
+        "placeId": "ChIJA2ggxgQI9jkR3o0Ztz96o4g",
+        "address": "Zone No. 1B In Front Of K-9, River View, Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shilpa Furniture",
+        "locationConfidence": 0.5860486,
+        "calibratedProbability": 0.51249045
+      }, {
+        "latitudeE7": 227781509,
+        "longitudeE7": 862629010,
+        "placeId": "ChIJfe_hxwQI9jkRZYAmvb-HgZ8",
+        "address": "H.No 3, Zone 1B, Near Chinmaya School, Birsanagar, Over View Enclave Road, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Raj Medicine House",
+        "locationConfidence": 0.532242,
+        "calibratedProbability": 0.4654374
+      }, {
+        "latitudeE7": 227778857,
+        "longitudeE7": 862622270,
+        "placeId": "ChIJ5UUxuwQI9jkRYuopy50-Svo",
+        "address": "Near Plaza market,, Q7H6+5V5, opposite Plaza dispensery, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Primary Gate,VBCV",
+        "locationConfidence": 0.4939684,
+        "calibratedProbability": 0.43196774
+      }, {
+        "latitudeE7": 227776529,
+        "longitudeE7": 862606660,
+        "placeId": "ChIJJ-LoQwMI9jkRZ0rSXsg_WxA",
+        "address": "Zone - 1B, Telco, near Bhuvaneshwari Temple, Telco Colony, Jamshedpur, Jharkhand 831019, India",
+        "name": "Smile Dental Care",
+        "locationConfidence": 0.49142522,
+        "calibratedProbability": 0.42974377
+      }, {
+        "latitudeE7": 227776640,
+        "longitudeE7": 862604638,
+        "placeId": "ChIJYxInQQMI9jkRJ3Qj4u-W60o",
+        "address": "near Bhuvaneshwari Temple, Telco Colony, Jamshedpur, Jharkhand 831019, India",
+        "name": "Punjab National Bank ATM",
+        "locationConfidence": 0.47679684,
+        "calibratedProbability": 0.41695148
+      }, {
+        "latitudeE7": 227780267,
+        "longitudeE7": 862625701,
+        "placeId": "ChIJPZ2RuQQI9jkRq_JPfByUA_Y",
+        "address": "Unnamed Road, Prakash Nagar,, Q7H7+52P, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sankar Store",
+        "locationConfidence": 0.47101054,
+        "calibratedProbability": 0.41189143
+      }, {
+        "latitudeE7": 227772690,
+        "longitudeE7": 862603981,
+        "placeId": "ChIJKYKUagMI9jkRB9AGKRxIQOI",
+        "address": "Q7G6+W52, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dalmi\u0027s Golgappa Stall",
+        "locationConfidence": 0.47011364,
+        "calibratedProbability": 0.41110712
+      }, {
+        "latitudeE7": 227777420,
+        "longitudeE7": 862609738,
+        "placeId": "ChIJ5wzczwQI9jkRsM4rS0jkNmA",
+        "address": "R633+R5C, SNP Area, Sakchi, Jamshedpur, Jharkhand 831004, India",
+        "name": "All In One",
+        "locationConfidence": 0.4552904,
+        "calibratedProbability": 0.39814442
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 36,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-05T15:01:18.512Z",
+        "endTimestamp": "2019-06-05T15:36:18.386Z"
+      },
+      "distance": 916,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 88.52185448531735
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.339707188407287
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.958176788216515
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }, {
+          "latE7": 227748279,
+          "lngE7": 862612152
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1443.083978454474
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227701779,
+          "longitudeE7": 862602406,
+          "accuracyMetres": 91
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-05T15:34:41.946Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 62.039883,
+        "calibratedProbability": 61.672054
+      },
+      "duration": {
+        "startTimestamp": "2019-06-05T15:36:18.386Z",
+        "endTimestamp": "2019-06-06T11:29:49.342Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227705464,
+      "centerLngE7": 862601494,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 8.246434,
+        "calibratedProbability": 8.197542
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 6.118038,
+        "calibratedProbability": 6.081765,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.9845166,
+        "calibratedProbability": 5.949035
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 3.1375117,
+        "calibratedProbability": 3.1189098
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 3.0192852,
+        "calibratedProbability": 3.0013843
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 0.967525,
+        "calibratedProbability": 0.96178865
+      }, {
+        "latitudeE7": 227700094,
+        "longitudeE7": 862597802,
+        "placeId": "ChIJ7Z384QAI9jkRm6lOaSWudig",
+        "address": "near Ganesh Mandir, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "S S AUTOMOTIVE",
+        "locationConfidence": 0.73786604,
+        "calibratedProbability": 0.7334913,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 0.5409583,
+        "calibratedProbability": 0.537751
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.52106243,
+        "calibratedProbability": 0.5179731
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706070,
+        "longitudeE7": 862601439,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227683480,
+        "longitudeE7": 862002396,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-06T11:29:49.342Z",
+        "endTimestamp": "2019-06-06T12:22:34.096Z"
+      },
+      "distance": 6147,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 86.46880090845008
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.699401780122002
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.0919272458141025
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227705974,
+          "lngE7": 862601776
+        }, {
+          "latE7": 227688713,
+          "lngE7": 861985244
+        }, {
+          "latE7": 227682285,
+          "lngE7": 862000579
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 8910.97795213289
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227683480,
+          "longitudeE7": 862002396,
+          "accuracyMetres": 99
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-06T12:22:34.096Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227683480,
+        "longitudeE7": 862002396,
+        "placeId": "ChIJA3vfhjTj9TkRZDiYErW8zdE",
+        "address": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831007, India",
+        "name": "Tatanagar",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 38.974358,
+        "calibratedProbability": 36.763218
+      },
+      "duration": {
+        "startTimestamp": "2019-06-06T12:22:34.096Z",
+        "endTimestamp": "2019-06-06T12:53:19.694Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227682203,
+      "centerLngE7": 862011069,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227676699,
+        "longitudeE7": 862008917,
+        "placeId": "ChIJIw-FZDPj9TkR_s_0Gfpb_AQ",
+        "address": "Q6C2+35V, Tata - Hata Main Rd, Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "Tatanagar Railway Reservation Complex",
+        "locationConfidence": 13.1675825,
+        "calibratedProbability": 12.420545
+      }, {
+        "latitudeE7": 227684483,
+        "longitudeE7": 862000505,
+        "placeId": "ChIJA3vfhjTj9TkRZDiYErW8zdE",
+        "address": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831007, India",
+        "name": "Tatanagar Junction",
+        "locationConfidence": 12.04138,
+        "calibratedProbability": 11.358235
+      }, {
+        "latitudeE7": 227682372,
+        "longitudeE7": 862010060,
+        "placeId": "ChIJOcdrJMTj9TkRHXu6vCuE9MQ",
+        "address": "Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "Tatanagar Railway Station, Jamshedpur",
+        "locationConfidence": 10.600281,
+        "calibratedProbability": 9.998894
+      }, {
+        "latitudeE7": 227677575,
+        "longitudeE7": 862001967,
+        "placeId": "ChIJZc7KhDTj9TkRANUeIFOIEK4",
+        "locationConfidence": 7.1370854,
+        "calibratedProbability": 6.7321763
+      }, {
+        "latitudeE7": 227680229,
+        "longitudeE7": 862010797,
+        "placeId": "ChIJ-97waKrj9TkRT-9htsOmBWY",
+        "address": "Q692+6C4, platform 1, Tata Nagar, Khasmahal, jn, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "TATANAGAR Railway mail service",
+        "locationConfidence": 4.2710657,
+        "calibratedProbability": 4.0287547
+      }, {
+        "latitudeE7": 227674810,
+        "longitudeE7": 862007320,
+        "placeId": "ChIJ3082YjPj9TkRXmHO_9PjUCA",
+        "address": "Lokenath Building, JUGSALAI MAIN ROAD, JAMSHEDPUR, Tata Nagar, Khasmahal, Jamshedpur, Purbi Singhbhum, Jamshedpur, Jharkhand 831012, India",
+        "name": "LIC of India, Branch Office",
+        "locationConfidence": 0.8787398,
+        "calibratedProbability": 0.82888615
+      }, {
+        "latitudeE7": 227684276,
+        "longitudeE7": 862003790,
+        "placeId": "ChIJ7ftCqz7j9TkRJF6S47ByEQg",
+        "address": "Q692+949, Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "Jan Aahar Restaurant",
+        "locationConfidence": 0.80746543,
+        "calibratedProbability": 0.7616554
+      }, {
+        "latitudeE7": 227677990,
+        "longitudeE7": 861984619,
+        "placeId": "ChIJzbw_-zTj9TkRXM_kO4DYhxQ",
+        "locationConfidence": 0.78964335,
+        "calibratedProbability": 0.74484444
+      }, {
+        "latitudeE7": 227683344,
+        "longitudeE7": 862010774,
+        "placeId": "ChIJAQBAhzTj9TkRZl-g2NUNYRc",
+        "address": "Burmamines Mill Area, Opp.15A, Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831002, India",
+        "name": "Anandi Sharma Furniture Works",
+        "locationConfidence": 0.67763114,
+        "calibratedProbability": 0.63918704,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227685021,
+        "longitudeE7": 862006576,
+        "placeId": "ChIJrVuKBmjj9TkR64ybkVCsC7M",
+        "address": "Q692+C73, Station Rd, Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831007, India",
+        "name": "Food Track",
+        "locationConfidence": 0.58391666,
+        "calibratedProbability": 0.55078924,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 227684847,
+        "longitudeE7": 862005829,
+        "placeId": "ChIJAf0DgDTj9TkRZfz-2uM-T64",
+        "address": "Q692+96W, Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "KMA Restaurant",
+        "locationConfidence": 0.49868575,
+        "calibratedProbability": 0.47039375
+      }, {
+        "latitudeE7": 227683441,
+        "longitudeE7": 862005420,
+        "placeId": "ChIJ-_4zgDTj9TkR7HA1MxxpBgo",
+        "address": "Q692+86C, Tata Nagar, Khasmahal, Jugsalai, Bagbera colony, Jamshedpur, Jharkhand 831002, India",
+        "name": "K.M.A. IRCTC FOOD TRACK",
+        "locationConfidence": 0.49583024,
+        "calibratedProbability": 0.46770024
+      }, {
+        "latitudeE7": 227672100,
+        "longitudeE7": 862009230,
+        "placeId": "ChIJpb8qZzPj9TkR45EiqaggfUQ",
+        "address": "Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831002, India",
+        "name": "Jamshedpur",
+        "locationConfidence": 0.48331332,
+        "calibratedProbability": 0.45589346
+      }, {
+        "latitudeE7": 227677342,
+        "longitudeE7": 861990369,
+        "placeId": "ChIJ_z8H8jTj9TkR4XA-gWDPhTQ",
+        "address": "Jamshedpur - Keonjhar Hwy, Tata Nagar, Khasmahal, Jugsalai, Jamshedpur, Jharkhand 831002, India",
+        "name": "Singh Hotel",
+        "locationConfidence": 0.4663276,
+        "calibratedProbability": 0.4398714
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 39,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227681999,
+        "longitudeE7": 862013151,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227685964,
+        "longitudeE7": 862039829,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-06T12:53:19.694Z",
+        "endTimestamp": "2019-06-06T13:14:39.244Z"
+      },
+      "distance": 306,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 63.96544237953906
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.467896147109286
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 8.13315625099396
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227678241,
+          "lngE7": 862006988
+        }, {
+          "latE7": 227713985,
+          "lngE7": 862009201
+        }, {
+          "latE7": 227685394,
+          "lngE7": 862046737
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1858.714593527102
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227685008,
+          "lngE7": 862013263,
+          "accuracyMeters": 16,
+          "timestamp": "2019-06-06T13:06:14.361Z"
+        }]
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227685815,
+        "longitudeE7": 862035696,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227706070,
+        "longitudeE7": 862601439,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-06T13:14:39.244Z",
+        "endTimestamp": "2019-06-06T14:43:07.636Z"
+      },
+      "distance": 5804,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 87.55905250463637
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 9.729657725051997
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.3146455657160296
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227685394,
+          "lngE7": 862046737
+        }, {
+          "latE7": 227635078,
+          "lngE7": 862513275
+        }, {
+          "latE7": 227705974,
+          "lngE7": 862601776
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 7903.006976207175
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706070,
+          "longitudeE7": 862601439,
+          "accuracyMetres": 125
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-06T14:44:39.993Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 53.139854,
+        "calibratedProbability": 50.48886
+      },
+      "duration": {
+        "startTimestamp": "2019-06-06T14:43:07.636Z",
+        "endTimestamp": "2019-06-10T07:04:04.254Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227711523,
+      "centerLngE7": 862602264,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 16.879726,
+        "calibratedProbability": 16.037645
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 8.707964,
+        "calibratedProbability": 8.273549
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 5.7280164,
+        "calibratedProbability": 5.442262
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 3.2026548,
+        "calibratedProbability": 3.0428836
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.5036399,
+        "calibratedProbability": 1.4286276
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 0.79752916,
+        "calibratedProbability": 0.7577427
+      }, {
+        "latitudeE7": 227720063,
+        "longitudeE7": 862598138,
+        "placeId": "ChIJFwKnbwEI9jkRbfLDqNrFZb8",
+        "address": "near Hanuman Mandir Kharangajhar, Telco Colony, Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Narayan Family Restaurant",
+        "locationConfidence": 0.6137186,
+        "calibratedProbability": 0.583102
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 0.52213436,
+        "calibratedProbability": 0.49608657
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227761704,
+        "longitudeE7": 862477183,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-10T07:04:04.254Z",
+        "endTimestamp": "2019-06-10T07:28:43.456Z"
+      },
+      "distance": 1479,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 90.87934713594305
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.734088885386704
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.7539838913756687
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227733440,
+          "lngE7": 862513504
+        }, {
+          "latE7": 227760066,
+          "lngE7": 862476577
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1970.153307512344
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706070,
+          "longitudeE7": 862601439,
+          "accuracyMetres": 142
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-10T07:30:20.369Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227761704,
+        "longitudeE7": 862477183,
+        "placeId": "ChIJd3gLt6_i9TkRk-82Phy8ts0",
+        "address": "Telco Nursery, Cross Rd NO. 12, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bank of India - Telco Branch",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 57.215122,
+        "calibratedProbability": 51.21929
+      },
+      "duration": {
+        "startTimestamp": "2019-06-10T07:28:43.456Z",
+        "endTimestamp": "2019-06-10T07:34:31.914Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227758900,
+      "centerLngE7": 862476500,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227748392,
+        "longitudeE7": 862475279,
+        "placeId": "ChIJC7z0N67i9TkRkF5Ep4bc7lA",
+        "address": "Q6FX+W2J, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Union Bank of India - Telco Branch",
+        "locationConfidence": 17.27128,
+        "calibratedProbability": 15.461345
+      }, {
+        "latitudeE7": 227762090,
+        "longitudeE7": 862477800,
+        "placeId": "ChIJd3gLt6_i9TkRk-82Phy8ts0",
+        "address": "Telco Nursery, Cross Rd NO. 12, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bank Of India",
+        "locationConfidence": 12.666871,
+        "calibratedProbability": 11.339453
+      }, {
+        "latitudeE7": 227765676,
+        "longitudeE7": 862488811,
+        "placeId": "ChIJ7d6DAbLi9TkRIe-S7S_sZsI",
+        "address": "K42, Cross Rd Number 14, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Club",
+        "locationConfidence": 4.312243,
+        "calibratedProbability": 3.8603435
+      }, {
+        "latitudeE7": 227756059,
+        "longitudeE7": 862479621,
+        "placeId": "ChIJWy9Os6_i9TkRAKkEBo3tSsE",
+        "address": "Q6GX+66M, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Passport Seva Kendra",
+        "locationConfidence": 2.1425962,
+        "calibratedProbability": 1.9180639
+      }, {
+        "latitudeE7": 227748099,
+        "longitudeE7": 862486091,
+        "placeId": "ChIJfbPlWa7i9TkRf5YfeLmyXTk",
+        "address": "Q6FX+WCH, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kata Bhatta Jharkhand Map Toll Office",
+        "locationConfidence": 1.1515844,
+        "calibratedProbability": 1.0309047
+      }, {
+        "latitudeE7": 227760109,
+        "longitudeE7": 862478310,
+        "placeId": "ChIJK4GWtq_i9TkRxgEvrzeNAz8",
+        "address": "K2-42, Rd Number 1, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "State Bank of India ATM",
+        "locationConfidence": 1.074692,
+        "calibratedProbability": 0.96207017
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227761704,
+        "longitudeE7": 862477183,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-10T07:34:31.914Z",
+        "endTimestamp": "2019-06-10T08:35:51.364Z"
+      },
+      "distance": 1479,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 82.46979883135876
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.801358458848942
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.451282836492999
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227760066,
+          "lngE7": 862476577
+        }, {
+          "latE7": 227735042,
+          "lngE7": 862513198
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1990.0402213449374
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706070,
+          "longitudeE7": 862601439,
+          "accuracyMetres": 132
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-10T08:31:47.588Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 14.994099,
+        "calibratedProbability": 19.401789
+      },
+      "duration": {
+        "startTimestamp": "2019-06-10T08:35:51.364Z",
+        "endTimestamp": "2019-06-12T15:25:14.598Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227719790,
+      "centerLngE7": 862607138,
+      "visitConfidence": 75,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "locationConfidence": 10.375758,
+        "calibratedProbability": 13.425834
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 5.253666,
+        "calibratedProbability": 6.7980423
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 5.0526347,
+        "calibratedProbability": 6.5379157
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 3.719491,
+        "calibratedProbability": 4.8128786
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 3.5226135,
+        "calibratedProbability": 4.558127
+      }, {
+        "latitudeE7": 227720063,
+        "longitudeE7": 862598138,
+        "placeId": "ChIJFwKnbwEI9jkRbfLDqNrFZb8",
+        "address": "near Hanuman Mandir Kharangajhar, Telco Colony, Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Narayan Family Restaurant",
+        "locationConfidence": 2.987426,
+        "calibratedProbability": 3.865615
+      }, {
+        "latitudeE7": 227720176,
+        "longitudeE7": 862603035,
+        "placeId": "ChIJFxejQgEI9jkROpQChTCbUqo",
+        "locationConfidence": 2.0827348,
+        "calibratedProbability": 2.694979
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 2.0179603,
+        "calibratedProbability": 2.6111634
+      }, {
+        "latitudeE7": 227719624,
+        "longitudeE7": 862603157,
+        "placeId": "ChIJ-7uAQgEI9jkR3-UIvDkwyg8",
+        "address": "Q7C6+Q4P, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Dr.Hritik Kumar",
+        "locationConfidence": 1.7958689,
+        "calibratedProbability": 2.3237855
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 21,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-12T15:25:14.598Z",
+        "endTimestamp": "2019-06-12T15:45:14.172Z"
+      },
+      "distance": 242,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 44.25872023651296
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.03435427368864
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.828405811115692
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227706851,
+          "lngE7": 862588195
+        }, {
+          "latE7": 227710342,
+          "lngE7": 862582931
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 176.48895158912188
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706070,
+          "lngE7": 862601439,
+          "accuracyMeters": 31,
+          "timestamp": "2019-06-12T15:31:45.375Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 48.11796,
+        "calibratedProbability": 47.085957
+      },
+      "duration": {
+        "startTimestamp": "2019-06-12T15:45:14.172Z",
+        "endTimestamp": "2019-06-13T12:17:11.765Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227712492,
+      "centerLngE7": 862603736,
+      "visitConfidence": 88,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 13.959664,
+        "calibratedProbability": 13.660266
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 7.4436455,
+        "calibratedProbability": 7.2839985
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 4.6501293,
+        "calibratedProbability": 4.550396
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 3.753641,
+        "calibratedProbability": 3.673135
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 3.010957,
+        "calibratedProbability": 2.94638
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 1.8463122,
+        "calibratedProbability": 1.8067136
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 1.1664188,
+        "calibratedProbability": 1.1414021
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 1.0016224,
+        "calibratedProbability": 0.98014027
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.65961856,
+        "calibratedProbability": 0.64547145
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-13T12:17:11.765Z",
+        "endTimestamp": "2019-06-13T13:44:32.610Z"
+      },
+      "distance": 242,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 60.319431893830355
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 32.62508731648479
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.889341044947489
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227706851,
+          "lngE7": 862588195
+        }, {
+          "latE7": 227710342,
+          "lngE7": 862582931
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 176.48182206652632
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706143,
+          "lngE7": 862601464,
+          "accuracyMeters": 64,
+          "timestamp": "2019-06-13T12:30:18.615Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706143,
+          "longitudeE7": 862601464,
+          "accuracyMetres": 142
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-13T13:44:37.575Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 41.65474,
+        "calibratedProbability": 41.502647
+      },
+      "duration": {
+        "startTimestamp": "2019-06-13T13:44:32.610Z",
+        "endTimestamp": "2019-06-14T09:42:45.807Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227709201,
+      "centerLngE7": 862603122,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 17.270487,
+        "calibratedProbability": 17.207428
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 15.095504,
+        "calibratedProbability": 15.040386
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 6.273454,
+        "calibratedProbability": 6.2505484
+      }, {
+        "latitudeE7": 227711315,
+        "longitudeE7": 862619629,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 2.767973,
+        "calibratedProbability": 2.7578664
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 2.5157244,
+        "calibratedProbability": 2.5065389
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 1.0157741,
+        "calibratedProbability": 1.0120653
+      }, {
+        "latitudeE7": 227720063,
+        "longitudeE7": 862598138,
+        "placeId": "ChIJFwKnbwEI9jkRbfLDqNrFZb8",
+        "address": "near Hanuman Mandir Kharangajhar, Telco Colony, Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Narayan Family Restaurant",
+        "locationConfidence": 0.68700165,
+        "calibratedProbability": 0.68449324
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.6743432,
+        "calibratedProbability": 0.671881
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.6508188,
+        "calibratedProbability": 0.6484425
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 233437453,
+        "longitudeE7": 853261595,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-14T09:42:45.807Z",
+        "endTimestamp": "2019-06-14T13:59:36.420Z"
+      },
+      "distance": 114897,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 89.9204277669471
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 3.615677343312931
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.759220748476653
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706584,
+          "lngE7": 862601470
+        }, {
+          "latE7": 228906440,
+          "lngE7": 861168060
+        }, {
+          "latE7": 233412723,
+          "lngE7": 853302383
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJb-KTBQEI9jkR1CXgiwKr7AA"
+        }, {
+          "placeId": "ChIJd3mRzwEI9jkRy0fVjVJaVI0"
+        }, {
+          "placeId": "ChIJZZf03AEI9jkRr8pzGEz8RXs"
+        }, {
+          "placeId": "ChIJvWra5gEI9jkRVfZFnBZ1SAE"
+        }, {
+          "placeId": "ChIJw6Nh4wEI9jkRCuub1FgPsHM"
+        }, {
+          "placeId": "ChIJu8SLBKri9TkRlSlULTwqeoU"
+        }, {
+          "placeId": "ChIJfV4MIqri9TkR2awF2W3QSzw"
+        }, {
+          "placeId": "ChIJZ_KR2qvi9TkRrPONYhJWJSw"
+        }, {
+          "placeId": "ChIJNa7a3avi9TkR4EQmI7laP4o"
+        }, {
+          "placeId": "ChIJE_qU4avi9TkRTMZulaAogGQ"
+        }, {
+          "placeId": "ChIJV2DbVqni9TkRiAVHbxSH8Tw"
+        }, {
+          "placeId": "ChIJo5Znra7i9TkRtbQk8D6-EvU"
+        }, {
+          "placeId": "ChIJgQ_3oK7i9TkRhaLlWPmYKC8"
+        }, {
+          "placeId": "ChIJaWBygq7i9TkR_P9zHDK4Mzk"
+        }, {
+          "placeId": "ChIJu9CEeK7i9TkRETdf6jdrhDQ"
+        }, {
+          "placeId": "ChIJ99t6Cq7i9TkR1UGB6p_maBI"
+        }, {
+          "placeId": "ChIJ97SiS7Li9TkRmyzrEJFF8Tk"
+        }, {
+          "placeId": "ChIJzT7jSrLi9TkRArT_Qk1KEAI"
+        }, {
+          "placeId": "ChIJ0bytsbXi9TkRqt17JxpwpM0"
+        }, {
+          "placeId": "ChIJubXjlrXi9TkRy6OiiaBP5oU"
+        }, {
+          "placeId": "ChIJcYfkk7Xi9TkRXGISXAJ7FA0"
+        }, {
+          "placeId": "ChIJv2ICjbXi9TkRGSGafeQY168"
+        }, {
+          "placeId": "ChIJtzRe9bXi9TkRTfjd5x4tNTA"
+        }, {
+          "placeId": "ChIJFw-_Bsri9TkRBXbXbPqsGSo"
+        }, {
+          "placeId": "ChIJb5y518ni9TkRB6kQCsYyGnQ"
+        }, {
+          "placeId": "ChIJz0wi1rfi9TkRWUwolAqY4gs"
+        }, {
+          "placeId": "ChIJS0SYJcji9TkR9TMPMCB9M0M"
+        }, {
+          "placeId": "ChIJA6hKWsji9TkRvToPSfc4ue8"
+        }, {
+          "placeId": "ChIJd_eB8sji9TkRwtrS46h0ACc"
+        }, {
+          "placeId": "ChIJD9hYvMji9TkRtjbAA5uebkw"
+        }, {
+          "placeId": "ChIJeSZQr8ji9TkRQpBtR2s03gk"
+        }, {
+          "placeId": "ChIJS8orqMji9TkRFxLL8H6wSNc"
+        }, {
+          "placeId": "ChIJMSVK58Xi9TkR37J9ABHvoso"
+        }, {
+          "placeId": "ChIJKXRd58Xi9TkRXazZTWPOmnk"
+        }, {
+          "placeId": "ChIJs2jz3cXi9TkRPB9VtffSME8"
+        }, {
+          "placeId": "ChIJTaD67sPi9TkRUOT-mYmHGiI"
+        }, {
+          "placeId": "ChIJYyPL68Pi9TkROu5BPRA_nxA"
+        }, {
+          "placeId": "ChIJB8hO4cLi9TkRydlZXv1ws74"
+        }, {
+          "placeId": "ChIJcR4qw8Li9TkRZBshVh4JtLg"
+        }, {
+          "placeId": "ChIJ1RrTx8Li9TkRn9fDPkuRAKg"
+        }, {
+          "placeId": "ChIJqSf9x8Li9TkRjmGSqVXuKns"
+        }, {
+          "placeId": "ChIJf8UEs8Li9TkRvLlwtD-jjVk"
+        }, {
+          "placeId": "ChIJGf1fUd3i9TkRNBku7qU94FU"
+        }, {
+          "placeId": "ChIJYbAYV93i9TkRoycZV3BkEGM"
+        }, {
+          "placeId": "ChIJCTVu8Ofi9TkRUWgh9wR0zFU"
+        }, {
+          "placeId": "ChIJb_tMNubi9TkRK9YzqJ0oZvE"
+        }, {
+          "placeId": "ChIJMXa3Q-bi9TkRe5r6ByuTIK4"
+        }, {
+          "placeId": "ChIJs3CyXebi9TkR7ie0foD--QQ"
+        }, {
+          "placeId": "ChIJEZ7aZubi9TkR3s4yYG9kHk4"
+        }, {
+          "placeId": "ChIJg9gMY-bi9TkRo8SI7TfImGs"
+        }, {
+          "placeId": "ChIJr1r3aeTi9TkR8JodiyChXSg"
+        }, {
+          "placeId": "ChIJy8MMeuTi9TkRpL4KpiwcK1w"
+        }, {
+          "placeId": "ChIJr3VgeOTi9TkRrl2i5besyQs"
+        }, {
+          "placeId": "ChIJ54oBhOPi9TkRMOsoekJMyGQ"
+        }, {
+          "placeId": "ChIJabOznePi9TkROqG0mHFSnQk"
+        }, {
+          "placeId": "ChIJK_heCuPi9TkR_BdkPto2VIE"
+        }, {
+          "placeId": "ChIJLwDxweLi9TkRorHkklB9eyA"
+        }, {
+          "placeId": "ChIJf57awOLi9TkRioUG8mtNgCs"
+        }, {
+          "placeId": "ChIJ30OGueLi9TkRF0GtuLyA4yc"
+        }, {
+          "placeId": "ChIJFy4EseLi9TkRdBbcTnql5HE"
+        }, {
+          "placeId": "ChIJn2iTseLi9TkRzrVWX4r-COI"
+        }, {
+          "placeId": "ChIJbax_q-Li9TkRViHp0ERvjAM"
+        }, {
+          "placeId": "ChIJ_ZNusgLj9TkRSPoNA0jPu3k"
+        }, {
+          "placeId": "ChIJUSoDyQLj9TkREOfmLtl5xdk"
+        }, {
+          "placeId": "ChIJU_O82QLj9TkRjHxD9Dg2eo0"
+        }, {
+          "placeId": "ChIJV6-hOwPj9TkR_D3IlkCxlJs"
+        }, {
+          "placeId": "ChIJoTlcRwPj9TkRirs1skz_PJw"
+        }, {
+          "placeId": "ChIJzwKiRAPj9TkRLgRykxKorKQ"
+        }, {
+          "placeId": "ChIJO-kfXAPj9TkRPIOtUtSviS0"
+        }, {
+          "placeId": "ChIJIZ_BZgPj9TkR7ZwqiNOh4wQ"
+        }, {
+          "placeId": "ChIJO0ZrcAPj9TkRej-lJOsOSbs"
+        }, {
+          "placeId": "ChIJ5c-EdQPj9TkRn38pWOWW-nU"
+        }, {
+          "placeId": "ChIJX2_soQPj9TkRnHADoyyjfyU"
+        }, {
+          "placeId": "ChIJrzFEnwPj9TkRGVlXs5JpMsg"
+        }, {
+          "placeId": "ChIJK6vbngPj9TkRrb8caUdy4wM"
+        }, {
+          "placeId": "ChIJlXoSnAPj9TkRpzst26aBzmo"
+        }, {
+          "placeId": "ChIJ44uanAPj9TkRnZ44-dGYeB0"
+        }, {
+          "placeId": "ChIJcfTVmgPj9TkRpa6ahp4aZ64"
+        }, {
+          "placeId": "ChIJlRrljwPj9TkR7wtDVkuJJ9Q"
+        }, {
+          "placeId": "ChIJfSo2jAPj9TkRN1CR6piManE"
+        }, {
+          "placeId": "ChIJV3BS8QPj9TkRRsYWcW4sFCU"
+        }, {
+          "placeId": "ChIJuZKn-QPj9TkR-PBv2FrqUxA"
+        }, {
+          "placeId": "ChIJswHn_wPj9TkRTR7SzVpwl5k"
+        }, {
+          "placeId": "ChIJlYiBrQbj9TkRL6BlO6PRcA4"
+        }, {
+          "placeId": "ChIJiQDYtQbj9TkRKYJl9JVLyQ8"
+        }, {
+          "placeId": "ChIJ4QE4yQbj9TkRfbVSlxVnS9I"
+        }, {
+          "placeId": "ChIJKcrf3gbj9TkRT1yTu8yJzzo"
+        }, {
+          "placeId": "ChIJ0dgL3wbj9TkR5W1zRTvr1Lw"
+        }, {
+          "placeId": "ChIJg5Jx3wbj9TkRFd4xPFtGL3o"
+        }, {
+          "placeId": "ChIJm56kIAfj9TkR49DI8ePXE9w"
+        }, {
+          "placeId": "ChIJq1PYIAfj9TkRX4zvAsu8F5w"
+        }, {
+          "placeId": "ChIJGx3xIwfj9TkRsZaHPAers-M"
+        }, {
+          "placeId": "ChIJa11DRwfj9TkRQ4UH8rzFlMI"
+        }, {
+          "placeId": "ChIJj07UWwfj9TkR-adszgXXtvw"
+        }, {
+          "placeId": "ChIJScyR4qnj9TkRIgCkQliH0kM"
+        }, {
+          "placeId": "ChIJcxnq5Knj9TkRrCP87RgVbik"
+        }, {
+          "placeId": "ChIJW09yg6nj9TkRxntndzSLQ1o"
+        }, {
+          "placeId": "ChIJG3pp8avj9TkRURE6g2vin7o"
+        }, {
+          "placeId": "ChIJx1Eu9Kvj9TkRY5kdP69Y16E"
+        }, {
+          "placeId": "ChIJf4p-9qvj9TkR4r9e2Qj3O4c"
+        }, {
+          "placeId": "ChIJTX90C6zj9TkRJt1UbXqAvCU"
+        }, {
+          "placeId": "ChIJV9VVtK3j9TkR0VwgYKONIhk"
+        }, {
+          "placeId": "ChIJN8rUw63j9TkRNRNJgldTAL8"
+        }, {
+          "placeId": "ChIJ82C85a3j9TkRJfdFwzLbDSk"
+        }, {
+          "placeId": "ChIJ_TaV-63j9TkR3wfg4ZBKmDM"
+        }, {
+          "placeId": "ChIJh2qSAbLj9TkR7459KRME-gA"
+        }, {
+          "placeId": "ChIJaykU9rHj9TkRGSPoMglf9wY"
+        }, {
+          "placeId": "ChIJUQjWibHj9TkRhUb5p0hMB34"
+        }, {
+          "placeId": "ChIJW9rL1LPj9TkR1zGQCj4uJQQ"
+        }, {
+          "placeId": "ChIJIaCP2bPj9TkRK6qMJHxjSkw"
+        }, {
+          "placeId": "ChIJRRue57Pj9TkRof78BfzLOv8"
+        }, {
+          "placeId": "ChIJhaM75bPj9TkRlRiARNVdbPs"
+        }, {
+          "placeId": "ChIJtQtl97Pj9TkRr9h3gmqTRfA"
+        }, {
+          "placeId": "ChIJ50k_CLTj9TkReaSRx84_p3A"
+        }, {
+          "placeId": "ChIJHXRlDrTj9TkRbSem_B4R7hc"
+        }, {
+          "placeId": "ChIJ81vDFbTj9TkRAzC6oEPKdMc"
+        }, {
+          "placeId": "ChIJk7nxN7Tj9TkRIQUuhClTIGQ"
+        }, {
+          "placeId": "ChIJrdU6SrTj9TkRdzvrHbWmIWw"
+        }, {
+          "placeId": "ChIJIcrZSrTj9TkR6QL9LAJsmHs"
+        }, {
+          "placeId": "ChIJQSBftLXj9TkRM6yhQj9HHxw"
+        }, {
+          "placeId": "ChIJkef1s7Xj9TkRe0rkT6uXL7Y"
+        }, {
+          "placeId": "ChIJgVk1sbXj9TkRY5OZGNNd-VA"
+        }, {
+          "placeId": "ChIJbxe_sLXj9TkR4drW-1inHJk"
+        }, {
+          "placeId": "ChIJ_VduurXj9TkRtdYggKW_Xu4"
+        }, {
+          "placeId": "ChIJt3AGu7Xj9TkR_x64NC4b61Q"
+        }, {
+          "placeId": "ChIJaW1XlrXj9TkRqeWir0fUUWY"
+        }, {
+          "placeId": "ChIJY-GWkbXj9TkRcamwtZyIZv0"
+        }, {
+          "placeId": "ChIJjRUAjLXj9TkRkzWUyDq0vwk"
+        }, {
+          "placeId": "ChIJ9YiDc8rj9TkRpW_NIT57g2g"
+        }, {
+          "placeId": "ChIJ9Rl8bcrj9TkRMx9HJlb3alI"
+        }, {
+          "placeId": "ChIJB7b4bMrj9TkR1QXg8-7RfXg"
+        }, {
+          "placeId": "ChIJ470TOcrj9TkRMb3JDlV5yms"
+        }, {
+          "placeId": "ChIJg67ugMnj9TkRZzU-p87wxr4"
+        }, {
+          "placeId": "ChIJUWSiCcnj9TkRUesWid8UcvY"
+        }, {
+          "placeId": "ChIJnwMA-8jj9TkRK5ZxEFK0-4Q"
+        }, {
+          "placeId": "ChIJqXVeksjj9TkRj2O3GM-nVW8"
+        }, {
+          "placeId": "ChIJxZ6Um8jj9TkR-4kZRgNDVoE"
+        }, {
+          "placeId": "ChIJjbX3I8bj9TkR_3-Ut79iN00"
+        }, {
+          "placeId": "ChIJmdeAP8bj9TkRl0mjwVq5V6g"
+        }, {
+          "placeId": "ChIJuw60Qsbj9TkRy6rlzGeIoLE"
+        }, {
+          "placeId": "ChIJ01dTjsbj9TkRncLCsWBjVGc"
+        }, {
+          "placeId": "ChIJoazxnMbj9TkR9b4wrVgHZD0"
+        }, {
+          "placeId": "ChIJW8kqJMTj9TkRI5-BQmWL__g"
+        }, {
+          "placeId": "ChIJywXdJMTj9TkRJZfQCzeCQu8"
+        }, {
+          "placeId": "ChIJsRwlO8Tj9TkRzYiAmyJSFRI"
+        }, {
+          "placeId": "ChIJx4uCOcTj9TkRLxzIUeH7LN4"
+        }, {
+          "placeId": "ChIJSQQaRcTj9TkR4eaWT60RlHg"
+        }, {
+          "placeId": "ChIJ-fmSWcTj9TkRKyBX_OEnW5Y"
+        }, {
+          "placeId": "ChIJoVtr98Tj9TkRRUGBIYJvyGU"
+        }, {
+          "placeId": "ChIJcxqD78Tj9TkRa3oz7e1T548"
+        }, {
+          "placeId": "ChIJSUNR3cTj9TkRQX0jfyebTjM"
+        }, {
+          "placeId": "ChIJc7Bn28Tj9TkRd1lIL6IkXWQ"
+        }, {
+          "placeId": "ChIJL2_T0MTj9TkR2U1FBcAkGIc"
+        }, {
+          "placeId": "ChIJGzjG1drj9TkRz6mwm2vqyCg"
+        }, {
+          "placeId": "ChIJHcwR2trj9TkRP6NAVmzkQRw"
+        }, {
+          "placeId": "ChIJmT7l3Nrj9TkRJ6GsCg1y3rk"
+        }, {
+          "placeId": "ChIJVxWc6Nrj9TkRjwAgD4eQxQU"
+        }, {
+          "placeId": "ChIJ8WqE5drj9TkRfeAr0GANaBQ"
+        }, {
+          "placeId": "ChIJF-cl-trj9TkR1fPb4rTj-VA"
+        }, {
+          "placeId": "ChIJWQWG-Nrj9TkRTWJykfaA_ho"
+        }, {
+          "placeId": "ChIJ36PEydvj9TkRd3fFoolst1U"
+        }, {
+          "placeId": "ChIJ2fkdxtvj9TkR57HQuBEEXUs"
+        }, {
+          "placeId": "ChIJv5eg3Nvj9TkRmXPIKG4763M"
+        }, {
+          "placeId": "ChIJjz5TXtnj9TkR077nJH2wuCg"
+        }, {
+          "placeId": "ChIJASlhau3m9TkRKxLvNZAAXk8"
+        }, {
+          "placeId": "ChIJxQaoqPXm9TkRTX8XoSdhEHk"
+        }, {
+          "placeId": "ChIJc2hOgEfm9TkR6dsNnUtj9rM"
+        }, {
+          "placeId": "ChIJzx6POjjm9TkRRf23L6XwzwQ"
+        }, {
+          "placeId": "ChIJ28c6fzfm9TkRQcFQObBK36g"
+        }, {
+          "placeId": "ChIJlTzp2jDm9TkRISH7mb9xopg"
+        }, {
+          "placeId": "ChIJN8ETuNTn9TkRcFy0EYN9rtc"
+        }, {
+          "placeId": "ChIJN8ETuNTn9TkRYvrMZg7tznM"
+        }, {
+          "placeId": "ChIJWcX36NTn9TkRWl8ghc03mCM"
+        }, {
+          "placeId": "ChIJa7lX_NTn9TkRNmea_bI4N3I"
+        }, {
+          "placeId": "ChIJ2cAg_tXn9TkRWCEqOEViwEY"
+        }, {
+          "placeId": "ChIJ3V_qlXjo9TkRleRS068PdrI"
+        }, {
+          "placeId": "ChIJ3V_qlXjo9TkRG7bBNQrar1k"
+        }, {
+          "placeId": "ChIJl-QaS3jo9TkRZxkz2T3xzlI"
+        }, {
+          "placeId": "ChIJS6Cm13no9TkR2oEwhJHYrx8"
+        }, {
+          "placeId": "ChIJez-kZXfo9TkR7ZhCHwsW5gU"
+        }, {
+          "placeId": "ChIJ7xxBvHPo9TkRwXCOp4_H80c"
+        }, {
+          "placeId": "ChIJwYf4X23o9TkRMoLqHMPDJTw"
+        }, {
+          "placeId": "ChIJURUxOm3o9TkR6NpwskJFg70"
+        }, {
+          "placeId": "ChIJXe0ezGzo9TkRtJh95BIwikY"
+        }, {
+          "placeId": "ChIJzb6TqhTo9TkRBCLDFlvJzVA"
+        }, {
+          "placeId": "ChIJabYyshTo9TkRkJI7cUnQqWw"
+        }, {
+          "placeId": "ChIJNZL5yzPo9TkRvpe5YwwGTwQ"
+        }, {
+          "placeId": "ChIJoff7TjLo9TkRv8P7BFfyqJ4"
+        }, {
+          "placeId": "ChIJ2eZY8TLo9TkRGQL7u-sIA5o"
+        }, {
+          "placeId": "ChIJ5x9i_Ofp9TkRBQUNDFNxmeM"
+        }, {
+          "placeId": "ChIJd7iuufvB9TkReh1l1y6_JEc"
+        }, {
+          "placeId": "ChIJy4I1TfrB9TkR8GCUDhD9oMM"
+        }, {
+          "placeId": "ChIJ22WYmfrB9TkR9bCt6xFT83I"
+        }, {
+          "placeId": "ChIJKzftqe_B9TkREYLLuOwvoGM"
+        }, {
+          "placeId": "ChIJK7x5A-_B9TkRBG_znUDk3Kk"
+        }, {
+          "placeId": "ChIJK7x5A-_B9TkRGYLrrZ5zdus"
+        }, {
+          "placeId": "ChIJUYFQHMXB9TkRf4C3vC1zdHk"
+        }, {
+          "placeId": "ChIJtU-JEMXB9TkRY15lO4Su4rk"
+        }, {
+          "placeId": "ChIJu8p1ZcXB9TkR26hJJQnK6Eg"
+        }, {
+          "placeId": "ChIJL-wxiM_B9TkR_8ugtD8ndec"
+        }, {
+          "placeId": "ChIJ3yIQl8_B9TkR_5ceNlSWkDA"
+        }, {
+          "placeId": "ChIJf0pzTc7B9TkRg6OpKBGiTFo"
+        }, {
+          "placeId": "ChIJqWfgTc7B9TkRGF6MagExa78"
+        }, {
+          "placeId": "ChIJXXnwjcXB9TkR4dHxDLJhR5I"
+        }, {
+          "placeId": "ChIJXXnwjcXB9TkRfrwd_vM57pI"
+        }, {
+          "placeId": "ChIJP0Idx83B9TkRgPqYeeDGhk4"
+        }, {
+          "placeId": "ChIJP0Idx83B9TkR8PJKG1hteok"
+        }, {
+          "placeId": "ChIJL5RSVfC_9TkRyICvybinOxw"
+        }, {
+          "placeId": "ChIJSWDSL8e_9TkRzBWIvQyfGno"
+        }, {
+          "placeId": "ChIJk-OwOse_9TkRmHS4XxOQb2o"
+        }, {
+          "placeId": "ChIJ5WTg1re_9TkR3LMfXxQF8hI"
+        }, {
+          "placeId": "ChIJJwrzDMe_9TkR3f5ODJyScjo"
+        }, {
+          "placeId": "ChIJVzsV-0q-9TkRnxuJlpRVMeQ"
+        }, {
+          "placeId": "ChIJxZt3Vkq-9TkR6_-J6DxH_U8"
+        }, {
+          "placeId": "ChIJ_Z7dKkq-9TkRDBorlq8M-uE"
+        }, {
+          "placeId": "ChIJUR9aCEm-9TkRqaog7penbos"
+        }, {
+          "placeId": "ChIJ8W3N00a-9TkR59-A6Bg-WqE"
+        }, {
+          "placeId": "ChIJM_7v122j9TkRx16Dh-mflL8"
+        }, {
+          "placeId": "ChIJwUDbecCm9TkRk5motv9da-0"
+        }, {
+          "placeId": "ChIJUbiv1YQH9TkRop1hV-mRunQ"
+        }, {
+          "placeId": "ChIJX8F8O2wE9TkR4d2j8Bxpj8o"
+        }, {
+          "placeId": "ChIJX8F8O2wE9TkR1AwilJako9w"
+        }, {
+          "placeId": "ChIJ_83N5y0D9TkR-U6k4IN7lzA"
+        }, {
+          "placeId": "ChIJj365MdYc9TkR7ABUPrTFR9U"
+        }, {
+          "placeId": "ChIJ3Umv09cc9TkRNidwqw_A3zg"
+        }, {
+          "placeId": "ChIJC4ko6hYd9TkRV1XpHAkvdVo"
+        }, {
+          "placeId": "ChIJN9D8pBYd9TkR8yE1rRY_UUk"
+        }, {
+          "placeId": "ChIJT1EwAhQd9TkR53SuTBq2_vA"
+        }, {
+          "placeId": "ChIJa0Dt7BMd9TkRn5pKgn03tl8"
+        }, {
+          "placeId": "ChIJscAJqxMd9TkR_bUnR8LWfD0"
+        }, {
+          "placeId": "ChIJc6Bk-RId9TkR8VIyL108xfA"
+        }, {
+          "placeId": "ChIJv8VVvhId9TkRxPptXubcLLQ"
+        }, {
+          "placeId": "ChIJTbdsqnId9TkRpqFfkA_fWEQ"
+        }, {
+          "placeId": "ChIJTbdsqnId9TkRJ8bOH_A773w"
+        }, {
+          "placeId": "ChIJ-3H9pHId9TkRojkTr92Ae5M"
+        }, {
+          "placeId": "ChIJ7bajTHId9TkROFQHkKGevKU"
+        }, {
+          "placeId": "ChIJSxZaK3cd9TkR20gNaJMHVIU"
+        }, {
+          "placeId": "ChIJB4IYLHcd9TkRK49oZCOykl0"
+        }, {
+          "placeId": "ChIJcUEbPXcd9TkRzYdCkrQn61I"
+        }, {
+          "placeId": "ChIJjVpqdXcd9TkRd_ipCV-U2zY"
+        }, {
+          "placeId": "ChIJwTmIkHcd9TkRO5jiLveNXYo"
+        }, {
+          "placeId": "ChIJm1UXvYId9TkR3alJbzkChfk"
+        }, {
+          "placeId": "ChIJbVXW7IId9TkRp6SdQUaC8sM"
+        }, {
+          "placeId": "ChIJpeHyV4Id9TkRl5lz7mOf9rM"
+        }, {
+          "placeId": "ChIJdWgLUoId9TkRS-DDWHzp2BM"
+        }, {
+          "placeId": "ChIJqfVWS4Id9TkRW1OLCqOLDdA"
+        }, {
+          "placeId": "ChIJYQlHyoMd9TkR_1gMYGfJKqE"
+        }, {
+          "placeId": "ChIJY-vO0YMd9TkRedLXCVJWsqU"
+        }, {
+          "placeId": "ChIJR-iwYoEd9TkR2Ur7T_gURV0"
+        }, {
+          "placeId": "ChIJMUcXaYEd9TkRcfgzvMXI-3Q"
+        }, {
+          "placeId": "ChIJffobPIEd9TkR0QFB7Rl_j_s"
+        }, {
+          "placeId": "ChIJQ2oeKoEd9TkRpxaLwBGYtdw"
+        }, {
+          "placeId": "ChIJWSNBN4cd9TkRoRm_dxxM7KA"
+        }, {
+          "placeId": "ChIJt_BEQYcd9TkRqYNDXBG9Gvk"
+        }, {
+          "placeId": "ChIJAXWRQocd9TkRm3mKX4RY4y0"
+        }, {
+          "placeId": "ChIJX8P8Y4cd9TkR5wMhkr5Lcl0"
+        }, {
+          "placeId": "ChIJz6Q3iHji9DkRTdq9fyUHyCs"
+        }, {
+          "placeId": "ChIJh8J8SXji9DkRuf6osao2jtQ"
+        }, {
+          "placeId": "ChIJ2QX3z3ni9DkRFxAvhxVWDNQ"
+        }, {
+          "placeId": "ChIJ988t3nni9DkRBZQ41E3FVlg"
+        }, {
+          "placeId": "ChIJISmMWXfi9DkRBViBIJhbT8g"
+        }, {
+          "placeId": "ChIJ43PQ4nDi9DkRqMlHZO1iumU"
+        }, {
+          "placeId": "ChIJu-OPvXHi9DkRp5nvWof5u_o"
+        }, {
+          "placeId": "ChIJpdMX7XHi9DkRk-cPEDsP4Ss"
+        }, {
+          "placeId": "ChIJNezU9nHi9DkRs_MVaoh6uKA"
+        }, {
+          "placeId": "ChIJ34KQ9m3i9DkR_XPIZvkxcPk"
+        }, {
+          "placeId": "ChIJ59SVoW3i9DkRjShtLqN6PFQ"
+        }, {
+          "placeId": "ChIJMUVLG23i9DkR96BdOTH9DMs"
+        }, {
+          "placeId": "ChIJw4bc3Wzi9DkRVdo_OH6QNMc"
+        }, {
+          "placeId": "ChIJHbhDvBLi9DkR4WinV186k5c"
+        }, {
+          "placeId": "ChIJf9UFmxLi9DkRc83KzNVH56s"
+        }, {
+          "placeId": "ChIJAbfUgxLi9DkRQ82qMxwJB2E"
+        }, {
+          "placeId": "ChIJIdvsgg3i9DkR-nzc7VrXQRU"
+        }, {
+          "placeId": "ChIJRcTDnQ3i9DkROclaE_ghqPY"
+        }, {
+          "placeId": "ChIJgdQknw3i9DkRpXvqU6bX3H0"
+        }, {
+          "placeId": "ChIJ32DF8g3i9DkR1h34ktqArVw"
+        }, {
+          "placeId": "ChIJk6vx8w3i9DkRIbKYHzd7DH0"
+        }, {
+          "placeId": "ChIJpz_j9g3i9DkRrMcsBKzMU6A"
+        }, {
+          "placeId": "ChIJr1F2BxLi9DkRaCUzSO0AXvQ"
+        }, {
+          "placeId": "ChIJu_IQAhLi9DkRCl7elKg-JQs"
+        }, {
+          "placeId": "ChIJubCr8BHi9DkRjPVvVW4hF9A"
+        }, {
+          "placeId": "ChIJ7cnO7RHi9DkRniF9qNFUcwY"
+        }, {
+          "placeId": "ChIJf40x_RDi9DkRnkQwi0EZFvI"
+        }, {
+          "placeId": "ChIJq__v5BDi9DkRPfHwAYdAqGA"
+        }, {
+          "placeId": "ChIJ6R097xDi9DkRQTUDt0Oez74"
+        }, {
+          "placeId": "ChIJy4fr6xDi9DkRvRePIw49KKk"
+        }, {
+          "placeId": "ChIJ5RfW6hDi9DkRk11L1rohfPA"
+        }, {
+          "placeId": "ChIJg74CvxDi9DkRM811uGyX5dI"
+        }, {
+          "placeId": "ChIJo-IXsRDi9DkRa0Yr1P3Akhg"
+        }, {
+          "placeId": "ChIJuen9shDi9DkRAcZgDcEgcv0"
+        }, {
+          "placeId": "ChIJuSqnUhfi9DkRHSyi3BCsA7E"
+        }, {
+          "placeId": "ChIJ7TxRVhfi9DkRLZgVqIEEqpQ"
+        }, {
+          "placeId": "ChIJY8Xh5Bni9DkROTJph79CJtA"
+        }, {
+          "placeId": "ChIJlde_7hni9DkRkxC1oF-wEVk"
+        }, {
+          "placeId": "ChIJF19j6xni9DkRd0l5xyQh2iA"
+        }, {
+          "placeId": "ChIJLaZQlBni9DkRR4XoRLCM_P0"
+        }, {
+          "placeId": "ChIJvW5Ylhni9DkRRcrUs2HzRPA"
+        }, {
+          "placeId": "ChIJ6d9smBni9DkRXxIRswWk5bA"
+        }, {
+          "placeId": "ChIJU4mioRni9DkRJ0CFZMLvuck"
+        }, {
+          "placeId": "ChIJZ76yCxni9DkR6cEb4UwUHYg"
+        }, {
+          "placeId": "ChIJI0MfDBni9DkRQh7uCNJqD0Q"
+        }, {
+          "placeId": "ChIJO8hxDhni9DkRHtUyZdD_jMU"
+        }, {
+          "placeId": "ChIJuZ_BERni9DkRFKpMdAP2wGY"
+        }, {
+          "placeId": "ChIJQZetFxni9DkRZAfq8FU5OIo"
+        }, {
+          "placeId": "ChIJ9ZPAMRni9DkRvHBQmzSViEY"
+        }, {
+          "placeId": "ChIJt_c8zh7i9DkR8GVGcXmyNho"
+        }, {
+          "placeId": "ChIJLxJIxR7i9DkR8tbh4LxfgKg"
+        }, {
+          "placeId": "ChIJ8Xkjwx7i9DkRmCuWSGws6FM"
+        }, {
+          "placeId": "ChIJx0wt6R7i9DkR2MqJoqaYWPo"
+        }, {
+          "placeId": "ChIJ-3_j7R7i9DkR4mMs68hLTXE"
+        }, {
+          "placeId": "ChIJEaAqix7i9DkRCDpJDL69qrc"
+        }, {
+          "placeId": "ChIJhcn9DB7i9DkR5gtDPSemDWU"
+        }, {
+          "placeId": "ChIJqauMAPbh9DkRalmpzORwonY"
+        }, {
+          "placeId": "ChIJWV5B6fPh9DkRFmLHeKYPzYM"
+        }, {
+          "placeId": "ChIJnxZaTvLh9DkRR0AKuFr_vS8"
+        }, {
+          "placeId": "ChIJKbeyYvLh9DkRZVjFIZ2K7ds"
+        }, {
+          "placeId": "ChIJbex9ee3h9DkRCPanYYA8SBk"
+        }, {
+          "placeId": "ChIJYb1VBe3h9DkRJGEFZRkDrX4"
+        }, {
+          "placeId": "ChIJrXHf7Ozh9DkRKBzgLcTKINk"
+        }, {
+          "placeId": "ChIJedIskuzh9DkRFuFmrMPsLZ0"
+        }, {
+          "placeId": "ChIJA2c9Yuvh9DkRciNk7-bHpyU"
+        }, {
+          "placeId": "ChIJ_8iNFuvh9DkRUEVV0moWegE"
+        }, {
+          "placeId": "ChIJ0xp2F-vh9DkROldJ88PSEDA"
+        }, {
+          "placeId": "ChIJW6a0Gevh9DkRoujolZddc24"
+        }, {
+          "placeId": "ChIJRYMIH-vh9DkRoH111iWMKaI"
+        }, {
+          "placeId": "ChIJ8fOtH-vh9DkRioxzT5G-qps"
+        }, {
+          "placeId": "ChIJG4684Orh9DkROteWilT8iCA"
+        }, {
+          "placeId": "ChIJXeeD3erh9DkRGrQ7fBRwEMI"
+        }, {
+          "placeId": "ChIJA-Kyw-rh9DkRdlhzr-QeTkA"
+        }, {
+          "placeId": "ChIJ20CuuOrh9DkR4Lipvm-JbjE"
+        }, {
+          "placeId": "ChIJm5dZuurh9DkR1okPVG5CqIM"
+        }, {
+          "placeId": "ChIJ8ZeJr-rh9DkRBBUJNogoa-k"
+        }, {
+          "placeId": "ChIJW5Vvr-rh9DkRhNHcYS7iBOM"
+        }, {
+          "placeId": "ChIJU-f6qOrh9DkRUP2XT9uh4xc"
+        }, {
+          "placeId": "ChIJIcTXqerh9DkRNHzRjvneFEw"
+        }, {
+          "placeId": "ChIJiTVIAsDh9DkRLC5Qet52rPQ"
+        }, {
+          "placeId": "ChIJAbcshr_h9DkRiC_-5bAfozI"
+        }, {
+          "placeId": "ChIJh0zyeL_h9DkRLLD9ODJdXAs"
+        }, {
+          "placeId": "ChIJpWeger_h9DkRPK8cGjsytyQ"
+        }, {
+          "placeId": "ChIJn9owb7_h9DkRI5MyVI-jYgg"
+        }, {
+          "placeId": "ChIJ26I7Qr_h9DkRwtq-HQFg1EM"
+        }, {
+          "placeId": "ChIJuW4MSb_h9DkRWoh6jT6R84E"
+        }, {
+          "placeId": "ChIJBbwDS7_h9DkRTl1chh4JyRw"
+        }, {
+          "placeId": "ChIJ1Xz_0L7h9DkRUGMi-7LOL6c"
+        }, {
+          "placeId": "ChIJpX8P0L7h9DkRewpT-sjRHf4"
+        }, {
+          "placeId": "ChIJLa5Cxr7h9DkRPwJwIc8Ff2k"
+        }, {
+          "placeId": "ChIJBfx2677h9DkRLEZIZlaZGCc"
+        }],
+        "distanceMeters": 133454.76660426112
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 233437453,
+          "longitudeE7": 853261595,
+          "accuracyMetres": 28
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-14T14:03:51.893Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 233443879,
+        "longitudeE7": 853260788,
+        "placeId": "ChIJc3cCSbrh9DkR9WoO5ziTF7E",
+        "name": "Rajendra Chowk",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 56.52743,
+        "calibratedProbability": 67.55942
+      },
+      "duration": {
+        "startTimestamp": "2019-06-14T13:59:36.420Z",
+        "endTimestamp": "2019-06-14T14:09:00.349Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 233437955,
+      "centerLngE7": 853259309,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 233418268,
+        "longitudeE7": 853246066,
+        "placeId": "ChIJ78J3Vrfh9DkRe5JbNP2Ypx4",
+        "address": "88RF+PRQ, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834001, India",
+        "name": "Jharkhand Armed Police",
+        "locationConfidence": 4.2486625,
+        "calibratedProbability": 5.0778384,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233457854,
+        "longitudeE7": 853235206,
+        "placeId": "ChIJ8VGUXq7h9DkR2VGDhu22OAQ",
+        "address": "Kadru Main Rd, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "Hotel yuvraj palace",
+        "locationConfidence": 3.9543855,
+        "calibratedProbability": 4.72613
+      }, {
+        "latitudeE7": 233437687,
+        "longitudeE7": 853243643,
+        "placeId": "ChIJAVS1Dbrh9DkR16w0IXHSj_E",
+        "address": "Ground Floor, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834001, India",
+        "name": "IndianOil",
+        "locationConfidence": 3.3296165,
+        "calibratedProbability": 3.97943
+      }, {
+        "latitudeE7": 233442850,
+        "longitudeE7": 853252200,
+        "placeId": "ChIJLXB7arrh9DkRL7DceJnMcPQ",
+        "address": "Mahatma Gandhi Main Rd, beside Union Bank OF India, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "Hotel Yuvraj",
+        "locationConfidence": 3.2959702,
+        "calibratedProbability": 3.939217
+      }, {
+        "latitudeE7": 233443039,
+        "longitudeE7": 853252990,
+        "placeId": "ChIJvZNHQLrh9DkRQk8yeUmjBtQ",
+        "address": "Hotel Yuvraj Building, Rajendra chowk, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "Ellora",
+        "locationConfidence": 1.5866983,
+        "calibratedProbability": 1.896361
+      }, {
+        "latitudeE7": 233442940,
+        "longitudeE7": 853254130,
+        "placeId": "ChIJn96pQbrh9DkR-Z9-aVJcEC0",
+        "address": "Hotel Yuvraj, near Rajendra Chowk, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "Little Italiano",
+        "locationConfidence": 1.1067668,
+        "calibratedProbability": 1.3227652
+      }, {
+        "latitudeE7": 233442161,
+        "longitudeE7": 853250545,
+        "placeId": "ChIJj3EFa7rh9DkRFOZ1AdQ2AuU",
+        "address": "Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834001, India",
+        "name": "Food Street",
+        "locationConfidence": 0.8372173,
+        "calibratedProbability": 1.00061
+      }, {
+        "latitudeE7": 233443770,
+        "longitudeE7": 853253920,
+        "placeId": "ChIJUVCZQbrh9DkRXBtUg49nahw",
+        "address": "Yuvraj Complex, Rajendra chowk, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "Bajaj Allianz Life Insurance Company Limited",
+        "locationConfidence": 0.8330009,
+        "calibratedProbability": 0.9955707
+      }, {
+        "latitudeE7": 233457840,
+        "longitudeE7": 853235200,
+        "placeId": "ChIJMUdve7Dh9DkRKlAUb41LcMM",
+        "address": "2nd floor, Hotel YUVRAJ PALACE, above GOLD GYM, Forest Officers\u0027 Colony, Doranda, Ranchi, Jharkhand 834002, India",
+        "name": "BAYLEN dé Louis, Best Salon of Doranda Kadru, Ranchi",
+        "locationConfidence": 0.7625371,
+        "calibratedProbability": 0.91135514
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 233437463,
+        "longitudeE7": 853261487,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 233231787,
+        "longitudeE7": 852943832,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-14T14:09:00.349Z",
+        "endTimestamp": "2019-06-14T14:50:30Z"
+      },
+      "distance": 3977,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 83.31244894114404
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 13.65983647225033
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.473288649949971
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 233442783,
+          "lngE7": 853259124
+        }, {
+          "latE7": 233278770,
+          "lngE7": 853150787
+        }, {
+          "latE7": 233231296,
+          "lngE7": 852941513
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 5235.855534838685
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 233234309,
+          "longitudeE7": 852944203,
+          "accuracyMetres": 78
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-14T14:52:05.218Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 233229405,
+        "longitudeE7": 852935445,
+        "placeId": "ChIJBdhOpSLg9DkRvkXIk3Ci-8A",
+        "address": "87FV+6CP, Sector 1, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Panchmukhi Mandir",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 77.39562,
+        "calibratedProbability": 75.33376
+      },
+      "duration": {
+        "startTimestamp": "2019-06-14T14:50:30Z",
+        "endTimestamp": "2019-06-15T04:13:21Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 233233780,
+      "centerLngE7": 852944120,
+      "visitConfidence": 85,
+      "otherCandidateLocations": [{
+        "latitudeE7": 233233072,
+        "longitudeE7": 852942178,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 3.6481876,
+        "calibratedProbability": 3.550998
+      }, {
+        "latitudeE7": 233240255,
+        "longitudeE7": 852940683,
+        "placeId": "ChIJm66qSz3g9DkRkwf2uRNXBNE",
+        "address": "B-1029, New Housing Colony, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "SAIL CITY D4",
+        "locationConfidence": 2.2376986,
+        "calibratedProbability": 2.178085
+      }, {
+        "latitudeE7": 233234510,
+        "longitudeE7": 852952381,
+        "placeId": "ChIJobSseTzg9DkRFBA4kx_KwJw",
+        "address": "H.E.C. Campus, Sector 2, Shakha Maidan, near CRPF Battalion, HEC Colony, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Kendriya Vidyalaya HEC",
+        "locationConfidence": 1.8587406,
+        "calibratedProbability": 1.8092227
+      }, {
+        "latitudeE7": 233196980,
+        "longitudeE7": 852951220,
+        "placeId": "ChIJ-QxASSLg9DkRR_VrGaSVc-0",
+        "address": "879W+V2H, E Block, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Hec Clony Sector 2 Cricket Play Ground",
+        "locationConfidence": 0.6210734,
+        "calibratedProbability": 0.6045277
+      }, {
+        "latitudeE7": 233208894,
+        "longitudeE7": 852982932,
+        "placeId": "ChIJFZVsfiTg9DkRvxYRbkdGZ2U",
+        "address": "Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Metro Tailors Sector 2 Market",
+        "locationConfidence": 0.5856785,
+        "calibratedProbability": 0.57007575
+      }, {
+        "latitudeE7": 233200083,
+        "longitudeE7": 852979122,
+        "placeId": "ChIJoaQWiSPg9DkR2CN-ykNqVHk",
+        "address": "HEC Town Ship, Market, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Vyanjan Restaurant",
+        "locationConfidence": 0.53855747,
+        "calibratedProbability": 0.52421
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 65,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 233229405,
+        "longitudeE7": 852935445,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 233185156,
+        "longitudeE7": 853023115,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-15T04:13:21Z",
+        "endTimestamp": "2019-06-15T10:02:00.492Z"
+      },
+      "distance": 1051,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 41.383080237030384
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 30.51907014227083
+      }, {
+        "activityType": "WALKING",
+        "probability": 22.382796898637782
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 233229446,
+          "lngE7": 852935409
+        }, {
+          "latE7": 233221435,
+          "lngE7": 852939834
+        }, {
+          "latE7": 233200626,
+          "lngE7": 852979507
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJzTwwpSLg9DkRIXlVJppwbBU"
+        }, {
+          "placeId": "ChIJT2SIpCLg9DkRPlhLf8qKWlo"
+        }, {
+          "placeId": "ChIJawRJoyLg9DkRLWrJZLRrQ_k"
+        }, {
+          "placeId": "ChIJnwu1vCLg9DkRbA-0aDudUJY"
+        }, {
+          "placeId": "ChIJ46t3viLg9DkR5mUkqk8Kilo"
+        }, {
+          "placeId": "ChIJ1WczlCLg9DkRj8MmyPppS7U"
+        }, {
+          "placeId": "ChIJqfta7SLg9DkRZTQi3dQ2tQk"
+        }, {
+          "placeId": "ChIJuyTN8SLg9DkRzUVBQ713Rwo"
+        }, {
+          "placeId": "ChIJwdSh_CLg9DkRCmQo_s1JnGs"
+        }, {
+          "placeId": "ChIJ_zoCAyPg9DkRHs5HReLFrHk"
+        }, {
+          "placeId": "ChIJC5GpBSPg9DkR1ELPVmO8Vg0"
+        }, {
+          "placeId": "ChIJZQyvBSPg9DkR54nm7cDaiWQ"
+        }, {
+          "placeId": "ChIJu_SwqSPg9DkRknRrEi1dvHU"
+        }, {
+          "placeId": "ChIJM_4SuyPg9DkRyJ1fjIY3-wY"
+        }, {
+          "placeId": "ChIJe0rXvyPg9DkRLXxx9952ZrA"
+        }],
+        "distanceMeters": 977.3575963374806
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 233231787,
+          "lngE7": 852943832,
+          "accuracyMeters": 5,
+          "timestamp": "2019-06-15T04:13:21Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 233231787,
+          "longitudeE7": 852943832,
+          "accuracyMetres": 65
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-15T10:03:14.400Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 233185156,
+        "longitudeE7": 853023115,
+        "placeId": "ChIJmZxnv-Lf9DkRc3S8y2OFXjw",
+        "address": "87FC+Q9G, Ranchi, Jharkhand 829110, India",
+        "name": "Legislative Assembly Of Jharkhand",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 32.297672,
+        "calibratedProbability": 28.670317
+      },
+      "duration": {
+        "startTimestamp": "2019-06-15T10:02:00.492Z",
+        "endTimestamp": "2019-06-15T12:29:44.938Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 233199650,
+      "centerLngE7": 852978417,
+      "visitConfidence": 62,
+      "otherCandidateLocations": [{
+        "latitudeE7": 233200600,
+        "longitudeE7": 852979100,
+        "placeId": "ChIJrdIujyPg9DkRPRClBMPmmOg",
+        "address": "Sector 2 Market, Dhurwa Rd, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Flaves | Restaurant | Banquet Hall | Bakery | Sweets | Birthday Party | Catering",
+        "locationConfidence": 8.397914,
+        "calibratedProbability": 7.4547434,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233200083,
+        "longitudeE7": 852979122,
+        "placeId": "ChIJoaQWiSPg9DkR2CN-ykNqVHk",
+        "address": "HEC Town Ship, Market, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Vyanjan Restaurant",
+        "locationConfidence": 7.450041,
+        "calibratedProbability": 6.613326,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233194040,
+        "longitudeE7": 852985460,
+        "placeId": "ChIJiZWbDCTg9DkRxqLp_sF0xXU",
+        "address": "Dhurwa Rd, HEC Township, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Kairali School",
+        "locationConfidence": 4.484207,
+        "calibratedProbability": 3.9805853,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233200639,
+        "longitudeE7": 852979098,
+        "placeId": "ChIJrdIujyPg9DkRPRClBMPmmOg",
+        "address": "Sector 2 Market, Dhurwa Rd, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Flaves | Restaurant | Banquet Hall | Bakery | Sweets | Birthday Party | Catering",
+        "locationConfidence": 3.585609,
+        "calibratedProbability": 3.1829088,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233208894,
+        "longitudeE7": 852982932,
+        "placeId": "ChIJFZVsfiTg9DkRvxYRbkdGZ2U",
+        "address": "Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Metro Tailors Sector 2 Market",
+        "locationConfidence": 2.3539414,
+        "calibratedProbability": 2.08957,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233203011,
+        "longitudeE7": 852977825,
+        "placeId": "ChIJWRTihSPg9DkRrn5lPun6jHE",
+        "address": "Sector 2, Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Rangoli Restaurant \u0026 Sweets",
+        "locationConfidence": 1.9019005,
+        "calibratedProbability": 1.6882979,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233200440,
+        "longitudeE7": 852980819,
+        "placeId": "ChIJt7DTiSPg9DkRDXczYyOO_RU",
+        "address": "87CX+38H, Dhurwa Rd, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Janata Watch",
+        "locationConfidence": 1.0698569,
+        "calibratedProbability": 0.94970113
+      }, {
+        "latitudeE7": 233199855,
+        "longitudeE7": 852978566,
+        "placeId": "ChIJoaQWiSPg9DkR2CN-ykNqVHk",
+        "address": "HEC Town Ship, Market, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Vyanjan Restaurant",
+        "locationConfidence": 0.8111689,
+        "calibratedProbability": 0.7200664
+      }, {
+        "latitudeE7": 233208032,
+        "longitudeE7": 852983354,
+        "placeId": "ChIJW0_lSC7h9DkRrpfVH9ZvMzg",
+        "address": "Sector 2,permanent market, hec, Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "The Cane Stop",
+        "locationConfidence": 0.6779028,
+        "calibratedProbability": 0.6017675
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 35,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 233199650,
+        "longitudeE7": 852978417
+      },
+      "endLocation": {
+        "latitudeE7": 233195167,
+        "longitudeE7": 852978767
+      },
+      "duration": {
+        "startTimestamp": "2019-06-15T12:29:44.938Z",
+        "endTimestamp": "2019-06-16T01:26:59.776Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 233237032,
+          "lngE7": 852945325,
+          "accuracyMeters": 116,
+          "timestamp": "2019-06-15T18:47:09.874Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1071.3713248410625
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 233185156,
+        "longitudeE7": 853023115,
+        "placeId": "ChIJmZxnv-Lf9DkRc3S8y2OFXjw",
+        "address": "87FC+Q9G, Ranchi, Jharkhand 829110, India",
+        "name": "Legislative Assembly Of Jharkhand",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 44.985767,
+        "calibratedProbability": 56.250668
+      },
+      "duration": {
+        "startTimestamp": "2019-06-16T01:26:59.776Z",
+        "endTimestamp": "2019-06-16T01:52:41.389Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 233195167,
+      "centerLngE7": 852978767,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 233194040,
+        "longitudeE7": 852985460,
+        "placeId": "ChIJiZWbDCTg9DkRxqLp_sF0xXU",
+        "address": "Dhurwa Rd, HEC Township, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Kairali School",
+        "locationConfidence": 7.197919,
+        "calibratedProbability": 9.000352,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233190356,
+        "longitudeE7": 853008342,
+        "placeId": "ChIJBaaVzSXg9DkRSwCQX0hJU9g",
+        "address": "Russian Hostel Colony, Ranchi, Jharkhand 834004, India",
+        "name": "Vidhan Sabha Bus Stop",
+        "locationConfidence": 3.799581,
+        "calibratedProbability": 4.751035
+      }, {
+        "latitudeE7": 233200083,
+        "longitudeE7": 852979122,
+        "placeId": "ChIJoaQWiSPg9DkR2CN-ykNqVHk",
+        "address": "HEC Town Ship, Market, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Vyanjan Restaurant",
+        "locationConfidence": 2.9667792,
+        "calibratedProbability": 3.7096913,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233200600,
+        "longitudeE7": 852979100,
+        "placeId": "ChIJrdIujyPg9DkRPRClBMPmmOg",
+        "address": "Sector 2 Market, Dhurwa Rd, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Flaves | Restaurant | Banquet Hall | Bakery | Sweets | Birthday Party | Catering",
+        "locationConfidence": 2.4218493,
+        "calibratedProbability": 3.0283053,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233208894,
+        "longitudeE7": 852982932,
+        "placeId": "ChIJFZVsfiTg9DkRvxYRbkdGZ2U",
+        "address": "Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Metro Tailors Sector 2 Market",
+        "locationConfidence": 2.0841036,
+        "calibratedProbability": 2.6059847,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233203011,
+        "longitudeE7": 852977825,
+        "placeId": "ChIJWRTihSPg9DkRrn5lPun6jHE",
+        "address": "Sector 2, Sector 2 Market, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Rangoli Restaurant \u0026 Sweets",
+        "locationConfidence": 1.8294128,
+        "calibratedProbability": 2.2875166,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233196980,
+        "longitudeE7": 852951220,
+        "placeId": "ChIJ-QxASSLg9DkRR_VrGaSVc-0",
+        "address": "879W+V2H, E Block, Sector 2, Masibari, Ranchi, Jharkhand 834004, India",
+        "name": "Hec Clony Sector 2 Cricket Play Ground",
+        "locationConfidence": 1.3669753,
+        "calibratedProbability": 1.70928,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233200639,
+        "longitudeE7": 852979098,
+        "placeId": "ChIJrdIujyPg9DkRPRClBMPmmOg",
+        "address": "Sector 2 Market, Dhurwa Rd, Sector 2 Market, Sector 2, Dhurwa, Ranchi, Jharkhand 834004, India",
+        "name": "Flaves | Restaurant | Banquet Hall | Bakery | Sweets | Birthday Party | Catering",
+        "locationConfidence": 1.2578051,
+        "calibratedProbability": 1.5727725,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 233184232,
+        "longitudeE7": 852970197,
+        "placeId": "ChIJR5YkDV7h9DkRsVkpA2rjr6s",
+        "address": "E Block, Sector 2, Sector 02, Ranchi, Jharkhand 834004, India",
+        "name": "Shaheed Vijay Soreng Park",
+        "locationConfidence": 1.13634,
+        "calibratedProbability": 1.4208913,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 233617678,
+        "longitudeE7": 853459335,
+        "placeId": "ChIJvV3bEXjh9DkRgJcY67qn2GA",
+        "address": "Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+        "name": "Khadgarha Bus Stand",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 84.921684,
+        "calibratedProbability": 79.36506
+      },
+      "duration": {
+        "startTimestamp": "2019-06-17T02:30:06.743Z",
+        "endTimestamp": "2019-06-17T02:40:19.867Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 233615800,
+      "centerLngE7": 853457833,
+      "visitConfidence": 84,
+      "otherCandidateLocations": [{
+        "latitudeE7": 233614033,
+        "longitudeE7": 853465025,
+        "placeId": "ChIJ6xb1enjh9DkRyf6121D-LdE",
+        "address": "Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+        "name": "SPOT ON 69000 Oshaa Lodge",
+        "locationConfidence": 3.819667,
+        "calibratedProbability": 3.5697372
+      }, {
+        "latitudeE7": 233615939,
+        "longitudeE7": 853449579,
+        "placeId": "ChIJl7qCBHjh9DkR_WTZAuO23EA",
+        "address": "Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+        "name": "Kathartoli Bus Stand",
+        "locationConfidence": 0.6524092,
+        "calibratedProbability": 0.6097205
+      }, {
+        "latitudeE7": 233614067,
+        "longitudeE7": 853465833,
+        "placeId": "ChIJLSBKd3jh9DkRKtL6p9F-SUo",
+        "address": "986W+GJW, Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+        "name": "Panch Pargana Hotel",
+        "locationConfidence": 0.49049398,
+        "calibratedProbability": 0.4583998
+      }, {
+        "latitudeE7": 233611821,
+        "longitudeE7": 853450510,
+        "placeId": "ChIJ03PeCy_h9DkRCfTXXnWuJy0",
+        "address": "Netaji Nagar, Kathartoli, Ranchi, Jharkhand 834001, India",
+        "name": "Khad gada bus stand",
+        "locationConfidence": 0.35368922,
+        "calibratedProbability": 0.3305465
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 71,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 233617678,
+        "longitudeE7": 853459335,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-17T02:40:19.867Z",
+        "endTimestamp": "2019-06-17T07:23:47.218Z"
+      },
+      "distance": 114381,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 80.03133578522304
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 10.847176276879965
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.0606080043209385
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 233614463,
+          "lngE7": 853459320
+        }, {
+          "latE7": 229867439,
+          "lngE7": 858216781
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJC9Q1Y3jh9DkR-Jc9A2uqt6M"
+        }, {
+          "placeId": "ChIJs4JT9Xjh9DkRtUARxNOZnGM"
+        }, {
+          "placeId": "ChIJYfDP93jh9DkRzVnleW1BZS0"
+        }, {
+          "placeId": "ChIJi-TYV3jh9DkRrLbgJFzMCgk"
+        }, {
+          "placeId": "ChIJIaK5-Hjh9DkRZfzy5GdXdls"
+        }, {
+          "placeId": "ChIJm2QdQn_h9DkRn8AxDZ1Qeqk"
+        }, {
+          "placeId": "ChIJiw-3b3_h9DkRlUTQIv7z7qQ"
+        }, {
+          "placeId": "ChIJL-QbcH_h9DkRu00Pyx3Q_vA"
+        }, {
+          "placeId": "ChIJAWZ3cH_h9DkRDIp07bnAmyo"
+        }, {
+          "placeId": "ChIJU0Z_en_h9DkRhIWf5MqbxPc"
+        }, {
+          "placeId": "ChIJ5R2_eX_h9DkRRg0vLL-GS7o"
+        }, {
+          "placeId": "ChIJNaMwin_h9DkRVy9bZqJO3KE"
+        }, {
+          "placeId": "ChIJ2Z9lB4Dh9DkRVMgDmAik6Ks"
+        }, {
+          "placeId": "ChIJV54Mryri9DkR7stZ_uKdhIo"
+        }, {
+          "placeId": "ChIJE5anuSri9DkROBbyuBCh4zM"
+        }, {
+          "placeId": "ChIJGxc7xyri9DkRqEYk4nVRLd0"
+        }, {
+          "placeId": "ChIJXbSyxiri9DkR4OehalaYSVA"
+        }, {
+          "placeId": "ChIJr-02wyri9DkRPM6dBwDBEuM"
+        }, {
+          "placeId": "ChIJzZkpFyvi9DkRtNw95Ff_lgY"
+        }, {
+          "placeId": "ChIJefYQbivi9DkRXH_OO5V4nsc"
+        }, {
+          "placeId": "ChIJJ0_hfSvi9DkR0pAMU55t_1Q"
+        }, {
+          "placeId": "ChIJBynghizi9DkRrjrzrB7RlFU"
+        }, {
+          "placeId": "ChIJZ9zRYyzi9DkRxldnBDC7_ZI"
+        }, {
+          "placeId": "ChIJe8KbRCzi9DkRpPx82SDzkfo"
+        }, {
+          "placeId": "ChIJKcqDNizi9DkRAuMNjrwcUW8"
+        }, {
+          "placeId": "ChIJBxX60y3i9DkRg6QIS0mOguE"
+        }, {
+          "placeId": "ChIJcQ8NeC7i9DkRQFbD_hdO0Lo"
+        }, {
+          "placeId": "ChIJg9Gkdy7i9DkRCpdumcQhnkM"
+        }, {
+          "placeId": "ChIJIwkBdC7i9DkRjkhnYXROAQ8"
+        }, {
+          "placeId": "ChIJC5E5DS7i9DkRvDDVpD3gpQs"
+        }, {
+          "placeId": "ChIJVX0mEi7i9DkRQA6xHyGZ8GM"
+        }, {
+          "placeId": "ChIJB2qZAi7i9DkRAd-bCg0RFu0"
+        }, {
+          "placeId": "ChIJs3EEmzHi9DkR2__k78doYJM"
+        }, {
+          "placeId": "ChIJ9x7vPzHi9DkRHcXdgCp37_8"
+        }, {
+          "placeId": "ChIJc68C7jni9DkRVEopMr5ZPw8"
+        }, {
+          "placeId": "ChIJKe5vkDni9DkRUoc6k_uDIrw"
+        }, {
+          "placeId": "ChIJvxN_mzni9DkRyrZz3F_nb_M"
+        }, {
+          "placeId": "ChIJjXnLnTni9DkRChXIwzgNHF4"
+        }, {
+          "placeId": "ChIJE-7xnTni9DkR3oswY8LblA4"
+        }, {
+          "placeId": "ChIJZbdPIT_i9DkR8vPuaQQR7zE"
+        }, {
+          "placeId": "ChIJEYZQpz_i9DkREWmjU-7o_xE"
+        }, {
+          "placeId": "ChIJh82qpD_i9DkRvje1Mh0fDXM"
+        }, {
+          "placeId": "ChIJ80nxxj_i9DkRZ1ZhnwnssyE"
+        }, {
+          "placeId": "ChIJzfZIexXi9DkRQIhi-I8PGjI"
+        }, {
+          "placeId": "ChIJ7Y38DBXi9DkRtMi66l383V4"
+        }, {
+          "placeId": "ChIJfWniDhXi9DkR9tS2kDKRLms"
+        }, {
+          "placeId": "ChIJnTQTBBXi9DkRdqPdjW0lJvE"
+        }, {
+          "placeId": "ChIJfd3D_RTi9DkRjFP1mgqWUfQ"
+        }, {
+          "placeId": "ChIJV3oToBTi9DkRiLFKpYXVyRE"
+        }, {
+          "placeId": "ChIJ473VTxPi9DkRpomgGBF0b7o"
+        }, {
+          "placeId": "ChIJgfxqTBPi9DkR3KxzAwm9pec"
+        }, {
+          "placeId": "ChIJGc4tSxPi9DkR1JbdaUTn1LY"
+        }, {
+          "placeId": "ChIJ0ZVIz2zi9DkRqu9mGNeSU70"
+        }, {
+          "placeId": "ChIJw4bc3Wzi9DkRVNo_OH6QNMc"
+        }, {
+          "placeId": "ChIJMUVLG23i9DkR9qBdOTH9DMs"
+        }, {
+          "placeId": "ChIJ59SVoW3i9DkRjChtLqN6PFQ"
+        }, {
+          "placeId": "ChIJ34KQ9m3i9DkR_HPIZvkxcPk"
+        }, {
+          "placeId": "ChIJNezU9nHi9DkRsvMVaoh6uKA"
+        }, {
+          "placeId": "ChIJpdMX7XHi9DkRkucPEDsP4Ss"
+        }, {
+          "placeId": "ChIJu-OPvXHi9DkRppnvWof5u_o"
+        }, {
+          "placeId": "ChIJ43PQ4nDi9DkRqclHZO1iumU"
+        }, {
+          "placeId": "ChIJISmMWXfi9DkRBFiBIJhbT8g"
+        }, {
+          "placeId": "ChIJ988t3nni9DkRBJQ41E3FVlg"
+        }, {
+          "placeId": "ChIJ2QX3z3ni9DkRFhAvhxVWDNQ"
+        }, {
+          "placeId": "ChIJh8J8SXji9DkRuP6osao2jtQ"
+        }, {
+          "placeId": "ChIJz6Q3iHji9DkRTNq9fyUHyCs"
+        }, {
+          "placeId": "ChIJX8P8Y4cd9TkR5gMhkr5Lcl0"
+        }, {
+          "placeId": "ChIJAXWRQocd9TkRmnmKX4RY4y0"
+        }, {
+          "placeId": "ChIJt_BEQYcd9TkRqINDXBG9Gvk"
+        }, {
+          "placeId": "ChIJWSNBN4cd9TkRoBm_dxxM7KA"
+        }, {
+          "placeId": "ChIJQ2oeKoEd9TkRphaLwBGYtdw"
+        }, {
+          "placeId": "ChIJffobPIEd9TkR0AFB7Rl_j_s"
+        }, {
+          "placeId": "ChIJMUcXaYEd9TkRcPgzvMXI-3Q"
+        }, {
+          "placeId": "ChIJR-iwYoEd9TkR2Er7T_gURV0"
+        }, {
+          "placeId": "ChIJY-vO0YMd9TkReNLXCVJWsqU"
+        }, {
+          "placeId": "ChIJYQlHyoMd9TkR_lgMYGfJKqE"
+        }, {
+          "placeId": "ChIJqfVWS4Id9TkRWlOLCqOLDdA"
+        }, {
+          "placeId": "ChIJdWgLUoId9TkRSuDDWHzp2BM"
+        }, {
+          "placeId": "ChIJpeHyV4Id9TkRlplz7mOf9rM"
+        }, {
+          "placeId": "ChIJbVXW7IId9TkRpqSdQUaC8sM"
+        }, {
+          "placeId": "ChIJm1UXvYId9TkR3KlJbzkChfk"
+        }, {
+          "placeId": "ChIJwTmIkHcd9TkROpjiLveNXYo"
+        }, {
+          "placeId": "ChIJjVpqdXcd9TkRdvipCV-U2zY"
+        }, {
+          "placeId": "ChIJcUEbPXcd9TkRzIdCkrQn61I"
+        }, {
+          "placeId": "ChIJB4IYLHcd9TkRKo9oZCOykl0"
+        }, {
+          "placeId": "ChIJSxZaK3cd9TkR2kgNaJMHVIU"
+        }, {
+          "placeId": "ChIJ7bajTHId9TkROVQHkKGevKU"
+        }, {
+          "placeId": "ChIJ-3H9pHId9TkRozkTr92Ae5M"
+        }, {
+          "placeId": "ChIJTbdsqnId9TkRJsbOH_A773w"
+        }, {
+          "placeId": "ChIJTbdsqnId9TkRp6FfkA_fWEQ"
+        }, {
+          "placeId": "ChIJv8VVvhId9TkRxfptXubcLLQ"
+        }, {
+          "placeId": "ChIJc6Bk-RId9TkR8FIyL108xfA"
+        }, {
+          "placeId": "ChIJscAJqxMd9TkR_LUnR8LWfD0"
+        }, {
+          "placeId": "ChIJa0Dt7BMd9TkRnppKgn03tl8"
+        }, {
+          "placeId": "ChIJT1EwAhQd9TkR5nSuTBq2_vA"
+        }, {
+          "placeId": "ChIJN9D8pBYd9TkR8iE1rRY_UUk"
+        }, {
+          "placeId": "ChIJC4ko6hYd9TkRVlXpHAkvdVo"
+        }, {
+          "placeId": "ChIJF0Zs4ycd9TkROez2NsIGpSg"
+        }, {
+          "placeId": "ChIJYczHMdYc9TkRy3OLcylBCIg"
+        }, {
+          "placeId": "ChIJC-x43TED9TkR6B30pT8T-08"
+        }, {
+          "placeId": "ChIJUbiv1YQH9TkRo51hV-mRunQ"
+        }, {
+          "placeId": "ChIJwUDbecCm9TkRkpmotv9da-0"
+        }, {
+          "placeId": "ChIJM_7v122j9TkRxl6Dh-mflL8"
+        }, {
+          "placeId": "ChIJ8W3N00a-9TkR5t-A6Bg-WqE"
+        }, {
+          "placeId": "ChIJ1_niLka-9TkRVsFn3Ez4O-k"
+        }, {
+          "placeId": "ChIJWT1xLUq-9TkRVxcM2BTEEYk"
+        }, {
+          "placeId": "ChIJF6ruoLW_9TkRTZkzhUGn9JU"
+        }, {
+          "placeId": "ChIJL5RSVfC_9TkRyYCvybinOxw"
+        }, {
+          "placeId": "ChIJL3nx1c3B9TkR5Utj91InvGg"
+        }, {
+          "placeId": "ChIJs29kfs7B9TkRVCMRS9ArULk"
+        }, {
+          "placeId": "ChIJs29kfs7B9TkR6YYRrB__BCs"
+        }, {
+          "placeId": "ChIJB9xzxs3B9TkRGTvl4GPr1Ro"
+        }, {
+          "placeId": "ChIJkU01Q87B9TkRaWFl-_71tHs"
+        }, {
+          "placeId": "ChIJeaUeecLB9TkRBsQSxSSVJrs"
+        }, {
+          "placeId": "ChIJK7x5A-_B9TkRGILrrZ5zdus"
+        }, {
+          "placeId": "ChIJK7x5A-_B9TkRBW_znUDk3Kk"
+        }, {
+          "placeId": "ChIJ69sfmfrB9TkRa5n--bbljME"
+        }, {
+          "placeId": "ChIJ69sfmfrB9TkRf4L-BrJxHUI"
+        }, {
+          "placeId": "ChIJZ05PTfrB9TkRwrNSol5nZoE"
+        }, {
+          "placeId": "ChIJ5x9i_Ofp9TkRBAUNDFNxmeM"
+        }, {
+          "placeId": "ChIJ2eZY8TLo9TkRGAL7u-sIA5o"
+        }, {
+          "placeId": "ChIJoff7TjLo9TkRvsP7BFfyqJ4"
+        }, {
+          "placeId": "ChIJNZL5yzPo9TkRv5e5YwwGTwQ"
+        }, {
+          "placeId": "ChIJn3x8qhTo9TkRxfIAYJsY3nA"
+        }, {
+          "placeId": "ChIJ998cOm3o9TkR31GGW_mcXZw"
+        }, {
+          "placeId": "ChIJKZhxoHLo9TkR9REf84q6jb4"
+        }, {
+          "placeId": "ChIJz9hS-nLo9TkRK03_7Fi58d0"
+        }, {
+          "placeId": "ChIJ6zYkr3Po9TkRRnHsnHHBQz8"
+        }, {
+          "placeId": "ChIJg9I4vHPo9TkRQuYw6D9hCH4"
+        }, {
+          "placeId": "ChIJhZagynbo9TkRLh38Qh_fB7E"
+        }, {
+          "placeId": "ChIJhZagynbo9TkRqLIKbiBIzO4"
+        }, {
+          "placeId": "ChIJKfq5ZXfo9TkRmg2wbklQT9U"
+        }, {
+          "placeId": "ChIJQc2u13no9TkRkXvjiTTtDck"
+        }, {
+          "placeId": "ChIJa20f0nno9TkRlSjJ-K53jTk"
+        }, {
+          "placeId": "ChIJl-QaS3jo9TkRZhkz2T3xzlI"
+        }, {
+          "placeId": "ChIJ_61UANbn9TkR-U6CYqdsZMc"
+        }, {
+          "placeId": "ChIJ6e_blXjo9TkRQ0X6E6_w-r4"
+        }, {
+          "placeId": "ChIJjXVFr3jo9TkRztXDR0m0v2w"
+        }, {
+          "placeId": "ChIJ4Rm96tXn9TkRL0pA1YVttaA"
+        }, {
+          "placeId": "ChIJ4Rm96tXn9TkRIw-XbcApXEA"
+        }, {
+          "placeId": "ChIJpevRUivm9TkRD8FnPtVeufc"
+        }, {
+          "placeId": "ChIJ_91TVivm9TkRaReK1CvKjxU"
+        }, {
+          "placeId": "ChIJ-exOuNTn9TkRISjViRyihmQ"
+        }, {
+          "placeId": "ChIJ-exOuNTn9TkR2H2Bbq-erkA"
+        }, {
+          "placeId": "ChIJO4fS2jDm9TkRLqB0rlK0Y_E"
+        }, {
+          "placeId": "ChIJ28c6fzfm9TkRQMFQObBK36g"
+        }, {
+          "placeId": "ChIJzx6POjjm9TkRRP23L6XwzwQ"
+        }, {
+          "placeId": "ChIJc2hOgEfm9TkR6NsNnUtj9rM"
+        }, {
+          "placeId": "ChIJxQaoqPXm9TkRTH8XoSdhEHk"
+        }, {
+          "placeId": "ChIJASlhau3m9TkRKhLvNZAAXk8"
+        }, {
+          "placeId": "ChIJjz5TXtnj9TkR0r7nJH2wuCg"
+        }, {
+          "placeId": "ChIJv5eg3Nvj9TkRmHPIKG4763M"
+        }, {
+          "placeId": "ChIJ2fkdxtvj9TkR5rHQuBEEXUs"
+        }, {
+          "placeId": "ChIJ36PEydvj9TkRdnfFoolst1U"
+        }, {
+          "placeId": "ChIJOdZG-Nrj9TkR7HDCWxLeGMg"
+        }, {
+          "placeId": "ChIJL9EP-trj9TkR9ui9-duNx2E"
+        }, {
+          "placeId": "ChIJsQOd79rj9TkRrFzQj71fWPg"
+        }, {
+          "placeId": "ChIJGxbG6Nrj9TkR-B96ls3HoZs"
+        }, {
+          "placeId": "ChIJj6bZ3Nrj9TkRKNLTAWjiBmc"
+        }, {
+          "placeId": "ChIJ16jH1trj9TkRIjXG2wnQYNE"
+        }, {
+          "placeId": "ChIJcZG01cTj9TkRHJ9om3nnlQY"
+        }, {
+          "placeId": "ChIJ-_YW5sTj9TkRIlolKONjauc"
+        }, {
+          "placeId": "ChIJpdxj98Tj9TkRtutHvQRKzi4"
+        }, {
+          "placeId": "ChIJb3mNWcTj9TkR8gTpcTrmgxk"
+        }, {
+          "placeId": "ChIJm9YtOsTj9TkRNFRYUT4LIlo"
+        }, {
+          "placeId": "ChIJDXmuJcTj9TkRQJBcVPgaOKk"
+        }, {
+          "placeId": "ChIJr8dTJsTj9TkRCt_GzwYe-WQ"
+        }, {
+          "placeId": "ChIJHyDynMbj9TkRhlINQGVmO8E"
+        }, {
+          "placeId": "ChIJy4IkkMbj9TkRzGWBHW5g_ck"
+        }, {
+          "placeId": "ChIJNyGXisbj9TkR_gnDVPIqSvo"
+        }, {
+          "placeId": "ChIJvReEZ8bj9TkRFI9px6AqtuI"
+        }, {
+          "placeId": "ChIJ8Xl8Psbj9TkRzB2Gy41xubI"
+        }, {
+          "placeId": "ChIJK0jkm8jj9TkRsCTS_ALCFnY"
+        }, {
+          "placeId": "ChIJxYtWksjj9TkRwhRlbsSxqm0"
+        }, {
+          "placeId": "ChIJoaMc-8jj9TkRSuWp8KCPpIY"
+        }, {
+          "placeId": "ChIJN5pzCcnj9TkRHFJVqH0HWNA"
+        }, {
+          "placeId": "ChIJXy2Lncnj9TkRSM7USh8Q4nA"
+        }, {
+          "placeId": "ChIJFZ36gsnj9TkRcohWSwVsnQM"
+        }, {
+          "placeId": "ChIJSbYRMsrj9TkR_IRtGJLHevc"
+        }, {
+          "placeId": "ChIJpcdsOcrj9TkRXq9n6lCSxwE"
+        }, {
+          "placeId": "ChIJP3IUa8rj9TkRFG40IJiqJXg"
+        }, {
+          "placeId": "ChIJG0X8bMrj9TkRvnnhpPNShT8"
+        }, {
+          "placeId": "ChIJ6beObcrj9TkRYF-LRE5-8hI"
+        }, {
+          "placeId": "ChIJPyHyc8rj9TkRhru4cPZYc6M"
+        }, {
+          "placeId": "ChIJbSn_i7Xj9TkRaJZD0Yg93ZE"
+        }, {
+          "placeId": "ChIJWeORkbXj9TkRdFJNyUGg0JQ"
+        }, {
+          "placeId": "ChIJUaZYlrXj9TkRLBhXn8K7UYM"
+        }, {
+          "placeId": "ChIJSdT3vLXj9TkRvmTbX6NOwhU"
+        }, {
+          "placeId": "ChIJfUYKu7Xj9TkRGvLOK9S2ZCI"
+        }, {
+          "placeId": "ChIJRb2aurXj9TkR3nNkSViLL3A"
+        }, {
+          "placeId": "ChIJJWJfsLXj9TkR-g3gNjvF6XA"
+        }, {
+          "placeId": "ChIJM_hrsbXj9TkRgqn9-30z56E"
+        }, {
+          "placeId": "ChIJf4oJtLXj9TkRDBn33bxRiRs"
+        }, {
+          "placeId": "ChIJFSI_S7Tj9TkRGqm1PqpzUwY"
+        }, {
+          "placeId": "ChIJa1cqSrTj9TkRRkHBGBOR9bM"
+        }, {
+          "placeId": "ChIJG5kCSLTj9TkRtJAyO6FJT8c"
+        }, {
+          "placeId": "ChIJ_ca-FbTj9TkRqDGkD4PsvGA"
+        }, {
+          "placeId": "ChIJue1rDrTj9TkRfmcOq4bRrWE"
+        }, {
+          "placeId": "ChIJQeP_CLTj9TkRlkB6VApfcUA"
+        }, {
+          "placeId": "ChIJw-BX5rPj9TkRRJx8xjKP9w0"
+        }, {
+          "placeId": "ChIJ0QpK2rPj9TkR5tiLuxNvdDc"
+        }, {
+          "placeId": "ChIJIcPB1LPj9TkR5KCs7FOt-zE"
+        }, {
+          "placeId": "ChIJD2NzK7Lj9TkRQhJujOR1Gxo"
+        }, {
+          "placeId": "ChIJA8SnJ7Lj9TkRcBB7ephcKX0"
+        }, {
+          "placeId": "ChIJ_V4K9rHj9TkRCP68tIaoc9s"
+        }, {
+          "placeId": "ChIJMUt4AbLj9TkRwrt_GwXrdn4"
+        }, {
+          "placeId": "ChIJUXXM-63j9TkReE6NzS2qxCE"
+        }, {
+          "placeId": "ChIJp8h-763j9TkRYMg1eo8rpd4"
+        }, {
+          "placeId": "ChIJR9iPwa3j9TkRiB6L8HyjmIU"
+        }, {
+          "placeId": "ChIJc9YNx63j9TkRjBzN_N8I-_o"
+        }, {
+          "placeId": "ChIJIwRntK3j9TkRmpnCzR49lMY"
+        }, {
+          "placeId": "ChIJF_7wcqzj9TkRxkBq4fcQ1K0"
+        }, {
+          "placeId": "ChIJFfU6C6zj9TkRIpbltiUqGdo"
+        }, {
+          "placeId": "ChIJ27CKkqrj9TkRXVp42_T1Fg4"
+        }, {
+          "placeId": "ChIJvT0yoqrj9TkRGXmclzIl0ho"
+        }, {
+          "placeId": "ChIJI0kGp6rj9TkRvAns4glCorg"
+        }, {
+          "placeId": "ChIJVzbOBgDj9TkRGkM0SvfpYVw"
+        }, {
+          "placeId": "ChIJh_N6AgDj9TkRsK08WYFOndI"
+        }, {
+          "placeId": "ChIJO6I7_f_i9TkRxAxo92OPqPA"
+        }, {
+          "placeId": "ChIJ93Ik4__i9TkRwMbpHK-n6hg"
+        }, {
+          "placeId": "ChIJ6daE4__i9TkR68qV18VmCCY"
+        }, {
+          "placeId": "ChIJH5_D5f_i9TkRxqWpzOM0U90"
+        }, {
+          "placeId": "ChIJO0TX6P_i9TkRAMFETJ06NMw"
+        }, {
+          "placeId": "ChIJ_YzL6__i9TkROG4hZzrZVtQ"
+        }, {
+          "placeId": "ChIJsbbhv__i9TkR7bb88MbbfR0"
+        }, {
+          "placeId": "ChIJmz2Avv_i9TkR0d6GArHvsvk"
+        }, {
+          "placeId": "ChIJxTlcu__i9TkRk_c4w5ez5-E"
+        }, {
+          "placeId": "ChIJy3QIpf_i9TkRo3OGZLMFnOQ"
+        }, {
+          "placeId": "ChIJmZlRr__i9TkR_3V_JfgeG2w"
+        }, {
+          "placeId": "ChIJlQrgqP_i9TkRd0sP3E7Zenw"
+        }, {
+          "placeId": "ChIJC7uCqf_i9TkRw6F5YHozSPc"
+        }, {
+          "placeId": "ChIJ0SJnAP_i9TkRAxKnnzpRrNE"
+        }, {
+          "placeId": "ChIJ21x__v7i9TkRjVHPBBfK4yo"
+        }, {
+          "placeId": "ChIJ2y7h_P7i9TkRSJokppFlBxA"
+        }, {
+          "placeId": "ChIJ8S3M_P7i9TkRJI8k-RD-UYY"
+        }, {
+          "placeId": "ChIJXThs6P7i9TkRD27qIUYUXFU"
+        }, {
+          "placeId": "ChIJz0UqyP7i9TkRkJYMunONCT0"
+        }, {
+          "placeId": "ChIJtROBUfni9TkRYKFDEZ9BHqI"
+        }, {
+          "placeId": "ChIJ55rf4Pvi9TkR5iBE8jNhCHY"
+        }, {
+          "placeId": "ChIJ55rf4Pvi9TkROW7LSxPdh3k"
+        }, {
+          "placeId": "ChIJ5WAAyfvi9TkRLRnsSiLK1eY"
+        }, {
+          "placeId": "ChIJycBgTPri9TkRlZXN-jktxUE"
+        }, {
+          "placeId": "ChIJTzU4TPri9TkRqsXNN8R0dvE"
+        }, {
+          "placeId": "ChIJ3X0rTPri9TkRhJ2voNs0CjA"
+        }, {
+          "placeId": "ChIJ9znOTfri9TkRv_ZIP8RO7Ts"
+        }, {
+          "placeId": "ChIJN_nqFfvi9TkR3df_AZHSpDU"
+        }, {
+          "placeId": "ChIJS22BR_vi9TkRtlEoT-QZv8E"
+        }, {
+          "placeId": "ChIJXVf6SPvi9TkRCUEDBkSxehE"
+        }, {
+          "placeId": "ChIJG0ELNfvi9TkRpo6r6la-H6k"
+        }, {
+          "placeId": "ChIJKwQCz-Ti9TkR-kq8wjm6kTk"
+        }, {
+          "placeId": "ChIJsz1U3-Ti9TkRsVtF7LupEVE"
+        }, {
+          "placeId": "ChIJl4bzIuXi9TkRiK84LT3InWk"
+        }, {
+          "placeId": "ChIJye8cFuXi9TkRkd_nREbl7xo"
+        }, {
+          "placeId": "ChIJWRX_auXi9TkRGfvHY0L3ZVA"
+        }, {
+          "placeId": "ChIJPwh6aeXi9TkR2dhwGlpCygw"
+        }, {
+          "placeId": "ChIJpah6ZuXi9TkR-8ebW_1pdJI"
+        }, {
+          "placeId": "ChIJcXIAYuXi9TkRxRAHO0AGGuQ"
+        }, {
+          "placeId": "ChIJrV-rju_i9TkR8j4Ot9kWGho"
+        }, {
+          "placeId": "ChIJecB7ju_i9TkR27OKKr7pSdY"
+        }, {
+          "placeId": "ChIJAbKMke_i9TkRt9D7OKK4xzY"
+        }, {
+          "placeId": "ChIJ7XXDlu_i9TkRS-FIlBbtUZM"
+        }, {
+          "placeId": "ChIJA_78ve_i9TkR2UvJWzOnH24"
+        }, {
+          "placeId": "ChIJ7QcBvO_i9TkRmbcvwSzsttc"
+        }, {
+          "placeId": "ChIJAZRlRu7i9TkROYRKWycmY_w"
+        }, {
+          "placeId": "ChIJOwocau7i9TkRSjKbvojCZ_0"
+        }, {
+          "placeId": "ChIJQUwBcu7i9TkRM5Vn-xs7Rn8"
+        }, {
+          "placeId": "ChIJW4ordO7i9TkRgnmwrvarqf0"
+        }, {
+          "placeId": "ChIJLzrZ3u3i9TkRvtfe25g5cAQ"
+        }, {
+          "placeId": "ChIJqRKx3O3i9TkRNgq_ibors4k"
+        }, {
+          "placeId": "ChIJs73fxu3i9TkRGCfJc2iCAMk"
+        }, {
+          "placeId": "ChIJW0Tou-3i9TkRQX41VFreQsw"
+        }, {
+          "placeId": "ChIJD8nUpu3i9TkR0Gcn1-I05WY"
+        }, {
+          "placeId": "ChIJBykKDu3i9TkRvKm2S2KwVbM"
+        }, {
+          "placeId": "ChIJM6yBFu3i9TkRyt_9ErwaOVQ"
+        }, {
+          "placeId": "ChIJJbrjO-3i9TkRFCBgZx6ofK4"
+        }, {
+          "placeId": "ChIJsa5LMe3i9TkR2sQDMU3VoDw"
+        }, {
+          "placeId": "ChIJ3faDNO3i9TkRziEodbLlwzw"
+        }, {
+          "placeId": "ChIJiSFjy5Li9TkRVtt7t5Lnjh0"
+        }, {
+          "placeId": "ChIJCVkyz5Li9TkR7rEldElwC1E"
+        }, {
+          "placeId": "ChIJv5kzwpLi9TkRDI6MSRy4cwM"
+        }, {
+          "placeId": "ChIJM3TWVpLi9TkRS6iohAJlRAg"
+        }, {
+          "placeId": "ChIJt-8jTJLi9TkRv2SaQfqfVR8"
+        }, {
+          "placeId": "ChIJo4NuNZLi9TkREpD7-UocoiE"
+        }, {
+          "placeId": "ChIJy_nrzJPi9TkRhJwNCJkJrQA"
+        }, {
+          "placeId": "ChIJDeZH0ZPi9TkRElQ98UI8OgM"
+        }, {
+          "placeId": "ChIJsQulYpHi9TkRNh4H8E3Zhkk"
+        }, {
+          "placeId": "ChIJb0ehZpHi9TkRQVHCckpDMGg"
+        }, {
+          "placeId": "ChIJqepdQpHi9TkRX_wC4FV2OIM"
+        }, {
+          "placeId": "ChIJmS49R5Hi9TkR2G8UHiW5wlI"
+        }, {
+          "placeId": "ChIJtcaBN5Hi9TkREkhv-lycRFY"
+        }, {
+          "placeId": "ChIJ9xstMpHi9TkRBeFFgjQ3owA"
+        }, {
+          "placeId": "ChIJC9Z0Kpfi9TkRKiRaRs4RcZE"
+        }, {
+          "placeId": "ChIJ1REwKpfi9TkRRn0vtuGOEuE"
+        }, {
+          "placeId": "ChIJVSmXKZfi9TkRosU9-jG77f8"
+        }, {
+          "placeId": "ChIJ-Xq3KZfi9TkRQy1XC4SnkQw"
+        }, {
+          "placeId": "ChIJPVHuJZfi9TkRul1YAC2PX2A"
+        }, {
+          "placeId": "ChIJo9DqPJfi9TkR-J_O8TOEEuc"
+        }, {
+          "placeId": "ChIJObACFpfi9TkRvXq-xgdkfKk"
+        }, {
+          "placeId": "ChIJMyDJFZfi9TkRr0GFRGRu3lI"
+        }, {
+          "placeId": "ChIJqyqpFJfi9TkRnoG9vCc9B7k"
+        }, {
+          "placeId": "ChIJDUntbJfi9TkRNRwG_LquCZo"
+        }, {
+          "placeId": "ChIJc8Nbbpfi9TkRQPKSc_CNaps"
+        }, {
+          "placeId": "ChIJ0-wpe5fi9TkRmse4YlRkj7s"
+        }, {
+          "placeId": "ChIJHXj80pni9TkR-B4v9xWNrMs"
+        }, {
+          "placeId": "ChIJDfvMzJni9TkRQeYUyLHx0CA"
+        }, {
+          "placeId": "ChIJ-7WqzJni9TkR5_-v8lbZBLA"
+        }, {
+          "placeId": "ChIJsQG-TJji9TkRtariDVvIUSU"
+        }, {
+          "placeId": "ChIJ8aAKTpji9TkRQ_SLjJdDW4k"
+        }, {
+          "placeId": "ChIJgX9MWpji9TkRZN3ECKXpFwI"
+        }, {
+          "placeId": "ChIJBUrBXZji9TkRBc8Uos78Wz0"
+        }, {
+          "placeId": "ChIJw5ohcJji9TkRufP6HIIF2s8"
+        }, {
+          "placeId": "ChIJK9y3nKLi9TkR30y11d_YvsM"
+        }, {
+          "placeId": "ChIJPcXSj6Li9TkRUUJ5A_UlyIM"
+        }, {
+          "placeId": "ChIJW3VvkqLi9TkR2QysPkJUI3U"
+        }, {
+          "placeId": "ChIJs82X8KLi9TkRMaFimk_SI8w"
+        }, {
+          "placeId": "ChIJxfhm-qLi9TkR85mO8MGsTyg"
+        }, {
+          "placeId": "ChIJiyi9-aLi9TkRkZkgOc0uCTo"
+        }, {
+          "placeId": "ChIJ-3fIVqLi9TkRxxGxZeGbYhI"
+        }, {
+          "placeId": "ChIJvVEwTKLi9TkR3bNZSJTTvVo"
+        }, {
+          "placeId": "ChIJ_UUHS6Li9TkRsCRrfZQ-cc8"
+        }, {
+          "placeId": "ChIJhSYU2aPi9TkRrs2o_J09bD0"
+        }, {
+          "placeId": "ChIJ8xd63qPi9TkRADrAnZbCBGc"
+        }, {
+          "placeId": "ChIJ1fPI5qPi9TkR4eJuquUYxjA"
+        }, {
+          "placeId": "ChIJJfQP-aPi9TkRVpLvCE3mxQI"
+        }, {
+          "placeId": "ChIJqx6kBqTi9TkRXDuW7Ojg3kY"
+        }, {
+          "placeId": "ChIJrd-9HKTi9TkRS20G_fu8_Cs"
+        }, {
+          "placeId": "ChIJW46joKbi9TkRFZmvQto4xXg"
+        }, {
+          "placeId": "ChIJrbMyoKbi9TkRqLRvCTNKZxw"
+        }, {
+          "placeId": "ChIJG3Icn6bi9TkRFMMPYuclPcE"
+        }, {
+          "placeId": "ChIJWWRpm6bi9TkRQBR-UJ24MZ4"
+        }, {
+          "placeId": "ChIJ4Rbsh6bi9TkRfmac9TX-Gq4"
+        }, {
+          "placeId": "ChIJk0j5eqbi9TkRqu-lFEV_wBI"
+        }, {
+          "placeId": "ChIJO5sDcabi9TkRUtu4EEezOU0"
+        }, {
+          "placeId": "ChIJKefW4aXi9TkRm7wwrNq0m7E"
+        }, {
+          "placeId": "ChIJdUbH5KXi9TkRMV-JUVi_dHA"
+        }, {
+          "placeId": "ChIJ3SEm-qXi9TkRva3GkeD3rIQ"
+        }, {
+          "placeId": "ChIJV8_2qqji9TkRg34_ArY4EHc"
+        }, {
+          "placeId": "ChIJkYI826ji9TkRMMMdFZyBPD0"
+        }, {
+          "placeId": "ChIJ17VAGani9TkRX7idqXZpNEQ"
+        }, {
+          "placeId": "ChIJqQfyCani9TkRiG1bGs2z8RI"
+        }, {
+          "placeId": "ChIJg9f7lani9TkRe49_KzUfSBY"
+        }, {
+          "placeId": "ChIJoSQeCAII9jkR-DCC3MUeIg8"
+        }, {
+          "placeId": "ChIJT2b3AAII9jkRelOZ7UTnlls"
+        }, {
+          "placeId": "ChIJw6Nh4wEI9jkRC-ub1FgPsHM"
+        }, {
+          "placeId": "ChIJvWra5gEI9jkRVPZFnBZ1SAE"
+        }, {
+          "placeId": "ChIJZZf03AEI9jkRrspzGEz8RXs"
+        }, {
+          "placeId": "ChIJd3mRzwEI9jkRykfVjVJaVI0"
+        }, {
+          "placeId": "ChIJkfCMBAEI9jkRtdkt1Uz04cw"
+        }],
+        "distanceMeters": 132425.90460798045
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706143,
+          "longitudeE7": 862601464,
+          "accuracyMetres": 152
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-17T07:25:38.251Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 54.284832,
+        "calibratedProbability": 53.952957,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-06-17T07:23:47.218Z",
+        "endTimestamp": "2019-06-21T19:19:11.996Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227704371,
+      "centerLngE7": 862602722,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 13.322057,
+        "calibratedProbability": 13.240611
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 9.162501,
+        "calibratedProbability": 9.106485
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 5.629263,
+        "calibratedProbability": 5.5948477
+      }, {
+        "latitudeE7": 227708988,
+        "longitudeE7": 862619400,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 2.0736055,
+        "calibratedProbability": 2.0609283
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.6664026,
+        "calibratedProbability": 1.6562148
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 1.658471,
+        "calibratedProbability": 1.6483318
+      }, {
+        "latitudeE7": 227710084,
+        "longitudeE7": 862583295,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 restaurant (Vegeterian A/C Restaurant)",
+        "locationConfidence": 0.68044996,
+        "calibratedProbability": 0.6762899
+      }, {
+        "latitudeE7": 227719670,
+        "longitudeE7": 862587432,
+        "placeId": "ChIJB1iHnQEI9jkRpOkk726aHpE",
+        "address": "Bus Stand, Kharangajhar Market, near Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Neha Digital Studio \u0026 Mobile",
+        "locationConfidence": 0.6164617,
+        "calibratedProbability": 0.6126929
+      }, {
+        "latitudeE7": 227695393,
+        "longitudeE7": 862596139,
+        "placeId": "ChIJA_qm_AAI9jkRNqX11bQsDKs",
+        "address": "Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Education Centre",
+        "locationConfidence": 0.47921044,
+        "calibratedProbability": 0.47628072
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706129,
+        "longitudeE7": 862601476,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-06-21T19:19:11.996Z",
+        "endTimestamp": "2019-06-22T02:23:58.150Z"
+      },
+      "distance": 17865,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 65.609205208725
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.87815987871268
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.589389829469862
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706584,
+          "lngE7": 862601470
+        }, {
+          "latE7": 227985992,
+          "lngE7": 861841659
+        }, {
+          "latE7": 227929229,
+          "lngE7": 861785583
+        }, {
+          "latE7": 227915267,
+          "lngE7": 861788177
+        }, {
+          "latE7": 227905902,
+          "lngE7": 861789321
+        }, {
+          "latE7": 227890892,
+          "lngE7": 861789703
+        }, {
+          "latE7": 227884464,
+          "lngE7": 861790847
+        }, {
+          "latE7": 227713584,
+          "lngE7": 861947631
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 109.99930186176454
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227992425,
+          "lngE7": 861874132,
+          "accuracyMeters": 100,
+          "timestamp": "2019-06-22T01:50:15.639Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227717784,
+          "longitudeE7": 862548868,
+          "accuracyMetres": 158
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-06-22T02:33:08.614Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": -1943337110
+        },
+        "locationConfidence": 56.049995,
+        "calibratedProbability": 55.53931
+      },
+      "duration": {
+        "startTimestamp": "2019-06-22T02:23:58.150Z",
+        "endTimestamp": "2019-06-25T05:40:22.998Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227704289,
+      "centerLngE7": 862604388,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Samudayik Vikash Maidan",
+        "locationConfidence": 12.462315,
+        "calibratedProbability": 12.348767
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.7084875,
+        "calibratedProbability": 5.656476
+      }, {
+        "latitudeE7": 227708988,
+        "longitudeE7": 862619400,
+        "placeId": "ChIJPVkCzwYI9jkROErbm4QiEFE",
+        "locationConfidence": 5.64412,
+        "calibratedProbability": 5.592695
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 4.8613186,
+        "calibratedProbability": 4.8170257
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.894291,
+        "calibratedProbability": 1.8770317
+      }, {
+        "latitudeE7": 227721049,
+        "longitudeE7": 862595120,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre /Mishra Mobile",
+        "locationConfidence": 0.9949223,
+        "calibratedProbability": 0.98585725
+      }, {
+        "latitudeE7": 227720063,
+        "longitudeE7": 862598138,
+        "placeId": "ChIJFwKnbwEI9jkRbfLDqNrFZb8",
+        "address": "near Hanuman Mandir Kharangajhar, Telco Colony, Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Narayan Family Restaurant",
+        "locationConfidence": 0.49690908,
+        "calibratedProbability": 0.4923816
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}

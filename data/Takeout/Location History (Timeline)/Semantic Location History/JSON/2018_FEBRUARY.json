@@ -1,0 +1,4830 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T04:23:43.655Z",
+        "endTimestamp": "2018-02-01T05:54:28.699Z"
+      },
+      "distance": 1255,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 47.29950555724848
+      }, {
+        "activityType": "WALKING",
+        "probability": 30.092739563689374
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.636772623105482
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 60.47111
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T05:54:28.699Z",
+        "endTimestamp": "2018-02-01T07:56:42.308Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227732213,
+      "centerLngE7": 862614684,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 17.359028
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 5.3468494
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 4.5702553
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.6724284
+      }, {
+        "latitudeE7": 227715847,
+        "longitudeE7": 862640458,
+        "placeId": "ChIJ_eWVigYI9jkRMVYirFpE9jM",
+        "address": "Q7C7+JJM, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Residency",
+        "locationConfidence": 1.2547001
+      }, {
+        "latitudeE7": 227707430,
+        "longitudeE7": 862613333,
+        "placeId": "ChIJ1aNuMgEI9jkRwpqCg60TwOQ",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 0.9012371
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.64018667
+      }, {
+        "latitudeE7": 227722703,
+        "longitudeE7": 862619833,
+        "placeId": "ChIJJUg_rgYI9jkRafVlBr6OicE",
+        "address": "Shamsher Tower, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mother Teresa Welfare Trust",
+        "locationConfidence": 0.46836993
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.36252958
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 228039796,
+        "longitudeE7": 862038906
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T07:56:42.308Z",
+        "endTimestamp": "2018-02-01T08:26:38.531Z"
+      },
+      "distance": 5674,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 91.38676316627239
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.427082912713875
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.9840385288645491
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 228043518,
+          "lngE7": 862037963
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228038391,
+        "longitudeE7": 862039717
+      },
+      "endLocation": {
+        "latitudeE7": 228054130,
+        "longitudeE7": 862032596
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T08:26:38.531Z",
+        "endTimestamp": "2018-02-01T08:33:10.809Z"
+      },
+      "distance": 808,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 47.65347835749417
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 41.44733544274259
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.441041417065023
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228036537,
+          "lngE7": 862035751
+        }, {
+          "latE7": 228054332,
+          "lngE7": 862032165
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 228054130,
+          "longitudeE7": 862032596,
+          "accuracyMetres": 23
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-01T08:33:10.809Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 228053877,
+        "longitudeE7": 862033197,
+        "placeId": "ChIJZfGBHg_j9TkRru4n59awKeQ",
+        "address": "Sakchi, Jamshedpur, East Singhbhum, Jharkhand 831001, India",
+        "name": "MIITJEE",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 89.72441
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T08:33:10.809Z",
+        "endTimestamp": "2018-02-01T10:14:05.764Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 228054419,
+      "centerLngE7": 862032022,
+      "visitConfidence": 76,
+      "otherCandidateLocations": [{
+        "latitudeE7": 228053665,
+        "longitudeE7": 862032852,
+        "placeId": "ChIJpzM9Gw_j9TkRL1cfptQPvzA",
+        "address": "41, Thakur Bari Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Ellora Complex",
+        "locationConfidence": 2.1148841
+      }, {
+        "latitudeE7": 228064385,
+        "longitudeE7": 862037569,
+        "placeId": "ChIJuWsdV2Pj9TkRz0cYnK5n2G8",
+        "address": "House No/291,Line No/09,, Community Care Center Road,, Bhalubasa,, Sakchi Purbi Singhbhum,, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Samsung Service Center",
+        "locationConfidence": 0.1490483
+      }, {
+        "latitudeE7": 228056809,
+        "longitudeE7": 862031228,
+        "placeId": "ChIJgwhF4A7j9TkRwqi5XpJh4LE",
+        "address": "shopper square, beside delhi darbaar, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Shoppers Square",
+        "locationConfidence": 0.12910898
+      }, {
+        "latitudeE7": 228068184,
+        "longitudeE7": 862034418,
+        "placeId": "ChIJqdBNKQ_j9TkRJacyHaLBuWs",
+        "address": "Shree Medicals, Aastha Apartments, Bhatia Basti, Kadma, Jamshedpur, Jharkhand 831005, India",
+        "name": "Dr A B Bhatta Mishra",
+        "locationConfidence": 0.10606875
+      }, {
+        "latitudeE7": 228058560,
+        "longitudeE7": 862029510,
+        "placeId": "ChIJ5ehI3g7j9TkR8GL3hGyNriE",
+        "name": "KARVY",
+        "locationConfidence": 0.098763555
+      }, {
+        "latitudeE7": 228059199,
+        "longitudeE7": 862034837,
+        "placeId": "ChIJGWkbSQ_j9TkRgP64MKqlCH8",
+        "address": "52-A, Near Kanchan Hotel, Thakur Bari Road, Sakchi, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Dr Umesh Khan",
+        "locationConfidence": 0.09417693
+      }, {
+        "latitudeE7": 228066469,
+        "longitudeE7": 862034310,
+        "placeId": "ChIJZbXRKA_j9TkRM2PLYIUt09M",
+        "address": "G-16,Taj Building, Masjid Road, White Rose Restaurant, 30 SNP Area, Ambagan, Sakchi, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Mobile City",
+        "locationConfidence": 0.09055138
+      }, {
+        "latitudeE7": 228061047,
+        "longitudeE7": 862032071,
+        "placeId": "ChIJ1xe0IA_j9TkRTH6zYtHhw2I",
+        "name": "Dr. Amit Kumar Das",
+        "locationConfidence": 0.09034751
+      }, {
+        "latitudeE7": 228049259,
+        "longitudeE7": 862041100,
+        "placeId": "ChIJf1_eDQ_j9TkRHwiFNC8rWqY",
+        "address": "Shop No.2, Medical Line , Near Bank Of India, St.Mile Road,Sakchi, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Shaligram Sweets",
+        "locationConfidence": 0.08818346
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 77,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228053877,
+        "longitudeE7": 862033197
+      },
+      "endLocation": {
+        "latitudeE7": 228051682,
+        "longitudeE7": 862034647
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T10:14:05.764Z",
+        "endTimestamp": "2018-02-01T10:31:29.951Z"
+      },
+      "distance": 28,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 46.89461825360783
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 26.832444802544725
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 22.33413312178427
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228054332,
+          "lngE7": 862032165
+        }, {
+          "latE7": 228051433,
+          "lngE7": 862034530
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 228053877,
+        "longitudeE7": 862033197,
+        "placeId": "ChIJZfGBHg_j9TkRru4n59awKeQ",
+        "address": "Sakchi, Jamshedpur, East Singhbhum, Jharkhand 831001, India",
+        "name": "MIITJEE",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 89.987625
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T10:31:29.951Z",
+        "endTimestamp": "2018-02-01T12:33:12.516Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 228052551,
+      "centerLngE7": 862033410,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 228053665,
+        "longitudeE7": 862032852,
+        "placeId": "ChIJpzM9Gw_j9TkRL1cfptQPvzA",
+        "address": "41, Thakur Bari Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Ellora Complex",
+        "locationConfidence": 1.8367968
+      }, {
+        "latitudeE7": 228064385,
+        "longitudeE7": 862037569,
+        "placeId": "ChIJuWsdV2Pj9TkRz0cYnK5n2G8",
+        "address": "House No/291,Line No/09,, Community Care Center Road,, Bhalubasa,, Sakchi Purbi Singhbhum,, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Samsung Service Center",
+        "locationConfidence": 0.14836287
+      }, {
+        "latitudeE7": 228056809,
+        "longitudeE7": 862031228,
+        "placeId": "ChIJgwhF4A7j9TkRwqi5XpJh4LE",
+        "address": "shopper square, beside delhi darbaar, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Shoppers Square",
+        "locationConfidence": 0.14448862
+      }, {
+        "latitudeE7": 228049259,
+        "longitudeE7": 862041100,
+        "placeId": "ChIJf1_eDQ_j9TkRHwiFNC8rWqY",
+        "address": "Shop No.2, Medical Line , Near Bank Of India, St.Mile Road,Sakchi, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Shaligram Sweets",
+        "locationConfidence": 0.09684441
+      }, {
+        "latitudeE7": 228059199,
+        "longitudeE7": 862034837,
+        "placeId": "ChIJGWkbSQ_j9TkRgP64MKqlCH8",
+        "address": "52-A, Near Kanchan Hotel, Thakur Bari Road, Sakchi, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Dr Umesh Khan",
+        "locationConfidence": 0.09389094
+      }, {
+        "latitudeE7": 228066469,
+        "longitudeE7": 862034310,
+        "placeId": "ChIJZbXRKA_j9TkRM2PLYIUt09M",
+        "address": "G-16,Taj Building, Masjid Road, White Rose Restaurant, 30 SNP Area, Ambagan, Sakchi, SNP Area, Ambagan, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Mobile City",
+        "locationConfidence": 0.09202622
+      }, {
+        "latitudeE7": 228058560,
+        "longitudeE7": 862029510,
+        "placeId": "ChIJ5ehI3g7j9TkR8GL3hGyNriE",
+        "name": "KARVY",
+        "locationConfidence": 0.089746416
+      }, {
+        "latitudeE7": 228051970,
+        "longitudeE7": 862035949,
+        "placeId": "ChIJez4HGw_j9TkR-qzE7UtFXXU",
+        "address": "6, Shankar Bhavan, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Hindustan Stores",
+        "locationConfidence": 0.089150235
+      }, {
+        "latitudeE7": 228045773,
+        "longitudeE7": 862028272,
+        "placeId": "ChIJTbey_g7j9TkRlxAr7luUN7k",
+        "address": "Sakchi Market Rd, SNP Area, Sakchi, Jamshedpur, Jharkhand 831001, India",
+        "name": "Redington Mi Dealer",
+        "locationConfidence": 0.08903086
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 78,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228053877,
+        "longitudeE7": 862033197
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T12:33:12.516Z",
+        "endTimestamp": "2018-02-01T13:18:36.285Z"
+      },
+      "distance": 10190,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 77.84693303531071
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 18.341603902888657
+      }, {
+        "activityType": "WALKING",
+        "probability": 1.7447495294370559
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228054332,
+          "lngE7": 862032165
+        }, {
+          "latE7": 227993011,
+          "lngE7": 861728744
+        }, {
+          "latE7": 227996101,
+          "lngE7": 862104339
+        }, {
+          "latE7": 227999553,
+          "lngE7": 862264022
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227996239,
+          "lngE7": 862104773,
+          "accuracyMeters": 23,
+          "timestamp": "2018-02-01T12:42:20.160Z"
+        }, {
+          "latE7": 227998782,
+          "lngE7": 862262584,
+          "accuracyMeters": 68,
+          "timestamp": "2018-02-01T12:45:30.833Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 57.162926
+      },
+      "duration": {
+        "startTimestamp": "2018-02-01T13:18:36.285Z",
+        "endTimestamp": "2018-02-02T02:41:10.556Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707365,
+      "centerLngE7": 862610099,
+      "visitConfidence": 70,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 14.021245
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 11.015266
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.374294
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 3.42752
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.5083135
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.7394747
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.36101243
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.3473484
+      }, {
+        "latitudeE7": 227705187,
+        "longitudeE7": 862574370,
+        "placeId": "ChIJX2FLzwEI9jkRkILpjSW8aNU",
+        "name": "Telco",
+        "locationConfidence": 0.28344336
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227707365,
+        "longitudeE7": 862610099
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-02T02:41:10.556Z",
+        "endTimestamp": "2018-02-03T05:16:44.879Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227720093,
+          "lngE7": 862625997,
+          "accuracyMeters": 110,
+          "timestamp": "2018-02-02T03:25:22.573Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 26,
+          "timestamp": "2018-02-02T03:34:31.102Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 22,
+          "timestamp": "2018-02-03T00:50:03.562Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 39,
+          "timestamp": "2018-02-03T03:09:54.813Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 961.4927559969752
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-03T05:16:44.879Z",
+        "endTimestamp": "2018-02-03T06:08:09.772Z"
+      },
+      "distance": 108,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 41.81719241054135
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 39.95379584809564
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.50814781493694
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 55.48815
+      },
+      "duration": {
+        "startTimestamp": "2018-02-03T06:08:09.772Z",
+        "endTimestamp": "2018-02-03T11:12:49.920Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707170,
+      "centerLngE7": 862605032,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 14.960948
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.749488
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.6404147
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 4.120809
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 2.886697
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 0.66422844
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.6606034
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.43629614
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.3077423
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-03T11:12:49.920Z",
+        "endTimestamp": "2018-02-03T14:08:56.031Z"
+      },
+      "distance": 1563,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 45.45268292761067
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 31.55994743328555
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 15.69783701980585
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 62.106518
+      },
+      "duration": {
+        "startTimestamp": "2018-02-03T14:08:56.031Z",
+        "endTimestamp": "2018-02-04T04:19:25.298Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227708248,
+      "centerLngE7": 862606604,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 13.727315
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.400358
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 4.7935944
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 2.6475985
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 2.3089194
+      }, {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731,
+        "placeId": "ChIJAX_dnQEI9jkR0JdIgDsDGmA",
+        "address": "Kharangajhar Upadhyay Market Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hot N Spot",
+        "locationConfidence": 0.61650765
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.47462395
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.37880787
+      }, {
+        "latitudeE7": 227707430,
+        "longitudeE7": 862613333,
+        "placeId": "ChIJ1aNuMgEI9jkRwpqCg60TwOQ",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 0.37731338
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T04:19:25.298Z",
+        "endTimestamp": "2018-02-04T04:39:21.474Z"
+      },
+      "distance": 663,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 72.92668644380973
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 12.110097723518491
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.172850922236023
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "placeId": "ChIJC4vADgUI9jkR0S1vkHrzkwU",
+        "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Millennium Park",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 89.09431
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T04:39:21.474Z",
+        "endTimestamp": "2018-02-04T05:54:10.920Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227787079,
+      "centerLngE7": 862637386,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227789690,
+        "longitudeE7": 862641939,
+        "placeId": "ChIJr5c31RoI9jkRVPmjT6Uhea8",
+        "address": "Loyola B. Ed. College Road, 1B Birsanagar, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Manish Jewellery",
+        "locationConfidence": 1.7983809
+      }, {
+        "latitudeE7": 227788009,
+        "longitudeE7": 862637360,
+        "placeId": "ChIJSzVp0wQI9jkRF3nIWlPbDag",
+        "address": "Zone No.-1/B, Loyola B. Ed College Road, Pandey Complex, Birsanagar, Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Usha Tent \u0026 Decorator",
+        "locationConfidence": 1.0424793
+      }, {
+        "latitudeE7": 227786054,
+        "longitudeE7": 862637885,
+        "placeId": "ChIJI5r4TxAI9jkR9KXh8JIqf24",
+        "address": "Dhobi More, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Babu Halwai Food Zone",
+        "locationConfidence": 0.8052513
+      }, {
+        "latitudeE7": 227786647,
+        "longitudeE7": 862688675,
+        "placeId": "ChIJR8Uw1g8I9jkRPuivUpdE81U",
+        "address": "F-14/1, River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "River View Enclave",
+        "locationConfidence": 0.79450667
+      }, {
+        "latitudeE7": 227792351,
+        "longitudeE7": 862639668,
+        "placeId": "ChIJSdIzKhsI9jkR0uHIuEeSVqc",
+        "address": "Q7H7+MHW, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shitla Mandir Sadhudera",
+        "locationConfidence": 0.71622723
+      }, {
+        "latitudeE7": 227790112,
+        "longitudeE7": 862641786,
+        "placeId": "ChIJr5c31RoI9jkRVPmjT6Uhea8",
+        "address": "Loyola B. Ed. College Road, 1B Birsanagar, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Manish Store",
+        "locationConfidence": 0.6960624
+      }, {
+        "latitudeE7": 227772414,
+        "longitudeE7": 862617588,
+        "placeId": "ChIJGcQgpgQI9jkRU9HV5K6IvWU",
+        "address": "Birsanagar Zone No 1B, near Barbecue, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vidya Bharati Chinmaya Vidyalaya",
+        "locationConfidence": 0.522506
+      }, {
+        "latitudeE7": 227781154,
+        "longitudeE7": 862632430,
+        "placeId": "ChIJf32NxQQI9jkRoi1Ma-FjnOQ",
+        "address": "Infront Of K9, Double Road, beside Goldy Stores, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bharat Cyber \u0026 Mobile",
+        "locationConfidence": 0.2382735
+      }, {
+        "latitudeE7": 227781006,
+        "longitudeE7": 862631400,
+        "placeId": "ChIJAyEJxgQI9jkRjcM7J_nhT9I",
+        "address": "Road, Zone Number 1/B, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilanchal Salon",
+        "locationConfidence": 0.23270175
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 76,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T05:54:10.920Z",
+        "endTimestamp": "2018-02-04T07:14:00.463Z"
+      },
+      "distance": 938,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 68.26023127101031
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.699403680145526
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.512894927182918
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 59.016945
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T07:14:00.463Z",
+        "endTimestamp": "2018-02-04T08:02:24.325Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227707875,
+      "centerLngE7": 862612269,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 13.750907
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 10.4649935
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 4.045365
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 1.8678162
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.4833791
+      }, {
+        "latitudeE7": 227707430,
+        "longitudeE7": 862613333,
+        "placeId": "ChIJ1aNuMgEI9jkRwpqCg60TwOQ",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 0.9855877
+      }, {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731,
+        "placeId": "ChIJAX_dnQEI9jkR0JdIgDsDGmA",
+        "address": "Kharangajhar Upadhyay Market Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hot N Spot",
+        "locationConfidence": 0.64930993
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.6038475
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.5602137
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T08:02:24.325Z",
+        "endTimestamp": "2018-02-04T09:19:22.577Z"
+      },
+      "distance": 2985,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 81.85121586784446
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 14.625095819827619
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.4131663109181307
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 1885
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-04T09:19:22.577Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 61.93627
+      },
+      "duration": {
+        "startTimestamp": "2018-02-04T09:19:22.577Z",
+        "endTimestamp": "2018-02-05T04:31:53.586Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227708964,
+      "centerLngE7": 862607278,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 13.055055
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.574402
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.085705
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 2.4612544
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 2.3156703
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.5885918
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.52287906
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.4480102
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.3917666
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T04:31:53.586Z",
+        "endTimestamp": "2018-02-05T04:51:25.738Z"
+      },
+      "distance": 950,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 82.10942656759585
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.411425580431326
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.266390194615176
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "placeId": "ChIJC4vADgUI9jkR0S1vkHrzkwU",
+        "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Millennium Park",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 84.03952
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T04:51:25.738Z",
+        "endTimestamp": "2018-02-05T07:06:34.446Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227786574,
+      "centerLngE7": 862642138,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227788009,
+        "longitudeE7": 862637360,
+        "placeId": "ChIJSzVp0wQI9jkRF3nIWlPbDag",
+        "address": "Zone No.-1/B, Loyola B. Ed College Road, Pandey Complex, Birsanagar, Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Usha Tent \u0026 Decorator",
+        "locationConfidence": 2.8413858
+      }, {
+        "latitudeE7": 227786054,
+        "longitudeE7": 862637885,
+        "placeId": "ChIJI5r4TxAI9jkR9KXh8JIqf24",
+        "address": "Dhobi More, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Babu Halwai Food Zone",
+        "locationConfidence": 1.6735593
+      }, {
+        "latitudeE7": 227789690,
+        "longitudeE7": 862641939,
+        "placeId": "ChIJr5c31RoI9jkRVPmjT6Uhea8",
+        "address": "Loyola B. Ed. College Road, 1B Birsanagar, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Manish Jewellery",
+        "locationConfidence": 1.5555576
+      }, {
+        "latitudeE7": 227772414,
+        "longitudeE7": 862617588,
+        "placeId": "ChIJGcQgpgQI9jkRU9HV5K6IvWU",
+        "address": "Birsanagar Zone No 1B, near Barbecue, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vidya Bharati Chinmaya Vidyalaya",
+        "locationConfidence": 1.3926302
+      }, {
+        "latitudeE7": 227786647,
+        "longitudeE7": 862688675,
+        "placeId": "ChIJR8Uw1g8I9jkRPuivUpdE81U",
+        "address": "F-14/1, River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "River View Enclave",
+        "locationConfidence": 1.2264224
+      }, {
+        "latitudeE7": 227781154,
+        "longitudeE7": 862632430,
+        "placeId": "ChIJf32NxQQI9jkRoi1Ma-FjnOQ",
+        "address": "Infront Of K9, Double Road, beside Goldy Stores, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bharat Cyber \u0026 Mobile",
+        "locationConfidence": 0.36436886
+      }, {
+        "latitudeE7": 227781006,
+        "longitudeE7": 862631400,
+        "placeId": "ChIJAyEJxgQI9jkRjcM7J_nhT9I",
+        "address": "Road, Zone Number 1/B, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilanchal Salon",
+        "locationConfidence": 0.3403921
+      }, {
+        "latitudeE7": 227792351,
+        "longitudeE7": 862639668,
+        "placeId": "ChIJSdIzKhsI9jkR0uHIuEeSVqc",
+        "address": "Q7H7+MHW, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shitla Mandir Sadhudera",
+        "locationConfidence": 0.31523648
+      }, {
+        "latitudeE7": 227782685,
+        "longitudeE7": 862634415,
+        "placeId": "ChIJi2oq0AQI9jkRsIjZZQfpasY",
+        "address": "Shivam Complex, B.Ed College Road, Sadhudera, Birsanagar, Telco Colony, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shivam Collection",
+        "locationConfidence": 0.27013415
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T07:06:34.446Z",
+        "endTimestamp": "2018-02-05T07:45:14.607Z"
+      },
+      "distance": 291,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 82.3043680945137
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.285212376802004
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.1164169191285565
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 54.90602
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T07:45:14.607Z",
+        "endTimestamp": "2018-02-05T10:30:06.854Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707390,
+      "centerLngE7": 862604275,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 17.44972
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 7.554244
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 6.1016464
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.655492
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.5614437
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 0.88168675
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.5399968
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.3398685
+      }, {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731,
+        "placeId": "ChIJAX_dnQEI9jkR0JdIgDsDGmA",
+        "address": "Kharangajhar Upadhyay Market Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hot N Spot",
+        "locationConfidence": 0.15916272
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T10:30:06.854Z",
+        "endTimestamp": "2018-02-05T10:51:36.298Z"
+      },
+      "distance": 1140,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 80.76380357653038
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 8.50389516244428
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.411443457539919
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "placeId": "ChIJC4vADgUI9jkR0S1vkHrzkwU",
+        "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Millennium Park",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 83.652664
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T10:51:36.298Z",
+        "endTimestamp": "2018-02-05T11:46:04.350Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227786520,
+      "centerLngE7": 862636380,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227786054,
+        "longitudeE7": 862637885,
+        "placeId": "ChIJI5r4TxAI9jkR9KXh8JIqf24",
+        "address": "Dhobi More, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Babu Halwai Food Zone",
+        "locationConfidence": 3.8420687
+      }, {
+        "latitudeE7": 227788009,
+        "longitudeE7": 862637360,
+        "placeId": "ChIJSzVp0wQI9jkRF3nIWlPbDag",
+        "address": "Zone No.-1/B, Loyola B. Ed College Road, Pandey Complex, Birsanagar, Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Usha Tent \u0026 Decorator",
+        "locationConfidence": 2.921534
+      }, {
+        "latitudeE7": 227786641,
+        "longitudeE7": 862637298,
+        "placeId": "ChIJ9a2W0wQI9jkRFNzN1fDQR0c",
+        "address": "Q7H7+FF9, Zone 1B, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Panday Complex",
+        "locationConfidence": 1.1508543
+      }, {
+        "latitudeE7": 227772414,
+        "longitudeE7": 862617588,
+        "placeId": "ChIJGcQgpgQI9jkRU9HV5K6IvWU",
+        "address": "Birsanagar Zone No 1B, near Barbecue, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vidya Bharati Chinmaya Vidyalaya",
+        "locationConfidence": 1.095154
+      }, {
+        "latitudeE7": 227785710,
+        "longitudeE7": 862635780,
+        "placeId": "ChIJ60Ak0gQI9jkRxlOlkM2UVCA",
+        "address": "Zone no.1B,, Loyal B.Ed College Road, Birsanagar , Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vishwakarma\u0027s Pathology Laboratory",
+        "locationConfidence": 0.58856255
+      }, {
+        "latitudeE7": 227781154,
+        "longitudeE7": 862632430,
+        "placeId": "ChIJf32NxQQI9jkRoi1Ma-FjnOQ",
+        "address": "Infront Of K9, Double Road, beside Goldy Stores, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bharat Cyber \u0026 Mobile",
+        "locationConfidence": 0.5820266
+      }, {
+        "latitudeE7": 227786647,
+        "longitudeE7": 862688675,
+        "placeId": "ChIJR8Uw1g8I9jkRPuivUpdE81U",
+        "address": "F-14/1, River View, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "River View Enclave",
+        "locationConfidence": 0.3960926
+      }, {
+        "latitudeE7": 227781006,
+        "longitudeE7": 862631400,
+        "placeId": "ChIJAyEJxgQI9jkRjcM7J_nhT9I",
+        "address": "Road, Zone Number 1/B, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilanchal Salon",
+        "locationConfidence": 0.2842932
+      }, {
+        "latitudeE7": 227781099,
+        "longitudeE7": 862633134,
+        "placeId": "ChIJf32NxQQI9jkRCkaGtl7yxak",
+        "address": "Q7H7+68R, Near K9, Prakash Nagar, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Goldi Store",
+        "locationConfidence": 0.26915923
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 70,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T11:46:04.350Z",
+        "endTimestamp": "2018-02-05T12:28:03.447Z"
+      },
+      "distance": 813,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 74.2567578947206
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 11.233207265428995
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.696407294209704
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-05T12:28:03.447Z",
+        "endTimestamp": "2018-02-06T14:07:47.236Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 72,
+          "timestamp": "2018-02-05T12:32:04.648Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 21,
+          "timestamp": "2018-02-06T12:34:15.249Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 60,
+          "timestamp": "2018-02-06T12:44:35.288Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 45,
+          "timestamp": "2018-02-06T12:46:35.744Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 98,
+          "timestamp": "2018-02-06T13:03:29.563Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 871.8113953901845
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-06T14:07:47.236Z",
+        "endTimestamp": "2018-02-06T15:01:27.261Z"
+      },
+      "distance": 16271,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 62.295437455224864
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.60165295426702
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.348436874795339
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 110
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-06T15:01:27.261Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-06T15:01:27.261Z",
+        "endTimestamp": "2018-02-08T04:29:02.895Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 110,
+          "timestamp": "2018-02-06T15:01:27.261Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 20,
+          "timestamp": "2018-02-06T15:21:23.203Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-07T05:29:56.970Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 68,
+          "timestamp": "2018-02-07T09:40:19.591Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 56,
+          "timestamp": "2018-02-07T09:47:30.672Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605713,
+          "accuracyMeters": 23,
+          "timestamp": "2018-02-07T09:49:28.799Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-07T10:09:32.574Z"
+        }, {
+          "latE7": 227711856,
+          "lngE7": 862584080,
+          "accuracyMeters": 72,
+          "timestamp": "2018-02-07T10:11:35.011Z"
+        }, {
+          "latE7": 227690392,
+          "lngE7": 862580807,
+          "accuracyMeters": 92,
+          "timestamp": "2018-02-07T10:14:36.300Z"
+        }, {
+          "latE7": 227711856,
+          "lngE7": 862584080,
+          "accuracyMeters": 87,
+          "timestamp": "2018-02-07T10:18:14.288Z"
+        }, {
+          "latE7": 227699254,
+          "lngE7": 862616228,
+          "accuracyMeters": 104,
+          "timestamp": "2018-02-07T10:58:42.432Z"
+        }, {
+          "latE7": 227706543,
+          "lngE7": 862600989,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-07T11:00:42.476Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2503.2708836802035
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "duration": {
+        "startTimestamp": "2018-02-08T04:29:02.895Z",
+        "endTimestamp": "2018-02-08T06:22:42.645Z"
+      },
+      "distance": 13739,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 41.413845338571385
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.929990823378745
+      }, {
+        "activityType": "WALKING",
+        "probability": 24.176331210206502
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227763450,
+          "longitudeE7": 862650596,
+          "accuracyMetres": 98
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-08T06:22:42.645Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596,
+        "placeId": "ChIJC4vADgUI9jkR0S1vkHrzkwU",
+        "address": "River View, Prakash Nagar, Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Millennium Park",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 92.03678
+      },
+      "duration": {
+        "startTimestamp": "2018-02-08T06:22:42.645Z",
+        "endTimestamp": "2018-02-08T06:51:19.826Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 227783545,
+      "centerLngE7": 862639216,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227786054,
+        "longitudeE7": 862637885,
+        "placeId": "ChIJI5r4TxAI9jkR9KXh8JIqf24",
+        "address": "Dhobi More, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Babu Halwai Food Zone",
+        "locationConfidence": 1.2916399
+      }, {
+        "latitudeE7": 227792351,
+        "longitudeE7": 862639668,
+        "placeId": "ChIJSdIzKhsI9jkR0uHIuEeSVqc",
+        "address": "Q7H7+MHW, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shitla Mandir Sadhudera",
+        "locationConfidence": 0.54017806
+      }, {
+        "latitudeE7": 227781154,
+        "longitudeE7": 862632430,
+        "placeId": "ChIJf32NxQQI9jkRoi1Ma-FjnOQ",
+        "address": "Infront Of K9, Double Road, beside Goldy Stores, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bharat Cyber \u0026 Mobile",
+        "locationConfidence": 0.506836
+      }, {
+        "latitudeE7": 227782685,
+        "longitudeE7": 862634415,
+        "placeId": "ChIJi2oq0AQI9jkRsIjZZQfpasY",
+        "address": "Shivam Complex, B.Ed College Road, Sadhudera, Birsanagar, Telco Colony, Prakash Nagar, Ghorabandha, Jamshedpur, Jharkhand 831019, India",
+        "name": "Shivam Collection",
+        "locationConfidence": 0.39557144
+      }, {
+        "latitudeE7": 227781006,
+        "longitudeE7": 862631400,
+        "placeId": "ChIJAyEJxgQI9jkRjcM7J_nhT9I",
+        "address": "Road, Zone Number 1/B, Prakash Nagar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nilanchal Salon",
+        "locationConfidence": 0.37336773
+      }, {
+        "latitudeE7": 227788009,
+        "longitudeE7": 862637360,
+        "placeId": "ChIJSzVp0wQI9jkRF3nIWlPbDag",
+        "address": "Zone No.-1/B, Loyola B. Ed College Road, Pandey Complex, Birsanagar, Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831019, India",
+        "name": "Usha Tent \u0026 Decorator",
+        "locationConfidence": 0.35101962
+      }, {
+        "latitudeE7": 227781099,
+        "longitudeE7": 862633134,
+        "placeId": "ChIJf32NxQQI9jkRCkaGtl7yxak",
+        "address": "Q7H7+68R, Near K9, Prakash Nagar, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Goldi Store",
+        "locationConfidence": 0.31332552
+      }, {
+        "latitudeE7": 227781735,
+        "longitudeE7": 862632332,
+        "placeId": "ChIJ2yxezwQI9jkRa4ejhZL69dA",
+        "address": "infront of, k 9, near goldy store, River View, Sadhudera, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Supreme Tent Light \u0026 Decorator And Recharge Xerox",
+        "locationConfidence": 0.17743285
+      }, {
+        "latitudeE7": 227785710,
+        "longitudeE7": 862635780,
+        "placeId": "ChIJ60Ak0gQI9jkRxlOlkM2UVCA",
+        "address": "Zone no.1B,, Loyal B.Ed College Road, Birsanagar , Telco, Sadhudera, Birsanagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vishwakarma\u0027s Pathology Laboratory",
+        "locationConfidence": 0.17573124
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 80,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227763450,
+        "longitudeE7": 862650596
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-08T06:51:19.826Z",
+        "endTimestamp": "2018-02-08T06:58:11.580Z"
+      },
+      "distance": 96,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 82.17439712466718
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 8.065771324933587
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 7.732346153857534
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227762374,
+          "lngE7": 862655258
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 228043368,
+        "longitudeE7": 862200567
+      },
+      "duration": {
+        "startTimestamp": "2018-02-08T06:58:11.580Z",
+        "endTimestamp": "2018-02-09T05:26:53.201Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 60,
+          "timestamp": "2018-02-08T07:36:14.391Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 5661.700923868407
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228043368,
+        "longitudeE7": 862200567
+      },
+      "endLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "duration": {
+        "startTimestamp": "2018-02-09T05:26:53.201Z",
+        "endTimestamp": "2018-02-09T05:34:07.910Z"
+      },
+      "distance": 5556,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 46.234610304030745
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 40.507245235088575
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.238791072154804
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228043575,
+          "lngE7": 862199707
+        }, {
+          "latE7": 227706623,
+          "lngE7": 862601013
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "endLocation": {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480
+      },
+      "duration": {
+        "startTimestamp": "2018-02-09T05:34:07.910Z",
+        "endTimestamp": "2018-02-10T10:25:47.912Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227722254,
+          "lngE7": 862592088,
+          "accuracyMeters": 34,
+          "timestamp": "2018-02-09T12:59:45.160Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 36,
+          "timestamp": "2018-02-09T20:19:49.166Z"
+        }, {
+          "latE7": 227722783,
+          "lngE7": 862605700,
+          "accuracyMeters": 24,
+          "timestamp": "2018-02-10T01:29:47.086Z"
+        }, {
+          "latE7": 227716817,
+          "lngE7": 862588772,
+          "accuracyMeters": 36,
+          "timestamp": "2018-02-10T05:57:45.185Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 110,
+          "timestamp": "2018-02-10T08:28:44.375Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1156.7357130789233
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-10T10:25:47.912Z",
+        "endTimestamp": "2018-02-10T12:00:01.842Z"
+      },
+      "distance": 2012,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 49.4828003856209
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 42.29415846871511
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.4278881988251175
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227721996,
+          "lngE7": 862593383
+        }, {
+          "latE7": 227787322,
+          "lngE7": 862633666
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227787215,
+          "lngE7": 862639294,
+          "accuracyMeters": 98,
+          "timestamp": "2018-02-10T11:00:19.172Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 98
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-10T12:00:01.842Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 55.553905
+      },
+      "duration": {
+        "startTimestamp": "2018-02-10T12:00:01.842Z",
+        "endTimestamp": "2018-02-11T10:24:34.740Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227708511,
+      "centerLngE7": 862607493,
+      "visitConfidence": 83,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 16.30381
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 11.094133
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.3726587
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 2.8110309
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 2.743695
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.38509002
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.3742835
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.36839357
+      }, {
+        "latitudeE7": 227707430,
+        "longitudeE7": 862613333,
+        "placeId": "ChIJ1aNuMgEI9jkRwpqCg60TwOQ",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 0.3359846
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227977040,
+        "longitudeE7": 861842880
+      },
+      "duration": {
+        "startTimestamp": "2018-02-11T10:24:34.740Z",
+        "endTimestamp": "2018-02-11T14:18:37.087Z"
+      },
+      "distance": 4321,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 69.25385817438806
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.621583150988393
+      }, {
+        "activityType": "WALKING",
+        "probability": 6.543629511404767
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227977046,
+          "lngE7": 861841506
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227977040,
+          "longitudeE7": 861842880,
+          "accuracyMetres": 48
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-11T14:18:37.087Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227977040,
+        "longitudeE7": 861842880,
+        "placeId": "ChIJYzCbnmXj9TkRFxJa5JqkkoE",
+        "address": "Dcosta Mansion, Main Road Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Brubeck Bakery - Cake Shops",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 26.126623
+      },
+      "duration": {
+        "startTimestamp": "2018-02-11T14:18:37.087Z",
+        "endTimestamp": "2018-02-11T14:42:40.797Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227975900,
+      "centerLngE7": 861837350,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227982284,
+        "longitudeE7": 861839717,
+        "placeId": "ChIJiTAJEgXj9TkRXEibUPXe7FI",
+        "address": "4, Aditya Tower, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Blooms",
+        "locationConfidence": 18.982796
+      }, {
+        "latitudeE7": 227975499,
+        "longitudeE7": 861817690,
+        "placeId": "ChIJAxsEX2Tj9TkRAThKJ8bWTgc",
+        "address": "Q5XJ+4H2, Kharkai Link Rd, Contractors Area, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Narbheram Hansraj English School",
+        "locationConfidence": 9.4363985
+      }, {
+        "latitudeE7": 227960097,
+        "longitudeE7": 861838177,
+        "placeId": "ChIJ7RhSx2Xj9TkRlZ3dvhhTwsY",
+        "address": "PLOT NO - H1/5, Bombay Tower, J Road, beside Natraj Cinema, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Trends",
+        "locationConfidence": 8.637023
+      }, {
+        "latitudeE7": 227984351,
+        "longitudeE7": 861838230,
+        "placeId": "ChIJO77_C2Xj9TkRLt7r4FrzQMw",
+        "address": "Bharucha Mansion, Kharkai Link Rd, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Cafe Regal",
+        "locationConfidence": 6.8706107
+      }, {
+        "latitudeE7": 227958700,
+        "longitudeE7": 861842999,
+        "placeId": "ChIJ-SXL6GXj9TkR2SIJ_lGZYt4",
+        "address": "Shop No. 4, Yashkamal Complex, Bistupur, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "The Mobile Store",
+        "locationConfidence": 0.8588516
+      }, {
+        "latitudeE7": 227960970,
+        "longitudeE7": 861832800,
+        "placeId": "ChIJCb3uy2Xj9TkRQQ74UUS-ztY",
+        "address": "Pratap Tower, J Rd, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Agarwal Book Store",
+        "locationConfidence": 0.772161
+      }, {
+        "latitudeE7": 227959918,
+        "longitudeE7": 861843283,
+        "placeId": "ChIJcete6WXj9TkR33ib8bw9PJk",
+        "address": "Shop No 3, Yashkamal Complex, Main Road, beside Steel City Hospital, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "PUMA Store",
+        "locationConfidence": 0.6980181
+      }, {
+        "latitudeE7": 227955838,
+        "longitudeE7": 861844075,
+        "placeId": "ChIJ9xHj5WXj9TkR-_8skoUb9E8",
+        "name": "Samsung Smart Cafe",
+        "locationConfidence": 0.68127096
+      }, {
+        "latitudeE7": 227958162,
+        "longitudeE7": 861844558,
+        "placeId": "ChIJtUCTRgevJzoRhHSYkCS-APA",
+        "address": "Shop No 12A, Yash Kamal Complex, Main Road Below Steel City Nursing, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Lenskart",
+        "locationConfidence": 0.674314
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 22,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227977040,
+        "longitudeE7": 861842880
+      },
+      "endLocation": {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731
+      },
+      "duration": {
+        "startTimestamp": "2018-02-11T14:42:40.797Z",
+        "endTimestamp": "2018-02-11T15:09:09.441Z"
+      },
+      "distance": 3869,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 77.17671763375384
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.987106605425726
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.583477850140488
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227977046,
+          "lngE7": 861841506
+        }, {
+          "latE7": 227716712,
+          "lngE7": 862587966
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227716870,
+          "longitudeE7": 862587731,
+          "accuracyMetres": 68
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-11T15:09:09.441Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-11T15:09:09.441Z",
+        "endTimestamp": "2018-02-12T12:07:39.816Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227722783,
+          "lngE7": 862605700,
+          "accuracyMeters": 20,
+          "timestamp": "2018-02-11T15:49:55.965Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 430.22553268258895
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227712572,
+        "longitudeE7": 862637817
+      },
+      "duration": {
+        "startTimestamp": "2018-02-12T12:07:39.816Z",
+        "endTimestamp": "2018-02-12T13:11:37.558Z"
+      },
+      "distance": 170,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 50.22741722926354
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 24.024488440148797
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.71164297852712
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227711811,
+          "lngE7": 862637786
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227712572,
+        "longitudeE7": 862637817,
+        "placeId": "ChIJO9698wYI9jkR3d_h94yEG4w",
+        "address": "Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Shree Siddhivinayak Cyber Cafe",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 85.93921
+      },
+      "duration": {
+        "startTimestamp": "2018-02-12T13:11:37.558Z",
+        "endTimestamp": "2018-02-12T14:27:13.810Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227709480,
+      "centerLngE7": 862626518,
+      "visitConfidence": 65,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227715847,
+        "longitudeE7": 862640458,
+        "placeId": "ChIJ_eWVigYI9jkRMVYirFpE9jM",
+        "address": "Q7C7+JJM, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Shamsher Residency",
+        "locationConfidence": 3.5831268
+      }, {
+        "latitudeE7": 227711954,
+        "longitudeE7": 862637683,
+        "placeId": "ChIJSWbz8wYI9jkRDj0d3K2y188",
+        "address": "Q7C7+FGR, Unnamed Road, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bank Of Baroda Kios Bank",
+        "locationConfidence": 3.3106782
+      }, {
+        "latitudeE7": 227709840,
+        "longitudeE7": 862643853,
+        "placeId": "ChIJH4J5WQYI9jkRtViKQm4YiMw",
+        "address": "Q7C7+9QR, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Radha Krishna Mandir",
+        "locationConfidence": 2.037881
+      }, {
+        "latitudeE7": 227721880,
+        "longitudeE7": 862622040,
+        "placeId": "ChIJQ_kRzqD08jkRMWpIhu-byIQ",
+        "name": "Rony Fancy Store",
+        "locationConfidence": 1.384106
+      }, {
+        "latitudeE7": 227710918,
+        "longitudeE7": 862635762,
+        "placeId": "ChIJyZmH8QYI9jkRaBbOwnpVcc8",
+        "address": "House no, 8, Kranti Rd, near RADHA KRISHNA MANDIR, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sheela\u0027s Ladies Beauty Parlour",
+        "locationConfidence": 0.8554834
+      }, {
+        "latitudeE7": 227710031,
+        "longitudeE7": 862640962,
+        "placeId": "ChIJQS8h9gYI9jkRCwIH_QLb2xs",
+        "address": "Q7C7+CM2, Near Radha Krishna Mandir, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Ajay Genral Store",
+        "locationConfidence": 0.41333017
+      }, {
+        "latitudeE7": 227708464,
+        "longitudeE7": 862641412,
+        "placeId": "ChIJG-xyWAYI9jkRs5u5j6O6lPI",
+        "address": "Q7C7+8JQ, Kharangajhar Main Rd, Radhika Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Thakur Xerox",
+        "locationConfidence": 0.24165286
+      }, {
+        "latitudeE7": 227694490,
+        "longitudeE7": 862658507,
+        "placeId": "ChIJxYIHzwcI9jkRwX5C8mZjqWA",
+        "address": "Q798+Q9C, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "P.S Apartment",
+        "locationConfidence": 0.19761813
+      }, {
+        "latitudeE7": 227702250,
+        "longitudeE7": 862642599,
+        "placeId": "ChIJz-OsVQYI9jkRFwrtg89ON7U",
+        "address": "Bari Nagar Main Rd, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Zam- Zam Medical Store",
+        "locationConfidence": 0.17009331
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 72,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227712572,
+        "longitudeE7": 862637817
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-12T14:27:13.810Z",
+        "endTimestamp": "2018-02-12T14:50:35.945Z"
+      },
+      "distance": 57,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 40.37219945785261
+      }, {
+        "activityType": "WALKING",
+        "probability": 35.61609406838677
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 19.696681566801757
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227711811,
+          "lngE7": 862637786
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 42
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-12T14:50:35.945Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-12T14:50:35.945Z",
+        "endTimestamp": "2018-02-14T05:45:20.717Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 116,
+          "timestamp": "2018-02-12T14:57:41.172Z"
+        }, {
+          "latE7": 227722783,
+          "lngE7": 862605700,
+          "accuracyMeters": 20,
+          "timestamp": "2018-02-12T23:50:21.462Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 24,
+          "timestamp": "2018-02-13T06:15:05.241Z"
+        }, {
+          "latE7": 227722783,
+          "lngE7": 862605700,
+          "accuracyMeters": 24,
+          "timestamp": "2018-02-14T00:50:28.427Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 110,
+          "timestamp": "2018-02-14T03:02:28.205Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 871.0609217630824
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-14T05:45:20.717Z",
+        "endTimestamp": "2018-02-14T06:02:36.566Z"
+      },
+      "distance": 507,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 64.79387709704407
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 24.52708912672436
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 5.3533897073885255
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-14T06:02:36.566Z",
+        "endTimestamp": "2018-02-15T14:45:40.336Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 72,
+          "timestamp": "2018-02-14T06:02:36.566Z"
+        }, {
+          "latE7": 227710093,
+          "lngE7": 862591301,
+          "accuracyMeters": 23,
+          "timestamp": "2018-02-14T12:41:33.010Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 34,
+          "timestamp": "2018-02-14T13:12:37.232Z"
+        }, {
+          "latE7": 227717483,
+          "lngE7": 862589111,
+          "accuracyMeters": 25,
+          "timestamp": "2018-02-15T14:33:59.901Z"
+        }, {
+          "latE7": 227708624,
+          "lngE7": 862582171,
+          "accuracyMeters": 116,
+          "timestamp": "2018-02-15T14:36:10.740Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 729.0587865050472
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-15T14:45:40.336Z",
+        "endTimestamp": "2018-02-15T15:48:32.026Z"
+      },
+      "distance": 1065,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 43.51081987250213
+      }, {
+        "activityType": "WALKING",
+        "probability": 42.109619527112315
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 6.698448250371719
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 98
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-15T15:48:32.026Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 56.520298
+      },
+      "duration": {
+        "startTimestamp": "2018-02-15T15:48:32.026Z",
+        "endTimestamp": "2018-02-16T04:18:19.753Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707777,
+      "centerLngE7": 862605549,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 15.86613
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 10.899633
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 3.967806
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 1.923179
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.417604
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 1.0480332
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.9765644
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.4235206
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.39945564
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T04:18:19.753Z",
+        "endTimestamp": "2018-02-16T06:51:10.022Z"
+      },
+      "distance": 3060,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 48.98867488488469
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 23.385502882617516
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.889261575286728
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 56.736465
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T06:51:10.022Z",
+        "endTimestamp": "2018-02-16T07:48:50.192Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227707203,
+      "centerLngE7": 862603168,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 17.536089
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.584586
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.7701
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 3.353943
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.4576281
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 0.7242191
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.47468555
+      }, {
+        "latitudeE7": 227709181,
+        "longitudeE7": 862609886,
+        "placeId": "ChIJrwyRMAEI9jkR3R3j9g9kgtc",
+        "address": "Q7C6+999, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vikash Maidan",
+        "locationConfidence": 0.33028287
+      }, {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731,
+        "placeId": "ChIJAX_dnQEI9jkR0JdIgDsDGmA",
+        "address": "Kharangajhar Upadhyay Market Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hot N Spot",
+        "locationConfidence": 0.20680813
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227982284,
+        "longitudeE7": 861839717
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T07:48:50.192Z",
+        "endTimestamp": "2018-02-16T09:41:22.383Z"
+      },
+      "distance": 7971,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 70.2639615116488
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 20.44857819862497
+      }, {
+        "activityType": "WALKING",
+        "probability": 4.434555832012954
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227982292,
+          "lngE7": 861840667
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227982284,
+          "longitudeE7": 861839717,
+          "accuracyMetres": 82
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-16T09:41:22.383Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227982284,
+        "longitudeE7": 861839717,
+        "placeId": "ChIJiTAJEgXj9TkRXEibUPXe7FI",
+        "address": "Top Floor, Aditya Town , Main road, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Blooms",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 31.080956
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T09:41:22.383Z",
+        "endTimestamp": "2018-02-16T10:04:56.395Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227974450,
+      "centerLngE7": 861836900,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227977040,
+        "longitudeE7": 861842880,
+        "placeId": "ChIJYzCbnmXj9TkRFxJa5JqkkoE",
+        "address": "D’Costa Mansion, Main Road, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Brubeck Bakery - Cake Shops",
+        "locationConfidence": 19.827719
+      }, {
+        "latitudeE7": 227969540,
+        "longitudeE7": 861843750,
+        "placeId": "ChIJ41_ymWXj9TkRe931Ghhl6F8",
+        "address": "Main Rd, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Citi Style",
+        "locationConfidence": 9.108807
+      }, {
+        "latitudeE7": 227975499,
+        "longitudeE7": 861817690,
+        "placeId": "ChIJAxsEX2Tj9TkRAThKJ8bWTgc",
+        "address": "Q5XJ+4H2, Kharkai Link Rd, Contractors Area, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Narbheram Hansraj English School",
+        "locationConfidence": 5.587527
+      }, {
+        "latitudeE7": 227984373,
+        "longitudeE7": 861842357,
+        "placeId": "ChIJ9asudGXj9TkR5TDs8Xv1MbM",
+        "address": "Regal Chowk, Bistupur Main Rd, behind Boulevard Hotel, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Bistupur Police Station",
+        "locationConfidence": 3.5414064
+      }, {
+        "latitudeE7": 227978390,
+        "longitudeE7": 861843950,
+        "placeId": "ChIJWcZznmXj9TkR1i7jQrf8W9I",
+        "address": "D’Costa Mansion, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "The Boulevard Hotel",
+        "locationConfidence": 3.2715893
+      }, {
+        "latitudeE7": 227975910,
+        "longitudeE7": 861842874,
+        "placeId": "ChIJWRZ5nmXj9TkRrqD0zCrD5b8",
+        "address": "Hotel Boulevard, D’Costa Mansion, Bistupur Main Rd, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Cafe Coffee Day",
+        "locationConfidence": 2.9709246
+      }, {
+        "latitudeE7": 227952673,
+        "longitudeE7": 861840132,
+        "placeId": "ChIJvZvh3WXj9TkRo8pGmWa8yBo",
+        "name": "Tata Docomo Exclusive Store",
+        "locationConfidence": 0.6689113
+      }, {
+        "latitudeE7": 227958700,
+        "longitudeE7": 861842999,
+        "placeId": "ChIJ-SXL6GXj9TkR2SIJ_lGZYt4",
+        "address": "Shop No. 4, Yashkamal Complex, Bistupur, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "The Mobile Store",
+        "locationConfidence": 0.58513874
+      }, {
+        "latitudeE7": 227955689,
+        "longitudeE7": 861845738,
+        "placeId": "ChIJsfZz5WXj9TkRkowxW7tIEx0",
+        "address": "Tata - Hata Main Rd, Bistupur, Jamshedpur, Jharkhand 831001, India",
+        "name": "Canon",
+        "locationConfidence": 0.5620314
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 27,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227982284,
+        "longitudeE7": 861839717
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T10:04:56.395Z",
+        "endTimestamp": "2018-02-16T11:06:48.676Z"
+      },
+      "distance": 3611,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 59.280794429442054
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 29.847375791995724
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.139723715576888
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227982292,
+          "lngE7": 861840667
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 92
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-16T11:06:48.676Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480
+      },
+      "duration": {
+        "startTimestamp": "2018-02-16T11:06:48.676Z",
+        "endTimestamp": "2018-02-18T04:03:35.155Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 122,
+          "timestamp": "2018-02-16T11:48:31.469Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 253.59448727040635
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480
+      },
+      "endLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "duration": {
+        "startTimestamp": "2018-02-18T04:03:35.155Z",
+        "endTimestamp": "2018-02-18T04:30:11.048Z"
+      },
+      "distance": 960,
+      "activityType": "WALKING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 48.88433320120716
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 33.86311194932086
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.71705251202361
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227721996,
+          "lngE7": 862593383
+        }, {
+          "latE7": 227706623,
+          "lngE7": 862601013
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 62.271416
+      },
+      "duration": {
+        "startTimestamp": "2018-02-18T04:30:11.048Z",
+        "endTimestamp": "2018-02-18T06:09:59.388Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707378,
+      "centerLngE7": 862603133,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 15.322387
+      }, {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.334627
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 5.0384145
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 2.3302202
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 1.3259907
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.46386662
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 0.41018265
+      }, {
+        "latitudeE7": 227720986,
+        "longitudeE7": 862601253,
+        "placeId": "ChIJHxWGaAEI9jkRb-1VQrCLAIg",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hanuman Mandir",
+        "locationConfidence": 0.29592174
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 0.29112816
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422
+      },
+      "duration": {
+        "startTimestamp": "2018-02-18T06:09:59.388Z",
+        "endTimestamp": "2018-02-18T06:22:13.727Z"
+      },
+      "distance": 506,
+      "activityType": "MOTORCYCLING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 90.97981783679961
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 4.63623403380026
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.24092310749253
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227720184,
+          "lngE7": 862587356
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227719772,
+          "longitudeE7": 862587422,
+          "accuracyMetres": 98
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-18T06:22:13.727Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 59.629986
+      },
+      "duration": {
+        "startTimestamp": "2018-02-18T06:22:13.727Z",
+        "endTimestamp": "2018-02-19T12:11:51.622Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707944,
+      "centerLngE7": 862605438,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 21.500082
+      }, {
+        "latitudeE7": 227722975,
+        "longitudeE7": 862590691,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kharangajhar Market",
+        "locationConfidence": 3.1882904
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 1.4508936
+      }, {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "locationConfidence": 1.3742564
+      }, {
+        "latitudeE7": 227716188,
+        "longitudeE7": 862591359,
+        "placeId": "ChIJSaS7dQEI9jkR7LPD8d_EDD0",
+        "address": "Shankar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Olympic Stores",
+        "locationConfidence": 1.3290079
+      }, {
+        "latitudeE7": 227716870,
+        "longitudeE7": 862587731,
+        "placeId": "ChIJAX_dnQEI9jkR0JdIgDsDGmA",
+        "address": "Kharangajhar Upadhyay Market Telco Colony, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hot N Spot",
+        "locationConfidence": 1.3043568
+      }, {
+        "latitudeE7": 227724737,
+        "longitudeE7": 862593410,
+        "placeId": "ChIJY8RVeQEI9jkRdFdjdoZjTDA",
+        "address": "Q7F5+2P5, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Pabhata Store",
+        "locationConfidence": 0.5957441
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 0.57884103
+      }, {
+        "latitudeE7": 227713943,
+        "longitudeE7": 862589715,
+        "placeId": "ChIJDbwJdAEI9jkRgD0rU9HGuGA",
+        "address": "Kharangajhar Market, near Upadhya Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Fashion Hair Professional Spa Salon",
+        "locationConfidence": 0.55644625
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227707944,
+        "longitudeE7": 862605438
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-19T12:11:51.622Z",
+        "endTimestamp": "2018-02-20T08:47:24.476Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 56,
+          "timestamp": "2018-02-19T12:27:34.265Z"
+        }, {
+          "latE7": 227709126,
+          "lngE7": 862633142,
+          "accuracyMeters": 100,
+          "timestamp": "2018-02-19T20:25:03.194Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 92,
+          "timestamp": "2018-02-20T03:32:48.801Z"
+        }, {
+          "latE7": 227709126,
+          "lngE7": 862633142,
+          "accuracyMeters": 100,
+          "timestamp": "2018-02-20T03:37:48.936Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 116,
+          "timestamp": "2018-02-20T03:47:53.454Z"
+        }, {
+          "latE7": 227716326,
+          "lngE7": 862587839,
+          "accuracyMeters": 22,
+          "timestamp": "2018-02-20T05:21:09.845Z"
+        }, {
+          "latE7": 227710100,
+          "lngE7": 862591301,
+          "accuracyMeters": 39,
+          "timestamp": "2018-02-20T05:23:43.283Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-20T05:27:17.666Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1793.6210702571432
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-20T08:47:24.476Z",
+        "endTimestamp": "2018-02-20T10:07:44.705Z"
+      },
+      "distance": 7500,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 76.6456665345622
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 11.276603697749263
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 7.854695234753935
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 195
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-20T10:07:44.705Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-20T10:07:44.705Z",
+        "endTimestamp": "2018-02-21T05:25:09.590Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 45,
+          "timestamp": "2018-02-20T10:07:44.705Z"
+        }, {
+          "latE7": 227718769,
+          "lngE7": 862591036,
+          "accuracyMeters": 23,
+          "timestamp": "2018-02-20T12:48:49.747Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 60,
+          "timestamp": "2018-02-20T14:29:28.509Z"
+        }, {
+          "latE7": 227701467,
+          "lngE7": 862623622,
+          "accuracyMeters": 500,
+          "timestamp": "2018-02-21T04:51:55.801Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 940.9066410655114
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "duration": {
+        "startTimestamp": "2018-02-21T05:25:09.590Z",
+        "endTimestamp": "2018-02-21T05:50:19.697Z"
+      },
+      "distance": 769,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 40.641071747079266
+      }, {
+        "activityType": "WALKING",
+        "probability": 37.69759126784892
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.883100470214655
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227706623,
+          "lngE7": 862601013
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227706542,
+          "longitudeE7": 862600983,
+          "accuracyMetres": 192
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-21T05:50:19.697Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-21T05:50:19.697Z",
+        "endTimestamp": "2018-02-22T13:16:24.561Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227709783,
+          "lngE7": 862620967,
+          "accuracyMeters": 48,
+          "timestamp": "2018-02-21T12:06:14.057Z"
+        }, {
+          "latE7": 227702791,
+          "lngE7": 862624506,
+          "accuracyMeters": 50,
+          "timestamp": "2018-02-21T12:31:05.713Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-21T15:34:42.598Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 600.2142816656708
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-22T13:16:24.561Z",
+        "endTimestamp": "2018-02-22T15:28:08.109Z"
+      },
+      "distance": 4017,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 82.28277631472142
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 12.522887653841073
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.447565565230356
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 237
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-22T15:28:08.109Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "endLocation": {
+        "latitudeE7": 227713354,
+        "longitudeE7": 862584784
+      },
+      "duration": {
+        "startTimestamp": "2018-02-23T11:59:36.387Z",
+        "endTimestamp": "2018-02-23T12:03:26.944Z"
+      },
+      "distance": 184,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 65.88783961702838
+      }, {
+        "activityType": "WALKING",
+        "probability": 20.678623488892146
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 10.17819773297778
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706623,
+          "lngE7": 862601013
+        }, {
+          "latE7": 227713127,
+          "lngE7": 862585144
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227713354,
+        "longitudeE7": 862584784
+      },
+      "endLocation": {
+        "latitudeE7": 227709154,
+        "longitudeE7": 862603977
+      },
+      "duration": {
+        "startTimestamp": "2018-02-23T12:03:26.944Z",
+        "endTimestamp": "2018-02-25T03:12:19.441Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 104,
+          "timestamp": "2018-02-23T14:03:43.739Z"
+        }, {
+          "latE7": 227722797,
+          "lngE7": 862605706,
+          "accuracyMeters": 29,
+          "timestamp": "2018-02-24T03:19:33.566Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 44,
+          "timestamp": "2018-02-24T03:34:35.891Z"
+        }, {
+          "latE7": 227685304,
+          "lngE7": 862591822,
+          "accuracyMeters": 72,
+          "timestamp": "2018-02-24T15:17:11.561Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 47,
+          "timestamp": "2018-02-24T15:24:03.700Z"
+        }, {
+          "latE7": 227710100,
+          "lngE7": 862591301,
+          "accuracyMeters": 42,
+          "timestamp": "2018-02-24T15:30:15.064Z"
+        }, {
+          "latE7": 227716966,
+          "lngE7": 862588865,
+          "accuracyMeters": 28,
+          "timestamp": "2018-02-24T15:32:20.525Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 31,
+          "timestamp": "2018-02-24T17:04:34.170Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1439.7698012952508
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227709154,
+        "longitudeE7": 862603977
+      },
+      "endLocation": {
+        "latitudeE7": 228043763,
+        "longitudeE7": 862025800
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T03:12:19.441Z",
+        "endTimestamp": "2018-02-25T03:39:47.450Z"
+      },
+      "distance": 8000,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 37.62767751745397
+      }, {
+        "activityType": "WALKING",
+        "probability": 24.454698920470758
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 19.126265310726215
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227708301,
+          "lngE7": 862605590
+        }, {
+          "latE7": 228043766,
+          "lngE7": 862028350
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228039472,
+        "longitudeE7": 862032674
+      },
+      "endLocation": {
+        "latitudeE7": 228074419,
+        "longitudeE7": 861896460
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T03:39:47.450Z",
+        "endTimestamp": "2018-02-25T03:57:06.600Z"
+      },
+      "distance": 1531,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 59.35560938114606
+      }, {
+        "activityType": "WALKING",
+        "probability": 23.437929686739093
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.703585922036119
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228039855,
+          "lngE7": 862033309
+        }, {
+          "latE7": 228074359,
+          "lngE7": 861901779
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 228074419,
+          "longitudeE7": 861896460,
+          "accuracyMetres": 206
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-25T03:57:06.600Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 228074419,
+        "longitudeE7": 861896460,
+        "placeId": "ChIJR_GxsHbj9TkRFH-aD_l2Fh0",
+        "address": "North Park Ground, N Town, Main Road, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sacred Heart Convent School.",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 87.796394
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T03:57:06.600Z",
+        "endTimestamp": "2018-02-25T07:40:02.298Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 228053660,
+      "centerLngE7": 861901420,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 228057983,
+        "longitudeE7": 861894790,
+        "placeId": "ChIJ3XjyQ3Hj9TkR6mQfL0qEUFs",
+        "address": "Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "Sir Dorabji Tata Park",
+        "locationConfidence": 5.427498,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 228058437,
+        "longitudeE7": 861913858,
+        "placeId": "ChIJ0fdv6XPj9TkRVRuSMRg-pM4",
+        "address": "R54R+8HJ, Straight Mile Rd, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "Keenan Stadium",
+        "locationConfidence": 2.6367466
+      }, {
+        "latitudeE7": 228066808,
+        "longitudeE7": 861894608,
+        "placeId": "ChIJ26mIS3Hj9TkRxk_9AsvZ3nY",
+        "address": "R54Q+MQG, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "JRD Parking Lot",
+        "locationConfidence": 1.029056
+      }, {
+        "latitudeE7": 228060948,
+        "longitudeE7": 861930660,
+        "placeId": "ChIJ-4S2d3Pj9TkRwgNMbMAausA",
+        "address": "R54V+C6W, Northern Town Rd, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "JRD Tata Sports Complex, ISL Ground",
+        "locationConfidence": 0.8453003
+      }, {
+        "latitudeE7": 228063941,
+        "longitudeE7": 861871749,
+        "placeId": "ChIJVVVVVXDj9TkRNww2EK1K6So",
+        "address": "R53Q+373, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "School Of Hope",
+        "locationConfidence": 0.41907135
+      }, {
+        "latitudeE7": 228070388,
+        "longitudeE7": 861908296,
+        "placeId": "ChIJa91MB3Tj9TkRKLyEHuH9IBw",
+        "address": "R54R+R88, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "Mohan Ahuja Indoor Badminton Stadium",
+        "locationConfidence": 0.36784303
+      }, {
+        "latitudeE7": 228038417,
+        "longitudeE7": 861892806,
+        "placeId": "ChIJGQDIn3Hj9TkRahnO74vooXs",
+        "name": "NMCC (Network Monitoring \u0026 Control Center",
+        "locationConfidence": 0.21067718
+      }, {
+        "latitudeE7": 228054383,
+        "longitudeE7": 861885532,
+        "placeId": "ChIJQQZRPXHj9TkRpyP0THk7enk",
+        "address": "R54Q+5CJ, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "Freemasons Hall",
+        "locationConfidence": 0.15457493
+      }, {
+        "latitudeE7": 228032762,
+        "longitudeE7": 861883684,
+        "placeId": "ChIJ3Zvtr3Hj9TkRkrs1Yk9Yq-0",
+        "address": "R53Q+88G, Northern Town, Jamshedpur, Jharkhand 831001, India",
+        "name": "St George Church",
+        "locationConfidence": 0.11687559
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 228074419,
+        "longitudeE7": 861896460
+      },
+      "endLocation": {
+        "latitudeE7": 227935593,
+        "longitudeE7": 862157917
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T07:40:02.298Z",
+        "endTimestamp": "2018-02-25T07:49:30.545Z"
+      },
+      "distance": 216,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 53.76132587267135
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 32.63588815106505
+      }, {
+        "activityType": "WALKING",
+        "probability": 9.409048837900382
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 228074359,
+          "lngE7": 861901779
+        }, {
+          "latE7": 227935237,
+          "lngE7": 862158355
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227935593,
+        "longitudeE7": 862157917
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T07:49:30.545Z",
+        "endTimestamp": "2018-02-25T08:38:21.489Z"
+      },
+      "distance": 1516,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 75.74460480147918
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 17.430818996915207
+      }, {
+        "activityType": "WALKING",
+        "probability": 3.69656963876785
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227935237,
+          "lngE7": 862158355
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 206
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-25T08:38:21.489Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 59.006874
+      },
+      "duration": {
+        "startTimestamp": "2018-02-25T08:38:21.489Z",
+        "endTimestamp": "2018-02-26T03:52:52.313Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227708320,
+      "centerLngE7": 862616741,
+      "visitConfidence": 58,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 8.859577
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 6.7309847
+      }, {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 6.1581817
+      }, {
+        "latitudeE7": 227710209,
+        "longitudeE7": 862626750,
+        "placeId": "ChIJk8HMwwYI9jkR4Z0JVOnpbEQ",
+        "address": "Shop No 106, Radhika Nagar, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Nandini General Store",
+        "locationConfidence": 1.2073561
+      }, {
+        "latitudeE7": 227721880,
+        "longitudeE7": 862622040,
+        "placeId": "ChIJQ_kRzqD08jkR07RB4MVitAg",
+        "name": "GINI HOUSEJewellers,jewellery shop",
+        "locationConfidence": 1.155694
+      }, {
+        "latitudeE7": 227715865,
+        "longitudeE7": 862608669,
+        "placeId": "ChIJwajLRwEI9jkRhM7rdG6QJ0I",
+        "address": "Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kali Mandir",
+        "locationConfidence": 1.1133633
+      }, {
+        "latitudeE7": 227721882,
+        "longitudeE7": 862622036,
+        "placeId": "ChIJVVVVpQYI9jkRCLLAzJqeZc0",
+        "address": "Q7C6+VVG, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishraji Clinic",
+        "locationConfidence": 1.0951121
+      }, {
+        "latitudeE7": 227721882,
+        "longitudeE7": 862622037,
+        "placeId": "ChIJQ_kRzqD08jkRRt-cqU9a4wQ",
+        "name": "Sarada Bastralaya",
+        "locationConfidence": 0.9875519
+      }, {
+        "latitudeE7": 227711954,
+        "longitudeE7": 862637683,
+        "placeId": "ChIJSWbz8wYI9jkRDj0d3K2y188",
+        "address": "Q7C7+FGR, Unnamed Road, Radhika Nagar, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Bank Of Baroda Kios Bank",
+        "locationConfidence": 0.7807595
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 47,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422
+      },
+      "duration": {
+        "startTimestamp": "2018-02-26T03:52:52.313Z",
+        "endTimestamp": "2018-02-26T04:43:18.155Z"
+      },
+      "distance": 168,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 45.38513354550459
+      }, {
+        "activityType": "WALKING",
+        "probability": 31.148623630718326
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 16.364793388590876
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }, {
+          "latE7": 227712917,
+          "lngE7": 862584991
+        }, {
+          "latE7": 227720184,
+          "lngE7": 862587356
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 82,
+          "timestamp": "2018-02-26T04:21:31.546Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227719772,
+          "longitudeE7": 862587422,
+          "accuracyMetres": 232
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-26T04:43:18.155Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, East Singhbhum, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 25.333061
+      },
+      "duration": {
+        "startTimestamp": "2018-02-26T04:43:18.155Z",
+        "endTimestamp": "2018-02-26T05:17:24.305Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 227714307,
+      "centerLngE7": 862601886,
+      "visitConfidence": 91,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 13.442355
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 6.1270337
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 4.581606
+      }, {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "locationConfidence": 4.362817
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 3.9691267
+      }, {
+        "latitudeE7": 227722975,
+        "longitudeE7": 862590691,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Kharangajhar Market",
+        "locationConfidence": 3.2681055
+      }, {
+        "latitudeE7": 227719911,
+        "longitudeE7": 862592113,
+        "placeId": "ChIJB019eAEI9jkRQ6ElorFm5u0",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Khanghajhar Market",
+        "locationConfidence": 3.0238743
+      }, {
+        "latitudeE7": 227711726,
+        "longitudeE7": 862581923,
+        "placeId": "ChIJa5OyvQEI9jkR0wOKR9AZAso",
+        "address": "Kharangajhar Market, Bari Nagar Main Rd, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "S.S. Boutique",
+        "locationConfidence": 0.8780776
+      }, {
+        "latitudeE7": 227713809,
+        "longitudeE7": 862586479,
+        "placeId": "ChIJx2mhmAEI9jkRfHVQIzyOA48",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Aishwarya Ladies Corner",
+        "locationConfidence": 0.7888776
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 21,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-26T05:17:24.305Z",
+        "endTimestamp": "2018-02-26T06:19:13.438Z"
+      },
+      "distance": 3529,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 84.88481485309727
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 9.949200120659716
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.452350311666638
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227720184,
+          "lngE7": 862587356
+        }, {
+          "latE7": 227754116,
+          "lngE7": 862530746
+        }, {
+          "latE7": 227828521,
+          "lngE7": 862416000
+        }, {
+          "latE7": 227703666,
+          "lngE7": 862595520
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227831500,
+          "lngE7": 862411756,
+          "accuracyMeters": 37,
+          "timestamp": "2018-02-26T05:35:50.467Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 227703770,
+          "longitudeE7": 862595779,
+          "accuracyMetres": 232
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2018-02-26T06:19:13.438Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 53.237263
+      },
+      "duration": {
+        "startTimestamp": "2018-02-26T06:19:13.438Z",
+        "endTimestamp": "2018-02-27T08:49:55.288Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227707239,
+      "centerLngE7": 862609902,
+      "visitConfidence": 77,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 8.698477
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 7.535595
+      }, {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 7.298798
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 6.0243163
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 1.7860612
+      }, {
+        "latitudeE7": 227709867,
+        "longitudeE7": 862583245,
+        "placeId": "ChIJdTrgfwYI9jkRHNhf1974sfI",
+        "address": "Kharangajhar Market, near ganesh mandir, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Cafe 10 (pure vegetarian a/c restaurant)",
+        "locationConfidence": 0.7234236
+      }, {
+        "latitudeE7": 227712939,
+        "longitudeE7": 862585970,
+        "placeId": "ChIJv0VvogEI9jkRBLdxe765Oq4",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vidya Medical",
+        "locationConfidence": 0.7128875
+      }, {
+        "latitudeE7": 227713809,
+        "longitudeE7": 862586479,
+        "placeId": "ChIJx2mhmAEI9jkRfHVQIzyOA48",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Aishwarya Ladies Corner",
+        "locationConfidence": 0.5131703
+      }, {
+        "latitudeE7": 227720063,
+        "longitudeE7": 862598138,
+        "placeId": "ChIJFwKnbwEI9jkRbfLDqNrFZb8",
+        "address": "near Hanuman Mandir Kharangajhar, Telco Colony, Kharangajhar Market, Kharangajhar, Telco, Jamshedpur, Jharkhand 831004, India",
+        "name": "Hotel Narayan",
+        "locationConfidence": 0.37647343
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-27T08:49:55.288Z",
+        "endTimestamp": "2018-02-27T09:15:37.449Z"
+      },
+      "distance": 343,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 77.18278767877088
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 13.042839694840639
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.196745836639796
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779,
+        "placeId": "ChIJoUjqBAEI9jkRCQbuwEvgPww",
+        "address": "Kharangajhar Market, Telco, Jamshedpur, 831004, India",
+        "name": "Sri V.V.S.S Temple",
+        "sourceInfo": {
+          "deviceTag": 1968137982
+        },
+        "locationConfidence": 50.02182
+      },
+      "duration": {
+        "startTimestamp": "2018-02-27T09:15:37.449Z",
+        "endTimestamp": "2018-02-27T13:29:42.505Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 227709289,
+      "centerLngE7": 862592375,
+      "visitConfidence": 54,
+      "otherCandidateLocations": [{
+        "latitudeE7": 227719772,
+        "longitudeE7": 862587422,
+        "placeId": "ChIJleSEnAEI9jkRhREWUimGPMk",
+        "address": "Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Telco Bus Stand",
+        "locationConfidence": 9.852564
+      }, {
+        "latitudeE7": 227706111,
+        "longitudeE7": 862600756,
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 9.696881
+      }, {
+        "latitudeE7": 227722360,
+        "longitudeE7": 862593480,
+        "placeId": "ChIJxS1-egEI9jkRm8vR_E_gMP0",
+        "address": "Kharangajhar Market, Hanuman Mandir Road, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Mishra Dial Centre",
+        "locationConfidence": 5.6558437
+      }, {
+        "latitudeE7": 227707272,
+        "longitudeE7": 862605591,
+        "placeId": "ChIJ2xk9MgEI9jkRhk9txdkbtjY",
+        "address": "#127, near Gram Vikas Maidan, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Debnath Homes",
+        "locationConfidence": 4.6120834
+      }, {
+        "latitudeE7": 227700581,
+        "longitudeE7": 862598902,
+        "placeId": "ChIJO-62HQEI9jkRm9Q0e0C6Hv8",
+        "address": "New Sai Colony garu basa, Radhika Nagar, Kharangajhar, Bari Nagar, Hurlung, Jamshedpur, Jharkhand 831004, India",
+        "name": "Deepak Paper \u0026 Board Manufacturing",
+        "locationConfidence": 2.7083168
+      }, {
+        "latitudeE7": 227707787,
+        "longitudeE7": 862596897,
+        "placeId": "ChIJCQmnGgEI9jkR9V9EnNBHVi4",
+        "address": "Q7C5+8V8, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "BODY BEAST GYM",
+        "locationConfidence": 1.8429005
+      }, {
+        "latitudeE7": 227721005,
+        "longitudeE7": 862599939,
+        "placeId": "ChIJza2taAEI9jkR5nT-iJPBhQQ",
+        "name": "AXIS Bank ATM",
+        "locationConfidence": 0.8969211
+      }, {
+        "latitudeE7": 227714944,
+        "longitudeE7": 862608819,
+        "placeId": "ChIJZQjpRwEI9jkRlHSyNeb862Y",
+        "address": "HouseNo-39, Kharangajhar, Bari Nagar, Jamshedpur, Jharkhand 831004, India",
+        "name": "Fine Art Academy",
+        "locationConfidence": 0.6385716
+      }, {
+        "latitudeE7": 227712939,
+        "longitudeE7": 862585970,
+        "placeId": "ChIJv0VvogEI9jkRBLdxe765Oq4",
+        "address": "Kharangajhar Market, Kharangajhar, Telco Colony, Jamshedpur, Jharkhand 831004, India",
+        "name": "Vidya Medical",
+        "locationConfidence": 0.62485635
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 41,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227709289,
+        "longitudeE7": 862592375
+      },
+      "endLocation": {
+        "latitudeE7": 227720470,
+        "longitudeE7": 862593108
+      },
+      "duration": {
+        "startTimestamp": "2018-02-27T13:29:42.505Z",
+        "endTimestamp": "2018-02-28T12:46:18.155Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 135,
+          "timestamp": "2018-02-27T13:29:42.505Z"
+        }, {
+          "latE7": 227718022,
+          "lngE7": 862586249,
+          "accuracyMeters": 98,
+          "timestamp": "2018-02-27T13:43:42.311Z"
+        }, {
+          "latE7": 227724970,
+          "lngE7": 862576840,
+          "accuracyMeters": 116,
+          "timestamp": "2018-02-27T13:45:59.924Z"
+        }, {
+          "latE7": 227718022,
+          "lngE7": 862586249,
+          "accuracyMeters": 98,
+          "timestamp": "2018-02-27T13:56:07.402Z"
+        }, {
+          "latE7": 227774033,
+          "lngE7": 862647686,
+          "accuracyMeters": 72,
+          "timestamp": "2018-02-27T13:58:10.109Z"
+        }, {
+          "latE7": 227710520,
+          "lngE7": 862583298,
+          "accuracyMeters": 17,
+          "timestamp": "2018-02-27T14:16:42.085Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 39,
+          "timestamp": "2018-02-27T14:44:42.849Z"
+        }, {
+          "latE7": 227716415,
+          "lngE7": 862607324,
+          "accuracyMeters": 128,
+          "timestamp": "2018-02-28T12:39:32.119Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2891.2240519113525
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227720470,
+        "longitudeE7": 862593108
+      },
+      "endLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "duration": {
+        "startTimestamp": "2018-02-28T12:46:18.155Z",
+        "endTimestamp": "2018-02-28T13:02:02.350Z"
+      },
+      "distance": 579,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 74.64324941828055
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 14.486246519604705
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 6.567818082550783
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227722015,
+          "lngE7": 862593383
+        }, {
+          "latE7": 227721214,
+          "lngE7": 862599792
+        }, {
+          "latE7": 227706623,
+          "lngE7": 862601013
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227719794,
+          "lngE7": 862599930,
+          "accuracyMeters": 52,
+          "timestamp": "2018-02-28T12:55:17.736Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706542,
+        "longitudeE7": 862600983
+      },
+      "endLocation": {
+        "latitudeE7": 227703770,
+        "longitudeE7": 862595779
+      },
+      "duration": {
+        "startTimestamp": "2018-02-28T13:02:02.350Z",
+        "endTimestamp": "2018-03-02T14:09:07.513Z"
+      },
+      "activityType": "UNKNOWN_ACTIVITY_TYPE",
+      "activities": [{
+        "activityType": "UNKNOWN_ACTIVITY_TYPE",
+        "probability": 0.0
+      }],
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 28,
+          "timestamp": "2018-03-02T13:19:38.461Z"
+        }, {
+          "latE7": 227730147,
+          "lngE7": 862526568,
+          "accuracyMeters": 92,
+          "timestamp": "2018-03-02T13:48:58.313Z"
+        }, {
+          "latE7": 227706542,
+          "lngE7": 862600983,
+          "accuracyMeters": 92,
+          "timestamp": "2018-03-02T13:57:16.693Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1720.521061808983
+      }
+    }
+  }]
+}

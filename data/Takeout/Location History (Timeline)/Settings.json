@@ -1,0 +1,60 @@
+{
+  "createdTime": "2016-05-02T14:39:38.680Z",
+  "modifiedTime": "2023-09-28T17:13:31.610Z",
+  "deviceSettings": [{
+    "deviceTag": 110789692,
+    "reportingEnabled": true,
+    "devicePrettyName": "SM-A045F",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2023-09-28T17:13:31.610Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2023-09-28T17:13:31.610Z"
+    },
+    "androidOsLevel": 33,
+    "deviceSpec": {
+      "manufacturer": "samsung",
+      "brand": "samsung",
+      "product": "a04xx",
+      "device": "a04",
+      "model": "SM-A045F",
+      "isLowRam": false
+    }
+  }, {
+    "deviceTag": -163437025,
+    "reportingEnabled": true,
+    "devicePrettyName": "RMX2170",
+    "platformType": "ANDROID",
+    "deviceCreationTime": "2021-08-24T15:44:07.099Z",
+    "latestLocationReportingSettingChange": {
+      "reportingEnabledModificationTime": "2021-08-24T15:44:07.099Z"
+    },
+    "androidOsLevel": 31,
+    "deviceSpec": {
+      "manufacturer": "realme",
+      "brand": "realme",
+      "product": "RMX2170",
+      "device": "RMX2170L1",
+      "model": "RMX2170",
+      "isLowRam": false
+    },
+    "deviceActiveness": {
+      "hasSavedTimelineData": true,
+      "observedPlaceVisitsFor30PercentOfTheLast7d": true
+    }
+  }],
+  "hasReportedLocations": true,
+  "hasSetRetention": false,
+  "encryptedBackupsControls": {
+    "-163437025": {
+      "enabled": false
+    },
+    "110789692": {
+      "enabled": false
+    }
+  },
+  "retentionControl": {
+    "retentionWindowDays": 2147483647
+  },
+  "timelineEnabled": true,
+  "timelineDeletionTime": "2023-06-03T19:24:00.227Z"
+}

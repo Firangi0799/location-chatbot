@@ -1,0 +1,95 @@
+{
+  "timelineObjects": [{
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 227706807,
+        "longitudeE7": 862599874
+      },
+      "endLocation": {
+        "latitudeE7": 233252310,
+        "longitudeE7": 853084544
+      },
+      "duration": {
+        "startTimestamp": "2017-05-15T09:38:44.937Z",
+        "endTimestamp": "2017-05-15T11:29:29.055Z"
+      },
+      "distance": 121398,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 64.2315094476091
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 17.455755012752373
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 9.908848344054508
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 227706642,
+          "lngE7": 862600555
+        }, {
+          "latE7": 233635692,
+          "lngE7": 853439788
+        }, {
+          "latE7": 233252620,
+          "lngE7": 853082504
+        }],
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 233635817,
+          "lngE7": 853439633,
+          "accuracyMeters": 20,
+          "timestamp": "2017-05-15T11:00:04Z"
+        }]
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 233252310,
+        "longitudeE7": 853084544
+      },
+      "endLocation": {
+        "latitudeE7": 233211033,
+        "longitudeE7": 852974250
+      },
+      "duration": {
+        "startTimestamp": "2017-05-15T11:29:29.055Z",
+        "endTimestamp": "2017-05-15T11:36:58Z"
+      },
+      "distance": 1345,
+      "activityType": "CYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "CYCLING",
+        "probability": 48.93434122707445
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 29.404345695365723
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 11.914843436021066
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 233252620,
+          "lngE7": 853082504
+        }, {
+          "latE7": 233212013,
+          "lngE7": 852974395
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1553.0316804132435,
+        "travelMode": "WALK",
+        "confidence": 0.9997497687431295
+      },
+      "editConfirmationStatus": "NOT_CONFIRMED"
+    }
+  }]
+}
